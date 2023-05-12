@@ -31,6 +31,8 @@ for page in range(2, 16):
     # 크롤링
     soup = BeautifulSoup(driver.page_source, features="html.parser")
     product_li_tags = soup.select('li.prod_item.prod_layer')
+    product_trash_tags = soup.select('li.prod_item.prod_layer.product-pot')
+
     prod_list = [tag for tag in product_li_tags if 'product-pot' not in tag.get('class', [])]
 
     for li in prod_list:
