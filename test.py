@@ -1,25 +1,21 @@
 from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
 from bs4 import BeautifulSoup
-from selenium.webdriver.common.by import By
 import time
-from tqdm import tqdm_notebook
+import re
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-import pandas as pd
-import numpy as np
-import json
-
 driver = webdriver.Chrome()
-url = 'https://prod.danawa.com/list/?cate=112747'
-driver.get(url)
 
-# 15 페이지까지 크롤링
-for page in range(2, 16):
+HDD_url = 'http://prod.danawa.com/list/?cate=112763'
+driver.get(HDD_url)
+HDD_range = 18
+
+for page in range(2, HDD_range):
     # 현재 페이지 출력
     print(f"Current Page: {page - 1}")
+    time.sleep(3)
 
     # 스크롤 내리기
     driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
@@ -34,13 +30,50 @@ for page in range(2, 16):
     prod_list = [tag for tag in product_li_tags if 'product-pot' not in tag.get('class', [])]
 
     for li in prod_list:
+        Brand_tmp = li.select_one('p.prod_name > a').text.strip().split(" ")
+        Brand = Brand_tmp[0]
         name = li.select_one('p.prod_name > a').text.strip()
-        spec_list = li.select_one('div.spec_list').text.strip()
-        try :
-            price = li.select_one('li.rank_one > p.price_sect > a > strong').text.strip().replace(',',"")
-        except :
-            price = li.select_one('p.price_sect > a > strong').text.strip().replace(',',"")
-        print(name, spec_list, price)
+        spec_list = li.select_one('div.spec_list').text.strip().split(' / ')
+        price_list = li.select('div.prod_pricelist')
+        for price_item in price_list:
+            prices = price_item.select('p.price_sect')
+            sizes = price_item.select('p.memory_sect')
+
+
+
+
+            for size, price_sect in zip(sizes, prices):
+                size_text = size.get_text(strip=True).replace(' ', "")
+                if 'TB' in size_text:
+                    size_tmp = 'TB'
+                    size_text = size_text.split('TB')
+                elif 'GB' in size_text:
+                    size_tmp = 'GB'
+                    size_text = size_text.split('GB')
+                else:
+                    size_tmp = ''
+#------------------------------------------------------------------------
+                if(size_tmp == 'TB'):
+                    size_tmp = size_text[0]
+                    size_cut_com = size_tmp.split(',')
+                    try:
+                        size_text = size_cut_com[1]
+                    except:
+                        size_text = size_cut_com[0]
+                else:
+                    if '/' in size_text[0]:
+                        size_tmp = size_text[1]
+                    else:
+                        size_tmp = size_text[0]
+                    size_cut_com = size_tmp.split(',')
+                    try:
+                        size_text = size_cut_com[1] + size_tmp
+                    except:
+                        size_text = size_cut_com[0] + size_tmp
+                price_text = price_sect.select_one('a > strong').get_text(strip=True).replace(',', "")
+
+                print(name, Brand, spec_list, size_text, price_text)
+
 
     # 페이지 버튼 클릭
     driver.execute_script("movePage(%d)" %page)
