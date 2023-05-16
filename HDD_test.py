@@ -38,9 +38,7 @@ for page in range(2, HDD_range):
         for price_item in price_list:
             prices = price_item.select('p.price_sect')
             sizes = price_item.select('p.memory_sect')
-
-
-
+            size_TorG_tmp = ['TB','GB']
 
             for size, price_sect in zip(sizes, prices):
                 size_text = size.get_text(strip=True).replace(' ', "")
@@ -55,12 +53,15 @@ for page in range(2, HDD_range):
 #------------------------------------------------------------------------
                 if(size_tmp == 'TB'):
                     size_cut_tmp = size_text[0] # 이미 TB를 썰어서 배열로 가져옴
-                    size_cut_com = size_tmp.split(',') # 썰어온 size_text를 다시 ,로 썲
+                    size_cut_com = size_cut_tmp.split(',') # 썰어온 size_text를 다시 ,로 썲
                     try:
                         size_text = size_cut_com[1]
+                        size_TorG = [size_text,size_tmp]
                     except:
                         size_text = size_cut_com[0]
+                        size_TorG = [size_text,size_tmp]
                 else:
+                    size_cut_tmp = size_text[0]
                     if '/' in size_text[0]: # 만약 '/'가 첫번째에 있을경우 size_text는 2다
                         size_cut_tmp = size_text[1]
                     else:
@@ -68,13 +69,14 @@ for page in range(2, HDD_range):
                     size_cut_com = size_cut_tmp.split(',')
                     try:
                         size_text = size_cut_com[1]
+                        size_TorG = [size_text,size_tmp]
                     except:
                         size_text = size_cut_com[0]
+                        size_TorG = [size_text,size_tmp]
 
-                size_text= size_cut_tmp
                 price_text = price_sect.select_one('a > strong').get_text(strip=True).replace(',', "")
 
-                print(name, Brand, spec_list, size_text, price_text)
+                print(name, Brand, spec_list, size_TorG, price_text)
 
 
     # 페이지 버튼 클릭
