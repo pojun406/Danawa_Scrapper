@@ -1,0 +1,8 @@
+
+mpython:S1192Q"PDefine a constant instead of duplicating this literal 'p.prod_name > a' 4 times.(´É¥´øÿÿÿÿ
+fpython:S1542<"NRename function "CPUScrap" to match the regular expression ^[a-z_][a-z0-9_]*$.(ê§­
+@python:S1481X"(Remove the unused local variable "size".(™¡°ï
+kpython:S1542c"NRename function "RAMScrap" to match the regular expression ^[a-z_][a-z0-9_]*$.(âÐÊÜþÿÿÿÿ
+@python:S1481~"(Remove the unused local variable "size".(Â’Ú±
+Apython:S1481"(Remove the unused local variable "size".(Â’Ú±
+Tpython:S5754"<Specify an exception class to catch or reraise the exception(ˆÊÉ·
