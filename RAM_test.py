@@ -5,6 +5,7 @@ import re
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+import json
 
 
 driver = webdriver.Chrome() # 드라이버 설정
@@ -34,6 +35,9 @@ for page in range(2, RAM_range):
     prod_list = [tag for tag in product_li_tags if 'product-pot' not in tag.get('class', [])]
 
     for li in prod_list:
+        img_link = li.select_one('div.thumb_image > a > img').get('data-original')
+        if img_link == None:
+            img_link = li.select_one('div.thumb_image > a > img').get('src')
         Brand_tmp = li.select_one('p.prod_name > a').text.strip().split(' ')
         Brand = Brand_tmp[0]
         name = li.select_one('p.prod_name > a').text.strip()
@@ -53,7 +57,10 @@ for page in range(2, RAM_range):
                     size_text = size_text[0]
                     size_text = re.sub(r'^\d+위', '', size_text)
                 price_text = price_sect.select_one('a > strong').get_text(strip=True).replace(',', "")
-                print(name, Brand, spec_list, size_text + "GB", price_text)
+                print(name, Brand, spec_list, size_text, price_text)
+                data.append({"name":name, "brand":Brand, "spec":spec_list, "size":size_text, "price": price_text, "img":img_link})
 
-    # 페이지 버튼 클릭
+# 페이지 버튼 클릭
     driver.execute_script("movePage(%d)" %page)
+with open('./HARDWARE_DATA/RAM_List.json','w') as f:
+    json.dump(data, f, ensure_ascii=False, indent=4)
