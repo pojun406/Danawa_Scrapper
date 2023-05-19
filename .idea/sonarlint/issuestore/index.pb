@@ -1,6 +1,4 @@
 
-9
-	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 =
 CPU_List.json,e\2\e2b9bfe11f4ce4fae00f7e8ad953045e0ff69c35
 ;
@@ -15,3 +13,5 @@
 HDD_test.py,6\d\6ddbeed5d48c9730e2a1f84a4df4bd53fa2b33ac
 K
 HARDWARE_DATA/CPU_List.json,7\c\7c7440e8e9dc843ca114ff59ce39a56b900c8367
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
