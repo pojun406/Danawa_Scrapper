@@ -1,15 +1,12 @@
 from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
 from bs4 import BeautifulSoup
-from selenium.webdriver.common.by import By
 import time
-from tqdm import tqdm_notebook
+import re
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+import json
 
-import pandas as pd
-import numpy as np
 import json
 
 driver = webdriver.Chrome('chromedriver.exe')
@@ -55,85 +52,34 @@ Moniter_url = 'http://prod.danawa.com/list/?cate=112757'
 driver.get(Moniter_url)
 Moniter_range = 101
 
+cpu_data = []
+vga_data = []
+mboard_data = []
+ram_data = []
+ssd_data = []
+hdd_data = []
+power_data = []
+case_data = []
+cooler_data = []
+moniter_data = []
 
-
-def CPUScrap():
-    driver = webdriver.Chrome() # 드라이버 설정
-    driver.get(CPU_url)
-    data = []
-    # CPU 페이지 크롤링
-    for page in range(2, CPU_range):
-        # 현재 페이지 출력
-        print(f"Current Page: {page - 1}")
-        # 스크롤 내리기
-        driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-
-        # 페이지 로딩을 기다림
+try:
+    for page in range(2, 100):
+        print(f"현 페이지 : {page}")
+        #웹페이지 로딩 wait
         WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, "ul.product_list")))
 
-        # 크롤링
+        #크롤링 세팅
         soup = BeautifulSoup(driver.page_source, features="html.parser")
         product_li_tags = soup.select('li.prod_item.prod_layer')
-
         prod_list = [tag for tag in product_li_tags if 'product-pot' not in tag.get('class', [])]
 
         for li in prod_list:
-            brand_tmp = li.select_one('p.prod_name > a').text.strip().split(' ')
-            brand = brand_tmp[0]
+            Brand_tmp = li.select_one('p.prod_name > a').text.strip().split(" ")
+            Brand = Brand_tmp[0]
             name = li.select_one('p.prod_name > a').text.strip()
             spec_list = li.select_one('div.spec_list').text.strip().split(' / ')
-            p_li = soup.select('div.prod_list > ul > li')
-            for price_list in p_li:
-                price = price_list.select_one('p.price_sect > a > strong').text.strip().replace(',',"")
-                size = price_list.select_one('p.memory_sect > text()')
+            price_list = li.select('div.prod_pricelist')
 
-            data.append({"name":name, "brand":brand, "spec":spec_list,"price":price})
-
-        # 페이지 버튼 클릭
-        driver.execute_script("movePage(%d)" %page)
-
-        driver.close()
-
-    with open('CPU_List.json','w') as f:
-        json.dump(data, f, ensure_ascii=False, indent=4)
-def RAMScrap():
-    driver = webdriver.Chrome() # 드라이버 설정
-    driver.get(RAM_url)
-    data = []
-    # RAM 페이지 크롤링
-    for page in range(2, RAM_range):
-        # 현재 페이지 출력
-        print(f"Current Page: {page - 1}")
-        # 스크롤 내리기
-        driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-
-        # 페이지 로딩을 기다림
-        WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, "ul.product_list")))
-
-        # 크롤링
-        soup = BeautifulSoup(driver.page_source, features="html.parser")
-        product_li_tags = soup.select('li.prod_item.prod_layer')
-
-        prod_list = [tag for tag in product_li_tags if 'product-pot' not in tag.get('class', [])]
-
-        for li in prod_list:
-            brand_tmp = li.select_one('p.prod_name > a').text.strip().split(' ')
-            brand = brand_tmp[0]
-            name = li.select_one('p.prod_name > a').text.strip()
-            spec_list = li.select_one('div.spec_list').text.strip().split(' / ')
-            try:
-                price = li.select_one('input.value').text.strip().replace(',',"")
-                size = li.select_one('p.memory_sect > #text')
-            except:
-                price = li.select_one('p.price_sect > a > strong').text.strip().replace(',',"")
-                size = li.select_one('p.memory_sect > #text')
-
-            data.append({"name":name, "brand":brand, "spec":spec_list,"price":price})
-
-        # 페이지 버튼 클릭
-        driver.execute_script("movePage(%d)" %page)
-
-        driver.close()
-
-    with open('RAM_List.json','w') as f:
-        json.dump(data, f, ensure_ascii=False, indent=4)
+except:
+    print("페이지 끝")

@@ -3,5 +3,7 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/CPU_List.json" charset="x-windows-949" />
     <file url="file://$PROJECT_DIR$/HARDWARE_DATA/CPU_List.json" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/HARDWARE_DATA/HDD_List.json" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/HARDWARE_DATA/SSD_List.json" charset="x-windows-949" />
   </component>
 </project>

@@ -8,15 +8,23 @@
       <change beforePath="$PROJECT_DIR$/.idea/Danawa_Scrapper.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Danawa_Scrapper.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/6/1670841ad6325c1273c4c8e25239416e5486f17b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/8/380220fdf77891077c29819ddbfec5c49389b26e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/d/6ddbeed5d48c9730e2a1f84a4df4bd53fa2b33ac" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/c/7c7440e8e9dc843ca114ff59ce39a56b900c8367" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/4/b48ba0a15005ad5f802e28eba7d0e40225c71e55" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/d/cd1a39216bfda035bbf942902deb5c8268b31f0e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/2/e2b9bfe11f4ce4fae00f7e8ad953045e0ff69c35" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPU.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/CPU_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/CPU_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Case_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Case_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Cooler_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Cooler_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HARDWARE_DATA/CPU_List.json" beforeDir="false" afterPath="$PROJECT_DIR$/HARDWARE_DATA/CPU_List.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HDD_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/HDD_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MBoard_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/MBoard_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Moniter_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Moniter_test.py" afterDir="false" />
@@ -26,10 +34,6 @@
       <change beforePath="$PROJECT_DIR$/SSD_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/SSD_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Scrapper.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scrapper.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/VGA_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/VGA_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test4(5.12).py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +83,10 @@
       <workItem from="1684051812224" duration="108000" />
       <workItem from="1684205728089" duration="2472000" />
       <workItem from="1684209491196" duration="1820000" />
+      <workItem from="1684213210926" duration="379000" />
+      <workItem from="1684296200135" duration="233000" />
+      <workItem from="1684296605784" duration="349000" />
+      <workItem from="1684454310177" duration="10326000" />
     </task>
     <servers />
   </component>
@@ -97,9 +105,17 @@
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CPU_List_json$SSD_test.coverage" NAME="SSD_test 커버리지 결과" MODIFIED="1684463922352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CPU_List_json$Moniter_test.coverage" NAME="Moniter_test 커버리지 결과" MODIFIED="1684462595398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CPU_List_json$MBoard_test.coverage" NAME="MBoard_test 커버리지 결과" MODIFIED="1684463283492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CPU_List_json$RAM_test.coverage" NAME="RAM_test 커버리지 결과" MODIFIED="1684463804523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Danawa_Scrapper$CPU_test.coverage" NAME="CPU_test 커버리지 결과" MODIFIED="1684208672613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/CPU_List_json$HDD_test.coverage" NAME="HDD_test 커버리지 결과" MODIFIED="1684211175975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/CPU_List_json$VGA_test.coverage" NAME="VGA_test 커버리지 결과" MODIFIED="1684210099244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CPU_List_json$HDD_test.coverage" NAME="HDD_test 커버리지 결과" MODIFIED="1684461460422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CPU_List_json$Case_test.coverage" NAME="Case_test 커버리지 결과" MODIFIED="1684462368671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CPU_List_json$Power_test.coverage" NAME="Power_test 커버리지 결과" MODIFIED="1684463635239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CPU_List_json$VGA_test.coverage" NAME="VGA_test 커버리지 결과" MODIFIED="1684464062941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Danawa_Scrapper$HDD_test.coverage" NAME="HDD_test 커버리지 결과" MODIFIED="1684206945750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CPU_List_json$Cooler_test.coverage" NAME="Cooler_test 커버리지 결과" MODIFIED="1684462851594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CPU_List_json$CPU_test.coverage" NAME="CPU_test 커버리지 결과" MODIFIED="1684464575599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

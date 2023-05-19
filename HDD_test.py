@@ -1,6 +1,7 @@
 from selenium import webdriver
 from bs4 import BeautifulSoup
 import time
+import json
 import re
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
@@ -12,6 +13,7 @@ HDD_url = 'http://prod.danawa.com/list/?cate=112763'
 driver.get(HDD_url)
 HDD_range = 18
 
+data = []
 for page in range(2, HDD_range):
     # 현재 페이지 출력
     print(f"Current Page: {page - 1}")
@@ -30,6 +32,9 @@ for page in range(2, HDD_range):
     prod_list = [tag for tag in product_li_tags if 'product-pot' not in tag.get('class', [])]
 
     for li in prod_list:
+        img_link = li.select_one('div.thumb_image > a > img').get('data-original')
+        if img_link == None:
+            img_link = li.select_one('div.thumb_image > a > img').get('src')
         Brand_tmp = li.select_one('p.prod_name > a').text.strip().split(" ")
         Brand = Brand_tmp[0]
         name = li.select_one('p.prod_name > a').text.strip()
@@ -50,7 +55,7 @@ for page in range(2, HDD_range):
                     size_text = size_text.split('GB')
                 else:
                     size_tmp = ''
-#------------------------------------------------------------------------
+
                 if(size_tmp == 'TB'):
                     size_cut_tmp = size_text[0] # 이미 TB를 썰어서 배열로 가져옴
                     size_cut_com = size_cut_tmp.split(',') # 썰어온 size_text를 다시 ,로 썲
@@ -77,7 +82,10 @@ for page in range(2, HDD_range):
                 price_text = price_sect.select_one('a > strong').get_text(strip=True).replace(',', "")
 
                 print(name, Brand, spec_list, size_TorG, price_text)
+                data.append({"name":name, "brand":Brand, "spec":spec_list,"size" : size_TorG, "price": price_text, "img":img_link})
 
-
-    # 페이지 버튼 클릭
+# 페이지 버튼 클릭
     driver.execute_script("movePage(%d)" %page)
+
+with open('./HARDWARE_DATA/HDD_List.json','w') as f:
+    json.dump(data, f, ensure_ascii=False, indent=4)
