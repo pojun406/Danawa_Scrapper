@@ -62,5 +62,5 @@ for page in range(2, RAM_range):
 
 # 페이지 버튼 클릭
     driver.execute_script("movePage(%d)" %page)
-with open('./HARDWARE_DATA/RAM_List.json','w') as f:
+with open('./HARDWARE_DATA/RAM_List.json','w', encoding='utf-8') as f:
     json.dump(data, f, ensure_ascii=False, indent=4)
