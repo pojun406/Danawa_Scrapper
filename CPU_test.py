@@ -39,22 +39,23 @@ try:
             img_link = li.select_one('div.thumb_image > a > img').get('data-original')
             if img_link == None:
                 img_link = li.select_one('div.thumb_image > a > img').get('src')
+            img_link = img_link.replace("shrink=130:130", "shrink=330:*")
             name = li.select_one('p.prod_name > a').text.strip()
             brand_tmp = li.select_one('p.prod_name > a').text.strip().split(' ')
             brand = brand_tmp[0]
-            spec_list = li.select_one('div.spec_list').text.strip()
+            spec_list = li.select_one('div.spec_list').text.strip().split(' / ')
             try :
                 price = li.select_one('li.rank_one > p.price_sect > a > strong').text.strip().replace(',',"")
             except :
                 price = li.select_one('p.price_sect > a > strong').text.strip().replace(',',"")
             print(name, spec_list, price, img_link)
-            data.append({"name":name, "brand":brand, "spec":spec_list,"price":price, "img":img_link})
+            data.append({"name":name, "brand":brand, "spec":spec_list,"price":price, "img":img_link, "Cate":"CPU"})
 
 
     # 페이지 버튼 클릭
         driver.execute_script("movePage(%d)" %page)
 
-        with open('./HARDWARE_DATA/CPU_List.json','w', encoding='utf-8') as f:
+        with open('HARDWARE_DATA_old/CPU_List.json', 'w', encoding='utf-8') as f:
             json.dump(data, f, ensure_ascii=False, indent=4)
 except:
     print("끝")

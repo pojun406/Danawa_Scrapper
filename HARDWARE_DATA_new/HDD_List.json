@@ -1,0 +1,6030 @@
+[
+    {
+        "name": "Western Digital WD BLUE 5640/128M",
+        "brand": "Western",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "8TB",
+            "SATA3(6Gb/s)",
+            "5,640RPM",
+            "메모리 128MB",
+            "185MB/s",
+            "기록방식: CMR(PMR)",
+            "두께: 26.1mm",
+            "소음(유휴/탐색): 25/30dB",
+            "A/S 정보: 2년"
+        ],
+        "size": [
+            "8",
+            "TB"
+        ],
+        "price": "170700",
+        "img": "//img.danawa.com/prod_img/500000/761/765/img/15765761_1.jpg?shrink=330:*&_v=20211206151137",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD BLUE 7200/256M",
+        "brand": "Western",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "2TB",
+            "SATA3(6Gb/s)",
+            "7,200RPM",
+            "메모리 256MB",
+            "215MB/s",
+            "기록방식: SMR(PMR)",
+            "두께: 26.1mm",
+            "소음(유휴/탐색): 25/27dB",
+            "A/S 정보: 2년",
+            "NoTouch 램프로드 기술"
+        ],
+        "size": [
+            "2",
+            "TB"
+        ],
+        "price": "75290",
+        "img": "//img.danawa.com/prod_img/500000/751/522/img/13522751_1.jpg?shrink=330:*&_v=20210305135225",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 7200/256M",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "2TB",
+            "SATA3 (6Gb/s)",
+            "7,200RPM",
+            "메모리 256MB",
+            "최대 220MB/s",
+            "기록방식: SMR(PMR)",
+            "두께: 20.2mm",
+            "A/S 정보: 2년",
+            "다층캐싱(MTC)",
+            "무게 : 최대 490g"
+        ],
+        "size": [
+            "2",
+            "TB"
+        ],
+        "price": "87090",
+        "img": "//img.danawa.com/prod_img/500000/078/545/img/6545078_1.jpg?shrink=330:*&_v=20220629141246",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 5400/256M",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "8TB",
+            "SATA3(6Gb/s)",
+            "5,400RPM",
+            "메모리 256MB",
+            "최대 190MB/s",
+            "기록방식: SMR(PMR)",
+            "두께: 26.11mm",
+            "소음(유휴/탐색): 23/25dB",
+            "A/S 정보: 2년",
+            "다층캐싱(MTC)",
+            "무게: 630g"
+        ],
+        "size": [
+            "8",
+            "TB"
+        ],
+        "price": "183570",
+        "img": "//img.danawa.com/prod_img/500000/992/764/img/5764992_1.jpg?shrink=330:*&_v=20220629141336",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 5400/256M",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "8TB",
+            "SATA3(6Gb/s)",
+            "5,400RPM",
+            "메모리 256MB",
+            "최대 190MB/s",
+            "기록방식: SMR(PMR)",
+            "두께: 26.11mm",
+            "소음(유휴/탐색): 23/25dB",
+            "A/S 정보: 2년",
+            "다층캐싱(MTC)",
+            "무게: 630g"
+        ],
+        "size": [
+            "6",
+            "TB"
+        ],
+        "price": "179000",
+        "img": "//img.danawa.com/prod_img/500000/992/764/img/5764992_1.jpg?shrink=330:*&_v=20220629141336",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 5400/256M",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "8TB",
+            "SATA3(6Gb/s)",
+            "5,400RPM",
+            "메모리 256MB",
+            "최대 190MB/s",
+            "기록방식: SMR(PMR)",
+            "두께: 26.11mm",
+            "소음(유휴/탐색): 23/25dB",
+            "A/S 정보: 2년",
+            "다층캐싱(MTC)",
+            "무게: 630g"
+        ],
+        "size": [
+            "4",
+            "TB"
+        ],
+        "price": "124580",
+        "img": "//img.danawa.com/prod_img/500000/992/764/img/5764992_1.jpg?shrink=330:*&_v=20220629141336",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 5400/256M",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "8TB",
+            "SATA3(6Gb/s)",
+            "5,400RPM",
+            "메모리 256MB",
+            "최대 190MB/s",
+            "기록방식: SMR(PMR)",
+            "두께: 26.11mm",
+            "소음(유휴/탐색): 23/25dB",
+            "A/S 정보: 2년",
+            "다층캐싱(MTC)",
+            "무게: 630g"
+        ],
+        "size": [
+            "3",
+            "TB"
+        ],
+        "price": "131490",
+        "img": "//img.danawa.com/prod_img/500000/992/764/img/5764992_1.jpg?shrink=330:*&_v=20220629141336",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD BLUE 7200/64M",
+        "brand": "Western",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "1TB",
+            "SATA3(6Gb/s)",
+            "7,200RPM",
+            "메모리 64MB",
+            "최대 150MB/s",
+            "기록방식: CMR(PMR)",
+            "두께: 25.4mm",
+            "소음(유휴/탐색): 29/30dB",
+            "A/S 정보: 2년"
+        ],
+        "size": [
+            "1",
+            "TB"
+        ],
+        "price": "64060",
+        "img": "//img.danawa.com/prod_img/500000/996/706/img/1706996_1.jpg?shrink=330:*&_v=20210412173807",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD BLUE 5400/256M",
+        "brand": "Western",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "4TB",
+            "SATA3(6Gb/s)",
+            "5,400RPM",
+            "메모리 256MB",
+            "180MB/s",
+            "기록방식: CMR(PMR)",
+            "두께: 26.1mm",
+            "소음(유휴/탐색): 23/25dB",
+            "A/S 정보: 2년",
+            "NoTouch 램프로드 기술"
+        ],
+        "size": [
+            "6",
+            "TB"
+        ],
+        "price": "160970",
+        "img": "//img.danawa.com/prod_img/500000/044/965/img/19965044_1.jpg?shrink=330:*&_v=20230427174719",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD BLUE 5400/256M",
+        "brand": "Western",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "4TB",
+            "SATA3(6Gb/s)",
+            "5,400RPM",
+            "메모리 256MB",
+            "180MB/s",
+            "기록방식: CMR(PMR)",
+            "두께: 26.1mm",
+            "소음(유휴/탐색): 23/25dB",
+            "A/S 정보: 2년",
+            "NoTouch 램프로드 기술"
+        ],
+        "size": [
+            "6",
+            "TB"
+        ],
+        "price": "158630",
+        "img": "//img.danawa.com/prod_img/500000/044/965/img/19965044_1.jpg?shrink=330:*&_v=20230427174719",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD BLUE 5400/256M",
+        "brand": "Western",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "4TB",
+            "SATA3(6Gb/s)",
+            "5,400RPM",
+            "메모리 256MB",
+            "180MB/s",
+            "기록방식: CMR(PMR)",
+            "두께: 26.1mm",
+            "소음(유휴/탐색): 23/25dB",
+            "A/S 정보: 2년",
+            "NoTouch 램프로드 기술"
+        ],
+        "size": [
+            "4",
+            "TB"
+        ],
+        "price": "117810",
+        "img": "//img.danawa.com/prod_img/500000/044/965/img/19965044_1.jpg?shrink=330:*&_v=20230427174719",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD BLUE 5400/256M",
+        "brand": "Western",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "4TB",
+            "SATA3(6Gb/s)",
+            "5,400RPM",
+            "메모리 256MB",
+            "180MB/s",
+            "기록방식: CMR(PMR)",
+            "두께: 26.1mm",
+            "소음(유휴/탐색): 23/25dB",
+            "A/S 정보: 2년",
+            "NoTouch 램프로드 기술"
+        ],
+        "size": [
+            "4",
+            "TB"
+        ],
+        "price": "112900",
+        "img": "//img.danawa.com/prod_img/500000/044/965/img/19965044_1.jpg?shrink=330:*&_v=20230427174719",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD BLUE 5400/256M",
+        "brand": "Western",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "4TB",
+            "SATA3(6Gb/s)",
+            "5,400RPM",
+            "메모리 256MB",
+            "180MB/s",
+            "기록방식: CMR(PMR)",
+            "두께: 26.1mm",
+            "소음(유휴/탐색): 23/25dB",
+            "A/S 정보: 2년",
+            "NoTouch 램프로드 기술"
+        ],
+        "size": [
+            "3",
+            "TB"
+        ],
+        "price": "115700",
+        "img": "//img.danawa.com/prod_img/500000/044/965/img/19965044_1.jpg?shrink=330:*&_v=20230427174719",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD BLUE 5400/256M",
+        "brand": "Western",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "4TB",
+            "SATA3(6Gb/s)",
+            "5,400RPM",
+            "메모리 256MB",
+            "180MB/s",
+            "기록방식: CMR(PMR)",
+            "두께: 26.1mm",
+            "소음(유휴/탐색): 23/25dB",
+            "A/S 정보: 2년",
+            "NoTouch 램프로드 기술"
+        ],
+        "size": [
+            "3",
+            "TB"
+        ],
+        "price": "119970",
+        "img": "//img.danawa.com/prod_img/500000/044/965/img/19965044_1.jpg?shrink=330:*&_v=20230427174719",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD BLUE 5400/256M",
+        "brand": "Western",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "4TB",
+            "SATA3(6Gb/s)",
+            "5,400RPM",
+            "메모리 256MB",
+            "180MB/s",
+            "기록방식: CMR(PMR)",
+            "두께: 26.1mm",
+            "소음(유휴/탐색): 23/25dB",
+            "A/S 정보: 2년",
+            "NoTouch 램프로드 기술"
+        ],
+        "size": [
+            "2",
+            "TB"
+        ],
+        "price": "72860",
+        "img": "//img.danawa.com/prod_img/500000/044/965/img/19965044_1.jpg?shrink=330:*&_v=20230427174719",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 5400/256M/해외구매",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "8TB",
+            "SATA3(6Gb/s)",
+            "5,400RPM",
+            "메모리 256MB",
+            "최대 190MB/s",
+            "기록방식: SMR(PMR)",
+            "두께: 26.11mm",
+            "소음(유휴/탐색): 23/25dB",
+            "무게: 630g"
+        ],
+        "size": [
+            "8",
+            "TB"
+        ],
+        "price": "146880",
+        "img": "//img.danawa.com/prod_img/500000/383/721/img/9721383_1.jpg?shrink=330:*&_v=20200528093624",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 5400/256M/해외구매",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "8TB",
+            "SATA3(6Gb/s)",
+            "5,400RPM",
+            "메모리 256MB",
+            "최대 190MB/s",
+            "기록방식: SMR(PMR)",
+            "두께: 26.11mm",
+            "소음(유휴/탐색): 23/25dB",
+            "무게: 630g"
+        ],
+        "size": [
+            "6",
+            "TB"
+        ],
+        "price": "125990",
+        "img": "//img.danawa.com/prod_img/500000/383/721/img/9721383_1.jpg?shrink=330:*&_v=20200528093624",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 5400/256M/해외구매",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "8TB",
+            "SATA3(6Gb/s)",
+            "5,400RPM",
+            "메모리 256MB",
+            "최대 190MB/s",
+            "기록방식: SMR(PMR)",
+            "두께: 26.11mm",
+            "소음(유휴/탐색): 23/25dB",
+            "무게: 630g"
+        ],
+        "size": [
+            "4",
+            "TB"
+        ],
+        "price": "100270",
+        "img": "//img.danawa.com/prod_img/500000/383/721/img/9721383_1.jpg?shrink=330:*&_v=20200528093624",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 5400/256M/해외구매",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "8TB",
+            "SATA3(6Gb/s)",
+            "5,400RPM",
+            "메모리 256MB",
+            "최대 190MB/s",
+            "기록방식: SMR(PMR)",
+            "두께: 26.11mm",
+            "소음(유휴/탐색): 23/25dB",
+            "무게: 630g"
+        ],
+        "size": [
+            "3",
+            "TB"
+        ],
+        "price": "89700",
+        "img": "//img.danawa.com/prod_img/500000/383/721/img/9721383_1.jpg?shrink=330:*&_v=20200528093624",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 5400/256M/해외구매",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "8TB",
+            "SATA3(6Gb/s)",
+            "5,400RPM",
+            "메모리 256MB",
+            "최대 190MB/s",
+            "기록방식: SMR(PMR)",
+            "두께: 26.11mm",
+            "소음(유휴/탐색): 23/25dB",
+            "무게: 630g"
+        ],
+        "size": [
+            "2",
+            "TB"
+        ],
+        "price": "96220",
+        "img": "//img.danawa.com/prod_img/500000/383/721/img/9721383_1.jpg?shrink=330:*&_v=20200528093624",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD BLUE 5640/128M 해외구매",
+        "brand": "Western",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "8TB",
+            "SATA3(6Gb/s)",
+            "5,640RPM",
+            "메모리 128MB",
+            "185MB/s",
+            "기록방식: CMR(PMR)",
+            "두께: 26.1mm",
+            "소음(유휴/탐색): 25/30dB"
+        ],
+        "size": [
+            "8",
+            "TB"
+        ],
+        "price": "161620",
+        "img": "//img.danawa.com/prod_img/500000/267/003/img/17003267_1.jpg?shrink=330:*&_v=20220509144844",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 7200/64M",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "1TB",
+            "SATA3 (6Gb/s)",
+            "7,200RPM",
+            "메모리 64MB",
+            "최대 210MB/s",
+            "기록방식: TGMR",
+            "두께: 20.2mm",
+            "소음(유휴/탐색): 22/23dB",
+            "A/S 정보: 2년",
+            "다층캐싱(MTC)",
+            "무게: 최대 400g"
+        ],
+        "size": [
+            "3",
+            "TB"
+        ],
+        "price": "173550",
+        "img": "//img.danawa.com/prod_img/500000/034/490/img/4490034_1.jpg?shrink=330:*&_v=20220629140659",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 7200/64M",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "1TB",
+            "SATA3 (6Gb/s)",
+            "7,200RPM",
+            "메모리 64MB",
+            "최대 210MB/s",
+            "기록방식: TGMR",
+            "두께: 20.2mm",
+            "소음(유휴/탐색): 22/23dB",
+            "A/S 정보: 2년",
+            "다층캐싱(MTC)",
+            "무게: 최대 400g"
+        ],
+        "size": [
+            "2",
+            "TB"
+        ],
+        "price": "99000",
+        "img": "//img.danawa.com/prod_img/500000/034/490/img/4490034_1.jpg?shrink=330:*&_v=20220629140659",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 7200/64M",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "1TB",
+            "SATA3 (6Gb/s)",
+            "7,200RPM",
+            "메모리 64MB",
+            "최대 210MB/s",
+            "기록방식: TGMR",
+            "두께: 20.2mm",
+            "소음(유휴/탐색): 22/23dB",
+            "A/S 정보: 2년",
+            "다층캐싱(MTC)",
+            "무게: 최대 400g"
+        ],
+        "size": [
+            "2",
+            "TB"
+        ],
+        "price": "85270",
+        "img": "//img.danawa.com/prod_img/500000/034/490/img/4490034_1.jpg?shrink=330:*&_v=20220629140659",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 7200/64M",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "1TB",
+            "SATA3 (6Gb/s)",
+            "7,200RPM",
+            "메모리 64MB",
+            "최대 210MB/s",
+            "기록방식: TGMR",
+            "두께: 20.2mm",
+            "소음(유휴/탐색): 22/23dB",
+            "A/S 정보: 2년",
+            "다층캐싱(MTC)",
+            "무게: 최대 400g"
+        ],
+        "size": [
+            "1",
+            "TB"
+        ],
+        "price": "54000",
+        "img": "//img.danawa.com/prod_img/500000/034/490/img/4490034_1.jpg?shrink=330:*&_v=20220629140659",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 7200/64M",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "1TB",
+            "SATA3 (6Gb/s)",
+            "7,200RPM",
+            "메모리 64MB",
+            "최대 210MB/s",
+            "기록방식: TGMR",
+            "두께: 20.2mm",
+            "소음(유휴/탐색): 22/23dB",
+            "A/S 정보: 2년",
+            "다층캐싱(MTC)",
+            "무게: 최대 400g"
+        ],
+        "size": [
+            "1",
+            "TB"
+        ],
+        "price": "71400",
+        "img": "//img.danawa.com/prod_img/500000/034/490/img/4490034_1.jpg?shrink=330:*&_v=20220629140659",
+        "Cate": "HDD"
+    },
+    {
+        "name": "도시바 P300 7200/256M",
+        "brand": "도시바",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "2TB",
+            "SATA3 (6Gb/s)",
+            "7,200RPM",
+            "메모리 256MB",
+            "210MB/s",
+            "기록방식: SMR(PMR)",
+            "두께: 26.1mm",
+            "DSA",
+            "저전력",
+            "소음(유휴/탐색): 25dB",
+            "A/S 정보: 2년"
+        ],
+        "size": [
+            "2",
+            "TB"
+        ],
+        "price": "70510",
+        "img": "//img.danawa.com/prod_img/500000/821/253/img/17253821_1.jpg?shrink=330:*&_v=20220615094151",
+        "Cate": "HDD"
+    },
+    {
+        "name": "도시바 X300 7200/256M",
+        "brand": "도시바",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "10TB",
+            "SATA3 (6Gb/s)",
+            "7,200RPM",
+            "메모리 256MB",
+            "기록방식: 확인요망(PMR)",
+            "두께: 26.1mm",
+            "DSA",
+            "사용보증: 60만시간",
+            "소음(유휴/탐색): 34dB",
+            "A/S 정보: 2년",
+            "충격 감지센서",
+            "램프로딩 기술"
+        ],
+        "size": [
+            "10",
+            "TB"
+        ],
+        "price": "349970",
+        "img": "//img.danawa.com/prod_img/500000/629/295/img/6295629_1.jpg?shrink=330:*&_v=20200528134738",
+        "Cate": "HDD"
+    },
+    {
+        "name": "도시바 X300 7200/256M",
+        "brand": "도시바",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "10TB",
+            "SATA3 (6Gb/s)",
+            "7,200RPM",
+            "메모리 256MB",
+            "기록방식: 확인요망(PMR)",
+            "두께: 26.1mm",
+            "DSA",
+            "사용보증: 60만시간",
+            "소음(유휴/탐색): 34dB",
+            "A/S 정보: 2년",
+            "충격 감지센서",
+            "램프로딩 기술"
+        ],
+        "size": [
+            "8",
+            "TB"
+        ],
+        "price": "286000",
+        "img": "//img.danawa.com/prod_img/500000/629/295/img/6295629_1.jpg?shrink=330:*&_v=20200528134738",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD MOBILE BLUE 5400/128M/노트북용",
+        "brand": "Western",
+        "spec": [
+            "HDD (노트북용)",
+            "6.4cm(2.5인치)",
+            "2TB",
+            "SATA3 (6Gb/s)",
+            "5,400RPM",
+            "메모리 128MB",
+            "기록방식: SMR(PMR)",
+            "두께: 7mm",
+            "소음(유휴/탐색): 23/24dB",
+            "A/S 정보: 2년"
+        ],
+        "size": [
+            "2",
+            "TB"
+        ],
+        "price": "95770",
+        "img": "//img.danawa.com/prod_img/500000/779/862/img/5862779_1.jpg?shrink=330:*&_v=20210830113147",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD MOBILE BLUE 5400/128M/노트북용",
+        "brand": "Western",
+        "spec": [
+            "HDD (노트북용)",
+            "6.4cm(2.5인치)",
+            "2TB",
+            "SATA3 (6Gb/s)",
+            "5,400RPM",
+            "메모리 128MB",
+            "기록방식: SMR(PMR)",
+            "두께: 7mm",
+            "소음(유휴/탐색): 23/24dB",
+            "A/S 정보: 2년"
+        ],
+        "size": [
+            "1",
+            "TB"
+        ],
+        "price": "66990",
+        "img": "//img.danawa.com/prod_img/500000/779/862/img/5862779_1.jpg?shrink=330:*&_v=20210830113147",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD MOBILE BLUE 5400/128M/노트북용",
+        "brand": "Western",
+        "spec": [
+            "HDD (노트북용)",
+            "6.4cm(2.5인치)",
+            "2TB",
+            "SATA3 (6Gb/s)",
+            "5,400RPM",
+            "메모리 128MB",
+            "기록방식: SMR(PMR)",
+            "두께: 7mm",
+            "소음(유휴/탐색): 23/24dB",
+            "A/S 정보: 2년"
+        ],
+        "size": [
+            "500",
+            "GB"
+        ],
+        "price": "64000",
+        "img": "//img.danawa.com/prod_img/500000/779/862/img/5862779_1.jpg?shrink=330:*&_v=20210830113147",
+        "Cate": "HDD"
+    },
+    {
+        "name": "도시바 P300 5400/128M",
+        "brand": "도시바",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "4TB",
+            "SATA3 (6Gb/s)",
+            "5,400RPM",
+            "메모리 128MB",
+            "최대 185MB/s",
+            "기록방식: SMR(PMR)",
+            "두께: 26.1mm",
+            "DSA",
+            "저전력",
+            "소음(유휴/탐색): 22/24dB",
+            "A/S 정보: 2년",
+            "충격 감지센서",
+            "램프로딩 기술"
+        ],
+        "size": [
+            "6",
+            "TB"
+        ],
+        "price": "163900",
+        "img": "//img.danawa.com/prod_img/500000/960/008/img/12008960_1.jpg?shrink=330:*&_v=20220617085106",
+        "Cate": "HDD"
+    },
+    {
+        "name": "도시바 P300 5400/128M",
+        "brand": "도시바",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "4TB",
+            "SATA3 (6Gb/s)",
+            "5,400RPM",
+            "메모리 128MB",
+            "최대 185MB/s",
+            "기록방식: SMR(PMR)",
+            "두께: 26.1mm",
+            "DSA",
+            "저전력",
+            "소음(유휴/탐색): 22/24dB",
+            "A/S 정보: 2년",
+            "충격 감지센서",
+            "램프로딩 기술"
+        ],
+        "size": [
+            "4",
+            "TB"
+        ],
+        "price": "110280",
+        "img": "//img.danawa.com/prod_img/500000/960/008/img/12008960_1.jpg?shrink=330:*&_v=20220617085106",
+        "Cate": "HDD"
+    },
+    {
+        "name": "도시바 P300 5400/128M",
+        "brand": "도시바",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "4TB",
+            "SATA3 (6Gb/s)",
+            "5,400RPM",
+            "메모리 128MB",
+            "최대 185MB/s",
+            "기록방식: SMR(PMR)",
+            "두께: 26.1mm",
+            "DSA",
+            "저전력",
+            "소음(유휴/탐색): 22/24dB",
+            "A/S 정보: 2년",
+            "충격 감지센서",
+            "램프로딩 기술"
+        ],
+        "size": [
+            "2",
+            "TB"
+        ],
+        "price": "83500",
+        "img": "//img.danawa.com/prod_img/500000/960/008/img/12008960_1.jpg?shrink=330:*&_v=20220617085106",
+        "Cate": "HDD"
+    },
+    {
+        "name": "도시바 P300 7200/64M",
+        "brand": "도시바",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "2TB",
+            "SATA3 (6Gb/s)",
+            "7,200RPM",
+            "메모리 64MB",
+            "기록방식: CMR(PMR)",
+            "두께: 26.1mm",
+            "DSA",
+            "소음(유휴/탐색): 27/28dB",
+            "A/S 정보: 2년",
+            "충격 감지센서",
+            "램프로딩 기술"
+        ],
+        "size": [
+            "3",
+            "TB"
+        ],
+        "price": "118990",
+        "img": "//img.danawa.com/prod_img/500000/809/288/img/6288809_1.jpg?shrink=330:*&_v=20211115130146",
+        "Cate": "HDD"
+    },
+    {
+        "name": "도시바 P300 7200/64M",
+        "brand": "도시바",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "2TB",
+            "SATA3 (6Gb/s)",
+            "7,200RPM",
+            "메모리 64MB",
+            "기록방식: CMR(PMR)",
+            "두께: 26.1mm",
+            "DSA",
+            "소음(유휴/탐색): 27/28dB",
+            "A/S 정보: 2년",
+            "충격 감지센서",
+            "램프로딩 기술"
+        ],
+        "size": [
+            "2",
+            "TB"
+        ],
+        "price": "87990",
+        "img": "//img.danawa.com/prod_img/500000/809/288/img/6288809_1.jpg?shrink=330:*&_v=20211115130146",
+        "Cate": "HDD"
+    },
+    {
+        "name": "도시바 P300 7200/64M",
+        "brand": "도시바",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "2TB",
+            "SATA3 (6Gb/s)",
+            "7,200RPM",
+            "메모리 64MB",
+            "기록방식: CMR(PMR)",
+            "두께: 26.1mm",
+            "DSA",
+            "소음(유휴/탐색): 27/28dB",
+            "A/S 정보: 2년",
+            "충격 감지센서",
+            "램프로딩 기술"
+        ],
+        "size": [
+            "1",
+            "TB"
+        ],
+        "price": "66990",
+        "img": "//img.danawa.com/prod_img/500000/809/288/img/6288809_1.jpg?shrink=330:*&_v=20211115130146",
+        "Cate": "HDD"
+    },
+    {
+        "name": "도시바 P300 7200/64M",
+        "brand": "도시바",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "2TB",
+            "SATA3 (6Gb/s)",
+            "7,200RPM",
+            "메모리 64MB",
+            "기록방식: CMR(PMR)",
+            "두께: 26.1mm",
+            "DSA",
+            "소음(유휴/탐색): 27/28dB",
+            "A/S 정보: 2년",
+            "충격 감지센서",
+            "램프로딩 기술"
+        ],
+        "size": [
+            "500",
+            "GB"
+        ],
+        "price": "64350",
+        "img": "//img.danawa.com/prod_img/500000/809/288/img/6288809_1.jpg?shrink=330:*&_v=20211115130146",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda Pro 7200/128M/노트북용",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (노트북용)",
+            "6.4cm(2.5인치)",
+            "1TB",
+            "SATA3 (6Gb/s)",
+            "7,200RPM",
+            "메모리 128MB",
+            "최대 160MB/s",
+            "두께: 7mm",
+            "저전력",
+            "소음(유휴/탐색): 22/24dB",
+            "A/S 정보: 5년",
+            "다층캐싱(MTC)",
+            "무게: 최대 85g"
+        ],
+        "size": [
+            "1",
+            "TB"
+        ],
+        "price": "95000",
+        "img": "//img.danawa.com/prod_img/500000/325/108/img/6108325_1.jpg?shrink=330:*&_v=20201120181522",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda Pro 7200/128M/노트북용",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (노트북용)",
+            "6.4cm(2.5인치)",
+            "1TB",
+            "SATA3 (6Gb/s)",
+            "7,200RPM",
+            "메모리 128MB",
+            "최대 160MB/s",
+            "두께: 7mm",
+            "저전력",
+            "소음(유휴/탐색): 22/24dB",
+            "A/S 정보: 5년",
+            "다층캐싱(MTC)",
+            "무게: 최대 85g"
+        ],
+        "size": [
+            "500",
+            "GB"
+        ],
+        "price": "72000",
+        "img": "//img.danawa.com/prod_img/500000/325/108/img/6108325_1.jpg?shrink=330:*&_v=20201120181522",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 5400/128M/노트북용",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (노트북용)",
+            "6.4cm(2.5인치)",
+            "2TB",
+            "SATA3 (6Gb/s)",
+            "5,400RPM",
+            "메모리 128MB",
+            "최대 140MB/s",
+            "기록방식: SMR(PMR)",
+            "두께: 7mm",
+            "소음(유휴/탐색): 22/24dB",
+            "A/S 정보: 2년",
+            "다층캐싱(MTC)",
+            "무게: 최대 90g"
+        ],
+        "size": [
+            "4",
+            "TB"
+        ],
+        "price": "275000",
+        "img": "//img.danawa.com/prod_img/500000/468/607/img/4607468_1.jpg?shrink=330:*&_v=20220629142846",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 5400/128M/노트북용",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (노트북용)",
+            "6.4cm(2.5인치)",
+            "2TB",
+            "SATA3 (6Gb/s)",
+            "5,400RPM",
+            "메모리 128MB",
+            "최대 140MB/s",
+            "기록방식: SMR(PMR)",
+            "두께: 7mm",
+            "소음(유휴/탐색): 22/24dB",
+            "A/S 정보: 2년",
+            "다층캐싱(MTC)",
+            "무게: 최대 90g"
+        ],
+        "size": [
+            "2",
+            "TB"
+        ],
+        "price": "122000",
+        "img": "//img.danawa.com/prod_img/500000/468/607/img/4607468_1.jpg?shrink=330:*&_v=20220629142846",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 5400/128M/노트북용",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (노트북용)",
+            "6.4cm(2.5인치)",
+            "2TB",
+            "SATA3 (6Gb/s)",
+            "5,400RPM",
+            "메모리 128MB",
+            "최대 140MB/s",
+            "기록방식: SMR(PMR)",
+            "두께: 7mm",
+            "소음(유휴/탐색): 22/24dB",
+            "A/S 정보: 2년",
+            "다층캐싱(MTC)",
+            "무게: 최대 90g"
+        ],
+        "size": [
+            "1",
+            "TB"
+        ],
+        "price": "79000",
+        "img": "//img.danawa.com/prod_img/500000/468/607/img/4607468_1.jpg?shrink=330:*&_v=20220629142846",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 5400/128M/노트북용",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (노트북용)",
+            "6.4cm(2.5인치)",
+            "2TB",
+            "SATA3 (6Gb/s)",
+            "5,400RPM",
+            "메모리 128MB",
+            "최대 140MB/s",
+            "기록방식: SMR(PMR)",
+            "두께: 7mm",
+            "소음(유휴/탐색): 22/24dB",
+            "A/S 정보: 2년",
+            "다층캐싱(MTC)",
+            "무게: 최대 90g"
+        ],
+        "size": [
+            "500",
+            "GB"
+        ],
+        "price": "72000",
+        "img": "//img.danawa.com/prod_img/500000/468/607/img/4607468_1.jpg?shrink=330:*&_v=20220629142846",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD BLACK 7200/256M",
+        "brand": "Western",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "4TB",
+            "SATA3 (6Gb/s)",
+            "7,200RPM",
+            "메모리 256MB",
+            "최대 202MB/s",
+            "기록방식: CMR(PMR)",
+            "두께: 26.1mm",
+            "소음(유휴/탐색): 29/36dB",
+            "A/S 정보: 5년",
+            "백업, 마이그레이션 프로그램 제공",
+            "720g"
+        ],
+        "size": [
+            "10",
+            "TB"
+        ],
+        "price": "474290",
+        "img": "//img.danawa.com/prod_img/500000/378/931/img/5931378_1.jpg?shrink=330:*&_v=20200528142456",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD BLACK 7200/256M",
+        "brand": "Western",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "4TB",
+            "SATA3 (6Gb/s)",
+            "7,200RPM",
+            "메모리 256MB",
+            "최대 202MB/s",
+            "기록방식: CMR(PMR)",
+            "두께: 26.1mm",
+            "소음(유휴/탐색): 29/36dB",
+            "A/S 정보: 5년",
+            "백업, 마이그레이션 프로그램 제공",
+            "720g"
+        ],
+        "size": [
+            "8",
+            "TB"
+        ],
+        "price": "429000",
+        "img": "//img.danawa.com/prod_img/500000/378/931/img/5931378_1.jpg?shrink=330:*&_v=20200528142456",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD BLACK 7200/256M",
+        "brand": "Western",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "4TB",
+            "SATA3 (6Gb/s)",
+            "7,200RPM",
+            "메모리 256MB",
+            "최대 202MB/s",
+            "기록방식: CMR(PMR)",
+            "두께: 26.1mm",
+            "소음(유휴/탐색): 29/36dB",
+            "A/S 정보: 5년",
+            "백업, 마이그레이션 프로그램 제공",
+            "720g"
+        ],
+        "size": [
+            "6",
+            "TB"
+        ],
+        "price": "429000",
+        "img": "//img.danawa.com/prod_img/500000/378/931/img/5931378_1.jpg?shrink=330:*&_v=20200528142456",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD BLACK 7200/256M",
+        "brand": "Western",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "4TB",
+            "SATA3 (6Gb/s)",
+            "7,200RPM",
+            "메모리 256MB",
+            "최대 202MB/s",
+            "기록방식: CMR(PMR)",
+            "두께: 26.1mm",
+            "소음(유휴/탐색): 29/36dB",
+            "A/S 정보: 5년",
+            "백업, 마이그레이션 프로그램 제공",
+            "720g"
+        ],
+        "size": [
+            "4",
+            "TB"
+        ],
+        "price": "283000",
+        "img": "//img.danawa.com/prod_img/500000/378/931/img/5931378_1.jpg?shrink=330:*&_v=20200528142456",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD BLUE 7200/16M",
+        "brand": "Western",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "500GB",
+            "SATA3(6Gb/s)",
+            "7,200RPM",
+            "메모리 16MB",
+            "최대 126MB/s",
+            "두께: 25.4mm",
+            "소음(유휴/탐색): 29/30dB"
+        ],
+        "size": [
+            "500",
+            "GB"
+        ],
+        "price": "61410",
+        "img": "//img.danawa.com/prod_img/500000/955/218/img/1218955_1.jpg?shrink=330:*&_v=20200528094214",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD BLACK 7200/64M",
+        "brand": "Western",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "1TB",
+            "SATA3(6Gb/s)",
+            "7,200RPM",
+            "메모리 64MB",
+            "최대 150MB/s",
+            "기록방식: CMR(PMR)",
+            "두께: 26.1mm",
+            "소음(유휴/탐색): 29/30dB",
+            "A/S 정보: 5년",
+            "450g"
+        ],
+        "size": [
+            "2",
+            "TB"
+        ],
+        "price": "200700",
+        "img": "//img.danawa.com/prod_img/500000/177/307/img/2307177_1.jpg?shrink=330:*&_v=20200528142457",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD BLACK 7200/64M",
+        "brand": "Western",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "1TB",
+            "SATA3(6Gb/s)",
+            "7,200RPM",
+            "메모리 64MB",
+            "최대 150MB/s",
+            "기록방식: CMR(PMR)",
+            "두께: 26.1mm",
+            "소음(유휴/탐색): 29/30dB",
+            "A/S 정보: 5년",
+            "450g"
+        ],
+        "size": [
+            "1",
+            "TB"
+        ],
+        "price": "131940",
+        "img": "//img.danawa.com/prod_img/500000/177/307/img/2307177_1.jpg?shrink=330:*&_v=20200528142457",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD Caviar Blue 7200/64M/리퍼비시",
+        "brand": "Western",
+        "spec": [
+            "HDD (리퍼비시)",
+            "8.9cm(3.5인치)",
+            "1TB",
+            "SATA3(6Gb/s)",
+            "7,200RPM",
+            "메모리 64MB"
+        ],
+        "size": [
+            "1",
+            "TB"
+        ],
+        "price": "40000",
+        "img": "//img.danawa.com/prod_img/500000/195/920/img/1920195_1.jpg?shrink=330:*&_v=20200528100050",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate Pipeline HD SATA2/5900/64M",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "2TB",
+            "SATA2(3Gb/s)",
+            "5,900RPM",
+            "메모리 64MB",
+            "두께: 26.1mm",
+            "저전력",
+            "535g"
+        ],
+        "size": [
+            "2",
+            "TB"
+        ],
+        "price": "64890",
+        "img": "//img.danawa.com/prod_img/500000/269/281/img/2281269_1.jpg?shrink=330:*&_v=20200529165821",
+        "Cate": "HDD"
+    },
+    {
+        "name": "도시바 X300 7200/128M",
+        "brand": "도시바",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "4TB",
+            "SATA3 (6Gb/s)",
+            "7,200RPM",
+            "메모리 128MB",
+            "기록방식: 확인요망(PMR)",
+            "두께: 26.1mm",
+            "DSA",
+            "사용보증: 60만시간",
+            "소음(유휴/탐색): 31dB",
+            "A/S 정보: 2년",
+            "충격 감지센서",
+            "램프로딩 기술"
+        ],
+        "size": [
+            "6",
+            "TB"
+        ],
+        "price": "215000",
+        "img": "//img.danawa.com/prod_img/500000/581/295/img/6295581_1.jpg?shrink=330:*&_v=20200528134742",
+        "Cate": "HDD"
+    },
+    {
+        "name": "도시바 X300 7200/128M",
+        "brand": "도시바",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "4TB",
+            "SATA3 (6Gb/s)",
+            "7,200RPM",
+            "메모리 128MB",
+            "기록방식: 확인요망(PMR)",
+            "두께: 26.1mm",
+            "DSA",
+            "사용보증: 60만시간",
+            "소음(유휴/탐색): 31dB",
+            "A/S 정보: 2년",
+            "충격 감지센서",
+            "램프로딩 기술"
+        ],
+        "size": [
+            "5",
+            "TB"
+        ],
+        "price": "300000",
+        "img": "//img.danawa.com/prod_img/500000/581/295/img/6295581_1.jpg?shrink=330:*&_v=20200528134742",
+        "Cate": "HDD"
+    },
+    {
+        "name": "도시바 X300 7200/128M",
+        "brand": "도시바",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "4TB",
+            "SATA3 (6Gb/s)",
+            "7,200RPM",
+            "메모리 128MB",
+            "기록방식: 확인요망(PMR)",
+            "두께: 26.1mm",
+            "DSA",
+            "사용보증: 60만시간",
+            "소음(유휴/탐색): 31dB",
+            "A/S 정보: 2년",
+            "충격 감지센서",
+            "램프로딩 기술"
+        ],
+        "size": [
+            "4",
+            "TB"
+        ],
+        "price": "166500",
+        "img": "//img.danawa.com/prod_img/500000/581/295/img/6295581_1.jpg?shrink=330:*&_v=20200528134742",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda Pro 7200/128M",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "4TB",
+            "SATA3 (6Gb/s)",
+            "7,200RPM",
+            "메모리 128MB",
+            "최대 220MB/s",
+            "두께: 26mm",
+            "소음(유휴/탐색): 28/32dB",
+            "A/S 정보: 5년, 데이터 복구 2년",
+            "무게: 최대 780g"
+        ],
+        "size": [
+            "4",
+            "TB"
+        ],
+        "price": "265220",
+        "img": "//img.danawa.com/prod_img/500000/319/857/img/4857319_1.jpg?shrink=330:*&_v=20200528093625",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda Pro 7200/128M",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "4TB",
+            "SATA3 (6Gb/s)",
+            "7,200RPM",
+            "메모리 128MB",
+            "최대 220MB/s",
+            "두께: 26mm",
+            "소음(유휴/탐색): 28/32dB",
+            "A/S 정보: 5년, 데이터 복구 2년",
+            "무게: 최대 780g"
+        ],
+        "size": [
+            "2",
+            "TB"
+        ],
+        "price": "190000",
+        "img": "//img.danawa.com/prod_img/500000/319/857/img/4857319_1.jpg?shrink=330:*&_v=20200528093625",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate FireCuda 7200/256M",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "8TB",
+            "SATA3 (6Gb/s)",
+            "7,200RPM",
+            "메모리 256MB",
+            "260MB/s",
+            "기록방식: CMR(PMR)",
+            "두께: 26.1mm",
+            "소음(유휴/탐색): 28/32dB",
+            "A/S 정보: 5년, 데이터 복구 3년"
+        ],
+        "size": [
+            "8",
+            "TB"
+        ],
+        "price": "419000",
+        "img": "//img.danawa.com/prod_img/500000/848/482/img/16482848_1.jpg?shrink=330:*&_v=20220629150119",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate FireCuda 7200/256M",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "8TB",
+            "SATA3 (6Gb/s)",
+            "7,200RPM",
+            "메모리 256MB",
+            "260MB/s",
+            "기록방식: CMR(PMR)",
+            "두께: 26.1mm",
+            "소음(유휴/탐색): 28/32dB",
+            "A/S 정보: 5년, 데이터 복구 3년"
+        ],
+        "size": [
+            "4",
+            "TB"
+        ],
+        "price": "일시품절",
+        "img": "//img.danawa.com/prod_img/500000/848/482/img/16482848_1.jpg?shrink=330:*&_v=20220629150119",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda Pro 7200/256M",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "14TB",
+            "SATA3 (6Gb/s)",
+            "7,200RPM",
+            "메모리 256MB",
+            "최대 250MB/s",
+            "두께: 26.11mm",
+            "헬륨충전",
+            "저전력",
+            "A/S 정보: 5년, 데이터 복구 2년",
+            "다층캐싱기술",
+            "무게: 최대 705g"
+        ],
+        "size": [
+            "14",
+            "TB"
+        ],
+        "price": "1180000",
+        "img": "//img.danawa.com/prod_img/500000/666/456/img/6456666_1.jpg?shrink=330:*&_v=20200528093624",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda Pro 7200/256M",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "14TB",
+            "SATA3 (6Gb/s)",
+            "7,200RPM",
+            "메모리 256MB",
+            "최대 250MB/s",
+            "두께: 26.11mm",
+            "헬륨충전",
+            "저전력",
+            "A/S 정보: 5년, 데이터 복구 2년",
+            "다층캐싱기술",
+            "무게: 최대 705g"
+        ],
+        "size": [
+            "12",
+            "TB"
+        ],
+        "price": "510000",
+        "img": "//img.danawa.com/prod_img/500000/666/456/img/6456666_1.jpg?shrink=330:*&_v=20200528093624",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda Pro 7200/256M",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "14TB",
+            "SATA3 (6Gb/s)",
+            "7,200RPM",
+            "메모리 256MB",
+            "최대 250MB/s",
+            "두께: 26.11mm",
+            "헬륨충전",
+            "저전력",
+            "A/S 정보: 5년, 데이터 복구 2년",
+            "다층캐싱기술",
+            "무게: 최대 705g"
+        ],
+        "size": [
+            "10",
+            "TB"
+        ],
+        "price": "800000",
+        "img": "//img.danawa.com/prod_img/500000/666/456/img/6456666_1.jpg?shrink=330:*&_v=20200528093624",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda Pro 7200/256M",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "14TB",
+            "SATA3 (6Gb/s)",
+            "7,200RPM",
+            "메모리 256MB",
+            "최대 250MB/s",
+            "두께: 26.11mm",
+            "헬륨충전",
+            "저전력",
+            "A/S 정보: 5년, 데이터 복구 2년",
+            "다층캐싱기술",
+            "무게: 최대 705g"
+        ],
+        "size": [
+            "8",
+            "TB"
+        ],
+        "price": "590000",
+        "img": "//img.danawa.com/prod_img/500000/666/456/img/6456666_1.jpg?shrink=330:*&_v=20200528093624",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda Pro 7200/256M",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "14TB",
+            "SATA3 (6Gb/s)",
+            "7,200RPM",
+            "메모리 256MB",
+            "최대 250MB/s",
+            "두께: 26.11mm",
+            "헬륨충전",
+            "저전력",
+            "A/S 정보: 5년, 데이터 복구 2년",
+            "다층캐싱기술",
+            "무게: 최대 705g"
+        ],
+        "size": [
+            "8",
+            "TB"
+        ],
+        "price": "739000",
+        "img": "//img.danawa.com/prod_img/500000/666/456/img/6456666_1.jpg?shrink=330:*&_v=20200528093624",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda Pro 7200/256M",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "14TB",
+            "SATA3 (6Gb/s)",
+            "7,200RPM",
+            "메모리 256MB",
+            "최대 250MB/s",
+            "두께: 26.11mm",
+            "헬륨충전",
+            "저전력",
+            "A/S 정보: 5년, 데이터 복구 2년",
+            "다층캐싱기술",
+            "무게: 최대 705g"
+        ],
+        "size": [
+            "6",
+            "TB"
+        ],
+        "price": "378000",
+        "img": "//img.danawa.com/prod_img/500000/666/456/img/6456666_1.jpg?shrink=330:*&_v=20200528093624",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD BLUE 5400/64M",
+        "brand": "Western",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "2TB",
+            "SATA3(6Gb/s)",
+            "5,400RPM",
+            "메모리 64MB",
+            "최대 147MB/s",
+            "기록방식: 확인요망(PMR)",
+            "두께: 26.1mm",
+            "소음(유휴/탐색): 23/27dB",
+            "A/S 정보: 2년"
+        ],
+        "size": [
+            "6",
+            "TB"
+        ],
+        "price": "380000",
+        "img": "//img.danawa.com/prod_img/500000/055/474/img/3474055_1.jpg?shrink=330:*&_v=20200528094214",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD BLUE 5400/64M",
+        "brand": "Western",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "2TB",
+            "SATA3(6Gb/s)",
+            "5,400RPM",
+            "메모리 64MB",
+            "최대 147MB/s",
+            "기록방식: 확인요망(PMR)",
+            "두께: 26.1mm",
+            "소음(유휴/탐색): 23/27dB",
+            "A/S 정보: 2년"
+        ],
+        "size": [
+            "3",
+            "TB"
+        ],
+        "price": "122000",
+        "img": "//img.danawa.com/prod_img/500000/055/474/img/3474055_1.jpg?shrink=330:*&_v=20200528094214",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD BLUE 5400/64M",
+        "brand": "Western",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "2TB",
+            "SATA3(6Gb/s)",
+            "5,400RPM",
+            "메모리 64MB",
+            "최대 147MB/s",
+            "기록방식: 확인요망(PMR)",
+            "두께: 26.1mm",
+            "소음(유휴/탐색): 23/27dB",
+            "A/S 정보: 2년"
+        ],
+        "size": [
+            "2",
+            "TB"
+        ],
+        "price": "82000",
+        "img": "//img.danawa.com/prod_img/500000/055/474/img/3474055_1.jpg?shrink=330:*&_v=20200528094214",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD Caviar Blue 7200/16M/리퍼비시",
+        "brand": "Western",
+        "spec": [
+            "HDD (리퍼비시)",
+            "8.9cm(3.5인치)",
+            "500GB",
+            "SATA3(6Gb/s)",
+            "7,200RPM",
+            "메모리 16MB"
+        ],
+        "size": [
+            "500",
+            "GB"
+        ],
+        "price": "7500",
+        "img": "//img.danawa.com/prod_img/500000/147/936/img/2936147_1.jpg?shrink=330:*&_v=20200528100050",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD Caviar Blue 7200/16M/리퍼비시",
+        "brand": "Western",
+        "spec": [
+            "HDD (리퍼비시)",
+            "8.9cm(3.5인치)",
+            "500GB",
+            "SATA3(6Gb/s)",
+            "7,200RPM",
+            "메모리 16MB"
+        ],
+        "size": [
+            "250",
+            "GB"
+        ],
+        "price": "40000",
+        "img": "//img.danawa.com/prod_img/500000/147/936/img/2936147_1.jpg?shrink=330:*&_v=20200528100050",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate FireCuda SSHD 7200/64M",
+        "brand": "Seagate",
+        "spec": [
+            "SSHD (PC용)",
+            "8.9cm(3.5인치)",
+            "1TB",
+            "SATA3 (6Gb/s)",
+            "7,200RPM",
+            "메모리 64MB",
+            "최대 210MB/s",
+            "두께: 20mm",
+            "소음(유휴/탐색): 22/24dB",
+            "A/S 정보: 5년",
+            "낸드: MLC(8GB)"
+        ],
+        "size": [
+            "2",
+            "TB"
+        ],
+        "price": "187200",
+        "img": "//img.danawa.com/prod_img/500000/658/590/img/4590658_1.jpg?shrink=330:*&_v=20200528101236",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate FireCuda SSHD 7200/64M",
+        "brand": "Seagate",
+        "spec": [
+            "SSHD (PC용)",
+            "8.9cm(3.5인치)",
+            "1TB",
+            "SATA3 (6Gb/s)",
+            "7,200RPM",
+            "메모리 64MB",
+            "최대 210MB/s",
+            "두께: 20mm",
+            "소음(유휴/탐색): 22/24dB",
+            "A/S 정보: 5년",
+            "낸드: MLC(8GB)"
+        ],
+        "size": [
+            "1",
+            "TB"
+        ],
+        "price": "122820",
+        "img": "//img.danawa.com/prod_img/500000/658/590/img/4590658_1.jpg?shrink=330:*&_v=20200528101236",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD MOBILE BLACK 7200/32M/노트북용",
+        "brand": "Western",
+        "spec": [
+            "HDD (노트북용)",
+            "6.4cm(2.5인치)",
+            "500GB",
+            "SATA3 (6Gb/s)",
+            "7,200RPM",
+            "메모리 32MB",
+            "기록방식: CMR(PMR)",
+            "두께: 7mm",
+            "A/S 정보: 5년",
+            "듀얼 프로세서",
+            "동적캐시",
+            "No Touch 램프 로드",
+            "무게 : 92g"
+        ],
+        "size": [
+            "500",
+            "GB"
+        ],
+        "price": "64000",
+        "img": "//img.danawa.com/prod_img/500000/127/028/img/5028127_1.jpg?shrink=330:*&_v=20200528142456",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 7200.11 SATA2/7200/32M",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "1TB",
+            "SATA2(3Gb/s)",
+            "7,200RPM",
+            "32MB",
+            "두께: 26.1mm"
+        ],
+        "size": [
+            "1",
+            "TB"
+        ],
+        "price": "61330",
+        "img": "//img.danawa.com/prod_img/500000/293/563/img/563293_1.jpg?shrink=330:*&_v=20200528093652",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 7200.11 SATA2/7200/32M",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "1TB",
+            "SATA2(3Gb/s)",
+            "7,200RPM",
+            "32MB",
+            "두께: 26.1mm"
+        ],
+        "size": [
+            "1",
+            "TB"
+        ],
+        "price": "60000",
+        "img": "//img.danawa.com/prod_img/500000/293/563/img/563293_1.jpg?shrink=330:*&_v=20200528093652",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 7200.11 SATA2/7200/32M",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "1TB",
+            "SATA2(3Gb/s)",
+            "7,200RPM",
+            "32MB",
+            "두께: 26.1mm"
+        ],
+        "size": [
+            "750",
+            "GB"
+        ],
+        "price": "100000",
+        "img": "//img.danawa.com/prod_img/500000/293/563/img/563293_1.jpg?shrink=330:*&_v=20200528093652",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 7200.11 SATA2/7200/32M",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "1TB",
+            "SATA2(3Gb/s)",
+            "7,200RPM",
+            "32MB",
+            "두께: 26.1mm"
+        ],
+        "size": [
+            "500",
+            "GB"
+        ],
+        "price": "140000",
+        "img": "//img.danawa.com/prod_img/500000/293/563/img/563293_1.jpg?shrink=330:*&_v=20200528093652",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate Mobile HDD 5400/128M/노트북용",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (노트북용)",
+            "6.4cm(2.5인치)",
+            "2TB",
+            "SATA3 (6Gb/s)",
+            "5,400RPM",
+            "메모리 128MB",
+            "기록방식: SMR(PMR)",
+            "두께: 7mm"
+        ],
+        "size": [
+            "2",
+            "TB"
+        ],
+        "price": "122820",
+        "img": "//img.danawa.com/prod_img/500000/559/940/img/3940559_1.jpg?shrink=330:*&_v=20200529153059",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 7200.12 SATA2/7200/16M",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "500GB",
+            "SATA2(3Gb/s)",
+            "7,200RPM",
+            "16MB",
+            "두께: 20mm"
+        ],
+        "size": [
+            "500",
+            "GB"
+        ],
+        "price": "52070",
+        "img": "//img.danawa.com/prod_img/500000/831/843/img/843831_1.jpg?shrink=330:*&_v=20200528093642",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 7200.12 SATA2/7200/16M",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "500GB",
+            "SATA2(3Gb/s)",
+            "7,200RPM",
+            "16MB",
+            "두께: 20mm"
+        ],
+        "size": [
+            "320",
+            "GB"
+        ],
+        "price": "44330",
+        "img": "//img.danawa.com/prod_img/500000/831/843/img/843831_1.jpg?shrink=330:*&_v=20200528093642",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 7200/16M",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "500GB",
+            "SATA3(6Gb/s)",
+            "7,200RPM",
+            "메모리 16MB",
+            "두께: 20mm",
+            "A/S 정보: 2년"
+        ],
+        "size": [
+            "500",
+            "GB"
+        ],
+        "price": "63640",
+        "img": "//img.danawa.com/prod_img/500000/268/464/img/1464268_1.jpg?shrink=330:*&_v=20200528093631",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD WD5000AZLX (SATA3/7200/32M)",
+        "brand": "Western",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "500GB",
+            "SATA3(6Gb/s)",
+            "7,200RPM",
+            "메모리 32MB",
+            "최대 150MB/s",
+            "두께: 26.1mm",
+            "소음(유휴/탐색): 29/30dB",
+            "A/S 정보: 2년"
+        ],
+        "size": [
+            "500",
+            "GB"
+        ],
+        "price": "68000",
+        "img": "//img.danawa.com/prod_img/500000/596/572/img/3572596_1.jpg?shrink=330:*&_v=20201106175614",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 7200.12 7200/32M",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "1TB",
+            "SATA3(6Gb/s)",
+            "7,200RPM",
+            "메모리 32MB",
+            "두께: 26.1mm",
+            "A/S 정보: 3년"
+        ],
+        "size": [
+            "1",
+            "TB"
+        ],
+        "price": "60000",
+        "img": "//img.danawa.com/prod_img/500000/440/304/img/1304440_1.jpg?shrink=330:*&_v=20200528093635",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 7200.9 SATA2/7200.9/8M",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "250GB",
+            "SATA2(3Gb/s)",
+            "7,200RPM",
+            "8MB",
+            "두께: 26.1mm"
+        ],
+        "size": [
+            "250",
+            "GB"
+        ],
+        "price": "40000",
+        "img": "//img.danawa.com/prod_img/large/group_268/134199_1.jpg?shrink=330:*&_v=20200528091107",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 7200.9 EIDE/7200/2M",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "80GB",
+            "E-IDE",
+            "7,200RPM",
+            "2MB",
+            "두께: 26.1mm"
+        ],
+        "size": [
+            "160",
+            "GB"
+        ],
+        "price": "60000",
+        "img": "//img.danawa.com/prod_img/large/group_864/432137_1.jpg?shrink=330:*&_v=20200528093654",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 7200.9 EIDE/7200/2M",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "80GB",
+            "E-IDE",
+            "7,200RPM",
+            "2MB",
+            "두께: 26.1mm"
+        ],
+        "size": [
+            "80",
+            "GB"
+        ],
+        "price": "42100",
+        "img": "//img.danawa.com/prod_img/large/group_864/432137_1.jpg?shrink=330:*&_v=20200528093654",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD Caviar Blue SATA2/7200/16M/리퍼비시",
+        "brand": "Western",
+        "spec": [
+            "HDD (리퍼비시)",
+            "8.9cm(3.5인치)",
+            "500GB",
+            "SATA2(3Gb/s)",
+            "7,200RPM",
+            "16MB"
+        ],
+        "size": [
+            "500",
+            "GB"
+        ],
+        "price": "32400",
+        "img": "//img.danawa.com/prod_img/500000/400/940/img/940400_1.jpg?shrink=330:*&_v=20200528100051",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate FireCuda SSHD 5400/128M/노트북용",
+        "brand": "Seagate",
+        "spec": [
+            "SSHD (노트북용)",
+            "6.4cm(2.5인치)",
+            "2TB",
+            "SATA3 (6Gb/s)",
+            "5,400RPM",
+            "메모리 128MB",
+            "최대 140MB/s",
+            "기록방식: SMR(PMR)",
+            "두께: 7mm",
+            "소음(유휴/탐색): 22/24dB",
+            "A/S 정보: 5년",
+            "낸드: MLC(8GB)"
+        ],
+        "size": [
+            "2",
+            "TB"
+        ],
+        "price": "252000",
+        "img": "//img.danawa.com/prod_img/500000/460/590/img/4590460_1.jpg?shrink=330:*&_v=20200528101237",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate FireCuda SSHD 5400/128M/노트북용",
+        "brand": "Seagate",
+        "spec": [
+            "SSHD (노트북용)",
+            "6.4cm(2.5인치)",
+            "2TB",
+            "SATA3 (6Gb/s)",
+            "5,400RPM",
+            "메모리 128MB",
+            "최대 140MB/s",
+            "기록방식: SMR(PMR)",
+            "두께: 7mm",
+            "소음(유휴/탐색): 22/24dB",
+            "A/S 정보: 5년",
+            "낸드: MLC(8GB)"
+        ],
+        "size": [
+            "1",
+            "TB"
+        ],
+        "price": "143000",
+        "img": "//img.danawa.com/prod_img/500000/460/590/img/4590460_1.jpg?shrink=330:*&_v=20200528101237",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 5900/64M",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "4TB",
+            "SATA3 (6Gb/s)",
+            "5,900RPM",
+            "메모리 64MB",
+            "두께: 26.1mm",
+            "A/S 정보: 2년",
+            "다층캐싱(MTC)",
+            "무게: 최대 610g"
+        ],
+        "size": [
+            "4",
+            "TB"
+        ],
+        "price": "248000",
+        "img": "//img.danawa.com/prod_img/500000/087/519/img/4519087_1.jpg?shrink=330:*&_v=20201120182146",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD Caviar Blue SATA2/7200/8M/리퍼비시",
+        "brand": "Western",
+        "spec": [
+            "HDD (리퍼비시)",
+            "8.9cm(3.5인치)",
+            "320GB",
+            "SATA2(3Gb/s)",
+            "7,200RPM",
+            "8MB"
+        ],
+        "size": [
+            "320",
+            "GB"
+        ],
+        "price": "27000",
+        "img": "//img.danawa.com/prod_img/500000/447/501/img/1501447_1.jpg?shrink=330:*&_v=20200528100051",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 7200.7 EIDE/7200/2M",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "160GB",
+            "E-IDE",
+            "7,200RPM",
+            "2MB",
+            "두께: 26.1mm"
+        ],
+        "size": [
+            "160",
+            "GB"
+        ],
+        "price": "68000",
+        "img": "//img.danawa.com/prod_img/large/group_133/66979_1.jpg?shrink=330:*&_v=20200528091107",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 7200.7 EIDE/7200/2M",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "160GB",
+            "E-IDE",
+            "7,200RPM",
+            "2MB",
+            "두께: 26.1mm"
+        ],
+        "size": [
+            "80",
+            "GB"
+        ],
+        "price": "55000",
+        "img": "//img.danawa.com/prod_img/large/group_133/66979_1.jpg?shrink=330:*&_v=20200528091107",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 7200/32M",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "500GB",
+            "SATA3 (6Gb/s)",
+            "7,200RPM",
+            "메모리 32MB",
+            "최대 210MB/s",
+            "기록방식: TGMR",
+            "두께: 20mm",
+            "소음(유휴/탐색): 22/23dB",
+            "A/S 정보: 2년",
+            "다층캐싱(MTC)",
+            "무게: 최대 400g"
+        ],
+        "size": [
+            "500",
+            "GB"
+        ],
+        "price": "79500",
+        "img": "//img.danawa.com/prod_img/500000/071/556/img/4556071_1.jpg?shrink=330:*&_v=20201120182508",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 7200.10 EIDE/7200/8M",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "500GB",
+            "E-IDE",
+            "7,200RPM",
+            "메모리 8MB",
+            "두께: 26.1mm"
+        ],
+        "size": [
+            "500",
+            "GB"
+        ],
+        "price": "130000",
+        "img": "//img.danawa.com/prod_img/500000/954/531/img/1531954_1.jpg?shrink=330:*&_v=20200528093631",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 7200.10 EIDE/7200/8M",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "500GB",
+            "E-IDE",
+            "7,200RPM",
+            "메모리 8MB",
+            "두께: 26.1mm"
+        ],
+        "size": [
+            "160",
+            "GB"
+        ],
+        "price": "75000",
+        "img": "//img.danawa.com/prod_img/500000/954/531/img/1531954_1.jpg?shrink=330:*&_v=20200528093631",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate Constellation ES 7200/64M",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "500GB",
+            "SATA3(6Gb/s)",
+            "7,200RPM",
+            "메모리 64MB",
+            "두께: 26.1mm",
+            "A/S 정보: 3년"
+        ],
+        "size": [
+            "1",
+            "TB"
+        ],
+        "price": "191000",
+        "img": "//img.danawa.com/prod_img/500000/054/511/img/1511054_1.jpg?shrink=330:*&_v=20200529093845",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate Constellation ES 7200/64M",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "500GB",
+            "SATA3(6Gb/s)",
+            "7,200RPM",
+            "메모리 64MB",
+            "두께: 26.1mm",
+            "A/S 정보: 3년"
+        ],
+        "size": [
+            "500",
+            "GB"
+        ],
+        "price": "220000",
+        "img": "//img.danawa.com/prod_img/500000/054/511/img/1511054_1.jpg?shrink=330:*&_v=20200529093845",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 7200.10 EIDE/7200/2M",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "80GB",
+            "E-IDE",
+            "7,200RPM",
+            "2MB",
+            "두께: 20mm",
+            "두께 : 20mm"
+        ],
+        "size": [
+            "160",
+            "GB"
+        ],
+        "price": "75000",
+        "img": "//img.danawa.com/prod_img/large/group_864/432246_1.jpg?shrink=330:*&_v=20220210110852",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 7200.10 EIDE/7200/2M",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "80GB",
+            "E-IDE",
+            "7,200RPM",
+            "2MB",
+            "두께: 20mm",
+            "두께 : 20mm"
+        ],
+        "size": [
+            "80",
+            "GB"
+        ],
+        "price": "45410",
+        "img": "//img.danawa.com/prod_img/large/group_864/432246_1.jpg?shrink=330:*&_v=20220210110852",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 7200.12 SATA2/7200/8M",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "250GB",
+            "SATA2(3Gb/s)",
+            "7,200RPM",
+            "8MB",
+            "두께: 20mm"
+        ],
+        "size": [
+            "250",
+            "GB"
+        ],
+        "price": "61680",
+        "img": "//img.danawa.com/prod_img/500000/139/881/img/881139_1.jpg?shrink=330:*&_v=20200528093641",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 7200.12 SATA2/7200/8M",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "250GB",
+            "SATA2(3Gb/s)",
+            "7,200RPM",
+            "8MB",
+            "두께: 20mm"
+        ],
+        "size": [
+            "160",
+            "GB"
+        ],
+        "price": "58000",
+        "img": "//img.danawa.com/prod_img/500000/139/881/img/881139_1.jpg?shrink=330:*&_v=20200528093641",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate Constellation ES SATA2/7200/32M",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "500GB",
+            "SATA2(3Gb/s)",
+            "7,200RPM",
+            "메모리 32MB",
+            "두께: 26.1mm",
+            "A/S 정보: 3년"
+        ],
+        "size": [
+            "1",
+            "TB"
+        ],
+        "price": "220000",
+        "img": "//img.danawa.com/prod_img/500000/045/511/img/1511045_1.jpg?shrink=330:*&_v=20200529093844",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate Constellation ES SATA2/7200/32M",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "500GB",
+            "SATA2(3Gb/s)",
+            "7,200RPM",
+            "메모리 32MB",
+            "두께: 26.1mm",
+            "A/S 정보: 3년"
+        ],
+        "size": [
+            "500",
+            "GB"
+        ],
+        "price": "181870",
+        "img": "//img.danawa.com/prod_img/500000/045/511/img/1511045_1.jpg?shrink=330:*&_v=20200529093844",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD MOBILE BLUE 5400/16M/노트북용",
+        "brand": "Western",
+        "spec": [
+            "HDD (노트북용)",
+            "6.4cm(2.5인치)",
+            "500GB",
+            "SATA3(6Gb/s)",
+            "5,400RPM",
+            "메모리 16MB",
+            "기록방식: 확인요망(PMR)",
+            "두께: 7mm",
+            "소음(유휴/탐색): 17/22dB"
+        ],
+        "size": [
+            "500",
+            "GB"
+        ],
+        "price": "67990",
+        "img": "//img.danawa.com/prod_img/500000/210/825/img/4825210_1.jpg?shrink=330:*&_v=20200528094937",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda ES.2 SATA2/7200/32M",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "1TB",
+            "SATA2(3Gb/s)",
+            "7,200RPM",
+            "32MB",
+            "두께: 26.1mm"
+        ],
+        "size": [
+            "1",
+            "TB"
+        ],
+        "price": "200000",
+        "img": "//img.danawa.com/prod_img/500000/195/758/img/758195_1.jpg?shrink=330:*&_v=20200528093644",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda ES.2 SATA2/7200/32M",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "1TB",
+            "SATA2(3Gb/s)",
+            "7,200RPM",
+            "32MB",
+            "두께: 26.1mm"
+        ],
+        "size": [
+            "500",
+            "GB"
+        ],
+        "price": "145000",
+        "img": "//img.danawa.com/prod_img/500000/195/758/img/758195_1.jpg?shrink=330:*&_v=20200528093644",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate Desktop HDD 7200/128M",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "6TB",
+            "SATA3(6Gb/s)",
+            "7,200RPM",
+            "메모리 128MB",
+            "두께: 26.1mm",
+            "A/S 정보: 2년",
+            "34만 트랙 수",
+            "75 나노미터 트랙폭",
+            "AcuTrac 데이터탐색 기술",
+            "DiskWizard 설치 지원",
+            "대용량 빅데이터 장비 적합",
+            "UHD급 영상저장장비 적합"
+        ],
+        "size": [
+            "6",
+            "TB"
+        ],
+        "price": "400000",
+        "img": "//img.danawa.com/prod_img/500000/477/515/img/3515477_1.jpg?shrink=330:*&_v=20200528173228",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate Desktop HDD.15 5900/64M",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "4TB",
+            "SATA3(6Gb/s)",
+            "5,900RPM",
+            "메모리 64MB",
+            "두께: 26.1mm",
+            "A/S 정보: 2년",
+            "610g"
+        ],
+        "size": [
+            "4",
+            "TB"
+        ],
+        "price": "225000",
+        "img": "//img.danawa.com/prod_img/500000/610/961/img/1961610_1.jpg?shrink=330:*&_v=20200528173228",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 7200.10 EIDE/7200/2M/비품",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (리퍼비시)",
+            "8.9cm(3.5인치)",
+            "160GB",
+            "E-IDE",
+            "7,200RPM",
+            "2MB"
+        ],
+        "size": [
+            "160",
+            "GB"
+        ],
+        "price": "75000",
+        "img": "//img.danawa.com/prod_img/500000/648/566/img/1566648_1.jpg?shrink=330:*&_v=20200528093631",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate SV35 7200/64M",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "1TB",
+            "SATA3 (6Gb/s)",
+            "7,200RPM",
+            "메모리 64MB",
+            "두께: 20mm"
+        ],
+        "size": [
+            "1",
+            "TB"
+        ],
+        "price": "78000",
+        "img": "//img.danawa.com/prod_img/500000/020/519/img/4519020_1.jpg?shrink=330:*&_v=20200529163940",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate Surveillance 7200/256M",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "8TB",
+            "SATA3(6Gb/s)",
+            "7,200RPM",
+            "메모리 256MB",
+            "두께: 26.1mm",
+            "RV센서",
+            "A/S 정보: 3년",
+            "RAID지원",
+            "Quick time-ready환경",
+            "16개 드라이브 및 32개 카메라지원",
+            "Archive Backup storage 시스템 최적화"
+        ],
+        "size": [
+            "8",
+            "TB"
+        ],
+        "price": "350000",
+        "img": "//img.danawa.com/prod_img/500000/640/749/img/3749640_1.jpg?shrink=330:*&_v=20200529095625",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD Scorpio Blue EIDE/5400/8M/노트북용/리퍼비시",
+        "brand": "Western",
+        "spec": [
+            "HDD (리퍼비시)",
+            "6.4cm(2.5인치)",
+            "80GB",
+            "E-IDE",
+            "5,400RPM",
+            "8MB"
+        ],
+        "size": [
+            "80",
+            "GB"
+        ],
+        "price": "80000",
+        "img": "//img.danawa.com/prod_img/500000/275/529/img/1529275_1.jpg?shrink=330:*&_v=20230110181014",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 7200.12 7200/8M",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "160GB",
+            "SATA3(6Gb/s)",
+            "7,200RPM",
+            "8MB",
+            "두께: 20mm"
+        ],
+        "size": [
+            "160",
+            "GB"
+        ],
+        "price": "77660",
+        "img": "//img.danawa.com/prod_img/500000/836/383/img/1383836_1.jpg?shrink=330:*&_v=20200528093633",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 7200.12 7200/16M",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "500GB",
+            "SATA3(6Gb/s)",
+            "7,200RPM",
+            "메모리 16MB",
+            "두께: 20mm",
+            "A/S 정보: 1년"
+        ],
+        "size": [
+            "500",
+            "GB"
+        ],
+        "price": "80000",
+        "img": "//img.danawa.com/prod_img/500000/447/304/img/1304447_1.jpg?shrink=330:*&_v=20200528093635",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate Constellation ES SATA2/7200/64M",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "2TB",
+            "SATA2(3Gb/s)",
+            "7,200RPM",
+            "메모리 64MB",
+            "두께: 26.1mm"
+        ],
+        "size": [
+            "2",
+            "TB"
+        ],
+        "price": "250000",
+        "img": "//img.danawa.com/prod_img/500000/266/158/img/1158266_1.jpg?shrink=330:*&_v=20200529093845",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 7200.10 SATA2/7200/8M/슬림",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "80GB",
+            "SATA2(3Gb/s)",
+            "7,200RPM",
+            "8MB",
+            "두께: 20mm"
+        ],
+        "size": [
+            "80",
+            "GB"
+        ],
+        "price": "60000",
+        "img": "//img.danawa.com/prod_img/500000/700/671/img/671700_1.jpg?shrink=330:*&_v=20200528093649",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 7200.11 SATA2/7200/16M",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "320GB",
+            "SATA2(3Gb/s)",
+            "7,200RPM",
+            "16MB",
+            "두께: 20mm"
+        ],
+        "size": [
+            "320",
+            "GB"
+        ],
+        "price": "80000",
+        "img": "//img.danawa.com/prod_img/500000/901/652/img/652901_1.jpg?shrink=330:*&_v=20200528093649",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda Green SATA2/5900/32M",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "2TB",
+            "SATA2(3Gb/s)",
+            "5,900RPM",
+            "메모리 32MB",
+            "두께: 26.1mm",
+            "저전력"
+        ],
+        "size": [
+            "2",
+            "TB"
+        ],
+        "price": "176670",
+        "img": "//img.danawa.com/prod_img/500000/372/924/img/924372_1.jpg?shrink=330:*&_v=20200528093640",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 7200.11 SATA2/7200/8M",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "160GB",
+            "SATA2(3Gb/s)",
+            "7,200RPM",
+            "8MB",
+            "두께: 20mm"
+        ],
+        "size": [
+            "160",
+            "GB"
+        ],
+        "price": "60000",
+        "img": "//img.danawa.com/prod_img/500000/919/790/img/790919_1.jpg?shrink=330:*&_v=20200528093643",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 7200.10 SATA2 /7200/8M/슬림",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "160GB",
+            "SATA2(3Gb/s)",
+            "7,200RPM",
+            "8MB",
+            "두께: 20mm"
+        ],
+        "size": [
+            "160",
+            "GB"
+        ],
+        "price": "60000",
+        "img": "//img.danawa.com/prod_img/500000/683/671/img/671683_1.jpg?shrink=330:*&_v=20200528093649",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 7200.9 EIDE/7200/16M",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "400GB",
+            "E-IDE",
+            "7,200RPM",
+            "16MB",
+            "두께: 26.1mm"
+        ],
+        "size": [
+            "400",
+            "GB"
+        ],
+        "price": "90000",
+        "img": "//img.danawa.com/prod_img/large/group_864/432194_1.jpg?shrink=330:*&_v=20200528093654",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 7200.9 SATA2/7200/8M/슬림",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "160GB",
+            "SATA2(3Gb/s)",
+            "7,200RPM",
+            "8MB",
+            "두께: 20mm",
+            "두께 : 20mm"
+        ],
+        "size": [
+            "160",
+            "GB"
+        ],
+        "price": "50000",
+        "img": "//img.danawa.com/prod_img/large/group_315/157686_1.jpg?shrink=330:*&_v=20200528091104",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda LP SATA2/5900/32M",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "1TB",
+            "SATA2(3Gb/s)",
+            "5,900RPM",
+            "32MB",
+            "두께: 26.1mm",
+            "저전력"
+        ],
+        "size": [
+            "1",
+            "TB"
+        ],
+        "price": "일시품절",
+        "img": "//img.danawa.com/prod_img/500000/230/937/img/937230_1.jpg?shrink=330:*&_v=20200528093640",
+        "Cate": "HDD"
+    },
+    {
+        "name": "도시바 DT01 7200/64M",
+        "brand": "도시바",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "3TB",
+            "SATA3(6Gb/s)",
+            "7,200RPM",
+            "메모리 64MB",
+            "두께: 26.1mm",
+            "소음(유휴/탐색): 27/28dB",
+            "A/S 정보: 2년",
+            "680g"
+        ],
+        "size": [
+            "3",
+            "TB"
+        ],
+        "price": "127500",
+        "img": "//img.danawa.com/prod_img/500000/206/795/img/1795206_1.jpg?shrink=330:*&_v=20200528112851",
+        "Cate": "HDD"
+    },
+    {
+        "name": "도시바 DT01 7200/64M",
+        "brand": "도시바",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "3TB",
+            "SATA3(6Gb/s)",
+            "7,200RPM",
+            "메모리 64MB",
+            "두께: 26.1mm",
+            "소음(유휴/탐색): 27/28dB",
+            "A/S 정보: 2년",
+            "680g"
+        ],
+        "size": [
+            "2",
+            "TB"
+        ],
+        "price": "53820",
+        "img": "//img.danawa.com/prod_img/500000/206/795/img/1795206_1.jpg?shrink=330:*&_v=20200528112851",
+        "Cate": "HDD"
+    },
+    {
+        "name": "도시바 DT01 7200/64M",
+        "brand": "도시바",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "3TB",
+            "SATA3(6Gb/s)",
+            "7,200RPM",
+            "메모리 64MB",
+            "두께: 26.1mm",
+            "소음(유휴/탐색): 27/28dB",
+            "A/S 정보: 2년",
+            "680g"
+        ],
+        "size": [
+            "1",
+            "TB"
+        ],
+        "price": "67840",
+        "img": "//img.danawa.com/prod_img/500000/206/795/img/1795206_1.jpg?shrink=330:*&_v=20200528112851",
+        "Cate": "HDD"
+    },
+    {
+        "name": "도시바 DT01 7200/64M",
+        "brand": "도시바",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "3TB",
+            "SATA3(6Gb/s)",
+            "7,200RPM",
+            "메모리 64MB",
+            "두께: 26.1mm",
+            "소음(유휴/탐색): 27/28dB",
+            "A/S 정보: 2년",
+            "680g"
+        ],
+        "size": [
+            "500",
+            "GB"
+        ],
+        "price": "61050",
+        "img": "//img.danawa.com/prod_img/500000/206/795/img/1795206_1.jpg?shrink=330:*&_v=20200528112851",
+        "Cate": "HDD"
+    },
+    {
+        "name": "도시바 X300 Refresh 7200/256M",
+        "brand": "도시바",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "4TB",
+            "SATA3 (6Gb/s)",
+            "7,200RPM",
+            "메모리 256MB",
+            "기록방식: CMR(PMR)",
+            "두께: 26.1mm",
+            "DSA",
+            "사용보증: 60만시간",
+            "소음(유휴/탐색): 31dB",
+            "A/S 정보: 2년"
+        ],
+        "size": [
+            "8",
+            "TB"
+        ],
+        "price": "276780",
+        "img": "//img.danawa.com/prod_img/500000/695/687/img/15687695_1.jpg?shrink=330:*&_v=20211115142017",
+        "Cate": "HDD"
+    },
+    {
+        "name": "도시바 X300 Refresh 7200/256M",
+        "brand": "도시바",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "4TB",
+            "SATA3 (6Gb/s)",
+            "7,200RPM",
+            "메모리 256MB",
+            "기록방식: CMR(PMR)",
+            "두께: 26.1mm",
+            "DSA",
+            "사용보증: 60만시간",
+            "소음(유휴/탐색): 31dB",
+            "A/S 정보: 2년"
+        ],
+        "size": [
+            "6",
+            "TB"
+        ],
+        "price": "237990",
+        "img": "//img.danawa.com/prod_img/500000/695/687/img/15687695_1.jpg?shrink=330:*&_v=20211115142017",
+        "Cate": "HDD"
+    },
+    {
+        "name": "도시바 X300 Refresh 7200/256M",
+        "brand": "도시바",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "4TB",
+            "SATA3 (6Gb/s)",
+            "7,200RPM",
+            "메모리 256MB",
+            "기록방식: CMR(PMR)",
+            "두께: 26.1mm",
+            "DSA",
+            "사용보증: 60만시간",
+            "소음(유휴/탐색): 31dB",
+            "A/S 정보: 2년"
+        ],
+        "size": [
+            "4",
+            "TB"
+        ],
+        "price": "148000",
+        "img": "//img.danawa.com/prod_img/500000/695/687/img/15687695_1.jpg?shrink=330:*&_v=20211115142017",
+        "Cate": "HDD"
+    },
+    {
+        "name": "도시바 DT01 7200/32M",
+        "brand": "도시바",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "1TB",
+            "SATA3(6Gb/s)",
+            "7,200RPM",
+            "메모리 32MB",
+            "두께: 26.1mm",
+            "소음(유휴/탐색): 25/26dB",
+            "A/S 정보: 2년",
+            "450g"
+        ],
+        "size": [
+            "1",
+            "TB"
+        ],
+        "price": "42640",
+        "img": "//img.danawa.com/prod_img/500000/899/713/img/1713899_1.jpg?shrink=330:*&_v=20200528112851",
+        "Cate": "HDD"
+    },
+    {
+        "name": "도시바 DT01 7200/32M",
+        "brand": "도시바",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "1TB",
+            "SATA3(6Gb/s)",
+            "7,200RPM",
+            "메모리 32MB",
+            "두께: 26.1mm",
+            "소음(유휴/탐색): 25/26dB",
+            "A/S 정보: 2년",
+            "450g"
+        ],
+        "size": [
+            "500",
+            "GB"
+        ],
+        "price": "65000",
+        "img": "//img.danawa.com/prod_img/500000/899/713/img/1713899_1.jpg?shrink=330:*&_v=20200528112851",
+        "Cate": "HDD"
+    },
+    {
+        "name": "도시바 MQ04 5400/128M/노트북용",
+        "brand": "도시바",
+        "spec": [
+            "HDD (노트북용)",
+            "6.4cm(2.5인치)",
+            "1TB",
+            "SATA3 (6Gb/s)",
+            "5,400RPM",
+            "메모리 128MB",
+            "소음(유휴/탐색): 19/21dB"
+        ],
+        "size": [
+            "1",
+            "TB"
+        ],
+        "price": "62500",
+        "img": "//img.danawa.com/prod_img/500000/707/721/img/7721707_1.jpg?shrink=330:*&_v=20200528165546",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Sebap Amigos 7200/32M/리퍼비시",
+        "brand": "Sebap",
+        "spec": [
+            "HDD (리퍼비시)",
+            "8.9cm(3.5인치)",
+            "500GB",
+            "SATA3 (6Gb/s)",
+            "7,200RPM",
+            "메모리 32MB",
+            "최대 140MB/s",
+            "기록방식: 확인요망(PMR)",
+            "두께: 26.1mm"
+        ],
+        "size": [
+            "500",
+            "GB"
+        ],
+        "price": "21600",
+        "img": "//img.danawa.com/prod_img/500000/016/137/img/7137016_1.jpg?shrink=330:*&_v=20200528134423",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate Exos X18 7200/256M/리퍼비시",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (리퍼비시)",
+            "8.9cm(3.5인치)",
+            "18TB",
+            "SATA3 (6Gb/s)",
+            "7,200RPM",
+            "메모리 256MB",
+            "270MB/s",
+            "기록방식: CMR(PMR)",
+            "두께: 26.1mm",
+            "헬륨충전"
+        ],
+        "size": [
+            "18",
+            "TB"
+        ],
+        "price": "671000",
+        "img": "//img.danawa.com/prod_img/500000/337/796/img/18796337_1.jpg?shrink=330:*&_v=20230118162958",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Sebap Amigos 7200/64M/리퍼비시",
+        "brand": "Sebap",
+        "spec": [
+            "HDD (리퍼비시)",
+            "8.9cm(3.5인치)",
+            "1TB",
+            "SATA3 (6Gb/s)",
+            "7,200RPM",
+            "메모리 64MB",
+            "최대 140MB/s",
+            "기록방식: 확인요망(PMR)",
+            "두께: 26.1mm"
+        ],
+        "size": [
+            "1",
+            "TB"
+        ],
+        "price": "41250",
+        "img": "//img.danawa.com/prod_img/500000/346/137/img/7137346_1.jpg?shrink=330:*&_v=20200528134420",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Sebap Amigos 5400/64M/리퍼비시",
+        "brand": "Sebap",
+        "spec": [
+            "HDD (리퍼비시)",
+            "8.9cm(3.5인치)",
+            "2TB",
+            "SATA3 (6Gb/s)",
+            "5,400RPM",
+            "메모리 64MB",
+            "최대 140MB/s",
+            "기록방식: 확인요망(PMR)",
+            "두께: 26.1mm"
+        ],
+        "size": [
+            "4",
+            "TB"
+        ],
+        "price": "103000",
+        "img": "//img.danawa.com/prod_img/500000/400/137/img/7137400_1.jpg?shrink=330:*&_v=20200528134417",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Sebap Amigos 5400/64M/리퍼비시",
+        "brand": "Sebap",
+        "spec": [
+            "HDD (리퍼비시)",
+            "8.9cm(3.5인치)",
+            "2TB",
+            "SATA3 (6Gb/s)",
+            "5,400RPM",
+            "메모리 64MB",
+            "최대 140MB/s",
+            "기록방식: 확인요망(PMR)",
+            "두께: 26.1mm"
+        ],
+        "size": [
+            "3",
+            "TB"
+        ],
+        "price": "73000",
+        "img": "//img.danawa.com/prod_img/500000/400/137/img/7137400_1.jpg?shrink=330:*&_v=20200528134417",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Sebap Amigos 5400/64M/리퍼비시",
+        "brand": "Sebap",
+        "spec": [
+            "HDD (리퍼비시)",
+            "8.9cm(3.5인치)",
+            "2TB",
+            "SATA3 (6Gb/s)",
+            "5,400RPM",
+            "메모리 64MB",
+            "최대 140MB/s",
+            "기록방식: 확인요망(PMR)",
+            "두께: 26.1mm"
+        ],
+        "size": [
+            "2",
+            "TB"
+        ],
+        "price": "55890",
+        "img": "//img.danawa.com/prod_img/500000/400/137/img/7137400_1.jpg?shrink=330:*&_v=20200528134417",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Sebap Amigos 5400/64M/리퍼비시",
+        "brand": "Sebap",
+        "spec": [
+            "HDD (리퍼비시)",
+            "8.9cm(3.5인치)",
+            "2TB",
+            "SATA3 (6Gb/s)",
+            "5,400RPM",
+            "메모리 64MB",
+            "최대 140MB/s",
+            "기록방식: 확인요망(PMR)",
+            "두께: 26.1mm"
+        ],
+        "size": [
+            "2",
+            "TB"
+        ],
+        "price": "52800",
+        "img": "//img.danawa.com/prod_img/500000/400/137/img/7137400_1.jpg?shrink=330:*&_v=20200528134417",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD BLACK 7200/128M",
+        "brand": "Western",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "8TB",
+            "SATA3 (6Gb/s)",
+            "7,200RPM",
+            "메모리 128MB",
+            "238MB/s",
+            "기록방식: CMR(PMR)",
+            "두께: 26.1mm",
+            "소음(유휴/탐색): 28/34dB",
+            "A/S 정보: 5년"
+        ],
+        "size": [
+            "8",
+            "TB"
+        ],
+        "price": "395000",
+        "img": "//img.danawa.com/prod_img/500000/964/406/img/18406964_1.jpg?shrink=330:*&_v=20221201134528",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD HA500 5400/64M/리퍼비시",
+        "brand": "Western",
+        "spec": [
+            "HDD (리퍼비시)",
+            "8.9cm(3.5인치)",
+            "4TB",
+            "SATA3 (6Gb/s)",
+            "5,400RPM"
+        ],
+        "size": [
+            "4",
+            "TB"
+        ],
+        "price": "93500",
+        "img": "//img.danawa.com/prod_img/500000/715/976/img/18976715_1.jpg?shrink=330:*&_v=20230209112424",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Sebap BUSCAR CCTV 5400/64M/리퍼비시",
+        "brand": "Sebap",
+        "spec": [
+            "HDD (리퍼비시)",
+            "8.9cm(3.5인치)",
+            "4TB",
+            "SATA3 (6Gb/s)",
+            "5,400RPM",
+            "메모리 64MB",
+            "150MB/s",
+            "기록방식: 확인요망(PMR)",
+            "사용보증: 100만시간"
+        ],
+        "size": [
+            "6",
+            "TB"
+        ],
+        "price": "127600",
+        "img": "//img.danawa.com/prod_img/500000/415/995/img/14995415_1.jpg?shrink=330:*&_v=20210812164037",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Sebap BUSCAR CCTV 5400/64M/리퍼비시",
+        "brand": "Sebap",
+        "spec": [
+            "HDD (리퍼비시)",
+            "8.9cm(3.5인치)",
+            "4TB",
+            "SATA3 (6Gb/s)",
+            "5,400RPM",
+            "메모리 64MB",
+            "150MB/s",
+            "기록방식: 확인요망(PMR)",
+            "사용보증: 100만시간"
+        ],
+        "size": [
+            "5",
+            "TB"
+        ],
+        "price": "109140",
+        "img": "//img.danawa.com/prod_img/500000/415/995/img/14995415_1.jpg?shrink=330:*&_v=20210812164037",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Sebap BUSCAR CCTV 5400/64M/리퍼비시",
+        "brand": "Sebap",
+        "spec": [
+            "HDD (리퍼비시)",
+            "8.9cm(3.5인치)",
+            "4TB",
+            "SATA3 (6Gb/s)",
+            "5,400RPM",
+            "메모리 64MB",
+            "150MB/s",
+            "기록방식: 확인요망(PMR)",
+            "사용보증: 100만시간"
+        ],
+        "size": [
+            "4",
+            "TB"
+        ],
+        "price": "102950",
+        "img": "//img.danawa.com/prod_img/500000/415/995/img/14995415_1.jpg?shrink=330:*&_v=20210812164037",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Sebap BUSCAR CCTV 5400/64M/리퍼비시",
+        "brand": "Sebap",
+        "spec": [
+            "HDD (리퍼비시)",
+            "8.9cm(3.5인치)",
+            "4TB",
+            "SATA3 (6Gb/s)",
+            "5,400RPM",
+            "메모리 64MB",
+            "150MB/s",
+            "기록방식: 확인요망(PMR)",
+            "사용보증: 100만시간"
+        ],
+        "size": [
+            "3",
+            "TB"
+        ],
+        "price": "77000",
+        "img": "//img.danawa.com/prod_img/500000/415/995/img/14995415_1.jpg?shrink=330:*&_v=20210812164037",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Sebap BUSCAR CCTV 5400/64M/리퍼비시",
+        "brand": "Sebap",
+        "spec": [
+            "HDD (리퍼비시)",
+            "8.9cm(3.5인치)",
+            "4TB",
+            "SATA3 (6Gb/s)",
+            "5,400RPM",
+            "메모리 64MB",
+            "150MB/s",
+            "기록방식: 확인요망(PMR)",
+            "사용보증: 100만시간"
+        ],
+        "size": [
+            "2",
+            "TB"
+        ],
+        "price": "55200",
+        "img": "//img.danawa.com/prod_img/500000/415/995/img/14995415_1.jpg?shrink=330:*&_v=20210812164037",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Sebap BUSCAR CCTV 5400/64M/리퍼비시",
+        "brand": "Sebap",
+        "spec": [
+            "HDD (리퍼비시)",
+            "8.9cm(3.5인치)",
+            "4TB",
+            "SATA3 (6Gb/s)",
+            "5,400RPM",
+            "메모리 64MB",
+            "150MB/s",
+            "기록방식: 확인요망(PMR)",
+            "사용보증: 100만시간"
+        ],
+        "size": [
+            "1",
+            "TB"
+        ],
+        "price": "44000",
+        "img": "//img.danawa.com/prod_img/500000/415/995/img/14995415_1.jpg?shrink=330:*&_v=20210812164037",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital Ultrastar DC HC320 7200/256M/리퍼비시",
+        "brand": "Western",
+        "spec": [
+            "HDD (리퍼비시)",
+            "8.9cm(3.5인치)",
+            "8TB",
+            "SATA3 (6Gb/s)",
+            "7,200RPM",
+            "메모리 256MB",
+            "최대 255MB/s",
+            "기록방식: 확인요망(PMR)",
+            "두께: 26.1mm",
+            "RV센서",
+            "DSA",
+            "소음(유휴/탐색): 29/36dB",
+            "24시간 연중무휴 작동설계",
+            "PMR"
+        ],
+        "size": [
+            "8",
+            "TB"
+        ],
+        "price": "179990",
+        "img": "//img.danawa.com/prod_img/500000/949/593/img/17593949_1.jpg?shrink=330:*&_v=20230817183153",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital Ultrastar DC HC320 7200/256M/리퍼비시",
+        "brand": "Western",
+        "spec": [
+            "HDD (리퍼비시)",
+            "8.9cm(3.5인치)",
+            "8TB",
+            "SATA3 (6Gb/s)",
+            "7,200RPM",
+            "메모리 256MB",
+            "최대 255MB/s",
+            "기록방식: 확인요망(PMR)",
+            "두께: 26.1mm",
+            "RV센서",
+            "DSA",
+            "소음(유휴/탐색): 29/36dB",
+            "24시간 연중무휴 작동설계",
+            "PMR"
+        ],
+        "size": [
+            "8",
+            "TB"
+        ],
+        "price": "203300",
+        "img": "//img.danawa.com/prod_img/500000/949/593/img/17593949_1.jpg?shrink=330:*&_v=20230817183153",
+        "Cate": "HDD"
+    },
+    {
+        "name": "ablelead ASIO 5900/64M",
+        "brand": "ablelead",
+        "spec": [
+            "HDD (리퍼비시)",
+            "8.9cm(3.5인치)",
+            "4TB",
+            "SATA3 (6Gb/s)",
+            "5,900RPM",
+            "메모리 64MB",
+            "150MB/s",
+            "기록방식: CMR(PMR)",
+            "사용보증: 100만시간",
+            "A/S 정보: 3년",
+            "CCTV용",
+            "재인증 HDD"
+        ],
+        "size": [
+            "4",
+            "TB"
+        ],
+        "price": "118380",
+        "img": "//img.danawa.com/prod_img/500000/957/204/img/20204957_1.jpg?shrink=330:*&_v=20230522180511",
+        "Cate": "HDD"
+    },
+    {
+        "name": "ablelead ASIO 5900/64M",
+        "brand": "ablelead",
+        "spec": [
+            "HDD (리퍼비시)",
+            "8.9cm(3.5인치)",
+            "4TB",
+            "SATA3 (6Gb/s)",
+            "5,900RPM",
+            "메모리 64MB",
+            "150MB/s",
+            "기록방식: CMR(PMR)",
+            "사용보증: 100만시간",
+            "A/S 정보: 3년",
+            "CCTV용",
+            "재인증 HDD"
+        ],
+        "size": [
+            "2",
+            "TB"
+        ],
+        "price": "67650",
+        "img": "//img.danawa.com/prod_img/500000/957/204/img/20204957_1.jpg?shrink=330:*&_v=20230522180511",
+        "Cate": "HDD"
+    },
+    {
+        "name": "ablelead ASIO 5900/64M",
+        "brand": "ablelead",
+        "spec": [
+            "HDD (리퍼비시)",
+            "8.9cm(3.5인치)",
+            "4TB",
+            "SATA3 (6Gb/s)",
+            "5,900RPM",
+            "메모리 64MB",
+            "150MB/s",
+            "기록방식: CMR(PMR)",
+            "사용보증: 100만시간",
+            "A/S 정보: 3년",
+            "CCTV용",
+            "재인증 HDD"
+        ],
+        "size": [
+            "3",
+            "TB"
+        ],
+        "price": "87730",
+        "img": "//img.danawa.com/prod_img/500000/957/204/img/20204957_1.jpg?shrink=330:*&_v=20230522180511",
+        "Cate": "HDD"
+    },
+    {
+        "name": "ablelead ASIO 5900/64M",
+        "brand": "ablelead",
+        "spec": [
+            "HDD (리퍼비시)",
+            "8.9cm(3.5인치)",
+            "4TB",
+            "SATA3 (6Gb/s)",
+            "5,900RPM",
+            "메모리 64MB",
+            "150MB/s",
+            "기록방식: CMR(PMR)",
+            "사용보증: 100만시간",
+            "A/S 정보: 3년",
+            "CCTV용",
+            "재인증 HDD"
+        ],
+        "size": [
+            "1",
+            "TB"
+        ],
+        "price": "52850",
+        "img": "//img.danawa.com/prod_img/500000/957/204/img/20204957_1.jpg?shrink=330:*&_v=20230522180511",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 7200/256M/해외구매",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "2TB",
+            "SATA3 (6Gb/s)",
+            "7,200RPM",
+            "메모리 256MB",
+            "최대 220MB/s",
+            "기록방식: SMR(PMR)",
+            "두께: 20.2mm",
+            "무게 : 최대 490g"
+        ],
+        "size": [
+            "2",
+            "TB"
+        ],
+        "price": "75550",
+        "img": "//img.danawa.com/prod_img/500000/853/533/img/7533853_1.jpg?shrink=330:*&_v=20200528093624",
+        "Cate": "HDD"
+    },
+    {
+        "name": "도시바 MQ01ABF SATA2/5400/8M/노트북용",
+        "brand": "도시바",
+        "spec": [
+            "HDD (노트북용)",
+            "6.4cm(2.5인치)",
+            "500GB",
+            "SATA2(3Gb/s)",
+            "5,400RPM",
+            "메모리 8MB",
+            "두께: 7mm"
+        ],
+        "size": [
+            "500",
+            "GB"
+        ],
+        "price": "39790",
+        "img": "//img.danawa.com/prod_img/500000/473/570/img/2570473_1.jpg?shrink=330:*&_v=20200528165915",
+        "Cate": "HDD"
+    },
+    {
+        "name": "HGST Ultrastar 7K6000 7200/128M/리퍼비시",
+        "brand": "HGST",
+        "spec": [
+            "HDD (리퍼비시)",
+            "8.9cm(3.5인치)",
+            "4TB",
+            "SATA3 (6Gb/s)",
+            "7,200RPM",
+            "메모리 128MB",
+            "두께: 26.1mm"
+        ],
+        "size": [
+            "4",
+            "TB"
+        ],
+        "price": "98440",
+        "img": "//img.danawa.com/prod_img/500000/195/638/img/27638195_1.jpg?shrink=330:*&_v=20230817185104",
+        "Cate": "HDD"
+    },
+    {
+        "name": "도시바 MQ01ABD SATA2/5400/8M/노트북용/해외구매",
+        "brand": "도시바",
+        "spec": [
+            "HDD (노트북용)",
+            "6.4cm(2.5인치)",
+            "1TB",
+            "SATA2(3Gb/s)",
+            "5,400RPM",
+            "메모리 8MB",
+            "117g"
+        ],
+        "size": [
+            "1",
+            "TB"
+        ],
+        "price": "33000",
+        "img": "//img.danawa.com/prod_img/500000/063/936/img/2936063_1.jpg?shrink=330:*&_v=20200528155132",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda Pro 7200/128M/노트북용/해외구매",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (노트북용)",
+            "6.4cm(2.5인치)",
+            "1TB",
+            "SATA3 (6Gb/s)",
+            "7,200RPM",
+            "메모리 128MB",
+            "최대 160MB/s",
+            "두께: 7mm",
+            "저전력",
+            "소음(유휴/탐색): 22/24dB",
+            "다층캐싱(MTC)",
+            "무게: 최대 85g"
+        ],
+        "size": [
+            "1",
+            "TB"
+        ],
+        "price": "52000",
+        "img": "//img.danawa.com/prod_img/500000/147/963/img/14963147_1.jpg?shrink=330:*&_v=20210810123324",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda Pro 7200/128M/노트북용/해외구매",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (노트북용)",
+            "6.4cm(2.5인치)",
+            "1TB",
+            "SATA3 (6Gb/s)",
+            "7,200RPM",
+            "메모리 128MB",
+            "최대 160MB/s",
+            "두께: 7mm",
+            "저전력",
+            "소음(유휴/탐색): 22/24dB",
+            "다층캐싱(MTC)",
+            "무게: 최대 85g"
+        ],
+        "size": [
+            "500",
+            "GB"
+        ],
+        "price": "일시품절",
+        "img": "//img.danawa.com/prod_img/500000/147/963/img/14963147_1.jpg?shrink=330:*&_v=20210810123324",
+        "Cate": "HDD"
+    },
+    {
+        "name": "도시바 MQ01ABF 5400/8M/노트북용",
+        "brand": "도시바",
+        "spec": [
+            "HDD (노트북용)",
+            "6.4cm(2.5인치)",
+            "500GB",
+            "SATA3(6Gb/s)",
+            "5,400RPM",
+            "메모리 8MB",
+            "두께: 7mm",
+            "저전력",
+            "소음(유휴/탐색): 19/21dB"
+        ],
+        "size": [
+            "500",
+            "GB"
+        ],
+        "price": "61600",
+        "img": "//img.danawa.com/prod_img/500000/020/664/img/2664020_1.jpg?shrink=330:*&_v=20200528165915",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Sebap Amigos 5400/256M/리퍼비시",
+        "brand": "Sebap",
+        "spec": [
+            "HDD (리퍼비시)",
+            "8.9cm(3.5인치)",
+            "6TB",
+            "SATA3 (6Gb/s)",
+            "5,400RPM",
+            "메모리 256MB",
+            "최대 185MB/s",
+            "기록방식: 확인요망(PMR)"
+        ],
+        "size": [
+            "8",
+            "TB"
+        ],
+        "price": "209720",
+        "img": "//img.danawa.com/prod_img/500000/958/416/img/9416958_1.jpg?shrink=330:*&_v=20200528134408",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Sebap Amigos 5400/256M/리퍼비시",
+        "brand": "Sebap",
+        "spec": [
+            "HDD (리퍼비시)",
+            "8.9cm(3.5인치)",
+            "6TB",
+            "SATA3 (6Gb/s)",
+            "5,400RPM",
+            "메모리 256MB",
+            "최대 185MB/s",
+            "기록방식: 확인요망(PMR)"
+        ],
+        "size": [
+            "6",
+            "TB"
+        ],
+        "price": "118770",
+        "img": "//img.danawa.com/prod_img/500000/958/416/img/9416958_1.jpg?shrink=330:*&_v=20200528134408",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate Momentus SATA2/5400/8M/노트북용/해외구매",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (노트북용)",
+            "6.4cm(2.5인치)",
+            "1TB",
+            "SATA2(3Gb/s)",
+            "5,400RPM",
+            "메모리 8MB"
+        ],
+        "size": [
+            "1",
+            "TB"
+        ],
+        "price": "40000",
+        "img": "//img.danawa.com/prod_img/500000/936/851/img/2851936_1.jpg?shrink=330:*&_v=20200529094332",
+        "Cate": "HDD"
+    },
+    {
+        "name": "삼성전자 Spinpoint F3 SATA2/7200/32M/리퍼비시",
+        "brand": "삼성전자",
+        "spec": [
+            "HDD (리퍼비시)",
+            "8.9cm(3.5인치)",
+            "1TB",
+            "SATA2(3Gb/s)",
+            "7,200RPM",
+            "32MB"
+        ],
+        "size": [
+            "1",
+            "TB"
+        ],
+        "price": "18500",
+        "img": "//img.danawa.com/prod_img/500000/262/529/img/1529262_1.jpg?shrink=330:*&_v=20200529091930",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 7200/64M/병행수입",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "2TB",
+            "SATA3(6Gb/s)",
+            "7,200RPM",
+            "메모리 64MB",
+            "두께: 26.1mm"
+        ],
+        "size": [
+            "1",
+            "TB"
+        ],
+        "price": "54120",
+        "img": "//img.danawa.com/prod_img/500000/316/772/img/18772316_1.jpg?shrink=330:*&_v=20230116190820",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 7200/64M/병행수입",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "2TB",
+            "SATA3(6Gb/s)",
+            "7,200RPM",
+            "메모리 64MB",
+            "두께: 26.1mm"
+        ],
+        "size": [
+            "2",
+            "TB"
+        ],
+        "price": "69870",
+        "img": "//img.danawa.com/prod_img/500000/316/772/img/18772316_1.jpg?shrink=330:*&_v=20230116190820",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Sebap Brillante 5400/128M/노트북용/리퍼비시",
+        "brand": "Sebap",
+        "spec": [
+            "HDD (리퍼비시)",
+            "6.4cm(2.5인치)",
+            "320GB",
+            "SATA3 (6Gb/s)",
+            "5,400RPM",
+            "메모리 128MB",
+            "최대 140MB/s",
+            "기록방식: 확인요망(PMR)",
+            "두께: 9mm"
+        ],
+        "size": [
+            "1",
+            "TB"
+        ],
+        "price": "49800",
+        "img": "//img.danawa.com/prod_img/500000/121/669/img/6669121_1.jpg?shrink=330:*&_v=20200529165111",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Sebap Brillante 5400/128M/노트북용/리퍼비시",
+        "brand": "Sebap",
+        "spec": [
+            "HDD (리퍼비시)",
+            "6.4cm(2.5인치)",
+            "320GB",
+            "SATA3 (6Gb/s)",
+            "5,400RPM",
+            "메모리 128MB",
+            "최대 140MB/s",
+            "기록방식: 확인요망(PMR)",
+            "두께: 9mm"
+        ],
+        "size": [
+            "2",
+            "TB"
+        ],
+        "price": "93310",
+        "img": "//img.danawa.com/prod_img/500000/121/669/img/6669121_1.jpg?shrink=330:*&_v=20200529165111",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Sebap Brillante 5400/128M/노트북용/리퍼비시",
+        "brand": "Sebap",
+        "spec": [
+            "HDD (리퍼비시)",
+            "6.4cm(2.5인치)",
+            "320GB",
+            "SATA3 (6Gb/s)",
+            "5,400RPM",
+            "메모리 128MB",
+            "최대 140MB/s",
+            "기록방식: 확인요망(PMR)",
+            "두께: 9mm"
+        ],
+        "size": [
+            "320",
+            "GB"
+        ],
+        "price": "24080",
+        "img": "//img.danawa.com/prod_img/500000/121/669/img/6669121_1.jpg?shrink=330:*&_v=20200529165111",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Sebap Brillante 5400/128M/노트북용/리퍼비시",
+        "brand": "Sebap",
+        "spec": [
+            "HDD (리퍼비시)",
+            "6.4cm(2.5인치)",
+            "320GB",
+            "SATA3 (6Gb/s)",
+            "5,400RPM",
+            "메모리 128MB",
+            "최대 140MB/s",
+            "기록방식: 확인요망(PMR)",
+            "두께: 9mm"
+        ],
+        "size": [
+            "500",
+            "GB"
+        ],
+        "price": "25380",
+        "img": "//img.danawa.com/prod_img/500000/121/669/img/6669121_1.jpg?shrink=330:*&_v=20200529165111",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD BLUE 5400/256M/리퍼비시",
+        "brand": "Western",
+        "spec": [
+            "HDD (리퍼비시)",
+            "8.9cm(3.5인치)",
+            "2TB",
+            "SATA3(6Gb/s)",
+            "5,400RPM",
+            "메모리 256MB",
+            "최대 170MB/s",
+            "기록방식: SMR(PMR)",
+            "두께: 26.1mm",
+            "소음(유휴/탐색): 21/26dB",
+            "NoTouch 램프로드 기술"
+        ],
+        "size": [
+            "2",
+            "TB"
+        ],
+        "price": "50500",
+        "img": "//img.danawa.com/prod_img/500000/838/593/img/17593838_1.jpg?shrink=330:*&_v=20220803153854",
+        "Cate": "HDD"
+    },
+    {
+        "name": "도시바 DT01 7200/32M/리퍼비시",
+        "brand": "도시바",
+        "spec": [
+            "HDD (리퍼비시)",
+            "8.9cm(3.5인치)",
+            "500GB",
+            "SATA3(6Gb/s)",
+            "7,200RPM",
+            "메모리 32MB",
+            "450g"
+        ],
+        "size": [
+            "500",
+            "GB"
+        ],
+        "price": "7000",
+        "img": "//img.danawa.com/prod_img/500000/033/081/img/3081033_1.jpg?shrink=330:*&_v=20200609112335",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD BLUE 5400/256M/해외구매",
+        "brand": "Western",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "4TB",
+            "SATA3(6Gb/s)",
+            "5,400RPM",
+            "메모리 256MB",
+            "최대 180MB/s",
+            "기록방식: SMR(PMR)",
+            "두께: 26.1mm",
+            "소음(유휴/탐색): 23/27dB",
+            "NoTouch 램프로드 기술"
+        ],
+        "size": [
+            "6",
+            "TB"
+        ],
+        "price": "187900",
+        "img": "//img.danawa.com/prod_img/500000/284/659/img/13659284_1.jpg?shrink=330:*&_v=20210319160514",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD BLUE 5400/256M/해외구매",
+        "brand": "Western",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "4TB",
+            "SATA3(6Gb/s)",
+            "5,400RPM",
+            "메모리 256MB",
+            "최대 180MB/s",
+            "기록방식: SMR(PMR)",
+            "두께: 26.1mm",
+            "소음(유휴/탐색): 23/27dB",
+            "NoTouch 램프로드 기술"
+        ],
+        "size": [
+            "4",
+            "TB"
+        ],
+        "price": "168380",
+        "img": "//img.danawa.com/prod_img/500000/284/659/img/13659284_1.jpg?shrink=330:*&_v=20210319160514",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD BLUE 5400/256M/해외구매",
+        "brand": "Western",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "4TB",
+            "SATA3(6Gb/s)",
+            "5,400RPM",
+            "메모리 256MB",
+            "최대 180MB/s",
+            "기록방식: SMR(PMR)",
+            "두께: 26.1mm",
+            "소음(유휴/탐색): 23/27dB",
+            "NoTouch 램프로드 기술"
+        ],
+        "size": [
+            "4",
+            "TB"
+        ],
+        "price": "128000",
+        "img": "//img.danawa.com/prod_img/500000/284/659/img/13659284_1.jpg?shrink=330:*&_v=20210319160514",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD BLUE 5400/256M/해외구매",
+        "brand": "Western",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "4TB",
+            "SATA3(6Gb/s)",
+            "5,400RPM",
+            "메모리 256MB",
+            "최대 180MB/s",
+            "기록방식: SMR(PMR)",
+            "두께: 26.1mm",
+            "소음(유휴/탐색): 23/27dB",
+            "NoTouch 램프로드 기술"
+        ],
+        "size": [
+            "6",
+            "TB"
+        ],
+        "price": "178400",
+        "img": "//img.danawa.com/prod_img/500000/284/659/img/13659284_1.jpg?shrink=330:*&_v=20210319160514",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD BLUE 5400/256M/해외구매",
+        "brand": "Western",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "4TB",
+            "SATA3(6Gb/s)",
+            "5,400RPM",
+            "메모리 256MB",
+            "최대 180MB/s",
+            "기록방식: SMR(PMR)",
+            "두께: 26.1mm",
+            "소음(유휴/탐색): 23/27dB",
+            "NoTouch 램프로드 기술"
+        ],
+        "size": [
+            "3",
+            "TB"
+        ],
+        "price": "134970",
+        "img": "//img.danawa.com/prod_img/500000/284/659/img/13659284_1.jpg?shrink=330:*&_v=20210319160514",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD BLUE 5400/256M/해외구매",
+        "brand": "Western",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "4TB",
+            "SATA3(6Gb/s)",
+            "5,400RPM",
+            "메모리 256MB",
+            "최대 180MB/s",
+            "기록방식: SMR(PMR)",
+            "두께: 26.1mm",
+            "소음(유휴/탐색): 23/27dB",
+            "NoTouch 램프로드 기술"
+        ],
+        "size": [
+            "3",
+            "TB"
+        ],
+        "price": "108590",
+        "img": "//img.danawa.com/prod_img/500000/284/659/img/13659284_1.jpg?shrink=330:*&_v=20210319160514",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD BLUE 5400/256M/해외구매",
+        "brand": "Western",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "4TB",
+            "SATA3(6Gb/s)",
+            "5,400RPM",
+            "메모리 256MB",
+            "최대 180MB/s",
+            "기록방식: SMR(PMR)",
+            "두께: 26.1mm",
+            "소음(유휴/탐색): 23/27dB",
+            "NoTouch 램프로드 기술"
+        ],
+        "size": [
+            "2",
+            "TB"
+        ],
+        "price": "86060",
+        "img": "//img.danawa.com/prod_img/500000/284/659/img/13659284_1.jpg?shrink=330:*&_v=20210319160514",
+        "Cate": "HDD"
+    },
+    {
+        "name": "HGST Travelstar Z5K500.B 5400/16M/노트북용",
+        "brand": "HGST",
+        "spec": [
+            "HDD (노트북용)",
+            "6.4cm(2.5인치)",
+            "500GB",
+            "SATA3 (6Gb/s)",
+            "5,400RPM",
+            "메모리 16MB",
+            "최대 147MB/s",
+            "두께: 7mm",
+            "소음(유휴/탐색): 17/22dB"
+        ],
+        "size": [
+            "500",
+            "GB"
+        ],
+        "price": "43490",
+        "img": "//img.danawa.com/prod_img/500000/853/367/img/4367853_1.jpg?shrink=330:*&_v=20200528131011",
+        "Cate": "HDD"
+    },
+    {
+        "name": "도시바 MD04 7200/128M",
+        "brand": "도시바",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "4TB",
+            "SATA3(6Gb/s)",
+            "7,200RPM",
+            "메모리 128MB",
+            "두께: 26.1mm",
+            "소음(유휴/탐색): 31/34dB",
+            "A/S 정보: 2년"
+        ],
+        "size": [
+            "4",
+            "TB"
+        ],
+        "price": "166500",
+        "img": "//img.danawa.com/prod_img/500000/364/835/img/3835364_1.jpg?shrink=330:*&_v=20200528112216",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD MOBILE BLUE 5400/128M/노트북용/해외구매",
+        "brand": "Western",
+        "spec": [
+            "HDD (노트북용)",
+            "6.4cm(2.5인치)",
+            "1TB",
+            "SATA3 (6Gb/s)",
+            "5,400RPM",
+            "메모리 128MB",
+            "기록방식: SMR(PMR)",
+            "두께: 7mm",
+            "소음(유휴/탐색): 19/21dB"
+        ],
+        "size": [
+            "1",
+            "TB"
+        ],
+        "price": "62030",
+        "img": "//img.danawa.com/prod_img/500000/321/852/img/14852321_1.jpg?shrink=330:*&_v=20210727170223",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD MOBILE BLACK 7200/64M/노트북용",
+        "brand": "Western",
+        "spec": [
+            "HDD (노트북용)",
+            "6.4cm(2.5인치)",
+            "500GB",
+            "SATA3 (6Gb/s)",
+            "7,200RPM",
+            "메모리 64MB",
+            "기록방식: SMR(PMR)",
+            "두께: 7mm",
+            "RV센서",
+            "소음(유휴/탐색): 24/25dB",
+            "A/S 정보: 5년"
+        ],
+        "size": [
+            "500",
+            "GB"
+        ],
+        "price": "64000",
+        "img": "//img.danawa.com/prod_img/500000/413/834/img/12834413_1.jpg?shrink=330:*&_v=20211118160148",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 5400/128M/노트북용/해외구매",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (노트북용)",
+            "6.4cm(2.5인치)",
+            "4TB",
+            "SATA3 (6Gb/s)",
+            "5,400RPM",
+            "메모리 128MB",
+            "최대 140MB/s",
+            "두께: 15mm",
+            "소음(유휴/탐색): 26/27dB",
+            "무게: 최대 190g"
+        ],
+        "size": [
+            "4",
+            "TB"
+        ],
+        "price": "201000",
+        "img": "//img.danawa.com/prod_img/500000/140/721/img/9721140_1.jpg?shrink=330:*&_v=20200528093624",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 5400/128M/노트북용/해외구매",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (노트북용)",
+            "6.4cm(2.5인치)",
+            "4TB",
+            "SATA3 (6Gb/s)",
+            "5,400RPM",
+            "메모리 128MB",
+            "최대 140MB/s",
+            "두께: 15mm",
+            "소음(유휴/탐색): 26/27dB",
+            "무게: 최대 190g"
+        ],
+        "size": [
+            "1",
+            "TB"
+        ],
+        "price": "85000",
+        "img": "//img.danawa.com/prod_img/500000/140/721/img/9721140_1.jpg?shrink=330:*&_v=20200528093624",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD Ultrastar DC HC550 7200/512M/리퍼비시",
+        "brand": "Western",
+        "spec": [
+            "HDD (리퍼비시)",
+            "8.9cm(3.5인치)",
+            "18TB",
+            "SATA3 (6Gb/s)",
+            "7,200RPM",
+            "메모리 512MB",
+            "최대 269MB/s",
+            "기록방식: CMR(PMR)",
+            "두께: 26.1mm",
+            "헬륨충전",
+            "RV센서",
+            "DSA",
+            "S.M.A.R.T 지원"
+        ],
+        "size": [
+            "18",
+            "TB"
+        ],
+        "price": "459000",
+        "img": "//img.danawa.com/prod_img/500000/063/704/img/18704063_1.jpg?shrink=330:*&_v=20230109171151",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD MOBILE BLACK 7200/64M/노트북용/해외구매",
+        "brand": "Western",
+        "spec": [
+            "HDD (노트북용)",
+            "6.4cm(2.5인치)",
+            "500GB",
+            "SATA3 (6Gb/s)",
+            "7,200RPM",
+            "메모리 64MB",
+            "기록방식: SMR(PMR)",
+            "두께: 7mm",
+            "RV센서",
+            "소음(유휴/탐색): 24/25dB"
+        ],
+        "size": [
+            "1",
+            "TB"
+        ],
+        "price": "111020",
+        "img": "//img.danawa.com/prod_img/500000/574/727/img/15727574_1.jpg?shrink=330:*&_v=20211118160200",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD MOBILE BLACK 7200/64M/노트북용/해외구매",
+        "brand": "Western",
+        "spec": [
+            "HDD (노트북용)",
+            "6.4cm(2.5인치)",
+            "500GB",
+            "SATA3 (6Gb/s)",
+            "7,200RPM",
+            "메모리 64MB",
+            "기록방식: SMR(PMR)",
+            "두께: 7mm",
+            "RV센서",
+            "소음(유휴/탐색): 24/25dB"
+        ],
+        "size": [
+            "500",
+            "GB"
+        ],
+        "price": "58410",
+        "img": "//img.danawa.com/prod_img/500000/574/727/img/15727574_1.jpg?shrink=330:*&_v=20211118160200",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate Laptop HDD 5400/32M/노트북용",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (노트북용)",
+            "6.4cm(2.5인치)",
+            "2TB",
+            "SATA3(6Gb/s)",
+            "5,400RPM",
+            "메모리 32MB",
+            "두께: 9.5mm"
+        ],
+        "size": [
+            "2",
+            "TB"
+        ],
+        "price": "198000",
+        "img": "//img.danawa.com/prod_img/500000/758/823/img/2823758_1.jpg?shrink=330:*&_v=20200528173411",
+        "Cate": "HDD"
+    },
+    {
+        "name": "삼성전자 SpinPoint M8 SATA2/5400/8M/노트북용/해외구매",
+        "brand": "삼성전자",
+        "spec": [
+            "HDD (노트북용)",
+            "6.4cm(2.5인치)",
+            "1TB",
+            "SATA2(3Gb/s)",
+            "5,400RPM",
+            "메모리 8MB"
+        ],
+        "size": [
+            "1",
+            "TB"
+        ],
+        "price": "79930",
+        "img": "//img.danawa.com/prod_img/500000/949/851/img/2851949_1.jpg?shrink=330:*&_v=20200529091929",
+        "Cate": "HDD"
+    },
+    {
+        "name": "도시바 MQ01ABD SATA2/5400/8M/노트북용",
+        "brand": "도시바",
+        "spec": [
+            "HDD (노트북용)",
+            "6.4cm(2.5인치)",
+            "1TB",
+            "SATA2(3Gb/s)",
+            "5,400RPM",
+            "메모리 8MB",
+            "두께: 9.5mm",
+            "소음(유휴/탐색): 23/24dB",
+            "A/S 정보: 1년",
+            "117g"
+        ],
+        "size": [
+            "1",
+            "TB"
+        ],
+        "price": "71690",
+        "img": "//img.danawa.com/prod_img/500000/489/654/img/1654489_1.jpg?shrink=330:*&_v=20200528155132",
+        "Cate": "HDD"
+    },
+    {
+        "name": "도시바 DT01 7200/32M/해외구매",
+        "brand": "도시바",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "1TB",
+            "SATA3(6Gb/s)",
+            "7,200RPM",
+            "메모리 32MB",
+            "450g"
+        ],
+        "size": [
+            "1",
+            "TB"
+        ],
+        "price": "42640",
+        "img": "//img.danawa.com/prod_img/500000/367/233/img/2233367_1.jpg?shrink=330:*&_v=20200528112851",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 7200/16M/리퍼비시",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (리퍼비시)",
+            "8.9cm(3.5인치)",
+            "500GB",
+            "SATA3(6Gb/s)",
+            "7,200RPM",
+            "메모리 16MB"
+        ],
+        "size": [
+            "500",
+            "GB"
+        ],
+        "price": "7500",
+        "img": "//img.danawa.com/prod_img/500000/074/804/img/2804074_1.jpg?shrink=330:*&_v=20200528093627",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD Caviar Blue 7200/64M/해외구매",
+        "brand": "Western",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "1TB",
+            "SATA3(6Gb/s)",
+            "7,200RPM",
+            "메모리 64MB"
+        ],
+        "size": [
+            "1",
+            "TB"
+        ],
+        "price": "55500",
+        "img": "//img.danawa.com/prod_img/500000/466/703/img/2703466_1.jpg?shrink=330:*&_v=20200528100050",
+        "Cate": "HDD"
+    },
+    {
+        "name": "MARSHAL FFF 7200/256M/리퍼비시",
+        "brand": "MARSHAL",
+        "spec": [
+            "HDD (리퍼비시)",
+            "8.9cm(3.5인치)",
+            "12TB",
+            "SATA3 (6Gb/s)",
+            "메모리 256MB"
+        ],
+        "size": [
+            "14",
+            "TB"
+        ],
+        "price": "363910",
+        "img": "//img.danawa.com/prod_img/500000/214/704/img/20704214_1.jpg?shrink=330:*&_v=20230627181811",
+        "Cate": "HDD"
+    },
+    {
+        "name": "MARSHAL FFF 7200/256M/리퍼비시",
+        "brand": "MARSHAL",
+        "spec": [
+            "HDD (리퍼비시)",
+            "8.9cm(3.5인치)",
+            "12TB",
+            "SATA3 (6Gb/s)",
+            "메모리 256MB"
+        ],
+        "size": [
+            "12",
+            "TB"
+        ],
+        "price": "332800",
+        "img": "//img.danawa.com/prod_img/500000/214/704/img/20704214_1.jpg?shrink=330:*&_v=20230627181811",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD MOBILE BLUE 5400/8M/노트북용/벌크",
+        "brand": "Western",
+        "spec": [
+            "HDD (노트북용)",
+            "6.4cm(2.5인치)",
+            "500GB",
+            "SATA3(6Gb/s)",
+            "5,400RPM",
+            "메모리 8MB",
+            "90g"
+        ],
+        "size": [
+            "500",
+            "GB"
+        ],
+        "price": "35430",
+        "img": "//img.danawa.com/prod_img/500000/717/375/img/3375717_1.jpg?shrink=330:*&_v=20220802141337",
+        "Cate": "HDD"
+    },
+    {
+        "name": "HGST Travelstar 7K1000 7200/32M/노트북용",
+        "brand": "HGST",
+        "spec": [
+            "HDD (노트북용)",
+            "6.4cm(2.5인치)",
+            "1TB",
+            "SATA3(6Gb/s)",
+            "7,200RPM",
+            "메모리 32MB",
+            "최대 160MB/s",
+            "기록방식: 확인요망(PMR)",
+            "두께: 9.5mm",
+            "소음(유휴/탐색): 25/27dB",
+            "Advenced Format"
+        ],
+        "size": [
+            "1",
+            "TB"
+        ],
+        "price": "96570",
+        "img": "//img.danawa.com/prod_img/500000/072/943/img/1943072_1.jpg?shrink=330:*&_v=20200528112703",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate Laptop Thin SSHD 5400/64M/노트북용/해외구매",
+        "brand": "Seagate",
+        "spec": [
+            "SSHD (노트북용)",
+            "6.4cm(2.5인치)",
+            "500GB",
+            "SATA3(6Gb/s)",
+            "5,400RPM",
+            "메모리 64MB",
+            "SSD 8GB(MLC) 포함",
+            "95g"
+        ],
+        "size": [
+            "500",
+            "GB"
+        ],
+        "price": "56000",
+        "img": "//img.danawa.com/prod_img/500000/129/185/img/3185129_1.jpg?shrink=330:*&_v=20200529180701",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD BLUE 7200/256M 해외구매",
+        "brand": "Western",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "2TB",
+            "SATA3(6Gb/s)",
+            "7,200RPM",
+            "메모리 256MB",
+            "215MB/s",
+            "기록방식: SMR(PMR)",
+            "두께: 26.1mm",
+            "소음(유휴/탐색): 25/27dB",
+            "NoTouch 램프로드 기술"
+        ],
+        "size": [
+            "2",
+            "TB"
+        ],
+        "price": "98640",
+        "img": "//img.danawa.com/prod_img/500000/734/733/img/14733734_1.jpg?shrink=330:*&_v=20210713165848",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 7200/64M/해외구매",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "1TB",
+            "SATA3 (6Gb/s)",
+            "7,200RPM",
+            "메모리 64MB",
+            "기록방식: TGMR",
+            "크기: 최대 101.6 x 146.99 x 20.17mm",
+            "무게: 최대 400g"
+        ],
+        "size": [
+            "2",
+            "TB"
+        ],
+        "price": "일시품절",
+        "img": "//img.danawa.com/prod_img/500000/974/638/img/5638974_1.jpg?shrink=330:*&_v=20200528093625",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 7200/64M/해외구매",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "1TB",
+            "SATA3 (6Gb/s)",
+            "7,200RPM",
+            "메모리 64MB",
+            "기록방식: TGMR",
+            "크기: 최대 101.6 x 146.99 x 20.17mm",
+            "무게: 최대 400g"
+        ],
+        "size": [
+            "1",
+            "TB"
+        ],
+        "price": "66300",
+        "img": "//img.danawa.com/prod_img/500000/974/638/img/5638974_1.jpg?shrink=330:*&_v=20200528093625",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 7200/64M/해외구매",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "1TB",
+            "SATA3 (6Gb/s)",
+            "7,200RPM",
+            "메모리 64MB",
+            "기록방식: TGMR",
+            "크기: 최대 101.6 x 146.99 x 20.17mm",
+            "무게: 최대 400g"
+        ],
+        "size": [
+            "1",
+            "TB"
+        ],
+        "price": "121080",
+        "img": "//img.danawa.com/prod_img/500000/974/638/img/5638974_1.jpg?shrink=330:*&_v=20200528093625",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Fujitsu Mobile HDD EIDE/5400/8M/노트북용",
+        "brand": "Fujitsu",
+        "spec": [
+            "HDD (노트북용)",
+            "6.4cm(2.5인치)",
+            "120GB",
+            "E-IDE",
+            "5,400RPM",
+            "8MB",
+            "두께: 9.5mm"
+        ],
+        "size": [
+            "120",
+            "GB"
+        ],
+        "price": "90000",
+        "img": "//img.danawa.com/prod_img/500000/366/001/img/1001366_1.jpg?shrink=330:*&_v=20200529181230",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD Scorpio Blue SATA3/5400/8M/노트북용/해외구매",
+        "brand": "Western",
+        "spec": [
+            "HDD (노트북용)",
+            "6.4cm(2.5인치)",
+            "1TB",
+            "SATA3(6Gb/s)",
+            "5,400RPM",
+            "메모리 8MB"
+        ],
+        "size": [
+            "1",
+            "TB"
+        ],
+        "price": "62130",
+        "img": "//img.danawa.com/prod_img/500000/665/849/img/2849665_1.jpg?shrink=330:*&_v=20200528100704",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD MOBILE BLUE 5400/128M/노트북용/리퍼비시",
+        "brand": "Western",
+        "spec": [
+            "HDD (리퍼비시)",
+            "6.4cm(2.5인치)",
+            "1TB",
+            "SATA3 (6Gb/s)",
+            "5,400RPM",
+            "메모리 128MB"
+        ],
+        "size": [
+            "1",
+            "TB"
+        ],
+        "price": "50000",
+        "img": "//img.danawa.com/prod_img/500000/503/062/img/28062503_1.jpg?shrink=330:*&_v=20230906161047",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD BLUE 5400/64M/해외구매",
+        "brand": "Western",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "1TB",
+            "SATA3(6Gb/s)",
+            "5,400RPM",
+            "메모리 64MB",
+            "최대 150MB/s",
+            "기록방식: 확인요망(PMR)",
+            "두께: 26.1mm",
+            "소음(유휴/탐색): 21/24dB"
+        ],
+        "size": [
+            "1",
+            "TB"
+        ],
+        "price": "89200",
+        "img": "//img.danawa.com/prod_img/500000/301/271/img/15271301_1.jpg?shrink=330:*&_v=20210916151516",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD BLUE 5400/64M/해외구매",
+        "brand": "Western",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "1TB",
+            "SATA3(6Gb/s)",
+            "5,400RPM",
+            "메모리 64MB",
+            "최대 150MB/s",
+            "기록방식: 확인요망(PMR)",
+            "두께: 26.1mm",
+            "소음(유휴/탐색): 21/24dB"
+        ],
+        "size": [
+            "500",
+            "GB"
+        ],
+        "price": "125850",
+        "img": "//img.danawa.com/prod_img/500000/301/271/img/15271301_1.jpg?shrink=330:*&_v=20210916151516",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 7200/32M/해외구매",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "500GB",
+            "SATA3 (6Gb/s)",
+            "7,200RPM",
+            "메모리 32MB",
+            "최대 210MB/s",
+            "기록방식: TGMR",
+            "두께: 20mm",
+            "소음(유휴/탐색): 22/23dB",
+            "무게: 최대 400g"
+        ],
+        "size": [
+            "500",
+            "GB"
+        ],
+        "price": "45000",
+        "img": "//img.danawa.com/prod_img/500000/083/799/img/7799083_1.jpg?shrink=330:*&_v=20200528093624",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate Constellation.2 SATA/7200/64/해외구매",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "6.4cm(2.5인치)",
+            "1TB",
+            "SATA3(6Gb/s)",
+            "7,200RPM",
+            "메모리 64MB"
+        ],
+        "size": [
+            "1",
+            "TB"
+        ],
+        "price": "87800",
+        "img": "//img.danawa.com/prod_img/500000/005/273/img/3273005_1.jpg?shrink=330:*&_v=20220209152014",
+        "Cate": "HDD"
+    },
+    {
+        "name": "HGST Travelstar Z7K500 7200/32M/노트북용",
+        "brand": "HGST",
+        "spec": [
+            "HDD (노트북용)",
+            "6.4cm(2.5인치)",
+            "500GB",
+            "SATA3(6Gb/s)",
+            "7,200RPM",
+            "메모리 32MB",
+            "최대 171MB/s",
+            "두께: 7mm",
+            "소음(유휴/탐색): 23/24dB",
+            "Advenced Format"
+        ],
+        "size": [
+            "500",
+            "GB"
+        ],
+        "price": "56790",
+        "img": "//img.danawa.com/prod_img/500000/077/943/img/1943077_1.jpg?shrink=330:*&_v=20210319155448",
+        "Cate": "HDD"
+    },
+    {
+        "name": "삼성전자 Spinpoint S166 SATA2/7200/8M/비품",
+        "brand": "삼성전자",
+        "spec": [
+            "HDD (리퍼비시)",
+            "8.9cm(3.5인치)",
+            "160GB",
+            "SATA2(3Gb/s)",
+            "7,200RPM",
+            "8MB"
+        ],
+        "size": [
+            "160",
+            "GB"
+        ],
+        "price": "일시품절",
+        "img": "//img.danawa.com/prod_img/500000/589/974/img/974589_1.jpg?shrink=330:*&_v=20200529092420",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda EIDE/7200/2M/해외구매",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "20GB",
+            "E-IDE",
+            "7,200RPM",
+            "메모리 2MB"
+        ],
+        "size": [
+            "20",
+            "GB"
+        ],
+        "price": "133000",
+        "img": "//img.danawa.com/prod_img/500000/146/320/img/3320146_1.jpg?shrink=330:*&_v=20220210143107",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD MOBILE BLACK 7200/32M/노트북용/해외구매",
+        "brand": "Western",
+        "spec": [
+            "HDD (노트북용)",
+            "6.4cm(2.5인치)",
+            "500GB",
+            "SATA3(6Gb/s)",
+            "7,200RPM",
+            "메모리 32MB"
+        ],
+        "size": [
+            "500",
+            "GB"
+        ],
+        "price": "54400",
+        "img": "//img.danawa.com/prod_img/500000/745/314/img/3314745_1.jpg?shrink=330:*&_v=20210126165421",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 7200.10 EIDE/7200/2M/해외구매",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "160GB",
+            "E-IDE",
+            "7,200RPM",
+            "2MB"
+        ],
+        "size": [
+            "160",
+            "GB"
+        ],
+        "price": "75000",
+        "img": "//img.danawa.com/prod_img/500000/356/664/img/2664356_1.jpg?shrink=330:*&_v=20200528093628",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 7200.10 EIDE/7200/2M/해외구매",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "160GB",
+            "E-IDE",
+            "7,200RPM",
+            "2MB"
+        ],
+        "size": [
+            "80",
+            "GB"
+        ],
+        "price": "66500",
+        "img": "//img.danawa.com/prod_img/500000/356/664/img/2664356_1.jpg?shrink=330:*&_v=20200528093628",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate Enterprise Capacity 7200/128M/해외구매",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "5TB",
+            "SATA3(6Gb/s)",
+            "7,200RPM",
+            "메모리 128MB",
+            "226MB/s"
+        ],
+        "size": [
+            "5",
+            "TB"
+        ],
+        "price": "350000",
+        "img": "//img.danawa.com/prod_img/500000/545/274/img/3274545_1.jpg?shrink=330:*&_v=20220405111003",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate Enterprise Capacity 7200/128M/해외구매",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "5TB",
+            "SATA3(6Gb/s)",
+            "7,200RPM",
+            "메모리 128MB",
+            "226MB/s"
+        ],
+        "size": [
+            "2",
+            "TB"
+        ],
+        "price": "258300",
+        "img": "//img.danawa.com/prod_img/500000/545/274/img/3274545_1.jpg?shrink=330:*&_v=20220405111003",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate Enterprise Capacity 7200/128M/해외구매",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "5TB",
+            "SATA3(6Gb/s)",
+            "7,200RPM",
+            "메모리 128MB",
+            "226MB/s"
+        ],
+        "size": [
+            "1",
+            "TB"
+        ],
+        "price": "360000",
+        "img": "//img.danawa.com/prod_img/500000/545/274/img/3274545_1.jpg?shrink=330:*&_v=20220405111003",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD Caviar Green SATA2/64M/해외구매",
+        "brand": "Western",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "2TB 이상",
+            "SATA2(3Gb/s)",
+            "5,400 가변RPM",
+            "메모리 64MB",
+            "저전력"
+        ],
+        "size": [
+            "2",
+            "TB"
+        ],
+        "price": "일시품절",
+        "img": "//img.danawa.com/prod_img/500000/207/926/img/2926207_1.jpg?shrink=330:*&_v=20200528171405",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 7200/64M/리퍼비시",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (리퍼비시)",
+            "8.9cm(3.5인치)",
+            "1TB",
+            "SATA3(6Gb/s)",
+            "7,200RPM",
+            "메모리 64MB"
+        ],
+        "size": [
+            "1",
+            "TB"
+        ],
+        "price": "48700",
+        "img": "//img.danawa.com/prod_img/500000/970/935/img/2935970_1.jpg?shrink=330:*&_v=20210312140311",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 7200/64M/리퍼비시",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (리퍼비시)",
+            "8.9cm(3.5인치)",
+            "1TB",
+            "SATA3(6Gb/s)",
+            "7,200RPM",
+            "메모리 64MB"
+        ],
+        "size": [
+            "3",
+            "TB"
+        ],
+        "price": "122820",
+        "img": "//img.danawa.com/prod_img/500000/970/935/img/2935970_1.jpg?shrink=330:*&_v=20210312140311",
+        "Cate": "HDD"
+    },
+    {
+        "name": "HGST Travelstar Z5K500 5400/8M/노트북용",
+        "brand": "HGST",
+        "spec": [
+            "HDD (노트북용)",
+            "6.4cm(2.5인치)",
+            "500GB",
+            "SATA3(6Gb/s)",
+            "5,400RPM",
+            "메모리 8MB",
+            "최대 125MB/s",
+            "두께: 7mm",
+            "소음(유휴/탐색): 19/21dB",
+            "A/S 정보: 데이터 복구 2년"
+        ],
+        "size": [
+            "500",
+            "GB"
+        ],
+        "price": "41300",
+        "img": "//img.danawa.com/prod_img/500000/167/498/img/2498167_1.jpg?shrink=330:*&_v=20200528131819",
+        "Cate": "HDD"
+    },
+    {
+        "name": "MARSHAL MAL21000SA-T54 SATA/5400/8M/노트북용/리퍼비시",
+        "brand": "MARSHAL",
+        "spec": [
+            "HDD (리퍼비시)",
+            "6.4cm(2.5인치)",
+            "1TB",
+            "SATA (버전 확인 요망)",
+            "5,400RPM",
+            "메모리 8MB",
+            "두께: 9mm",
+            "크기: 100 x 70 x 9mm"
+        ],
+        "size": [
+            "48원/1GB1",
+            "TB"
+        ],
+        "price": "48000",
+        "img": "//img.danawa.com/prod_img/500000/416/097/img/4097416_1.jpg?shrink=330:*&_v=20200529174927",
+        "Cate": "HDD"
+    },
+    {
+        "name": "MARSHAL MAL34000SA-T72 7200/64M/리퍼비시",
+        "brand": "MARSHAL",
+        "spec": [
+            "HDD (리퍼비시)",
+            "8.9cm(3.5인치)",
+            "4TB",
+            "SATA3(6Gb/s)",
+            "7,200RPM",
+            "메모리 64MB",
+            "크기: 145 x 100 x 24mm"
+        ],
+        "size": [
+            "26원/1GB4",
+            "TB"
+        ],
+        "price": "104000",
+        "img": "//img.danawa.com/prod_img/500000/951/940/img/3940951_1.jpg?shrink=330:*&_v=20200529174927",
+        "Cate": "HDD"
+    },
+    {
+        "name": "삼성전자 Spinpoint N2B 4200/2M/노트북용/비품",
+        "brand": "삼성전자",
+        "spec": [
+            "HDD (리퍼비시)",
+            "4.6cm(1.8인치)",
+            "60GB",
+            "ZIF타입",
+            "4,200RPM",
+            "2MB"
+        ],
+        "size": [
+            "60",
+            "GB"
+        ],
+        "price": "36020",
+        "img": "//img.danawa.com/prod_img/500000/519/977/img/977519_1.jpg?shrink=330:*&_v=20200529110336",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD Scorpio Blue EIDE/5400/8M/노트북용/해외구매",
+        "brand": "Western",
+        "spec": [
+            "HDD (노트북용)",
+            "6.4cm(2.5인치)",
+            "80GB",
+            "E-IDE",
+            "5,400RPM",
+            "8MB"
+        ],
+        "size": [
+            "80",
+            "GB"
+        ],
+        "price": "80000",
+        "img": "//img.danawa.com/prod_img/500000/681/703/img/2703681_1.jpg?shrink=330:*&_v=20200528100704",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD BLACK 7200/256M/해외구매",
+        "brand": "Western",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "4TB",
+            "SATA3 (6Gb/s)",
+            "7,200RPM",
+            "메모리 256MB",
+            "최대 202MB/s",
+            "기록방식: CMR(PMR)",
+            "두께: 26.1mm",
+            "소음(유휴/탐색): 29/36dB",
+            "백업, 마이그레이션 프로그램 제공",
+            "720g"
+        ],
+        "size": [
+            "10",
+            "TB"
+        ],
+        "price": "일시품절",
+        "img": "//img.danawa.com/prod_img/500000/733/860/img/14860733_1.jpg?shrink=330:*&_v=20210728143835",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD BLACK 7200/256M/해외구매",
+        "brand": "Western",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "4TB",
+            "SATA3 (6Gb/s)",
+            "7,200RPM",
+            "메모리 256MB",
+            "최대 202MB/s",
+            "기록방식: CMR(PMR)",
+            "두께: 26.1mm",
+            "소음(유휴/탐색): 29/36dB",
+            "백업, 마이그레이션 프로그램 제공",
+            "720g"
+        ],
+        "size": [
+            "6",
+            "TB"
+        ],
+        "price": "290000",
+        "img": "//img.danawa.com/prod_img/500000/733/860/img/14860733_1.jpg?shrink=330:*&_v=20210728143835",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD BLACK 7200/256M/해외구매",
+        "brand": "Western",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "4TB",
+            "SATA3 (6Gb/s)",
+            "7,200RPM",
+            "메모리 256MB",
+            "최대 202MB/s",
+            "기록방식: CMR(PMR)",
+            "두께: 26.1mm",
+            "소음(유휴/탐색): 29/36dB",
+            "백업, 마이그레이션 프로그램 제공",
+            "720g"
+        ],
+        "size": [
+            "4",
+            "TB"
+        ],
+        "price": "일시품절",
+        "img": "//img.danawa.com/prod_img/500000/733/860/img/14860733_1.jpg?shrink=330:*&_v=20210728143835",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD Caviar Green SATA2/5400/32/해외구매",
+        "brand": "Western",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "500GB",
+            "SATA2(3Gb/s)",
+            "5,400RPM",
+            "메모리 32MB"
+        ],
+        "size": [
+            "500",
+            "GB"
+        ],
+        "price": "일시품절",
+        "img": "//img.danawa.com/prod_img/500000/516/274/img/3274516_1.jpg?shrink=330:*&_v=20220211110940",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Sebap BUSCAR CCTV 5400/128M/리퍼비시",
+        "brand": "Sebap",
+        "spec": [
+            "HDD (리퍼비시)",
+            "8.9cm(3.5인치)",
+            "8TB",
+            "SATA3 (6Gb/s)",
+            "5,400RPM",
+            "메모리 128MB",
+            "178MB/s",
+            "기록방식: 확인요망(PMR)",
+            "사용보증: 100만시간"
+        ],
+        "size": [
+            "8",
+            "TB"
+        ],
+        "price": "215000",
+        "img": "//img.danawa.com/prod_img/500000/856/674/img/20674856_1.jpg?shrink=330:*&_v=20230626090328",
+        "Cate": "HDD"
+    },
+    {
+        "name": "MARSHAL MAL38000SA-T72 SATA/256M/리퍼비시",
+        "brand": "MARSHAL",
+        "spec": [
+            "HDD (리퍼비시)",
+            "8.9cm(3.5인치)",
+            "8TB",
+            "SATA (버전 확인 요망)",
+            "7,200RPM",
+            "메모리 256MB",
+            "크기: 145 x 100 x 24mm"
+        ],
+        "size": [
+            "28원/1GB8",
+            "TB"
+        ],
+        "price": "224000",
+        "img": "//img.danawa.com/prod_img/500000/540/475/img/13475540_1.jpg?shrink=330:*&_v=20210226160642",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate FireCuda SSHD 5400/128M/노트북용/해외구매",
+        "brand": "Seagate",
+        "spec": [
+            "SSHD (노트북용)",
+            "6.4cm(2.5인치)",
+            "2TB",
+            "SATA3 (6Gb/s)",
+            "5,400RPM",
+            "메모리 128MB",
+            "두께: 7mm",
+            "낸드: MLC(8GB)"
+        ],
+        "size": [
+            "2",
+            "TB"
+        ],
+        "price": "252000",
+        "img": "//img.danawa.com/prod_img/500000/059/639/img/5639059_1.jpg?shrink=330:*&_v=20200528101236",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD MOBILE BLUE 5400/16M/노트북용/해외구매",
+        "brand": "Western",
+        "spec": [
+            "HDD (노트북용)",
+            "6.4cm(2.5인치)",
+            "500GB",
+            "SATA3(6Gb/s)",
+            "5,400RPM",
+            "메모리 16MB",
+            "두께: 7mm"
+        ],
+        "size": [
+            "500",
+            "GB"
+        ],
+        "price": "158910",
+        "img": "//img.danawa.com/prod_img/500000/255/638/img/5638255_1.jpg?shrink=330:*&_v=20200528094937",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD 320GB Caviar SE WD3200JB (EIDE/7200/8M/리퍼비시)",
+        "brand": "Western",
+        "spec": [
+            "HDD (리퍼비시)",
+            "8.9cm(3.5인치)",
+            "320GB",
+            "E-IDE",
+            "7,200RPM",
+            "8MB"
+        ],
+        "size": [
+            "",
+            "GB"
+        ],
+        "price": "60000",
+        "img": "//img.danawa.com/prod_img/500000/900/816/img/4816900_1.jpg?shrink=330:*&_v=20180918171925",
+        "Cate": "HDD"
+    },
+    {
+        "name": "레노버 ThinkPad 7200",
+        "brand": "레노버",
+        "spec": [
+            "HDD (노트북용)",
+            "6.4cm(2.5인치)",
+            "500GB",
+            "SATA3 (6Gb/s)",
+            "7,200RPM",
+            "두께: 7mm"
+        ],
+        "size": [
+            "500",
+            "GB"
+        ],
+        "price": "115101",
+        "img": "//img.danawa.com/prod_img/500000/121/645/img/4645121_1.jpg?shrink=330:*&_v=20200529165048",
+        "Cate": "HDD"
+    },
+    {
+        "name": "크로바하이텍 UTANIA SATA2/5400/16M/리퍼비시",
+        "brand": "크로바하이텍",
+        "spec": [
+            "HDD (리퍼비시)",
+            "8.9cm(3.5인치)",
+            "500GB",
+            "SATA2(3Gb/s)",
+            "5,400RPM",
+            "메모리 16MB"
+        ],
+        "size": [
+            "500",
+            "GB"
+        ],
+        "price": "40800",
+        "img": "//img.danawa.com/prod_img/500000/058/421/img/3421058_1.jpg?shrink=330:*&_v=20200529170540",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD Caviar Blue 7200/8M/해외구매",
+        "brand": "Western",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "80GB",
+            "E-IDE",
+            "7,200RPM",
+            "메모리 8MB"
+        ],
+        "size": [
+            "80",
+            "GB"
+        ],
+        "price": "63500",
+        "img": "//img.danawa.com/prod_img/500000/897/345/img/3345897_1.jpg?shrink=330:*&_v=20220210141639",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD WD1200JB IDE/7200/8M/해외구매",
+        "brand": "Western",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "120GB",
+            "E-IDE",
+            "7,200RPM",
+            "메모리 8MB"
+        ],
+        "size": [
+            "120",
+            "GB"
+        ],
+        "price": "60000",
+        "img": "//img.danawa.com/prod_img/500000/325/343/img/3343325_1.jpg?shrink=330:*&_v=20220211105137",
+        "Cate": "HDD"
+    },
+    {
+        "name": "HGST Ultrastar A7K1000 SATA2/7200/32M/해외구매",
+        "brand": "HGST",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "1TB",
+            "SATA2(3Gb/s)",
+            "7,200RPM",
+            "메모리 32MB"
+        ],
+        "size": [
+            "1",
+            "TB"
+        ],
+        "price": "86500",
+        "img": "//img.danawa.com/prod_img/500000/265/330/img/3330265_1.jpg?shrink=330:*&_v=20220209154339",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD Caviar RE EIDE/7200/8M/해외구매",
+        "brand": "Western",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "160GB",
+            "E-IDE",
+            "7,200RPM",
+            "메모리 8MB"
+        ],
+        "size": [
+            "160",
+            "GB"
+        ],
+        "price": "65000",
+        "img": "//img.danawa.com/prod_img/500000/185/328/img/3328185_1.jpg?shrink=330:*&_v=20220211132304",
+        "Cate": "HDD"
+    },
+    {
+        "name": "도시바 MG03ACA 7200/64M/해외구매",
+        "brand": "도시바",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "3TB",
+            "SATA3(6Gb/s)",
+            "7,200RPM",
+            "메모리 64MB"
+        ],
+        "size": [
+            "3",
+            "TB"
+        ],
+        "price": "149490",
+        "img": "//img.danawa.com/new/noData/img/noImg_160.gif",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate SV35.5 SATA/7200/16M/해외구매",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "500GB",
+            "SATA1(1.5Gb/s)",
+            "7,200RPM",
+            "메모리 16MB"
+        ],
+        "size": [
+            "500",
+            "GB"
+        ],
+        "price": "200000",
+        "img": "//img.danawa.com/prod_img/500000/211/320/img/3320211_1.jpg?shrink=330:*&_v=20220210111303",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 7200.11 7200/해외구매",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "600GB",
+            "SATA3(6Gb/s)",
+            "7,200RPM"
+        ],
+        "size": [
+            "500",
+            "GB"
+        ],
+        "price": "273900",
+        "img": "//img.danawa.com/prod_img/500000/126/320/img/3320126_1.jpg?shrink=330:*&_v=20220602101523",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD Caviar SE SATA2/7200/8M/해외구매",
+        "brand": "Western",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "250GB",
+            "SATA2(3Gb/s)",
+            "7,200RPM",
+            "메모리 8MB"
+        ],
+        "size": [
+            "250",
+            "GB"
+        ],
+        "price": "일시품절",
+        "img": "//img.danawa.com/prod_img/500000/853/318/img/3318853_1.jpg?shrink=330:*&_v=20220210134954",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD Caviar Blue EIDE/7200/16M/해외구매",
+        "brand": "Western",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "500GB",
+            "E-IDE",
+            "7,200RPM",
+            "메모리 16MB"
+        ],
+        "size": [
+            "500",
+            "GB"
+        ],
+        "price": "100000",
+        "img": "//img.danawa.com/prod_img/500000/151/317/img/3317151_1.jpg?shrink=330:*&_v=20220210172325",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD WD1600JB IDE/7200/8M/해외구매",
+        "brand": "Western",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "160GB",
+            "E-IDE",
+            "7,200RPM",
+            "메모리 8MB"
+        ],
+        "size": [
+            "160",
+            "GB"
+        ],
+        "price": "65000",
+        "img": "//img.danawa.com/prod_img/500000/967/316/img/3316967_1.jpg?shrink=330:*&_v=20220210175824",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD Caviar Blue PATA100/7200/8M/해외구매",
+        "brand": "Western",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "320GB",
+            "PATA100",
+            "7,200RPM",
+            "메모리 8MB"
+        ],
+        "size": [
+            "320",
+            "GB"
+        ],
+        "price": "147560",
+        "img": "//img.danawa.com/prod_img/500000/492/316/img/3316492_1.jpg?shrink=330:*&_v=20220210140430",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate Constellation ES SATA2/7200/32M/해외구매",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "500GB",
+            "SATA2(3Gb/s)",
+            "7,200RPM",
+            "메모리 32MB"
+        ],
+        "size": [
+            "500",
+            "GB"
+        ],
+        "price": "147000",
+        "img": "//img.danawa.com/prod_img/500000/706/315/img/3315706_1.jpg?shrink=330:*&_v=20220210143900",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda Green SATA2/5900/32M/해외구매",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "2TB",
+            "SATA2(3Gb/s)",
+            "5,900RPM",
+            "메모리 32MB"
+        ],
+        "size": [
+            "2",
+            "TB"
+        ],
+        "price": "396000",
+        "img": "//img.danawa.com/prod_img/500000/828/314/img/3314828_1.jpg?shrink=330:*&_v=20220210171837",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD Caviar SE EIDE/7200/8M/해외구매",
+        "brand": "Western",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "250GB",
+            "E-IDE",
+            "7,200RPM",
+            "8MB"
+        ],
+        "size": [
+            "250",
+            "GB"
+        ],
+        "price": "70000",
+        "img": "//img.danawa.com/prod_img/500000/469/311/img/3311469_1.jpg?shrink=330:*&_v=20200529180701",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda EIDI/7200/8M/해외구매",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "400GB",
+            "E-IDE",
+            "7,200RPM",
+            "메모리 8MB"
+        ],
+        "size": [
+            "400",
+            "GB"
+        ],
+        "price": "100000",
+        "img": "//img.danawa.com/prod_img/500000/662/277/img/3277662_1.jpg?shrink=330:*&_v=20220210170636",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate DB35 7200.3 E-IDC/7200/2M/해외구매",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "160GB",
+            "E-IDE",
+            "7,200RPM",
+            "메모리 2MB"
+        ],
+        "size": [
+            "160",
+            "GB"
+        ],
+        "price": "75000",
+        "img": "//img.danawa.com/prod_img/500000/609/253/img/3253609_1.jpg?shrink=330:*&_v=20200529180701",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD Caviar Blue SATA2/7200/8M/해외구매",
+        "brand": "Western",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "250GB",
+            "SATA2(3Gb/s)",
+            "7,200RPM",
+            "8MB"
+        ],
+        "size": [
+            "250",
+            "GB"
+        ],
+        "price": "일시품절",
+        "img": "//img.danawa.com/prod_img/500000/911/207/img/3207911_1.jpg?shrink=330:*&_v=20200528100050",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 7200.12 SATA2/7200/16M/해외구매",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "500GB",
+            "SATA2(3Gb/s)",
+            "7,200RPM",
+            "16MB"
+        ],
+        "size": [
+            "500",
+            "GB"
+        ],
+        "price": "75000",
+        "img": "//img.danawa.com/prod_img/500000/947/970/img/2970947_1.jpg?shrink=330:*&_v=20200528093627",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 7200.7 EIDE/7200/2M/해외구매",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "80GB",
+            "E-IDE",
+            "7,200RPM",
+            "2MB"
+        ],
+        "size": [
+            "80",
+            "GB"
+        ],
+        "price": "44000",
+        "img": "//img.danawa.com/prod_img/500000/134/934/img/2934134_1.jpg?shrink=330:*&_v=20200528093627",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate Desktop HDD.15 5900/64M/해외구매",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "4TB",
+            "SATA3(6Gb/s)",
+            "5,900RPM",
+            "메모리 64MB",
+            "610g"
+        ],
+        "size": [
+            "4",
+            "TB"
+        ],
+        "price": "209000",
+        "img": "//img.danawa.com/prod_img/500000/077/934/img/2934077_1.jpg?shrink=330:*&_v=20200528173228",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD Caviar Blue EIDE/7200/8M/해외구매",
+        "brand": "Western",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "160GB",
+            "SATA2(3Gb/s)",
+            "7,200RPM",
+            "8MB"
+        ],
+        "size": [
+            "160",
+            "GB"
+        ],
+        "price": "65000",
+        "img": "//img.danawa.com/prod_img/500000/209/900/img/2900209_1.jpg?shrink=330:*&_v=20200528100050",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 7200/16M/해외구매",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "500GB",
+            "SATA3(6Gb/s)",
+            "7,200RPM",
+            "메모리 16MB"
+        ],
+        "size": [
+            "500",
+            "GB"
+        ],
+        "price": "59000",
+        "img": "//img.danawa.com/prod_img/500000/389/706/img/2706389_1.jpg?shrink=330:*&_v=20200528093628",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD Caviar Green SATA2/32M/해외구매",
+        "brand": "Western",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "2TB 이상",
+            "SATA2(3Gb/s)",
+            "32MB",
+            "저전력"
+        ],
+        "size": [
+            "2",
+            "TB"
+        ],
+        "price": "일시품절",
+        "img": "//img.danawa.com/prod_img/500000/551/703/img/2703551_1.jpg?shrink=330:*&_v=20200528171405",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate Momentus 5400.3 EIDE/5400/8M/노트북용/해외구매",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (노트북용)",
+            "6.4cm(2.5인치)",
+            "160GB",
+            "E-IDE",
+            "5,400RPM",
+            "8MB"
+        ],
+        "size": [
+            "160",
+            "GB"
+        ],
+        "price": "100000",
+        "img": "//img.danawa.com/prod_img/500000/454/703/img/2703454_1.jpg?shrink=330:*&_v=20200529094332",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 7200.10 EIDE/7200/16M/해외구매",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "500GB",
+            "E-IDE",
+            "7,200RPM",
+            "16MB"
+        ],
+        "size": [
+            "500",
+            "GB"
+        ],
+        "price": "150000",
+        "img": "//img.danawa.com/prod_img/500000/509/701/img/2701509_1.jpg?shrink=330:*&_v=20200528093628",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Western Digital WD Caviar Blue E-IDE/7200/8M/해외구매",
+        "brand": "Western",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "250GB",
+            "E-IDE",
+            "7,200RPM",
+            "8MB"
+        ],
+        "size": [
+            "250",
+            "GB"
+        ],
+        "price": "60000",
+        "img": "//img.danawa.com/prod_img/500000/485/701/img/2701485_1.jpg?shrink=330:*&_v=20200528100050",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 7200/64M/비품",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (리퍼비시)",
+            "8.9cm(3.5인치)",
+            "1TB",
+            "SATA3(6Gb/s)",
+            "7,200RPM",
+            "메모리 64MB"
+        ],
+        "size": [
+            "1",
+            "TB"
+        ],
+        "price": "54000",
+        "img": "//img.danawa.com/prod_img/500000/614/018/img/2018614_1.jpg?shrink=330:*&_v=20200528093629",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 7200.10 EIDE/7200/16M",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "320GB",
+            "E-IDE",
+            "7,200RPM",
+            "16MB",
+            "두께: 26.1mm",
+            "두께 : 26.1mm"
+        ],
+        "size": [
+            "320",
+            "GB"
+        ],
+        "price": "100000",
+        "img": "//img.danawa.com/prod_img/large/group_322/161437_1.jpg?shrink=330:*&_v=20200528091103",
+        "Cate": "HDD"
+    },
+    {
+        "name": "Seagate BarraCuda 7200.8 EIDE/7200/8M",
+        "brand": "Seagate",
+        "spec": [
+            "HDD (PC용)",
+            "8.9cm(3.5인치)",
+            "250GB",
+            "E-IDE",
+            "7,200RPM",
+            "8MB",
+            "두께: 26.1mm"
+        ],
+        "size": [
+            "250",
+            "GB"
+        ],
+        "price": "80000",
+        "img": "//img.danawa.com/prod_img/large/group_133/66982_1.jpg?shrink=330:*&_v=20200528091107",
+        "Cate": "HDD"
+    }
+]
