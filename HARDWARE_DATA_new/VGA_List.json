@@ -5531,33 +5531,6 @@
         "Cate": "VGA"
     },
     {
-        "name": "GIGABYTE AORUS 지포스 RTX 4090 D6X 24GB Gaming Box 제이씨현",
-        "brand": "GIGABYTE",
-        "spec": [
-            "외장그래픽",
-            "RTX 4090",
-            "4nm",
-            "부스트클럭: 2520MHz",
-            "스트림 프로세서: 16384개",
-            "PCIe4.0x16",
-            "GDDR6X(DDR6X)",
-            "출력단자: HDMI2.1, DP1.4, 썬더볼트3, USB 3.0, 기가비트LAN",
-            "부가기능: 8K 지원, 4K 지원, HDR 지원, HDCP 지원",
-            "정격파워 850W 이상",
-            "전원 포트: 외부AC전원",
-            "2개 팬",
-            "가로(길이): 302mm",
-            "두께: 189mm",
-            "LED 라이트",
-            "RGB FUSION",
-            "A/S 3년",
-            "USB PD 100W"
-        ],
-        "price": "3298990",
-        "img": "//img.danawa.com/prod_img/500000/036/775/img/28775036_1.jpg?shrink=330:*&_v=20231103175457",
-        "Cate": "VGA"
-    },
-    {
         "name": "ASUS TUF Gaming 라데온 RX 7800 XT O16G OC D6 16GB",
         "brand": "ASUS",
         "spec": [
@@ -24862,27 +24835,6 @@
         "Cate": "VGA"
     },
     {
-        "name": "NVIDIA RTX A5000 D6 24GB (병행수입)",
-        "brand": "NVIDIA",
-        "spec": [
-            "RTX A5000",
-            "8nm",
-            "스트림 프로세서: 8192개",
-            "PCIe4.0x16",
-            "GDDR6(DDR6)",
-            "출력단자: DP1.4",
-            "부가기능: 멀티 VGA, 8K 지원, 4K 지원",
-            "사용전력: 최대 230W",
-            "전원 포트: 8핀 x1",
-            "1개 팬",
-            "가로(길이): 260mm",
-            "두께: 40mm"
-        ],
-        "price": "2703010",
-        "img": "//img.danawa.com/prod_img/500000/907/074/img/17074907_1.jpg?shrink=330:*&_v=20220518142856",
-        "Cate": "VGA"
-    },
-    {
         "name": "FORSA 지포스 GTX 1660 Ti Gaming K D6 6GB",
         "brand": "FORSA",
         "spec": [
@@ -25112,26 +25064,6 @@
         "Cate": "VGA"
     },
     {
-        "name": "NVIDIA T400 D6 4GB (병행수입)",
-        "brand": "NVIDIA",
-        "spec": [
-            "T400",
-            "12nm",
-            "스트림 프로세서: 384개",
-            "PCIe3.0x16",
-            "GDDR6(DDR6)",
-            "출력단자: mini DP1.4",
-            "부가기능: 4K 지원",
-            "사용전력: 최대 30W",
-            "1개 팬",
-            "가로(길이): 155mm",
-            "LP브라켓 포함"
-        ],
-        "price": "224790",
-        "img": "//img.danawa.com/prod_img/500000/588/747/img/17747588_1.jpg?shrink=330:*&_v=20220830124809",
-        "Cate": "VGA"
-    },
-    {
         "name": "FORSA 지포스 GT730 D3 1GB LP",
         "brand": "FORSA",
         "spec": [
@@ -25173,27 +25105,6 @@
         "Cate": "VGA"
     },
     {
-        "name": "NVIDIA RTX A4000 D6 16GB (병행수입)",
-        "brand": "NVIDIA",
-        "spec": [
-            "RTX A4000",
-            "8nm",
-            "스트림 프로세서: 6144개",
-            "PCIe4.0x16",
-            "GDDR6(DDR6)",
-            "출력단자: DP1.4",
-            "부가기능: 멀티 VGA, 8K 지원, 4K 지원",
-            "사용전력: 최대 140W",
-            "전원 포트: 6핀 x1",
-            "1개 팬",
-            "가로(길이): 240mm",
-            "두께: 20mm"
-        ],
-        "price": "1508810",
-        "img": "//img.danawa.com/prod_img/500000/411/744/img/17744411_1.jpg?shrink=330:*&_v=20220829171105",
-        "Cate": "VGA"
-    },
-    {
         "name": "AFOX 지포스 RTX 3080 Ti D6X 12GB 대원씨티에스",
         "brand": "AFOX",
         "spec": [
@@ -25213,26 +25124,6 @@
         ],
         "price": "1050790",
         "img": "//img.danawa.com/prod_img/500000/871/538/img/21538871_1.jpg?shrink=330:*&_v=20230801125319",
-        "Cate": "VGA"
-    },
-    {
-        "name": "NVIDIA RTX A4500 D6 20GB (병행수입)",
-        "brand": "NVIDIA",
-        "spec": [
-            "RTX A4500",
-            "8nm",
-            "스트림 프로세서: 7168개",
-            "PCIe4.0x16",
-            "GDDR6(DDR6)",
-            "출력단자: DP1.4",
-            "부가기능: 멀티 VGA, 8K 지원, 4K 지원",
-            "사용전력: 최대 200W",
-            "전원 포트: 8핀 x1",
-            "1개 팬",
-            "가로(길이): 260mm"
-        ],
-        "price": "2183000",
-        "img": "//img.danawa.com/prod_img/500000/206/742/img/17742206_1.jpg?shrink=330:*&_v=20220829153323",
         "Cate": "VGA"
     },
     {
@@ -25256,25 +25147,6 @@
         ],
         "price": "101880",
         "img": "//img.danawa.com/prod_img/500000/461/725/img/6725461_1.jpg?shrink=330:*&_v=20201020154313",
-        "Cate": "VGA"
-    },
-    {
-        "name": "NVIDIA RTX A2000 D6 12GB (병행수입)",
-        "brand": "NVIDIA",
-        "spec": [
-            "RTX A2000",
-            "8nm",
-            "스트림 프로세서: 3328개",
-            "PCIe4.0x16",
-            "GDDR6(DDR6)",
-            "출력단자: mini DP1.4",
-            "부가기능: 8K 지원, 4K 지원",
-            "사용전력: 최대 70W",
-            "1개 팬",
-            "가로(길이): 168mm"
-        ],
-        "price": "891440",
-        "img": "//img.danawa.com/prod_img/500000/275/742/img/17742275_1.jpg?shrink=330:*&_v=20220829153623",
         "Cate": "VGA"
     },
     {
@@ -25450,31 +25322,6 @@
         "Cate": "VGA"
     },
     {
-        "name": "NVIDIA 지포스 RTX 4090 Founders Edition D6X 24GB (병행수입)",
-        "brand": "NVIDIA",
-        "spec": [
-            "RTX 4090",
-            "4nm",
-            "베이스클럭: 2230MHz",
-            "부스트클럭: 2520MHz",
-            "스트림 프로세서: 16384개",
-            "PCIe4.0x16",
-            "GDDR6X(DDR6X)",
-            "출력단자: HDMI2.1, DP1.4",
-            "부가기능: 8K 지원, 4K 지원, HDR 지원, HDCP 2.3",
-            "사용전력: 최대 450W",
-            "전원 포트: 16핀(12VHPWR) x1",
-            "정격파워 850W 이상",
-            "2개 팬",
-            "가로(길이): 304mm",
-            "두께: 61mm",
-            "백플레이트"
-        ],
-        "price": "4915510",
-        "img": "//img.danawa.com/prod_img/500000/717/017/img/18017717_1.jpg?shrink=330:*&_v=20221018095554",
-        "Cate": "VGA"
-    },
-    {
         "name": "GIGABYTE 지포스 RTX 4070 WINDFORCE 2X OC D6X 12GB 제이씨현",
         "brand": "GIGABYTE",
         "spec": [
@@ -25495,25 +25342,6 @@
         ],
         "price": "827000",
         "img": "//img.danawa.com/prod_img/500000/213/759/img/29759213_1.jpg?shrink=330:*&_v=20231103143104",
-        "Cate": "VGA"
-    },
-    {
-        "name": "NVIDIA T1000 D6 8GB (병행수입)",
-        "brand": "NVIDIA",
-        "spec": [
-            "T1000",
-            "12nm",
-            "스트림 프로세서: 896개",
-            "PCIe3.0x16",
-            "GDDR6(DDR6)",
-            "출력단자: mini DP1.4",
-            "부가기능: 8K 지원, 4K 지원",
-            "사용전력: 최대 50W",
-            "1개 팬",
-            "가로(길이): 156mm"
-        ],
-        "price": "562150",
-        "img": "//img.danawa.com/prod_img/500000/546/783/img/17783546_1.jpg?shrink=330:*&_v=20220905133915",
         "Cate": "VGA"
     },
     {
@@ -25544,23 +25372,6 @@
         ],
         "price": "2560000",
         "img": "//img.danawa.com/prod_img/500000/999/706/img/16706999_1.jpg?shrink=330:*&_v=20220329220000",
-        "Cate": "VGA"
-    },
-    {
-        "name": "SAPPHIRE 라데온 RX 7900 XT PULSE D6 20GB (해외구매)",
-        "brand": "SAPPHIRE",
-        "spec": [
-            "RX 7900 XT",
-            "5nm",
-            "스트림 프로세서: 5376개",
-            "PCIe4.0x16",
-            "GDDR6(DDR6)",
-            "부가기능: 8K 지원, 4K 지원, HDR 지원",
-            "3개 팬",
-            "백플레이트"
-        ],
-        "price": "1280530",
-        "img": "//img.danawa.com/prod_img/500000/361/985/img/27985361_1.jpg?shrink=330:*&_v=20230904123635",
         "Cate": "VGA"
     },
     {
@@ -25631,27 +25442,6 @@
         "Cate": "VGA"
     },
     {
-        "name": "NVIDIA 지포스 RTX 3090 Founders Edition D6X 24GB (해외구매)",
-        "brand": "NVIDIA",
-        "spec": [
-            "RTX 3090",
-            "8nm",
-            "부스트클럭: 1700MHz",
-            "스트림 프로세서: 10496개",
-            "PCIe4.0x16",
-            "GDDR6X(DDR6X)",
-            "출력단자: HDMI2.1, DP1.4",
-            "부가기능: 멀티 VGA, 8K 지원, 4K 지원, HDR 지원, HDCP 2.3",
-            "사용전력: 최대 350W",
-            "정격파워 750W 이상",
-            "전원 포트: 12핀 x1",
-            "가로(길이): 313mm"
-        ],
-        "price": "2495500",
-        "img": "//img.danawa.com/prod_img/500000/175/053/img/14053175_1.jpg?shrink=330:*&_v=20210429162501",
-        "Cate": "VGA"
-    },
-    {
         "name": "TAGER 지포스 GTX 1660 SUPER D6 6GB",
         "brand": "TAGER",
         "spec": [
@@ -25674,30 +25464,6 @@
         ],
         "price": "238960",
         "img": "//img.danawa.com/prod_img/500000/234/603/img/11603234_1.jpg?shrink=330:*&_v=20220310112408",
-        "Cate": "VGA"
-    },
-    {
-        "name": "인텔 Arc A750 Limited Edition D6 8GB (해외구매)",
-        "brand": "인텔",
-        "spec": [
-            "A750",
-            "6nm",
-            "베이스클럭: 2050MHz",
-            "스트림 프로세서: 3584개",
-            "PCIe4.0x16",
-            "GDDR6(DDR6)",
-            "출력단자: HDMI2.1, DP1.4",
-            "부가기능: 8K 지원, 4K 지원, HDR 지원",
-            "사용전력: 최대 225W",
-            "전원 포트: 6핀 x1 + 8핀 x1",
-            "2개 팬",
-            "가로(길이): 270mm",
-            "두께: 35mm",
-            "백플레이트",
-            "Xe코어: 28개, XMX엔진 448개"
-        ],
-        "price": "373510",
-        "img": "//img.danawa.com/prod_img/500000/141/202/img/19202141_1.jpg?shrink=330:*&_v=20230303090600",
         "Cate": "VGA"
     },
     {
@@ -25802,26 +25568,6 @@
         ],
         "price": "205480",
         "img": "//img.danawa.com/prod_img/500000/778/385/img/5385778_1.jpg?shrink=330:*&_v=20221107154858",
-        "Cate": "VGA"
-    },
-    {
-        "name": "NVIDIA T1000 D6 4GB (병행수입)",
-        "brand": "NVIDIA",
-        "spec": [
-            "T1000",
-            "12nm",
-            "스트림 프로세서: 896개",
-            "PCIe3.0x16",
-            "GDDR6(DDR6)",
-            "출력단자: DP1.4",
-            "부가기능: 8K 지원, 4K 지원",
-            "사용전력: 최대 50W",
-            "1개 팬",
-            "가로(길이): 156mm",
-            "두께: 20mm"
-        ],
-        "price": "478310",
-        "img": "//img.danawa.com/prod_img/500000/695/450/img/15450695_1.jpg?shrink=330:*&_v=20220211142711",
         "Cate": "VGA"
     },
     {
@@ -26014,31 +25760,6 @@
         ],
         "price": "675710",
         "img": "//img.danawa.com/prod_img/500000/623/702/img/10702623_1.jpg?shrink=330:*&_v=20220218124721",
-        "Cate": "VGA"
-    },
-    {
-        "name": "NVIDIA 지포스 RTX 4090 Founders Edition D6X 24GB (해외구매)",
-        "brand": "NVIDIA",
-        "spec": [
-            "RTX 4090",
-            "4nm",
-            "베이스클럭: 2230MHz",
-            "부스트클럭: 2520MHz",
-            "스트림 프로세서: 16384개",
-            "PCIe4.0x16",
-            "GDDR6X(DDR6X)",
-            "출력단자: HDMI2.1, DP1.4",
-            "부가기능: 8K 지원, 4K 지원, HDR 지원, HDCP 2.3",
-            "사용전력: 최대 450W",
-            "전원 포트: 16핀(12VHPWR) x1",
-            "정격파워 850W 이상",
-            "2개 팬",
-            "가로(길이): 304mm",
-            "두께: 61mm",
-            "백플레이트"
-        ],
-        "price": "3988500",
-        "img": "//img.danawa.com/prod_img/500000/820/727/img/18727820_1.jpg?shrink=330:*&_v=20230111123444",
         "Cate": "VGA"
     },
     {
@@ -26239,25 +25960,6 @@
         "Cate": "VGA"
     },
     {
-        "name": "NVIDIA TITAN V HBM2 12GB (해외구매)",
-        "brand": "NVIDIA",
-        "spec": [
-            "TITAN V",
-            "12nm",
-            "베이스클럭: 1200MHz",
-            "부스트클럭: 1455MHz",
-            "스트림 프로세서: 5120개",
-            "HBM(2세대)",
-            "출력단자: HDMI, DP",
-            "사용전력: 최대 250W",
-            "정격파워 600W 이상",
-            "전원 포트: 6핀 x1 + 8핀 x1"
-        ],
-        "price": "13389600",
-        "img": "//img.danawa.com/prod_img/500000/058/821/img/5821058_1.jpg?shrink=330:*&_v=20201020150900",
-        "Cate": "VGA"
-    },
-    {
         "name": "엠탑코리아 지포스 GTX1050 NEW D5 2GB 듀얼쿨러",
         "brand": "엠탑코리아",
         "spec": [
@@ -26418,32 +26120,6 @@
         "Cate": "VGA"
     },
     {
-        "name": "MSI 지포스 RTX 3080 Ti 슈프림 X D6X 12GB 트라이프로져2S (해외구매)",
-        "brand": "MSI",
-        "spec": [
-            "RTX 3080 Ti",
-            "8nm",
-            "부스트클럭: 1845MHz",
-            "스트림 프로세서: 10240개",
-            "PCIe4.0x16",
-            "GDDR6X(DDR6X)",
-            "출력단자: HDMI2.1, DP1.4",
-            "부가기능: 제로팬(0-dB기술), 8K 지원, 4K 지원, HDR 지원, Dual BIOS, HDCP 2.3",
-            "사용전력: 최대 400W",
-            "전원 포트: 8핀 x3",
-            "정격파워 850W 이상",
-            "3개 팬",
-            "가로(길이): 336mm",
-            "두께: 61mm",
-            "백플레이트",
-            "LED 라이트",
-            "MYSTIC LIGHT"
-        ],
-        "price": "3161000",
-        "img": "//img.danawa.com/prod_img/500000/774/566/img/15566774_1.jpg?shrink=330:*&_v=20211101150753",
-        "Cate": "VGA"
-    },
-    {
         "name": "INNO3D iChiLL 지포스 RTX 3080 D6X 10GB X4 LHR",
         "brand": "INNO3D",
         "spec": [
@@ -26469,33 +26145,6 @@
         ],
         "price": "1977470",
         "img": "//img.danawa.com/prod_img/500000/742/575/img/14575742_1.jpg?shrink=330:*&_v=20230623164411",
-        "Cate": "VGA"
-    },
-    {
-        "name": "MSI 지포스 RTX 3080 게이밍 Z 트리오 D6X 12GB 트라이프로져2 (해외구매)",
-        "brand": "MSI",
-        "spec": [
-            "RTX 3080",
-            "8nm",
-            "부스트클럭: 1815MHz",
-            "스트림 프로세서: 8960개",
-            "PCIe4.0x16",
-            "GDDR6X(DDR6X)",
-            "출력단자: HDMI2.1, DP1.4",
-            "부가기능: 제로팬(0-dB기술), 8K 지원, 4K 지원, HDR 지원, HDCP 2.3",
-            "사용전력: 최대 390W",
-            "정격파워 750W 이상",
-            "전원 포트: 8핀 x3",
-            "3개 팬",
-            "가로(길이): 323mm",
-            "두께: 50~59mm",
-            "백플레이트",
-            "LED 라이트",
-            "MYSTIC LIGHT",
-            "LHR 여부 확인요망"
-        ],
-        "price": "1533650",
-        "img": "//img.danawa.com/prod_img/500000/514/410/img/17410514_1.jpg?shrink=330:*&_v=20220707091718",
         "Cate": "VGA"
     },
     {
@@ -26542,26 +26191,6 @@
         "Cate": "VGA"
     },
     {
-        "name": "NVIDIA RTX A6000 D6 48GB (병행수입)",
-        "brand": "NVIDIA",
-        "spec": [
-            "RTX A6000",
-            "8nm",
-            "스트림 프로세서: 10752개",
-            "PCIe4.0x16",
-            "GDDR6(DDR6)",
-            "출력단자: DP1.4",
-            "부가기능: 멀티 VGA, 8K 지원, 4K 지원",
-            "사용전력: 최대 300W",
-            "전원 포트: 8핀 x1",
-            "1개 팬",
-            "가로(길이): 260mm"
-        ],
-        "price": "7050000",
-        "img": "//img.danawa.com/prod_img/500000/758/529/img/17529758_1.jpg?shrink=330:*&_v=20230403172224",
-        "Cate": "VGA"
-    },
-    {
         "name": "INNO3D 지포스 RTX 2060 SUPER OC D6 8GB TWIN X2",
         "brand": "INNO3D",
         "spec": [
@@ -26584,77 +26213,6 @@
         ],
         "price": "일시품절",
         "img": "//img.danawa.com/prod_img/500000/247/752/img/17752247_1.jpg?shrink=330:*&_v=20220830162745",
-        "Cate": "VGA"
-    },
-    {
-        "name": "NVIDIA Tesla T4 D6 16GB (해외구매)",
-        "brand": "NVIDIA",
-        "spec": [
-            "Tesla T4",
-            "12nm",
-            "베이스클럭: 585MHz",
-            "부스트클럭: 1590MHz",
-            "스트림 프로세서: 2560개",
-            "PCIe3.0x16",
-            "GDDR6(DDR6)",
-            "사용전력: 최대 70W",
-            "가로(길이): 168mm",
-            "ECC",
-            "1U, 4U 서버랙 장착 지원"
-        ],
-        "price": "1885000",
-        "img": "//img.danawa.com/prod_img/500000/427/122/img/17122427_1.jpg?shrink=330:*&_v=20220525094715",
-        "Cate": "VGA"
-    },
-    {
-        "name": "NVIDIA 지포스 RTX 3070 Founders Edition D6 8GB (해외구매)",
-        "brand": "NVIDIA",
-        "spec": [
-            "RTX 3070",
-            "8nm",
-            "베이스클럭: 1500MHz",
-            "부스트클럭: 1730MHz",
-            "스트림 프로세서: 5888개",
-            "PCIe4.0x16",
-            "GDDR6(DDR6)",
-            "출력단자: HDMI2.1, DP1.4",
-            "부가기능: 8K 지원, 4K 지원, HDR 지원, HDCP 2.3, HDCP 지원",
-            "사용전력: 최대 220W",
-            "정격파워 650W 이상",
-            "전원 포트: 12핀 x1",
-            "2개 팬",
-            "가로(길이): 242mm",
-            "두께: 40mm",
-            "백플레이트"
-        ],
-        "price": "1648700",
-        "img": "//img.danawa.com/prod_img/500000/846/703/img/13703846_1.jpg?shrink=330:*&_v=20210325100507",
-        "Cate": "VGA"
-    },
-    {
-        "name": "MSI 지포스 RTX 3070 게이밍 X 트리오 D6 8GB 트라이프로져2 (해외구매)",
-        "brand": "MSI",
-        "spec": [
-            "RTX 3070",
-            "8nm",
-            "부스트클럭: 1830MHz",
-            "스트림 프로세서: 5888개",
-            "PCIe4.0x16",
-            "GDDR6(DDR6)",
-            "출력단자: HDMI2.1, DP1.4",
-            "부가기능: 제로팬(0-dB기술), 8K 지원, 4K 지원, HDR 지원, HDCP 2.3, HDCP 지원",
-            "사용전력: 최대 240W",
-            "정격파워 650W 이상",
-            "전원 포트: 8핀 x2",
-            "3개 팬",
-            "가로(길이): 323mm",
-            "두께: 50~59mm",
-            "백플레이트",
-            "LED 라이트",
-            "MYSTIC LIGHT"
-        ],
-        "price": "1702320",
-        "img": "//img.danawa.com/prod_img/500000/602/352/img/14352602_1.jpg?shrink=330:*&_v=20210602095540",
         "Cate": "VGA"
     },
     {
@@ -26899,42 +26457,6 @@
         "Cate": "VGA"
     },
     {
-        "name": "NVIDIA 쿼드로 P620 V2 D5 2GB (해외구매)",
-        "brand": "NVIDIA",
-        "spec": [
-            "P620",
-            "스트림 프로세서: 512개",
-            "PCIe3.0x16",
-            "GDDR5(DDR5)",
-            "출력단자: DP1.4",
-            "부가기능: 4K 지원",
-            "사용전력: 최대 40W",
-            "1개 팬",
-            "가로(길이): 150mm",
-            "두께: 20mm"
-        ],
-        "price": "274200",
-        "img": "//img.danawa.com/prod_img/500000/974/504/img/15504974_1.jpg?shrink=330:*&_v=20211025102935",
-        "Cate": "VGA"
-    },
-    {
-        "name": "매트록스 M9120 PLUS LP PCIe x16 512MB RGB Quad 앤아이피",
-        "brand": "매트록스",
-        "spec": [
-            "매트록스",
-            "PCIe x16",
-            "GDDR2(DDR2)",
-            "가로(길이): 167mm",
-            "두께: 16mm",
-            "디지털 2포트 출력",
-            "아날로그 4포트 출력(CAB-L60-4XAF)",
-            "정품박스"
-        ],
-        "price": "619560",
-        "img": "//img.danawa.com/prod_img/500000/031/883/img/883031_1.jpg?shrink=330:*&_v=20100628145659",
-        "Cate": "VGA"
-    },
-    {
         "name": "GIGABYTE 지포스 RTX 3080 Gaming OC V2 D6X 10GB 제이씨현",
         "brand": "GIGABYTE",
         "spec": [
@@ -26959,19 +26481,6 @@
         ],
         "price": "1760000",
         "img": "//img.danawa.com/prod_img/500000/227/598/img/14598227_1.jpg?shrink=330:*&_v=20210716142116",
-        "Cate": "VGA"
-    },
-    {
-        "name": "NVIDIA 쿼드로 P400 D5 2GB (해외구매)",
-        "brand": "NVIDIA",
-        "spec": [
-            "P400",
-            "스트림 프로세서: 256개",
-            "PCIe3.0x16",
-            "GDDR5(DDR5)"
-        ],
-        "price": "135600",
-        "img": "//img.danawa.com/prod_img/500000/086/915/img/15915086_1.jpg?shrink=330:*&_v=20211213110837",
         "Cate": "VGA"
     },
     {
@@ -27018,32 +26527,6 @@
         ],
         "price": "310470",
         "img": "//img.danawa.com/prod_img/500000/591/849/img/9849591_1.jpg?shrink=330:*&_v=20220126093322",
-        "Cate": "VGA"
-    },
-    {
-        "name": "ZOTAC GAMING 지포스 RTX 3090 Ti AMP EXTREME Holo D6X 24GB (해외구매)",
-        "brand": "ZOTAC",
-        "spec": [
-            "RTX 3090 Ti",
-            "8nm",
-            "부스트클럭: 1890MHz",
-            "스트림 프로세서: 10752개",
-            "PCIe4.0x16",
-            "GDDR6X(DDR6X)",
-            "출력단자: HDMI2.1, DP1.4",
-            "부가기능: 제로팬(0-dB기술), 멀티 VGA, 8K 지원, 4K 지원, HDR 지원, Dual BIOS",
-            "사용전력: 최대 450W",
-            "정격파워 850W 이상",
-            "전원부: 21페이즈",
-            "3개 팬",
-            "가로(길이): 355.9mm",
-            "두께: 63.7mm",
-            "백플레이트",
-            "LED 라이트",
-            "SPECTRA"
-        ],
-        "price": "3610600",
-        "img": "//img.danawa.com/prod_img/500000/462/123/img/17123462_1.jpg?shrink=330:*&_v=20220525103853",
         "Cate": "VGA"
     },
     {

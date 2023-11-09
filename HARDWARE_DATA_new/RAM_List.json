@@ -18813,60 +18813,6 @@
         "Cate": "RAM"
     },
     {
-        "name": "삼성전자 DDR5-4800 병행수입",
-        "brand": "삼성전자",
-        "spec": [
-            "데스크탑용",
-            "DDR5",
-            "4800MHz (PC5-38400)",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "32",
-            "16",
-            "8"
-        ],
-        "size": "32",
-        "price": "111400",
-        "img": "//img.danawa.com/prod_img/500000/262/390/img/16390262_1.jpg?shrink=330:*&_v=20220214145536",
-        "Cate": "RAM"
-    },
-    {
-        "name": "삼성전자 DDR5-4800 병행수입",
-        "brand": "삼성전자",
-        "spec": [
-            "데스크탑용",
-            "DDR5",
-            "4800MHz (PC5-38400)",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "32",
-            "16",
-            "8"
-        ],
-        "size": "16",
-        "price": "55000",
-        "img": "//img.danawa.com/prod_img/500000/262/390/img/16390262_1.jpg?shrink=330:*&_v=20220214145536",
-        "Cate": "RAM"
-    },
-    {
-        "name": "삼성전자 DDR5-4800 병행수입",
-        "brand": "삼성전자",
-        "spec": [
-            "데스크탑용",
-            "DDR5",
-            "4800MHz (PC5-38400)",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "32",
-            "16",
-            "8"
-        ],
-        "size": "8",
-        "price": "50700",
-        "img": "//img.danawa.com/prod_img/500000/262/390/img/16390262_1.jpg?shrink=330:*&_v=20220214145536",
-        "Cate": "RAM"
-    },
-    {
         "name": "마이크론 Crucial DDR5-6000 CL48 PRO 패키지 아스크텍",
         "brand": "마이크론",
         "spec": [
@@ -20536,60 +20482,6 @@
         "size": "4",
         "price": "14480",
         "img": "//img.danawa.com/prod_img/500000/281/111/img/8111281_1.jpg?shrink=330:*&_v=20211027135406",
-        "Cate": "RAM"
-    },
-    {
-        "name": "삼성전자 DDR3-1600 병행수입",
-        "brand": "삼성전자",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1600MHz (PC3-12800)",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "8",
-            "4",
-            "2"
-        ],
-        "size": "8",
-        "price": "21540",
-        "img": "//img.danawa.com/prod_img/500000/298/792/img/1792298_1.jpg?shrink=330:*&_v=20200827101211",
-        "Cate": "RAM"
-    },
-    {
-        "name": "삼성전자 DDR3-1600 병행수입",
-        "brand": "삼성전자",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1600MHz (PC3-12800)",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "8",
-            "4",
-            "2"
-        ],
-        "size": "4",
-        "price": "30800",
-        "img": "//img.danawa.com/prod_img/500000/298/792/img/1792298_1.jpg?shrink=330:*&_v=20200827101211",
-        "Cate": "RAM"
-    },
-    {
-        "name": "삼성전자 DDR3-1600 병행수입",
-        "brand": "삼성전자",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1600MHz (PC3-12800)",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "8",
-            "4",
-            "2"
-        ],
-        "size": "2",
-        "price": "9500",
-        "img": "//img.danawa.com/prod_img/500000/298/792/img/1792298_1.jpg?shrink=330:*&_v=20200827101211",
         "Cate": "RAM"
     },
     {
@@ -22948,23 +22840,6 @@
         "Cate": "RAM"
     },
     {
-        "name": "SK하이닉스 DDR5-5600 병행수입",
-        "brand": "SK하이닉스",
-        "spec": [
-            "데스크탑용",
-            "DDR5",
-            "5600MHz (PC5-44800)",
-            "1.10V",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "16"
-        ],
-        "size": "16",
-        "price": "83990",
-        "img": "//img.danawa.com/prod_img/500000/351/698/img/18698351_1.jpg?shrink=330:*&_v=20230109092253",
-        "Cate": "RAM"
-    },
-    {
         "name": "Terabyte Ramonster DDR4-3200 CL22 BLACK",
         "brand": "Terabyte",
         "spec": [
@@ -23803,40 +23678,6 @@
         "Cate": "RAM"
     },
     {
-        "name": "삼성전자 DDR4-2133 병행수입",
-        "brand": "삼성전자",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "2133MHz (PC4-17000)",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "8",
-            "4"
-        ],
-        "size": "8",
-        "price": "42900",
-        "img": "//img.danawa.com/prod_img/500000/158/886/img/2886158_1.jpg?shrink=330:*&_v=20200826172301",
-        "Cate": "RAM"
-    },
-    {
-        "name": "삼성전자 DDR4-2133 병행수입",
-        "brand": "삼성전자",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "2133MHz (PC4-17000)",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "8",
-            "4"
-        ],
-        "size": "4",
-        "price": "51480",
-        "img": "//img.danawa.com/prod_img/500000/158/886/img/2886158_1.jpg?shrink=330:*&_v=20200826172301",
-        "Cate": "RAM"
-    },
-    {
         "name": "CORSAIR DDR4-3200 CL16 Dominator Platinum RGB WHITE 패키지",
         "brand": "CORSAIR",
         "spec": [
@@ -24087,29 +23928,6 @@
         "size": "2",
         "price": "17900",
         "img": "//img.danawa.com/prod_img/500000/795/947/img/5947795_1.jpg?shrink=330:*&_v=20200821134822",
-        "Cate": "RAM"
-    },
-    {
-        "name": "CORSAIR DDR4-3600 CL18 VENGEANCE RGB PRO SL WHITE 패키지 해외구매",
-        "brand": "CORSAIR",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "3600MHz (PC4-28800)",
-            "램타이밍: CL18-22-22-42",
-            "1.35V",
-            "램개수: 2개",
-            "LED 라이트",
-            "XMP",
-            "히트싱크: 방열판",
-            "방열판 색상: 화이트",
-            "LED색상: RGB",
-            "LED 시스템: AURA SYNC, MYSTIC LIGHT, RGB FUSION, CORSAIR iCUE",
-            "32"
-        ],
-        "size": "32",
-        "price": "147470",
-        "img": "//img.danawa.com/prod_img/500000/882/663/img/17663882_1.jpg?shrink=330:*&_v=20220816155154",
         "Cate": "RAM"
     },
     {
@@ -24514,54 +24332,6 @@
         "size": "16",
         "price": "200000",
         "img": "//img.danawa.com/prod_img/500000/601/430/img/2430601_1.jpg?shrink=330:*&_v=20200821134822",
-        "Cate": "RAM"
-    },
-    {
-        "name": "G.SKILL DDR4-3600 CL18 TRIDENT Z RGB 패키지 (해외구매)",
-        "brand": "G.SKILL",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "3600MHz (PC4-28800)",
-            "램타이밍: CL18-22-22-42",
-            "1.35V",
-            "램개수: 2개",
-            "LED 라이트",
-            "XMP",
-            "히트싱크: 방열판",
-            "방열판 색상: 블랙",
-            "LED색상: RGB",
-            "LED 시스템: AURA SYNC, MYSTIC LIGHT, RGB FUSION, POLYCHROME",
-            "32",
-            "16"
-        ],
-        "size": "32",
-        "price": "123800",
-        "img": "//img.danawa.com/prod_img/500000/148/271/img/18271148_1.jpg?shrink=330:*&_v=20221115082431",
-        "Cate": "RAM"
-    },
-    {
-        "name": "G.SKILL DDR4-3600 CL18 TRIDENT Z RGB 패키지 (해외구매)",
-        "brand": "G.SKILL",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "3600MHz (PC4-28800)",
-            "램타이밍: CL18-22-22-42",
-            "1.35V",
-            "램개수: 2개",
-            "LED 라이트",
-            "XMP",
-            "히트싱크: 방열판",
-            "방열판 색상: 블랙",
-            "LED색상: RGB",
-            "LED 시스템: AURA SYNC, MYSTIC LIGHT, RGB FUSION, POLYCHROME",
-            "32",
-            "16"
-        ],
-        "size": "16",
-        "price": "131410",
-        "img": "//img.danawa.com/prod_img/500000/148/271/img/18271148_1.jpg?shrink=330:*&_v=20221115082431",
         "Cate": "RAM"
     },
     {
@@ -25742,24 +25512,6 @@
         "Cate": "RAM"
     },
     {
-        "name": "삼성전자 DDR3-1333 병행수입",
-        "brand": "삼성전자",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1333MHz (PC3-10600)",
-            "램타이밍: CL9",
-            "1.50V",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "2"
-        ],
-        "size": "2",
-        "price": "11800",
-        "img": "//img.danawa.com/prod_img/500000/710/843/img/843710_1.jpg?shrink=330:*&_v=20200827102706",
-        "Cate": "RAM"
-    },
-    {
         "name": "HIKVISION DDR4-3200 U10 Black",
         "brand": "HIKVISION",
         "spec": [
@@ -25797,29 +25549,6 @@
         "size": "8",
         "price": "일시품절",
         "img": "//img.danawa.com/prod_img/500000/466/462/img/16462466_1.jpg?shrink=330:*&_v=20230920091656",
-        "Cate": "RAM"
-    },
-    {
-        "name": "G.SKILL DDR4-3600 CL18 TRIDENT Z NEO 패키지 해외구매",
-        "brand": "G.SKILL",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "3600MHz (PC4-28800)",
-            "램타이밍: CL18-22-22-42",
-            "1.35V",
-            "램개수: 4개",
-            "LED 라이트",
-            "XMP",
-            "히트싱크: 방열판",
-            "방열판 색상: 실버/그레이",
-            "LED색상: RGB",
-            "LED 시스템: AURA SYNC, MYSTIC LIGHT, RGB FUSION, POLYCHROME",
-            "128"
-        ],
-        "size": "128",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/882/744/img/17744882_1.jpg?shrink=330:*&_v=20220829173723",
         "Cate": "RAM"
     },
     {
@@ -26098,92 +25827,6 @@
         "size": "8",
         "price": "일시품절",
         "img": "//img.danawa.com/prod_img/500000/131/789/img/27789131_1.jpg?shrink=330:*&_v=20230825160314",
-        "Cate": "RAM"
-    },
-    {
-        "name": "G.SKILL DDR4-3200 CL16 TRIDENT Z NEO 패키지 해외구매",
-        "brand": "G.SKILL",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "3200MHz (PC4-25600)",
-            "램타이밍: CL16-18-18-38",
-            "1.35V",
-            "램개수: 2개",
-            "LED 라이트",
-            "XMP",
-            "히트싱크: 방열판",
-            "방열판 색상: 블랙",
-            "LED색상: RGB",
-            "LED 시스템: AURA SYNC, MYSTIC LIGHT, RGB FUSION, POLYCHROME",
-            "64"
-        ],
-        "size": "64",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/464/712/img/17712464_1.jpg?shrink=330:*&_v=20220824101020",
-        "Cate": "RAM"
-    },
-    {
-        "name": "TeamGroup T-CREATE DDR4-3200 CL22 CLASSIC 10L 패키지 해외구매",
-        "brand": "TeamGroup",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "3200MHz (PC4-25600)",
-            "램타이밍: CL22-22-22-52",
-            "1.20V",
-            "램개수: 2개",
-            "히트싱크: 방열판",
-            "방열판 색상: 실버/그레이",
-            "64",
-            "16"
-        ],
-        "size": "64",
-        "price": "199900",
-        "img": "//img.danawa.com/prod_img/500000/095/712/img/17712095_1.jpg?shrink=330:*&_v=20220824094005",
-        "Cate": "RAM"
-    },
-    {
-        "name": "TeamGroup T-CREATE DDR4-3200 CL22 CLASSIC 10L 패키지 해외구매",
-        "brand": "TeamGroup",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "3200MHz (PC4-25600)",
-            "램타이밍: CL22-22-22-52",
-            "1.20V",
-            "램개수: 2개",
-            "히트싱크: 방열판",
-            "방열판 색상: 실버/그레이",
-            "64",
-            "16"
-        ],
-        "size": "16",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/095/712/img/17712095_1.jpg?shrink=330:*&_v=20220824094005",
-        "Cate": "RAM"
-    },
-    {
-        "name": "CORSAIR DDR4-3600 CL18 VENGEANCE RGB PRO SL BLACK 패키지 해외구매",
-        "brand": "CORSAIR",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "3600MHz (PC4-28800)",
-            "램타이밍: CL18-22-22-42",
-            "1.35V",
-            "램개수: 2개",
-            "LED 라이트",
-            "XMP",
-            "히트싱크: 방열판",
-            "방열판 색상: 블랙",
-            "LED색상: RGB",
-            "LED 시스템: AURA SYNC, MYSTIC LIGHT, RGB FUSION, CORSAIR iCUE",
-            "32"
-        ],
-        "size": "32",
-        "price": "338010",
-        "img": "//img.danawa.com/prod_img/500000/927/663/img/17663927_1.jpg?shrink=330:*&_v=20220920155431",
         "Cate": "RAM"
     },
     {
