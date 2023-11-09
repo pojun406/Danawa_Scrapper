@@ -116,8 +116,31 @@ for pc_cooler in cooler_data:
     Color = pc_cooler.get("color_text")
     product_img = pc_cooler.get('img')
 
-    insert_query = "INSERT INTO pc_cooler(manufacturer_name, product_name, product_salePrice, product_originalPrice, Color, product_description, product_IMG) VALUES (%s, %s, %s, %s, %s, %s, %s)"
-    insert_value = (manufacturer_name, product_name, product_salePrice, product_originalPrice, Color, product_description, product_img)
+    Socket_Type = []
+    for keyword in pc_cooler.get('spec'):
+        if '소켓:' in keyword:
+            Socket_Type.append(keyword)
+
+    Socket_info = []
+    for item in Socket_Type:
+    # "인텔 소켓:" 뒤에 있는 정보 추출
+        intel_sockets = re.search(r'인텔 소켓: (.+)', item)
+        if intel_sockets:
+            Socket_info.extend(intel_sockets.group(1).split(', '))
+
+        # "AMD 소켓:" 뒤에 있는 정보 추출
+        amd_sockets = re.search(r'AMD 소켓: (.+)', item)
+        if amd_sockets:
+            Socket_info.extend(amd_sockets.group(1).split(', '))
+
+    Socket = ';'.join(Socket_info)
+
+    print("소켓타입 : ", Socket)
+
+
+
+    insert_query = "INSERT INTO pc_cooler(manufacturer_name, product_name, product_salePrice, product_originalPrice, Socket_Type, Color, product_description, product_IMG) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)"
+    insert_value = (manufacturer_name, product_name, product_salePrice, product_originalPrice, Socket, Color, product_description, product_img)
     cursor.execute(insert_query, insert_value)
 
 for pc_cpu in cpu_data:
@@ -157,6 +180,8 @@ for pc_cpu in cpu_data:
                     tdp_value = matches4.group(2)
                 else:
                     tdp_value = 0
+
+    Socket_Type = product_description[0]
 
     product_img = pc_cpu.get('img')
 

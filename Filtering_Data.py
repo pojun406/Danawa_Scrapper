@@ -7,8 +7,9 @@ excluded_items = ["HDD (NAS용)", "쿼드로", "고정핀/나사", "VGA 지지�
                   "중고 여부 확인요망", "RAM 쿨러", "구매 시 주의사항: 쿨링팬 수(선택), OC(선택), 채굴 여부 판매자 별도 문의 요망", "가이드", "서버용 파워", "서버용",
                   "수랭 부속품", "오일", "인텔(CPU내장)", "조명기기", "채굴용 케이스", "케이블", "튜닝 부속품", "팬 부속품", "팬컨트롤러", "서버용 파워",
                   "제품 상세 정보는 판매중인 쇼핑몰에서 반드시 확인하시기 바랍니다", "DDR2", "방열판 분류용 상품", "메모리, 확장 슬롯, 오디오, 그래픽, USB 출력 별도 확인 요망",
-                  "상세스펙 판매처 별도 확인 요망", "UPS", "TFX 파워", "DDR"]
-excluded_brands = ["이도디스플레이", "현대파워", "SilverStone", "HALO", "BABEL", "Enhance", "Bestone", "+PLUS", "ANACOMDA"]
+                  "상세스펙 판매처 별도 확인 요망", "UPS", "TFX 파워", "DDR", "시스템 쿨러", "VGA 쿨러", "M.2 SSD 쿨러", "써멀 컴파운드", "먼지필터", "USB헤더 허브", "더미램",
+                  "HDD 쿨러"]
+excluded_brands = ["이도디스플레이", "현대파워", "SilverStone", "HALO", "BABEL", "Enhance", "Bestone", "+PLUS", "ANACOMDA", "FOXCONN", "EVERCOOL", "NOCTUA"]
 
 
 json_files = [
