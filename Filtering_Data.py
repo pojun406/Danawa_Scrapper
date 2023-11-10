@@ -3,14 +3,13 @@ import json
 
 # 제외할 항목
 excluded_items = ["HDD (NAS용)", "쿼드로", "고정핀/나사", "VGA 지지대", "써멀패드", "SSD/HDD 주변기기", "임베디드 보드", "방열판", "제온", "중고",
-                  "VR 지원 장비", "PowerLink", "SLI Bridge", "노트북", "노트북용", "전용 액세서리", "외장그래픽 독","HDD (기업용)", "HDD (CCTV용)", "DC to DC",
+                  "VR 지원 장비", "PowerLink", "SLI Bridge", "노트북", "노트북용", "전용 액세서리", "외장그래픽 독","HDD (기업용)", "HDD (CCTV용)", "DC to DC", "HDD (노트북용)",
                   "중고 여부 확인요망", "RAM 쿨러", "구매 시 주의사항: 쿨링팬 수(선택), OC(선택), 채굴 여부 판매자 별도 문의 요망", "가이드", "서버용 파워", "서버용",
                   "수랭 부속품", "오일", "인텔(CPU내장)", "조명기기", "채굴용 케이스", "케이블", "튜닝 부속품", "팬 부속품", "팬컨트롤러", "서버용 파워",
                   "제품 상세 정보는 판매중인 쇼핑몰에서 반드시 확인하시기 바랍니다", "DDR2", "방열판 분류용 상품", "메모리, 확장 슬롯, 오디오, 그래픽, USB 출력 별도 확인 요망",
-                  "상세스펙 판매처 별도 확인 요망", "UPS", "TFX 파워", "DDR", "시스템 쿨러", "VGA 쿨러", "M.2 SSD 쿨러", "써멀 컴파운드", "먼지필터", "USB헤더 허브", "더미램",
-                  "HDD 쿨러"]
+                  "상세스펙 판매처 별도 확인 요망", "UPS", "TFX 파워", "DDR", "시스템 쿨러", "VGA 쿨러", "M.2 SSD 쿨러", "써멀 컴파운드", "먼지필터", "USB헤더 허브", "더미램", "HDD 쿨러", "HDD (리퍼비시)", "SSHD (노트북용)", "SSHD (PC용)"]
 excluded_brands = ["이도디스플레이", "현대파워", "SilverStone", "HALO", "BABEL", "Enhance", "Bestone", "+PLUS", "ANACOMDA", "FOXCONN", "EVERCOOL", "NOCTUA"]
-
+excluded_sockets = ["AMD(소켓TR4)", "AMD(소켓SP3)", "AMD(소켓sTRX4)", "인텔(소켓2011)", "LGA2011", "LGA2011-V3", "LGA 1366", "소켓2011-V3", "소켓 sTRX4", "소켓 TR4", "소켓1151v2", "소켓sWRX8", "AMD(소켓SP5)", "인텔(소켓4677)", "인텔(소켓4189)", "인텔(소켓3647)", "인텔(소켓2066)", "산업용SSD", "GDDR2(DDR2)", "외장그래픽"]
 
 json_files = [
     "HARDWARE_DATA_old/Case_List.json",
@@ -30,7 +29,15 @@ for file in json_files:
         data = json.load(f)
 
         # "액세서리" 및 제외할 항목을 포함하지 않는 제품만 추가하고 저장
-        filtered_data = [item for item in data if "액세서리" not in item['spec'] and all(excluded_item not in item['spec'] for excluded_item in excluded_items) and "(중고)" not in item['name'] and all(excluded_brand not in item['brand'] for excluded_brand in excluded_brands) and not any("칩:" in spec for spec in item['spec'])and "(콘로)" not in item['name']]
+        filtered_data = [item for item in data if "액세서리" not in item['spec']
+                         and all(excluded_item not in item['spec'] for excluded_item in excluded_items)
+                         and "(중고)" not in item['name']
+                         and "해외구매" not in item['name']
+                         and "병행수입" not in item['name']
+                         and all(excluded_brand not in item['brand'] for excluded_brand in excluded_brands)
+                         and not any("칩:" in spec for spec in item['spec'])
+                         and "(콘로)" not in item['name']
+                         and not any(word in ''.join(item.get('spec', [])) for word in excluded_sockets)]
 
         # 저장할 파일 경로 생성
         save_path = file.replace("HARDWARE_DATA_old/", "HARDWARE_DATA_new/")

@@ -38589,33 +38589,6 @@
         "Cate": "Case"
     },
     {
-        "name": "Phanteks ECLIPSE P600S (해외구매)",
-        "brand": "Phanteks",
-        "spec": [
-            "PC케이스(ATX)",
-            "미들타워",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총3개",
-            "측면: 강화유리",
-            "후면: 140mm x1",
-            "전면: 140mm x2",
-            "너비(W): 240mm",
-            "높이(H): 520mm",
-            "깊이(D): 510mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 294mm",
-            "CPU쿨러 장착: 190mm"
-        ],
-        "color_text": "",
-        "price": "215000",
-        "img": "//img.danawa.com/prod_img/500000/954/355/img/13355954_1.jpg?shrink=330:*&_v=20230209091008",
-        "Cate": "Case"
-    },
-    {
         "name": "써멀테이크 AH T200 MICRO",
         "brand": "써멀테이크",
         "spec": [
@@ -39937,28 +39910,6 @@
         "Cate": "Case"
     },
     {
-        "name": "Razer 토마호크 Mini-ITX (해외구매)",
-        "brand": "Razer",
-        "spec": [
-            "미니ITX",
-            "미니ITX(리틀밸리)",
-            "파워미포함",
-            "Mini-ITX",
-            "측면: 강화유리",
-            "너비(W): 206.2mm",
-            "높이(H): 321.5mm",
-            "깊이(D): 367.2mm",
-            "GPU 장착: 320mm",
-            "CPU쿨러 장착: 165mm",
-            "외부 LED",
-            "LED 색상: RGB"
-        ],
-        "color_text": "",
-        "price": "368400",
-        "img": "//img.danawa.com/prod_img/500000/073/354/img/13354073_1.jpg?shrink=330:*&_v=20210209161612",
-        "Cate": "Case"
-    },
-    {
         "name": "바이퍼테크 VIP SLIM",
         "brand": "바이퍼테크",
         "spec": [
@@ -41091,27 +41042,6 @@
         "Cate": "Case"
     },
     {
-        "name": "IN WIN Chopin Pro (해외구매)",
-        "brand": "IN",
-        "spec": [
-            "미니ITX",
-            "미니ITX(리틀밸리)",
-            "200W",
-            "Mini-ITX",
-            "쿨링팬: 총1개",
-            "측면: 통풍구",
-            "너비(W): 84mm",
-            "높이(H): 244mm",
-            "깊이(D): 217mm",
-            "파워 위치: 하단후면",
-            "CPU쿨러 장착: 43mm"
-        ],
-        "color_text": "",
-        "price": "206400",
-        "img": "//img.danawa.com/prod_img/500000/986/845/img/16845986_1.jpg?shrink=330:*&_v=20220418111039",
-        "Cate": "Case"
-    },
-    {
         "name": "IN WIN Z583 블랙 USB 3.0",
         "brand": "IN",
         "spec": [
@@ -41377,30 +41307,6 @@
         "color_text": "",
         "price": "22000",
         "img": "//img.danawa.com/prod_img/500000/808/538/img/18538808_1.jpg?shrink=330:*&_v=20221220081523",
-        "Cate": "Case"
-    },
-    {
-        "name": "JONSBO D30 (해외구매)",
-        "brand": "JONSBO",
-        "spec": [
-            "PC케이스(M-ATX)",
-            "미니타워",
-            "파워미포함",
-            "Micro-ATX",
-            "Mini-ITX",
-            "Mini-DTX",
-            "측면: 강화유리",
-            "너비(W): 204mm",
-            "깊이(D): 401mm",
-            "높이(H): 337mm",
-            "파워 장착: 220mm",
-            "파워 위치: 상단",
-            "GPU 장착: 355mm",
-            "CPU쿨러 장착: 168mm"
-        ],
-        "color_text": "",
-        "price": "186100",
-        "img": "//img.danawa.com/prod_img/500000/888/472/img/16472888_1.jpg?shrink=330:*&_v=20220310124513",
         "Cate": "Case"
     },
     {
@@ -42721,29 +42627,6 @@
         "color_text": "",
         "price": "52900",
         "img": "//img.danawa.com/prod_img/500000/654/019/img/2019654_1.jpg?shrink=330:*&_v=20130429165330",
-        "Cate": "Case"
-    },
-    {
-        "name": "JONSBO D40 (해외구매)",
-        "brand": "JONSBO",
-        "spec": [
-            "PC케이스(ATX)",
-            "미들타워",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "측면: 강화유리",
-            "너비(W): 204mm",
-            "깊이(D): 401mm",
-            "높이(H): 398mm",
-            "파워 장착: 280mm",
-            "파워 위치: 상단",
-            "GPU 장착: 355mm",
-            "CPU쿨러 장착: 168mm"
-        ],
-        "color_text": "",
-        "price": "142500",
-        "img": "//img.danawa.com/prod_img/500000/963/472/img/16472963_1.jpg?shrink=330:*&_v=20220310124732",
         "Cate": "Case"
     },
     {

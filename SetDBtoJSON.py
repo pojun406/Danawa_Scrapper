@@ -135,7 +135,7 @@ for pc_cooler in cooler_data:
 
     Socket = ';'.join(Socket_info)
 
-    print("소켓타입 : ", Socket)
+    print("소켓타입 : " + Socket)
 
 
 
@@ -181,12 +181,25 @@ for pc_cpu in cpu_data:
                 else:
                     tdp_value = 0
 
-    Socket_Type = product_description[0]
+    socket_info = pc_cpu.get('spec')[0]
+    WhatSocket = list(socket_info)
+    formatted_socket_info = ""
+    print("소켓 인포 : " + socket_info)
 
+    if WhatSocket[0] == "인":
+        matches1 = re.search(r'인텔\(소켓(\d+)\)', socket_info)
+        if matches1:
+            socket_number = matches1.group(1)
+            formatted_socket_info = f"LGA{socket_number}"
+    elif WhatSocket[0] == "A":
+        matches2 = re.search(r'AMD\(소켓([A-Za-z0-9]+)\)', socket_info)
+        if matches2:
+            socket_number = matches2.group(1)
+            formatted_socket_info = f"{socket_number}"
     product_img = pc_cpu.get('img')
 
-    insert_query = "INSERT INTO pc_cpu(manufacturer_name, product_name, product_salePrice, product_originalPrice, TDP, product_description, product_IMG)  VALUES (%s, %s, %s, %s, %s, %s, %s)"
-    insert_value = (manufacturer_name, product_name, product_salePrice, product_originalPrice, tdp_value, product_description, product_img)
+    insert_query = "INSERT INTO pc_cpu(manufacturer_name, product_name, product_salePrice, product_originalPrice, TDP, Socket_Type, product_description, product_IMG)  VALUES (%s, %s, %s, %s, %s, %s, %s, %s)"
+    insert_value = (manufacturer_name, product_name, product_salePrice, product_originalPrice, tdp_value, formatted_socket_info, product_description, product_img)
     cursor.execute(insert_query, insert_value)
 
 for pc_hdd in hdd_data:
@@ -232,11 +245,26 @@ for pc_mboard in mboard_data:
     board_size = product_description.split(";")
     Size = board_size[2]
     Socket = board_size[0]
+    WhatSocket = list(Socket)
+    formatted_socket_info = ""
+    print("소켓 인포 : " + Socket)
+
+    if WhatSocket[0] == "인":
+        matches1 = re.search(r'인텔\(소켓(\d+)\)', Socket)
+        if matches1:
+            socket_number = matches1.group(1)
+            formatted_socket_info = f"LGA{socket_number}"
+    elif WhatSocket[0] == "A":
+        matches2 = re.search(r'AMD\(소켓([A-Za-z0-9]+)\)', Socket)
+        if matches2:
+            socket_number = matches2.group(1)
+            formatted_socket_info = f"{socket_number}"
+
 
     product_img = pc_mboard.get('img')
 
     insert_query = "INSERT INTO pc_mboard(manufacturer_name, product_name, product_salePrice, product_originalPrice, Socket, MBoard_Size, product_description, product_IMG) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)"
-    insert_value = (manufacturer_name, product_name, product_salePrice, product_originalPrice, Socket, Size, product_description, product_img)
+    insert_value = (manufacturer_name, product_name, product_salePrice, product_originalPrice, formatted_socket_info, Size, product_description, product_img)
     cursor.execute(insert_query, insert_value)
 
 for pc_power in power_data:
@@ -356,12 +384,12 @@ for pc_vga in vga_data:
         print("최대 사용 와트 : " + Max_Used)
     else:
         Max_Used = 0
-
+    VGA_Name = pc_vga.get('spec')[0]
     product_img = pc_vga.get('img')
-
-    insert_query = "INSERT INTO pc_vga(manufacturer_name, product_name, product_salePrice, product_originalPrice, TDP, Max_Used_W, product_description, product_IMG) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)"
-    insert_value = (manufacturer_name, product_name, product_salePrice, product_originalPrice, TDP, Max_Used, product_description, product_img)
-    cursor.execute(insert_query, insert_value)
+    if TDP != 0 or Max_Used != 0:
+        insert_query = "INSERT INTO pc_vga(manufacturer_name, product_name, product_salePrice, product_originalPrice, VGA_Name, TDP, Max_Used_W, product_description, product_IMG) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)"
+        insert_value = (manufacturer_name, product_name, product_salePrice, product_originalPrice, VGA_Name, TDP, Max_Used, product_description, product_img)
+        cursor.execute(insert_query, insert_value)
 
 connection.commit()
 connection.close()
