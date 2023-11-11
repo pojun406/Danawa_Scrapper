@@ -2731,29 +2731,6 @@
         "Cate": "Case"
     },
     {
-        "name": "이엠텍 레드빗 OPTIMIZER A TYPE",
-        "brand": "이엠텍",
-        "spec": [
-            "랙마운트",
-            "랙마운트(4U)",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "전면 패널 타입: 메쉬",
-            "너비(W): 438mm",
-            "높이(H): 177mm",
-            "깊이(D): 603mm",
-            "파워 위치: 기타",
-            "GPU 장착: 350mm",
-            "CRPS 파워 별도 가이드 필요"
-        ],
-        "color_text": "",
-        "price": "249000",
-        "img": "//img.danawa.com/prod_img/500000/728/865/img/17865728_1.jpg?shrink=330:*&_v=20221222165124",
-        "Cate": "Case"
-    },
-    {
         "name": "마이크로닉스 GX2-뉴런 메쉬",
         "brand": "마이크로닉스",
         "spec": [
@@ -3395,30 +3372,6 @@
         "color_text": "화이트",
         "price": "38000",
         "img": "//img.danawa.com/prod_img/500000/371/185/img/16185371_1.jpg?shrink=330:*&_v=20220525124656",
-        "Cate": "Case"
-    },
-    {
-        "name": "마이크로닉스 LO1- FINO Plus",
-        "brand": "마이크로닉스",
-        "spec": [
-            "HTPC 케이스",
-            "슬림(LP)",
-            "파워미포함",
-            "Micro-ATX",
-            "표준-ITX",
-            "쿨링팬: 총1개",
-            "전면: 80mm x1",
-            "너비(W): 102mm",
-            "높이(H): 338mm",
-            "깊이(D): 374mm",
-            "파워 장착: 195mm",
-            "파워 위치: 후면상단",
-            "GPU 장착: 195mm",
-            "CPU쿨러 장착: 70mm"
-        ],
-        "color_text": "",
-        "price": "49380",
-        "img": "//img.danawa.com/prod_img/500000/882/298/img/16298882_1.jpg?shrink=330:*&_v=20220127162056",
         "Cate": "Case"
     },
     {
@@ -4553,30 +4506,6 @@
         "Cate": "Case"
     },
     {
-        "name": "마이크로닉스 COOLMAX 쉐도우2 강화유리",
-        "brand": "마이크로닉스",
-        "spec": [
-            "튜닝 케이스",
-            "빅타워",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "측면: 강화유리",
-            "너비(W): 250mm",
-            "높이(H): 580mm",
-            "깊이(D): 642mm",
-            "파워 장착: 230mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 475mm",
-            "CPU쿨러 장착: 180mm"
-        ],
-        "color_text": "",
-        "price": "150150",
-        "img": "//img.danawa.com/prod_img/500000/009/301/img/13301009_1.jpg?shrink=330:*&_v=20210203140209",
-        "Cate": "Case"
-    },
-    {
         "name": "ASUS AP201",
         "brand": "ASUS",
         "spec": [
@@ -5124,56 +5053,6 @@
         "color_text": "White",
         "price": "141000",
         "img": "//img.danawa.com/prod_img/500000/972/357/img/17357972_1.jpg?shrink=330:*&_v=20221006082346",
-        "Cate": "Case"
-    },
-    {
-        "name": "JONSBO MOD3 MINI",
-        "brand": "JONSBO",
-        "spec": [
-            "튜닝 케이스",
-            "미니타워",
-            "파워미포함",
-            "Micro-ATX",
-            "Mini-ITX",
-            "측면: 강화유리",
-            "너비(W): 251mm",
-            "높이(H): 535mm",
-            "깊이(D): 569mm",
-            "파워 장착: 165mm",
-            "파워 위치: 하단전면",
-            "GPU 장착: 360mm",
-            "CPU쿨러 장착: 165mm",
-            "내부 LED 바",
-            "LED 색상: ARGB"
-        ],
-        "color_text": "GRAY",
-        "price": "239980",
-        "img": "//img.danawa.com/prod_img/500000/481/575/img/17575481_1.jpg?shrink=330:*&_v=20220801160700",
-        "Cate": "Case"
-    },
-    {
-        "name": "JONSBO MOD3 MINI",
-        "brand": "JONSBO",
-        "spec": [
-            "튜닝 케이스",
-            "미니타워",
-            "파워미포함",
-            "Micro-ATX",
-            "Mini-ITX",
-            "측면: 강화유리",
-            "너비(W): 251mm",
-            "높이(H): 535mm",
-            "깊이(D): 569mm",
-            "파워 장착: 165mm",
-            "파워 위치: 하단전면",
-            "GPU 장착: 360mm",
-            "CPU쿨러 장착: 165mm",
-            "내부 LED 바",
-            "LED 색상: ARGB"
-        ],
-        "color_text": "WHITE",
-        "price": "268000",
-        "img": "//img.danawa.com/prod_img/500000/481/575/img/17575481_1.jpg?shrink=330:*&_v=20220801160700",
         "Cate": "Case"
     },
     {
@@ -6441,34 +6320,6 @@
         "color_text": "Charcoal Black",
         "price": "221990",
         "img": "//img.danawa.com/prod_img/500000/748/448/img/18448748_1.jpg?shrink=330:*&_v=20221215170009",
-        "Cate": "Case"
-    },
-    {
-        "name": "1stPlayer Mi8 WING",
-        "brand": "1stPlayer",
-        "spec": [
-            "PC케이스(ATX)",
-            "미들타워",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "표준-ITX",
-            "쿨링팬: 총4개",
-            "LED팬: 4개",
-            "전면 패널 타입: 강화유리",
-            "측면: 강화유리",
-            "후면: 120mm LED x1",
-            "내부 측면: 120mm LED x3",
-            "너비(W): 245mm",
-            "깊이(D): 450mm",
-            "높이(H): 475mm",
-            "파워 장착: 180mm",
-            "GPU 장착: 425mm",
-            "CPU쿨러 장착: 180mm"
-        ],
-        "color_text": "Black",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/173/477/img/27477173_1.jpg?shrink=330:*&_v=20230913080857",
         "Cate": "Case"
     },
     {
@@ -9069,37 +8920,6 @@
         "Cate": "Case"
     },
     {
-        "name": "MSI MPG 궁니르 300R 에어플로우",
-        "brand": "MSI",
-        "spec": [
-            "PC케이스(ATX)",
-            "미들타워",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "표준-ITX",
-            "쿨링팬: 총4개",
-            "LED팬: 4개",
-            "전면 패널 타입: 메쉬",
-            "후면: 120mm LED x1",
-            "전면: 120mm LED x3",
-            "너비(W): 235mm",
-            "깊이(D): 505mm",
-            "높이(H): 510mm",
-            "파워 장착: 220mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 360mm",
-            "CPU쿨러 장착: 175mm",
-            "RGB 컨트롤",
-            "LED 색상: ARGB"
-        ],
-        "color_text": "화이트",
-        "price": "가격비교예정",
-        "img": "//img.danawa.com/prod_img/500000/378/394/img/28394378_1.jpg?shrink=330:*&_v=20231102095515",
-        "Cate": "Case"
-    },
-    {
         "name": "마이크로닉스 Frontier H300",
         "brand": "마이크로닉스",
         "spec": [
@@ -9365,32 +9185,6 @@
         "color_text": "화이트",
         "price": "89000",
         "img": "//img.danawa.com/prod_img/500000/885/747/img/17747885_1.jpg?shrink=330:*&_v=20230627160321",
-        "Cate": "Case"
-    },
-    {
-        "name": "쿨러마스터 MasterFrame 700",
-        "brand": "쿨러마스터",
-        "spec": [
-            "튜닝 케이스",
-            "빅타워",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "SSI-CEB",
-            "SSI-EEB",
-            "측면: 강화유리",
-            "너비(W): 306mm",
-            "높이(H): 410mm",
-            "깊이(D): 702mm ",
-            "파워 장착: 210mm",
-            "GPU 장착: 450mm",
-            "CPU쿨러 장착: 158mm"
-        ],
-        "color_text": "",
-        "price": "264940",
-        "img": "//img.danawa.com/prod_img/500000/668/848/img/13848668_1.jpg?shrink=330:*&_v=20230313095601",
         "Cate": "Case"
     },
     {
@@ -12311,33 +12105,6 @@
         "Cate": "Case"
     },
     {
-        "name": "Antec CANNON",
-        "brand": "Antec",
-        "spec": [
-            "튜닝 케이스",
-            "빅타워",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "측면: 강화유리",
-            "너비(W): 261mm",
-            "높이(H): 481mm",
-            "깊이(D): 604mm",
-            "파워 장착: 270mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 385mm",
-            "CPU쿨러 장착: 85mm",
-            "E-ATX 최대 길이 272mm",
-            "PCIe 4.0 라이저 케이블 제공"
-        ],
-        "color_text": "",
-        "price": "649000",
-        "img": "//img.danawa.com/prod_img/500000/209/382/img/17382209_1.jpg?shrink=330:*&_v=20220704111849",
-        "Cate": "Case"
-    },
-    {
         "name": "MSI MAG 뱀파이어 300R",
         "brand": "MSI",
         "spec": [
@@ -14387,27 +14154,6 @@
         "Cate": "Case"
     },
     {
-        "name": "마이크로닉스 QUANTA HMR-340SE",
-        "brand": "마이크로닉스",
-        "spec": [
-            "랙마운트",
-            "랙마운트(3U)",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "쿨링팬: 총2개",
-            "전면: 80mm x2",
-            "너비(W): 425mm",
-            "높이(H): 133mm",
-            "깊이(D): 403mm",
-            "파워 위치: 기타"
-        ],
-        "color_text": "",
-        "price": "94396",
-        "img": "//img.danawa.com/prod_img/500000/333/199/img/13199333_1.jpg?shrink=330:*&_v=20210121154533",
-        "Cate": "Case"
-    },
-    {
         "name": "JONSBO D41 MESH",
         "brand": "JONSBO",
         "spec": [
@@ -14566,25 +14312,6 @@
         "Cate": "Case"
     },
     {
-        "name": "마이크로닉스 QUANTA HMR-245N1",
-        "brand": "마이크로닉스",
-        "spec": [
-            "랙마운트",
-            "랙마운트(2U)",
-            "파워미포함",
-            "Micro-ATX",
-            "전면: 80mm x 3",
-            "너비(W): 482mm",
-            "높이(H): 88.9mm",
-            "깊이(D): 490mm",
-            "파워 위치: 기타"
-        ],
-        "color_text": "",
-        "price": "126484",
-        "img": "//img.danawa.com/prod_img/500000/050/095/img/3095050_1.jpg?shrink=330:*&_v=20200305133205",
-        "Cate": "Case"
-    },
-    {
         "name": "대양케이스 ME NO.14 레인보우 강화유리",
         "brand": "대양케이스",
         "spec": [
@@ -14642,62 +14369,6 @@
         "color_text": "화이트",
         "price": "45950",
         "img": "//img.danawa.com/prod_img/500000/986/031/img/14031986_1.jpg?shrink=330:*&_v=20210615155800",
-        "Cate": "Case"
-    },
-    {
-        "name": "앱코 SUITMASTER AL300M 강화유리",
-        "brand": "앱코",
-        "spec": [
-            "튜닝 케이스",
-            "미니타워",
-            "파워미포함",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총3개",
-            "LED팬: 3개",
-            "측면: 강화유리",
-            "전면: 120mm LED x3",
-            "너비(W): 160mm",
-            "높이(H): 500mm",
-            "깊이(D): 390mm",
-            "파워 장착: 185mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 310mm",
-            "CPU쿨러 장착: 130mm",
-            "RGB 컨트롤",
-            "LED 색상: RGB"
-        ],
-        "color_text": "로즈골드",
-        "price": "259500",
-        "img": "//img.danawa.com/prod_img/500000/013/649/img/12649013_1.jpg?shrink=330:*&_v=20201109161552",
-        "Cate": "Case"
-    },
-    {
-        "name": "앱코 SUITMASTER AL300M 강화유리",
-        "brand": "앱코",
-        "spec": [
-            "튜닝 케이스",
-            "미니타워",
-            "파워미포함",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총3개",
-            "LED팬: 3개",
-            "측면: 강화유리",
-            "전면: 120mm LED x3",
-            "너비(W): 160mm",
-            "높이(H): 500mm",
-            "깊이(D): 390mm",
-            "파워 장착: 185mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 310mm",
-            "CPU쿨러 장착: 130mm",
-            "RGB 컨트롤",
-            "LED 색상: RGB"
-        ],
-        "color_text": "미드나잇블루",
-        "price": "259500",
-        "img": "//img.danawa.com/prod_img/500000/013/649/img/12649013_1.jpg?shrink=330:*&_v=20201109161552",
         "Cate": "Case"
     },
     {
@@ -14954,30 +14625,6 @@
         "color_text": "WHITE",
         "price": "88000",
         "img": "//img.danawa.com/prod_img/500000/480/109/img/19109480_1.jpg?shrink=330:*&_v=20230222151720",
-        "Cate": "Case"
-    },
-    {
-        "name": "JONSBO MOD4",
-        "brand": "JONSBO",
-        "spec": [
-            "튜닝 케이스",
-            "미들타워",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "측면: 강화유리",
-            "너비(W): 249mm",
-            "높이(H): 477mm",
-            "깊이(D): 564mm",
-            "파워 장착: 160mm",
-            "파워 위치: 하단전면",
-            "GPU 장착: 320mm",
-            "CPU쿨러 장착: 165mm"
-        ],
-        "color_text": "GRAY",
-        "price": "239980",
-        "img": "//img.danawa.com/prod_img/500000/432/419/img/10419432_1.jpg?shrink=330:*&_v=20200226154336",
         "Cate": "Case"
     },
     {
@@ -15799,68 +15446,6 @@
         "Cate": "Case"
     },
     {
-        "name": "앱코 SUITMASTER AL1000",
-        "brand": "앱코",
-        "spec": [
-            "튜닝 케이스",
-            "빅타워",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총4개",
-            "LED팬: 4개",
-            "측면: 강화유리",
-            "후면: 200mm LED x2",
-            "전면: 200mm LED x2",
-            "너비(W): 365mm",
-            "높이(H): 645mm",
-            "깊이(D): 510mm",
-            "파워 장착: 350mm",
-            "파워 위치: 하단",
-            "GPU 장착: 420mm",
-            "CPU쿨러 장착: 235mm",
-            "리모컨",
-            "LED 색상: RGB"
-        ],
-        "color_text": "그레이",
-        "price": "852500",
-        "img": "//img.danawa.com/prod_img/500000/858/689/img/12689858_1.jpg?shrink=330:*&_v=20201230115435",
-        "Cate": "Case"
-    },
-    {
-        "name": "앱코 SUITMASTER AL1000",
-        "brand": "앱코",
-        "spec": [
-            "튜닝 케이스",
-            "빅타워",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총4개",
-            "LED팬: 4개",
-            "측면: 강화유리",
-            "후면: 200mm LED x2",
-            "전면: 200mm LED x2",
-            "너비(W): 365mm",
-            "높이(H): 645mm",
-            "깊이(D): 510mm",
-            "파워 장착: 350mm",
-            "파워 위치: 하단",
-            "GPU 장착: 420mm",
-            "CPU쿨러 장착: 235mm",
-            "리모컨",
-            "LED 색상: RGB"
-        ],
-        "color_text": "레드와인",
-        "price": "852500",
-        "img": "//img.danawa.com/prod_img/500000/858/689/img/12689858_1.jpg?shrink=330:*&_v=20201230115435",
-        "Cate": "Case"
-    },
-    {
         "name": "리안리 V3000 PLUS",
         "brand": "리안리",
         "spec": [
@@ -16488,29 +16073,6 @@
         "color_text": "",
         "price": "186980",
         "img": "//img.danawa.com/prod_img/500000/419/407/img/16407419_1.jpg?shrink=330:*&_v=20230217102454",
-        "Cate": "Case"
-    },
-    {
-        "name": "Antec STRIKER",
-        "brand": "Antec",
-        "spec": [
-            "튜닝 케이스",
-            "미니타워",
-            "파워미포함",
-            "Mini-ITX",
-            "측면: 강화유리",
-            "너비(W): 230mm",
-            "높이(H): 410mm",
-            "깊이(D): 420mm",
-            "파워 장착: 160mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 330mm",
-            "CPU쿨러 장착: 60mm",
-            "라이저 케이블 기본제공"
-        ],
-        "color_text": "",
-        "price": "405000",
-        "img": "//img.danawa.com/prod_img/500000/494/769/img/9769494_1.jpg?shrink=330:*&_v=20200803132942",
         "Cate": "Case"
     },
     {
@@ -17368,30 +16930,6 @@
         "color_text": "440mm",
         "price": "113000",
         "img": "//img.danawa.com/prod_img/500000/109/090/img/28090109_1.jpg?shrink=330:*&_v=20230907155154",
-        "Cate": "Case"
-    },
-    {
-        "name": "DEEPCOOL QUADSTELLAR INFINITY",
-        "brand": "DEEPCOOL",
-        "spec": [
-            "튜닝 케이스",
-            "빅타워",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "너비(W): 487mm",
-            "높이(H): 494mm",
-            "깊이(D): 540mm",
-            "파워 장착: 210mm",
-            "GPU 장착: 380mm",
-            "CPU쿨러 장착: 135mm",
-            "LED 색상: ARGB"
-        ],
-        "color_text": "",
-        "price": "492190",
-        "img": "//img.danawa.com/prod_img/500000/330/371/img/18371330_1.jpg?shrink=330:*&_v=20221128111636",
         "Cate": "Case"
     },
     {
@@ -19589,61 +19127,6 @@
         "Cate": "Case"
     },
     {
-        "name": "DEEPCOOL MACUBE 110",
-        "brand": "DEEPCOOL",
-        "spec": [
-            "PC케이스(M-ATX)",
-            "미니타워",
-            "파워미포함",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총1개",
-            "측면: 강화유리",
-            "후면: 120mm x1",
-            "너비(W): 225mm",
-            "깊이(D): 400mm",
-            "높이(H): 431mm",
-            "파워 장착: 160mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 350mm",
-            "CPU쿨러 장착: 165mm"
-        ],
-        "color_text": "MINT",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/794/176/img/13176794_1.jpg?shrink=330:*&_v=20210701140717",
-        "Cate": "Case"
-    },
-    {
-        "name": "마이크로닉스 GX3-창",
-        "brand": "마이크로닉스",
-        "spec": [
-            "PC케이스(ATX)",
-            "빅타워",
-            "파워미포함",
-            "Extended-ATX",
-            "수직 PCI형태: 기본형",
-            "쿨링팬: 총4개",
-            "LED팬: 4개",
-            "측면 개폐 방식: 스윙도어",
-            "측면: 강화유리",
-            "후면: 120mm LED x1",
-            "전면: 120mm LED x3",
-            "너비(W): 250mm",
-            "깊이(D): 585mm",
-            "높이(H): 518mm",
-            "파워 장착: 350mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 460mm",
-            "CPU쿨러 장착: 190mm",
-            "외부LED 컨트롤",
-            "LED 색상: 화이트"
-        ],
-        "color_text": "",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/587/710/img/16710587_1.jpg?shrink=330:*&_v=20220419140011",
-        "Cate": "Case"
-    },
-    {
         "name": "Antec P20CE METAL MESH SOLID",
         "brand": "Antec",
         "spec": [
@@ -20120,26 +19603,6 @@
         "Cate": "Case"
     },
     {
-        "name": "마이크로닉스 QUANTA HMR-455N1",
-        "brand": "마이크로닉스",
-        "spec": [
-            "랙마운트",
-            "랙마운트(4U) 이상",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "전면: 120mm",
-            "너비(W): 482mm",
-            "높이(H): 178mm",
-            "깊이(D): 595mm",
-            "파워 위치: 기타"
-        ],
-        "color_text": "",
-        "price": "132992",
-        "img": "//img.danawa.com/prod_img/500000/902/088/img/3088902_1.jpg?shrink=330:*&_v=20200821090832",
-        "Cate": "Case"
-    },
-    {
         "name": "BRAVOTEC M110 마블 스파이더맨 강화유리",
         "brand": "BRAVOTEC",
         "spec": [
@@ -20550,26 +20013,6 @@
         "Cate": "Case"
     },
     {
-        "name": "마이크로닉스 QUANTA HMR-345N1",
-        "brand": "마이크로닉스",
-        "spec": [
-            "랙마운트",
-            "랙마운트(3U)",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "전면: 120mm x 2",
-            "너비(W): 482mm",
-            "높이(H): 133mm",
-            "깊이(D): 490mm",
-            "파워 위치: 기타"
-        ],
-        "color_text": "",
-        "price": "131136",
-        "img": "//img.danawa.com/prod_img/500000/287/092/img/3092287_1.jpg?shrink=330:*&_v=20200305133357",
-        "Cate": "Case"
-    },
-    {
         "name": "be quiet PURE BASE 500 WINDOW 서린",
         "brand": "be",
         "spec": [
@@ -20880,35 +20323,6 @@
         "color_text": "",
         "price": "91140",
         "img": "//img.danawa.com/prod_img/500000/588/261/img/9261588_1.jpg?shrink=330:*&_v=20190814163045",
-        "Cate": "Case"
-    },
-    {
-        "name": "앱코 SUITMASTER 720G 강화유리 DOUBLING",
-        "brand": "앱코",
-        "spec": [
-            "PC케이스(ATX)",
-            "빅타워",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총4개",
-            "LED팬: 4개",
-            "측면: 강화유리",
-            "후면: 120mm LED",
-            "전면: 120mm LED x 3",
-            "너비(W): 230mm",
-            "깊이(D): 470mm",
-            "높이(H): 515mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 최대 400mm",
-            "CPU쿨러 장착: 최대 165mm",
-            "RGB 컨트롤"
-        ],
-        "color_text": "화이트",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/318/187/img/5187318_1.jpg?shrink=330:*&_v=20190919180231",
         "Cate": "Case"
     },
     {
@@ -21276,26 +20690,6 @@
         "Cate": "Case"
     },
     {
-        "name": "마이크로닉스 QUANTA HMR-445N1",
-        "brand": "마이크로닉스",
-        "spec": [
-            "랙마운트",
-            "랙마운트(4U) 이상",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "전면: 80mm x 2",
-            "너비(W): 482mm",
-            "높이(H): 178mm",
-            "깊이(D): 490mm",
-            "파워 위치: 기타"
-        ],
-        "color_text": "",
-        "price": "117654",
-        "img": "//img.danawa.com/prod_img/500000/595/089/img/3089595_1.jpg?shrink=330:*&_v=20200219153127",
-        "Cate": "Case"
-    },
-    {
         "name": "DEEPCOOL CK560",
         "brand": "DEEPCOOL",
         "spec": [
@@ -21520,25 +20914,6 @@
         "color_text": "",
         "price": "86000",
         "img": "//img.danawa.com/prod_img/500000/821/249/img/10249821_1.jpg?shrink=330:*&_v=20200129170203",
-        "Cate": "Case"
-    },
-    {
-        "name": "마이크로닉스 QUANTA HMR-155N1",
-        "brand": "마이크로닉스",
-        "spec": [
-            "랙마운트",
-            "랙마운트(1U)",
-            "파워미포함",
-            "Micro-ATX",
-            "전면: 40mm x 4개",
-            "너비(W): 482mm",
-            "높이(H): 44.5mm",
-            "깊이(D): 560mm",
-            "파워 위치: 기타"
-        ],
-        "color_text": "",
-        "price": "159490",
-        "img": "//img.danawa.com/prod_img/500000/232/108/img/3108232_1.jpg?shrink=330:*&_v=20200317093808",
         "Cate": "Case"
     },
     {
@@ -21834,36 +21209,6 @@
         "Cate": "Case"
     },
     {
-        "name": "앱코 SUITMASTER TA210 플라즈마 아크릴 LUNAR",
-        "brand": "앱코",
-        "spec": [
-            "튜닝 케이스",
-            "미들타워",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총1개",
-            "LED팬: 1개",
-            "측면: 아크릴",
-            "상단: 200mm LED x1",
-            "너비(W): 355mm",
-            "높이(H): 450mm",
-            "깊이(D): 415mm",
-            "파워 장착: 170mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 315mm",
-            "CPU쿨러 장착: 150mm",
-            "외부 LED",
-            "RGB 컨트롤",
-            "LED 색상: RGB"
-        ],
-        "color_text": "",
-        "price": "61500",
-        "img": "//img.danawa.com/prod_img/500000/761/558/img/10558761_1.jpg?shrink=330:*&_v=20200217112253",
-        "Cate": "Case"
-    },
-    {
         "name": "대양케이스 ME NO.12 레인보우 강화유리",
         "brand": "대양케이스",
         "spec": [
@@ -21889,25 +21234,6 @@
         "color_text": "화이트",
         "price": "42940",
         "img": "//img.danawa.com/prod_img/500000/350/929/img/13929350_1.jpg?shrink=330:*&_v=20210419155320",
-        "Cate": "Case"
-    },
-    {
-        "name": "마이크로닉스 QUANTA HMR-255N1",
-        "brand": "마이크로닉스",
-        "spec": [
-            "랙마운트",
-            "랙마운트(2U)",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "너비(W): 482mm",
-            "높이(H): 88.9mm",
-            "깊이(D): 595mm",
-            "파워 위치: 기타"
-        ],
-        "color_text": "",
-        "price": "140000",
-        "img": "//img.danawa.com/prod_img/500000/870/093/img/3093870_1.jpg?shrink=330:*&_v=20200305133300",
         "Cate": "Case"
     },
     {
@@ -22084,30 +21410,6 @@
         "color_text": "블랙",
         "price": "59900",
         "img": "//img.danawa.com/prod_img/500000/216/572/img/12572216_1.jpg?shrink=330:*&_v=20211021165155",
-        "Cate": "Case"
-    },
-    {
-        "name": "이엠텍 레드빗 OPTIMIZER B TYPE",
-        "brand": "이엠텍",
-        "spec": [
-            "랙마운트",
-            "랙마운트(4U)",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "전면 패널 타입: 메쉬",
-            "너비(W): 438mm",
-            "높이(H): 177mm",
-            "깊이(D): 603mm",
-            "파워 위치: 기타",
-            "GPU 장착: 350mm",
-            "전면 탈착식 드라이브 베이",
-            "CRPS 파워 별도 가이드 필요"
-        ],
-        "color_text": "",
-        "price": "304000",
-        "img": "//img.danawa.com/prod_img/500000/833/865/img/17865833_1.jpg?shrink=330:*&_v=20221222165132",
         "Cate": "Case"
     },
     {
@@ -22965,28 +22267,6 @@
         "Cate": "Case"
     },
     {
-        "name": "이엠텍 레드빗 MAXIMIZER",
-        "brand": "이엠텍",
-        "spec": [
-            "랙마운트",
-            "랙마운트(4U)",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "너비(W): 438mm",
-            "높이(H): 177mm",
-            "깊이(D): 750mm",
-            "파워 위치: 기타",
-            "GPU 장착: 350mm",
-            "※ 2022년 9월 이후 가이드 미제공"
-        ],
-        "color_text": "",
-        "price": "319000",
-        "img": "//img.danawa.com/prod_img/500000/217/633/img/16633217_1.jpg?shrink=330:*&_v=20221222165128",
-        "Cate": "Case"
-    },
-    {
         "name": "CORSAIR 4000D",
         "brand": "CORSAIR",
         "spec": [
@@ -23776,30 +23056,6 @@
         "Cate": "Case"
     },
     {
-        "name": "마이크로닉스 LO1-FINO",
-        "brand": "마이크로닉스",
-        "spec": [
-            "HTPC 케이스",
-            "슬림(LP)",
-            "파워미포함",
-            "Micro-ATX",
-            "표준-ITX",
-            "쿨링팬: 총1개",
-            "전면: 80mm x1",
-            "너비(W): 102mm",
-            "높이(H): 338mm",
-            "깊이(D): 374mm",
-            "파워 장착: 195mm",
-            "파워 위치: 후면상단",
-            "GPU 장착: 195mm",
-            "CPU쿨러 장착: 70mm"
-        ],
-        "color_text": "",
-        "price": "49710",
-        "img": "//img.danawa.com/prod_img/500000/929/668/img/13668929_1.jpg?shrink=330:*&_v=20220127155032",
-        "Cate": "Case"
-    },
-    {
         "name": "쿨러마스터 MasterBox CM694 STEEL",
         "brand": "쿨러마스터",
         "spec": [
@@ -24426,60 +23682,6 @@
         "Cate": "Case"
     },
     {
-        "name": "JONSBO MOD5",
-        "brand": "JONSBO",
-        "spec": [
-            "튜닝 케이스",
-            "빅타워",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "측면: 강화유리",
-            "너비(W): 255mm",
-            "높이(H): 635mm",
-            "깊이(D): 600mm",
-            "파워 장착: 220mm",
-            "파워 위치: 기타",
-            "GPU 장착: 400mm",
-            "CPU쿨러 장착: 180mm",
-            "외부 LED",
-            "LED 색상: ARGB"
-        ],
-        "color_text": "SILVER",
-        "price": "448980",
-        "img": "//img.danawa.com/prod_img/500000/026/955/img/11955026_1.jpg?shrink=330:*&_v=20210324100301",
-        "Cate": "Case"
-    },
-    {
-        "name": "JONSBO MOD5",
-        "brand": "JONSBO",
-        "spec": [
-            "튜닝 케이스",
-            "빅타워",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "측면: 강화유리",
-            "너비(W): 255mm",
-            "높이(H): 635mm",
-            "깊이(D): 600mm",
-            "파워 장착: 220mm",
-            "파워 위치: 기타",
-            "GPU 장착: 400mm",
-            "CPU쿨러 장착: 180mm",
-            "외부 LED",
-            "LED 색상: ARGB"
-        ],
-        "color_text": "WHITE",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/026/955/img/11955026_1.jpg?shrink=330:*&_v=20210324100301",
-        "Cate": "Case"
-    },
-    {
         "name": "앱코 PUBG 배틀그라운드 하자드 에디션",
         "brand": "앱코",
         "spec": [
@@ -24941,56 +24143,6 @@
         "Cate": "Case"
     },
     {
-        "name": "써멀테이크 Core P3 강화유리",
-        "brand": "써멀테이크",
-        "spec": [
-            "튜닝 케이스",
-            "미들타워",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "측면: 강화유리",
-            "너비(W): 333mm",
-            "높이(H): 512mm",
-            "깊이(D): 470mm",
-            "파워 장착: 200mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 450mm",
-            "CPU쿨러 장착: 180mm",
-            "PCIe 3.0 라이저 케이블 제공"
-        ],
-        "color_text": "Black",
-        "price": "175140",
-        "img": "//img.danawa.com/prod_img/500000/208/681/img/6681208_1.jpg?shrink=330:*&_v=20230313095320",
-        "Cate": "Case"
-    },
-    {
-        "name": "써멀테이크 Core P3 강화유리",
-        "brand": "써멀테이크",
-        "spec": [
-            "튜닝 케이스",
-            "미들타워",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "측면: 강화유리",
-            "너비(W): 333mm",
-            "높이(H): 512mm",
-            "깊이(D): 470mm",
-            "파워 장착: 200mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 450mm",
-            "CPU쿨러 장착: 180mm",
-            "PCIe 3.0 라이저 케이블 제공"
-        ],
-        "color_text": "Snow",
-        "price": "176900",
-        "img": "//img.danawa.com/prod_img/500000/208/681/img/6681208_1.jpg?shrink=330:*&_v=20230313095320",
-        "Cate": "Case"
-    },
-    {
         "name": "Antec P7 WINDOW",
         "brand": "Antec",
         "spec": [
@@ -25127,35 +24279,6 @@
         "color_text": "블랙",
         "price": "36850",
         "img": "//img.danawa.com/prod_img/500000/286/937/img/11937286_1.jpg?shrink=330:*&_v=20210715091636",
-        "Cate": "Case"
-    },
-    {
-        "name": "잘만 Z-Machine 500",
-        "brand": "잘만",
-        "spec": [
-            "튜닝 케이스",
-            "빅타워",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총5개",
-            "LED팬: 5개",
-            "측면: 강화유리",
-            "전면: 120mm LED x3",
-            "상단: 120mm LED x2",
-            "너비(W): 280mm",
-            "높이(H): 602mm",
-            "깊이(D): 630mm",
-            "파워 장착: 200mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 400mm",
-            "LED 색상: ARGB"
-        ],
-        "color_text": "",
-        "price": "851820",
-        "img": "//img.danawa.com/prod_img/500000/675/289/img/13289675_1.jpg?shrink=330:*&_v=20210205150028",
         "Cate": "Case"
     },
     {
@@ -25331,57 +24454,6 @@
         "Cate": "Case"
     },
     {
-        "name": "HYDRA MINI",
-        "brand": "HYDRA",
-        "spec": [
-            "튜닝 케이스",
-            "미니ITX(리틀밸리)",
-            "파워미포함",
-            "Mini-ITX",
-            "수직 PCI형태: 기본형",
-            "너비(W): 263mm",
-            "높이(H): 130mm",
-            "깊이(D): 210mm",
-            "파워 위치: 하단후면",
-            "OCPC콜라보"
-        ],
-        "color_text": "화이트블루",
-        "price": "153000",
-        "img": "//img.danawa.com/prod_img/500000/517/951/img/13951517_1.jpg?shrink=330:*&_v=20230314103734",
-        "Cate": "Case"
-    },
-    {
-        "name": "darkFlash DLX22 NEO 강화유리",
-        "brand": "darkFlash",
-        "spec": [
-            "PC케이스(ATX)",
-            "미들타워",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총1개",
-            "LED팬: 1개",
-            "전면 패널 타입: 일반(솔리드)",
-            "측면 개폐 방식: 스윙도어",
-            "측면: 강화유리",
-            "후면: 120mm LED x1",
-            "너비(W): 215mm",
-            "깊이(D): 412mm",
-            "높이(H): 490mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 385mm",
-            "CPU쿨러 장착: 165mm",
-            "RGB 컨트롤",
-            "LED 색상: RGB"
-        ],
-        "color_text": "네오민트",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/640/655/img/12655640_1.jpg?shrink=330:*&_v=20230217084607",
-        "Cate": "Case"
-    },
-    {
         "name": "darkFlash DLX22 NEO 강화유리",
         "brand": "darkFlash",
         "spec": [
@@ -25441,25 +24513,6 @@
         "color_text": "화이트",
         "price": "100000",
         "img": "//img.danawa.com/prod_img/500000/640/655/img/12655640_1.jpg?shrink=330:*&_v=20230217084607",
-        "Cate": "Case"
-    },
-    {
-        "name": "마이크로닉스 QUANTA HMR-145N1",
-        "brand": "마이크로닉스",
-        "spec": [
-            "랙마운트",
-            "랙마운트(1U)",
-            "파워미포함",
-            "Micro-ATX",
-            "전면: 40mm x 4개",
-            "너비(W): 482mm",
-            "높이(H): 88.9mm",
-            "깊이(D): 490mm",
-            "파워 위치: 기타"
-        ],
-        "color_text": "",
-        "price": "156190",
-        "img": "//img.danawa.com/prod_img/500000/227/108/img/3108227_1.jpg?shrink=330:*&_v=20200317093710",
         "Cate": "Case"
     },
     {
@@ -25719,60 +24772,6 @@
         "Cate": "Case"
     },
     {
-        "name": "앱코 SUITMASTER 오디세이 미니 강화유리",
-        "brand": "앱코",
-        "spec": [
-            "튜닝 케이스",
-            "미니타워",
-            "파워미포함",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총6개",
-            "LED팬: 6개",
-            "전면 패널 타입: 강화유리",
-            "측면: 강화유리",
-            "후면: 120mm LED x1",
-            "상단: 140mm LED x3",
-            "내부 측면: 140mm LED x2",
-            "너비(W): 295mm",
-            "높이(H): 360mm",
-            "깊이(D): 470mm",
-            "파워 장착: 200mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 420mm",
-            "CPU쿨러 장착: 160mm",
-            "외부 LED",
-            "RGB 컨트롤",
-            "외부LED 컨트롤",
-            "LED 색상: RGB"
-        ],
-        "color_text": "블랙",
-        "price": "100700",
-        "img": "//img.danawa.com/prod_img/500000/349/223/img/12223349_1.jpg?shrink=330:*&_v=20221005104846",
-        "Cate": "Case"
-    },
-    {
-        "name": "마이크로닉스 QUANTA HMR-340SE + 하드랙 패키지",
-        "brand": "마이크로닉스",
-        "spec": [
-            "랙마운트",
-            "랙마운트(3U)",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "쿨링팬: 총2개",
-            "전면: 80mm x2",
-            "너비(W): 485mm",
-            "높이(H): 133mm",
-            "깊이(D): 435mm",
-            "파워 위치: 기타"
-        ],
-        "color_text": "",
-        "price": "101500",
-        "img": "//img.danawa.com/prod_img/500000/378/199/img/13199378_1.jpg?shrink=330:*&_v=20210121154724",
-        "Cate": "Case"
-    },
-    {
         "name": "3RSYS R480",
         "brand": "3RSYS",
         "spec": [
@@ -25982,38 +24981,6 @@
             "LED 색상: RGB",
             "2019년 9월 20일 제품 구성 변경 (기본 상단 쿨러 추가)"
         ],
-        "color_text": "Matte Black",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/764/808/img/8808764_1.jpg?shrink=330:*&_v=20210818125601",
-        "Cate": "Case"
-    },
-    {
-        "name": "NZXT H510 Elite",
-        "brand": "NZXT",
-        "spec": [
-            "PC케이스(ATX)",
-            "미들타워",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "수직 PCI형태: 기본형",
-            "쿨링팬: 총4개",
-            "LED팬: 2개",
-            "측면: 강화유리",
-            "후면: 120mm x1",
-            "전면: 140mm LED x2",
-            "상단: 140mm x1",
-            "너비(W): 210mm",
-            "깊이(D): 428mm",
-            "높이(H): 460mm",
-            "파워 장착: 200mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 368mm",
-            "CPU쿨러 장착: 165mm",
-            "LED 색상: RGB",
-            "2019년 9월 20일 제품 구성 변경 (기본 상단 쿨러 추가)"
-        ],
         "color_text": "Matte White",
         "price": "750000",
         "img": "//img.danawa.com/prod_img/500000/764/808/img/8808764_1.jpg?shrink=330:*&_v=20210818125601",
@@ -26140,37 +25107,6 @@
         "color_text": "BLACK",
         "price": "98990",
         "img": "//img.danawa.com/prod_img/500000/143/536/img/19536143_1.jpg?shrink=330:*&_v=20230404164100",
-        "Cate": "Case"
-    },
-    {
-        "name": "darkFlash DLX23 MESH RGB 강화유리",
-        "brand": "darkFlash",
-        "spec": [
-            "PC케이스(ATX)",
-            "미들타워",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "LED팬: 4개",
-            "측면: 강화유리",
-            "후면: 141mm LED x1",
-            "전면: 140mm LED x3",
-            "너비(W): 233mm",
-            "깊이(D): 477mm",
-            "높이(H): 496mm",
-            "파워 장착: 235mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 275mm",
-            "CPU쿨러 장착: 180mm",
-            "팬 컨트롤",
-            "LED 색상: RGB",
-            "오픈도어형"
-        ],
-        "color_text": "블랙",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/480/687/img/14687480_1.jpg?shrink=330:*&_v=20220513130458",
         "Cate": "Case"
     },
     {
@@ -26500,32 +25436,6 @@
         "Cate": "Case"
     },
     {
-        "name": "앱코 NCORE 타비 맥스",
-        "brand": "앱코",
-        "spec": [
-            "PC케이스(M-ATX)",
-            "미니타워",
-            "파워미포함",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총3개",
-            "LED팬: 2개",
-            "후면: 80mm x1",
-            "전면: 120mm x2",
-            "너비(W): 182mm",
-            "깊이(D): 332mm",
-            "높이(H): 354mm",
-            "파워 장착: 200mm",
-            "파워 위치: 상단",
-            "GPU 장착: 273mm",
-            "CPU쿨러 장착: 156mm"
-        ],
-        "color_text": "",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/369/723/img/9723369_1.jpg?shrink=330:*&_v=20201006142910",
-        "Cate": "Case"
-    },
-    {
         "name": "COX A3 세이버 풀 아크릴 LUNAR",
         "brand": "COX",
         "spec": [
@@ -26609,38 +25519,6 @@
         "color_text": "",
         "price": "43500",
         "img": "//img.danawa.com/prod_img/500000/775/499/img/12499775_1.jpg?shrink=330:*&_v=20210330161206",
-        "Cate": "Case"
-    },
-    {
-        "name": "앱코 NCORE 씨마스터 강화유리",
-        "brand": "앱코",
-        "spec": [
-            "PC케이스(ATX)",
-            "미들타워",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총6개",
-            "LED팬: 4개",
-            "전면 패널 타입: 메쉬",
-            "측면: 강화유리",
-            "후면: 120mm LED x1",
-            "전면: 140mm LED x3",
-            "상단: 120mm x2",
-            "너비(W): 210mm",
-            "깊이(D): 395mm",
-            "높이(H): 475mm",
-            "파워 장착: 180mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 350mm",
-            "CPU쿨러 장착: 160mm",
-            "LED 색상: RGB"
-        ],
-        "color_text": "블랙",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/508/778/img/11778508_1.jpg?shrink=330:*&_v=20221005104514",
         "Cate": "Case"
     },
     {
@@ -26731,32 +25609,6 @@
         "Cate": "Case"
     },
     {
-        "name": "COX A1 젠트리",
-        "brand": "COX",
-        "spec": [
-            "PC케이스(M-ATX)",
-            "미니타워",
-            "파워미포함",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총1개",
-            "측면: 통풍구",
-            "후면: 80mm x1",
-            "너비(W): 174mm",
-            "깊이(D): 377mm",
-            "높이(H): 365mm",
-            "파워 장착: 220mm",
-            "파워 위치: 상단후면",
-            "GPU 장착: 325mm",
-            "CPU쿨러 장착: 136mm",
-            "2019년 02월 제품 디자인 (유광→무광) 변경"
-        ],
-        "color_text": "화이트",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/890/441/img/6441890_1.jpg?shrink=330:*&_v=20190919114225",
-        "Cate": "Case"
-    },
-    {
         "name": "JONSBO N1 For NAS",
         "brand": "JONSBO",
         "spec": [
@@ -26839,27 +25691,6 @@
         "Cate": "Case"
     },
     {
-        "name": "NZXT H1",
-        "brand": "NZXT",
-        "spec": [
-            "튜닝 케이스",
-            "미니ITX(리틀밸리)",
-            "650W",
-            "Mini-ITX",
-            "너비(W): 187mm",
-            "높이(H): 387.7mm",
-            "깊이(D): 187.6mm",
-            "파워 위치: 기타",
-            "GPU 장착: 305mm",
-            "PCIe 3.0 라이저 케이블 제공",
-            "일체형 수랭 쿨러 제공"
-        ],
-        "color_text": "Matte Black",
-        "price": "730000",
-        "img": "//img.danawa.com/prod_img/500000/019/877/img/10877019_1.jpg?shrink=330:*&_v=20211013153326",
-        "Cate": "Case"
-    },
-    {
         "name": "darkFlash DLN35 SILENT",
         "brand": "darkFlash",
         "spec": [
@@ -26883,36 +25714,6 @@
         "color_text": "",
         "price": "89000",
         "img": "//img.danawa.com/prod_img/500000/925/882/img/19882925_1.jpg?shrink=330:*&_v=20230421125054",
-        "Cate": "Case"
-    },
-    {
-        "name": "몬스타 MOD6",
-        "brand": "몬스타",
-        "spec": [
-            "튜닝 케이스",
-            "미니타워",
-            "파워미포함",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총6개",
-            "LED팬: 6개",
-            "측면: 강화유리",
-            "후면: 120mm LED x2",
-            "전면: 120mm LED x2",
-            "상단: 120mm LED x2",
-            "너비(W): 175mm",
-            "높이(H): 560mm",
-            "깊이(D): 440mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 300mm",
-            "CPU쿨러 장착: 165mm",
-            "RGB 컨트롤",
-            "리모컨",
-            "LED 색상: RGB"
-        ],
-        "color_text": "블랙",
-        "price": "99000",
-        "img": "//img.danawa.com/prod_img/500000/988/921/img/13921988_1.jpg?shrink=330:*&_v=20220105122927",
         "Cate": "Case"
     },
     {
@@ -27167,32 +25968,6 @@
         "Cate": "Case"
     },
     {
-        "name": "앱코 NCORE 볼트론 RX USB3.0 화이트",
-        "brand": "앱코",
-        "spec": [
-            "PC케이스(ATX)",
-            "미들타워",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총3개",
-            "측면: 아크릴",
-            "후면: 120mm 화이트 LED",
-            "전면: 120mm 화이트 LED x2",
-            "너비(W): 190mm",
-            "깊이(D): 435mm",
-            "높이(H): 425mm",
-            "파워 위치: 상단",
-            "GPU 장착: 최대 360mm",
-            "CPU쿨러 장착: 최대 157mm"
-        ],
-        "color_text": "",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/049/992/img/3992049_1.jpg?shrink=330:*&_v=20200406132724",
-        "Cate": "Case"
-    },
-    {
         "name": "앱코 SUITMASTER 760S 어트랙션 강화유리 스펙트럼 Duplex",
         "brand": "앱코",
         "spec": [
@@ -27346,31 +26121,6 @@
         "Cate": "Case"
     },
     {
-        "name": "SSUPD MESHLICIOUS 강화유리 with PCIe3.0",
-        "brand": "SSUPD",
-        "spec": [
-            "미니ITX",
-            "미니ITX(리틀밸리)",
-            "파워미포함",
-            "Mini-ITX",
-            "Mini-DTX",
-            "수직 PCI형태: 기본형",
-            "측면: 강화유리",
-            "너비(W): 166.4mm",
-            "높이(H): 360mm",
-            "깊이(D): 245mm",
-            "파워 장착: 140mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 332mm",
-            "CPU쿨러 장착: 73mm",
-            "PCIe3.0 라이저케이블 포함"
-        ],
-        "color_text": "White",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/208/446/img/14446208_1.jpg?shrink=330:*&_v=20210611123527",
-        "Cate": "Case"
-    },
-    {
         "name": "NZXT H710i",
         "brand": "NZXT",
         "spec": [
@@ -27452,65 +26202,9 @@
             "GPU 장착: 385mm",
             "CPU쿨러 장착: 165mm"
         ],
-        "color_text": "블랙",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/848/644/img/6644848_1.jpg?shrink=330:*&_v=20190919102945",
-        "Cate": "Case"
-    },
-    {
-        "name": "앱코 SUITMASTER 332G 판도라 강화유리 LAYER",
-        "brand": "앱코",
-        "spec": [
-            "PC케이스(ATX)",
-            "미들타워",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총4개",
-            "LED팬: 4개",
-            "측면: 강화유리",
-            "후면: 120mm LED x1",
-            "전면: 120mm LED x3",
-            "너비(W): 211mm",
-            "깊이(D): 455mm",
-            "높이(H): 495mm",
-            "파워 장착: 205mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 385mm",
-            "CPU쿨러 장착: 165mm"
-        ],
         "color_text": "화이트",
         "price": "85800",
         "img": "//img.danawa.com/prod_img/500000/848/644/img/6644848_1.jpg?shrink=330:*&_v=20190919102945",
-        "Cate": "Case"
-    },
-    {
-        "name": "Fractal Design Focus 2 Solid",
-        "brand": "Fractal",
-        "spec": [
-            "PC케이스(ATX)",
-            "미들타워",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총2개",
-            "전면 패널 타입: 일반(솔리드)",
-            "측면: 강철",
-            "전면: 140mm x2",
-            "너비(W): 215mm",
-            "깊이(D): 471.5mm",
-            "높이(H): 450.5mm",
-            "파워 장착: 175~250mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 405mm",
-            "CPU쿨러 장착: 170mm"
-        ],
-        "color_text": "Black",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/576/711/img/17711576_1.jpg?shrink=330:*&_v=20221006083540",
         "Cate": "Case"
     },
     {
@@ -27628,29 +26322,6 @@
         "Cate": "Case"
     },
     {
-        "name": "RAIJINTEK PAEAN BLACK",
-        "brand": "RAIJINTEK",
-        "spec": [
-            "튜닝 케이스",
-            "미들타워",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "측면: 강화유리",
-            "너비(W): 286mm",
-            "높이(H): 417mm",
-            "깊이(D): 587mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 최대 310mm",
-            "CPU쿨러 장착: 최대 140mm"
-        ],
-        "color_text": "",
-        "price": "159000",
-        "img": "//img.danawa.com/prod_img/500000/698/113/img/5113698_1.jpg?shrink=330:*&_v=20230313100213",
-        "Cate": "Case"
-    },
-    {
         "name": "Fractal Design NODE 804",
         "brand": "Fractal",
         "spec": [
@@ -27675,36 +26346,6 @@
         "color_text": "",
         "price": "295580",
         "img": "//img.danawa.com/prod_img/500000/998/139/img/3139998_1.jpg?shrink=330:*&_v=20190403154714",
-        "Cate": "Case"
-    },
-    {
-        "name": "BRAVOTEC GUARDIAN 3000M 타이탄 글래스",
-        "brand": "BRAVOTEC",
-        "spec": [
-            "PC케이스(ATX)",
-            "빅타워",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총4개",
-            "LED팬: 4개",
-            "측면: 강화유리",
-            "후면: 140mm LED x1",
-            "전면: 140mm LED x3",
-            "너비(W): 245mm",
-            "깊이(D): 464mm",
-            "높이(H): 494mm",
-            "파워 장착: 280mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 380mm",
-            "CPU쿨러 장착: 180mm",
-            "LED 색상: RGB"
-        ],
-        "color_text": "블랙",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/494/996/img/12996494_1.jpg?shrink=330:*&_v=20220516133019",
         "Cate": "Case"
     },
     {
@@ -27902,53 +26543,6 @@
         "color_text": "Silver",
         "price": "233000",
         "img": "//img.danawa.com/prod_img/500000/083/163/img/3163083_1.jpg?shrink=330:*&_v=20190920104555",
-        "Cate": "Case"
-    },
-    {
-        "name": "마이크로닉스 QUANTA HMR-455N1 + 하드랙 패키지",
-        "brand": "마이크로닉스",
-        "spec": [
-            "랙마운트",
-            "랙마운트(4U)",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "전면: 120mm",
-            "너비(W): 482mm",
-            "높이(H): 178mm",
-            "깊이(D): 595mm",
-            "파워 위치: 기타",
-            "2020년 3월 구성품 추가"
-        ],
-        "color_text": "",
-        "price": "158000",
-        "img": "//img.danawa.com/prod_img/500000/151/607/img/10607151_1.jpg?shrink=330:*&_v=20200306085841",
-        "Cate": "Case"
-    },
-    {
-        "name": "Fractal Design Meshify C Mini Dark TG",
-        "brand": "Fractal",
-        "spec": [
-            "PC케이스(M-ATX)",
-            "미니타워",
-            "파워미포함",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총2개",
-            "측면: 강화유리",
-            "후면: 120mm",
-            "전면: 120mm",
-            "너비(W): 217mm",
-            "깊이(D): 409mm",
-            "높이(H): 412mm",
-            "파워 장착: 175mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 335mm",
-            "CPU쿨러 장착: 172mm"
-        ],
-        "color_text": "",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/810/977/img/5977810_1.jpg?shrink=330:*&_v=20190404143903",
         "Cate": "Case"
     },
     {
@@ -28663,70 +27257,6 @@
         "Cate": "Case"
     },
     {
-        "name": "앱코 SUITMASTER U2000 갤러리 ARGB",
-        "brand": "앱코",
-        "spec": [
-            "PC케이스(ATX)",
-            "미들타워",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총4개",
-            "LED팬: 4개",
-            "전면 패널 타입: 강화유리",
-            "측면 개폐 방식: 스윙도어",
-            "측면: 강화유리",
-            "후면: 120mm LED x1",
-            "전면: 120mm LED x3",
-            "너비(W): 280mm",
-            "깊이(D): 430mm",
-            "높이(H): 425mm",
-            "파워 장착: 183~260mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 390mm",
-            "CPU쿨러 장착: 158mm",
-            "RGB 컨트롤",
-            "LED 색상: ARGB"
-        ],
-        "color_text": "블랙",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/444/654/img/17654444_1.jpg?shrink=330:*&_v=20221005104350",
-        "Cate": "Case"
-    },
-    {
-        "name": "BRAVOTEC SWORD S820 RGB 타이탄 글래스",
-        "brand": "BRAVOTEC",
-        "spec": [
-            "PC케이스(ATX)",
-            "빅타워",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총4개",
-            "LED팬: 1개",
-            "측면: 강화유리",
-            "후면: 120mm LED x1",
-            "전면: 120mm x3",
-            "너비(W): 210mm",
-            "깊이(D): 450mm",
-            "높이(H): 490mm",
-            "파워 장착: 180mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 390mm",
-            "CPU쿨러 장착: 160mm",
-            "외부 LED",
-            "RGB 컨트롤",
-            "LED 색상: RGB"
-        ],
-        "color_text": "블랙",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/172/975/img/6975172_1.jpg?shrink=330:*&_v=20220517132402",
-        "Cate": "Case"
-    },
-    {
         "name": "BRAVOTEC SWORD S820 RGB 타이탄 글래스",
         "brand": "BRAVOTEC",
         "spec": [
@@ -28756,68 +27286,6 @@
         "color_text": "화이트",
         "price": "306000",
         "img": "//img.danawa.com/prod_img/500000/172/975/img/6975172_1.jpg?shrink=330:*&_v=20220517132402",
-        "Cate": "Case"
-    },
-    {
-        "name": "DAVEN DMAX 아크릴",
-        "brand": "DAVEN",
-        "spec": [
-            "PC케이스(ATX)",
-            "미들타워",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총6개",
-            "LED팬: 4개",
-            "측면: 아크릴",
-            "후면: 120mm LED x1",
-            "전면: 120mm LED x3",
-            "상단: 120mm x2",
-            "하단: 통풍구",
-            "너비(W): 205mm",
-            "깊이(D): 371mm",
-            "높이(H): 456mm",
-            "파워 장착: 158mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 310mm",
-            "CPU쿨러 장착: 160mm",
-            "LED 색상: RGB"
-        ],
-        "color_text": "블랙",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/175/912/img/13912175_1.jpg?shrink=330:*&_v=20220512152713",
-        "Cate": "Case"
-    },
-    {
-        "name": "DAVEN DMAX 아크릴",
-        "brand": "DAVEN",
-        "spec": [
-            "PC케이스(ATX)",
-            "미들타워",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총6개",
-            "LED팬: 4개",
-            "측면: 아크릴",
-            "후면: 120mm LED x1",
-            "전면: 120mm LED x3",
-            "상단: 120mm x2",
-            "하단: 통풍구",
-            "너비(W): 205mm",
-            "깊이(D): 371mm",
-            "높이(H): 456mm",
-            "파워 장착: 158mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 310mm",
-            "CPU쿨러 장착: 160mm",
-            "LED 색상: RGB"
-        ],
-        "color_text": "화이트",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/175/912/img/13912175_1.jpg?shrink=330:*&_v=20220512152713",
         "Cate": "Case"
     },
     {
@@ -29081,37 +27549,6 @@
         "Cate": "Case"
     },
     {
-        "name": "Fractal Design Meshify 2 Lite Light 강화유리",
-        "brand": "Fractal",
-        "spec": [
-            "PC케이스(ATX)",
-            "미들타워",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총3개",
-            "전면 패널 타입: 메쉬",
-            "측면 개폐 방식: 버튼",
-            "측면: 강화유리",
-            "후면: 140mm x1",
-            "전면: 140mm x2",
-            "너비(W): 240mm",
-            "깊이(D): 542mm",
-            "높이(H): 474mm",
-            "파워 장착: 250mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 451~476mm",
-            "CPU쿨러 장착: 185mm",
-            "※ E-ATX 가로 길이 최대 285mm"
-        ],
-        "color_text": "Black",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/886/074/img/17074886_1.jpg?shrink=330:*&_v=20221006085308",
-        "Cate": "Case"
-    },
-    {
         "name": "RAIJINTEK STYX",
         "brand": "RAIJINTEK",
         "spec": [
@@ -29273,38 +27710,6 @@
         "Cate": "Case"
     },
     {
-        "name": "BRAVOTEC GUARDIAN 1140M 타이탄 글래스",
-        "brand": "BRAVOTEC",
-        "spec": [
-            "PC케이스(ATX)",
-            "빅타워",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "SSI-EEB",
-            "쿨링팬: 총4개",
-            "LED팬: 4개",
-            "후면: 140mm LED x1",
-            "전면: 140mm LED x3",
-            "너비(W): 240mm",
-            "깊이(D): 515mm",
-            "높이(H): 521mm",
-            "파워 장착: 270mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 455mm",
-            "CPU쿨러 장착: 178mm",
-            "RGB 컨트롤",
-            "LED 색상: RGB",
-            "2020년 4월 팬 디자인 변경"
-        ],
-        "color_text": "화이트",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/359/342/img/10342359_1.jpg?shrink=330:*&_v=20220610165212",
-        "Cate": "Case"
-    },
-    {
         "name": "리안리 TU150 강화유리",
         "brand": "리안리",
         "spec": [
@@ -29436,35 +27841,6 @@
         "color_text": "블랙",
         "price": "79000",
         "img": "//img.danawa.com/prod_img/500000/575/636/img/3636575_1.jpg?shrink=330:*&_v=20230525171757",
-        "Cate": "Case"
-    },
-    {
-        "name": "앱코 SUITMASTER 레베카 미니 강화유리 스펙트럼 HALO",
-        "brand": "앱코",
-        "spec": [
-            "PC케이스(M-ATX)",
-            "미니타워",
-            "파워미포함",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총4개",
-            "LED팬: 4개",
-            "측면: 강화유리",
-            "후면: 120mm LED x1",
-            "전면: 120mm LED x3",
-            "너비(W): 208mm",
-            "깊이(D): 410mm",
-            "높이(H): 425mm",
-            "파워 장착: 220mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 340mm",
-            "CPU쿨러 장착: 158mm",
-            "RGB 컨트롤",
-            "LED 색상: RGB"
-        ],
-        "color_text": "핑크",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/850/202/img/10202850_1.jpg?shrink=330:*&_v=20191226135412",
         "Cate": "Case"
     },
     {
@@ -29814,26 +28190,6 @@
         "Cate": "Case"
     },
     {
-        "name": "마이크로닉스 QUANTA HMR-445SE",
-        "brand": "마이크로닉스",
-        "spec": [
-            "랙마운트",
-            "랙마운트(4U)",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "전면: 120mm",
-            "너비(W): 483mm",
-            "높이(H): 178mm",
-            "깊이(D): 484mm",
-            "파워 위치: 기타"
-        ],
-        "color_text": "",
-        "price": "103500",
-        "img": "//img.danawa.com/prod_img/500000/766/597/img/3597766_1.jpg?shrink=330:*&_v=20200219153358",
-        "Cate": "Case"
-    },
-    {
         "name": "darkFlash G-CLASS 500 RGB",
         "brand": "darkFlash",
         "spec": [
@@ -29860,61 +28216,6 @@
         "color_text": "블랙",
         "price": "96100",
         "img": "//img.danawa.com/prod_img/500000/846/336/img/9336846_1.jpg?shrink=330:*&_v=20210115181008",
-        "Cate": "Case"
-    },
-    {
-        "name": "darkFlash G-CLASS 500 RGB",
-        "brand": "darkFlash",
-        "spec": [
-            "PC케이스(ATX)",
-            "미들타워",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총4개",
-            "LED팬: 4개",
-            "측면: 아크릴",
-            "후면: 120mm LED x1",
-            "전면: 120mm LED x3",
-            "너비(W): 205mm",
-            "깊이(D): 381mm",
-            "높이(H): 448mm",
-            "파워 장착: 200mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 320mm",
-            "CPU쿨러 장착: 162mm",
-            "LED 색상: RGB"
-        ],
-        "color_text": "화이트",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/846/336/img/9336846_1.jpg?shrink=330:*&_v=20210115181008",
-        "Cate": "Case"
-    },
-    {
-        "name": "앱코 NCORE 시저",
-        "brand": "앱코",
-        "spec": [
-            "PC케이스(ATX)",
-            "미들타워",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총3개",
-            "LED팬: 2개",
-            "측면: 아크릴",
-            "후면: 120mm",
-            "전면: 120mm LED x2",
-            "너비(W): 188mm",
-            "깊이(D): 430mm",
-            "높이(H): 375mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 345mm",
-            "CPU쿨러 장착: 150mm"
-        ],
-        "color_text": "",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/346/137/img/4137346_1.jpg?shrink=330:*&_v=20190404111958",
         "Cate": "Case"
     },
     {
@@ -29976,36 +28277,6 @@
         "color_text": "화이트",
         "price": "135800",
         "img": "//img.danawa.com/prod_img/500000/384/023/img/12023384_1.jpg?shrink=330:*&_v=20220513124038",
-        "Cate": "Case"
-    },
-    {
-        "name": "darkFlash POLLUX RGB 강화유리",
-        "brand": "darkFlash",
-        "spec": [
-            "PC케이스(ATX)",
-            "미들타워",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총6개",
-            "LED팬: 3개",
-            "측면: 강화유리",
-            "후면: 120mm x1",
-            "전면: 120mm LED x3",
-            "상단: 120mm x2",
-            "너비(W): 205mm",
-            "깊이(D): 378mm",
-            "높이(H): 456mm",
-            "파워 장착: 203mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 310mm",
-            "CPU쿨러 장착: 162mm",
-            "LED 색상: RGB"
-        ],
-        "color_text": "화이트",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/488/285/img/10285488_1.jpg?shrink=330:*&_v=20210115181121",
         "Cate": "Case"
     },
     {
@@ -30235,27 +28506,6 @@
         "color_text": "화이트",
         "price": "99800",
         "img": "//img.danawa.com/prod_img/500000/476/935/img/13935476_1.jpg?shrink=330:*&_v=20220223123018",
-        "Cate": "Case"
-    },
-    {
-        "name": "마이크로닉스 QUANTA HMR-445SE + 하드랙 패키지",
-        "brand": "마이크로닉스",
-        "spec": [
-            "랙마운트",
-            "랙마운트(4U)",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "전면: 120mm",
-            "너비(W): 483mm",
-            "높이(H): 178mm",
-            "깊이(D): 484mm",
-            "파워 위치: 기타",
-            "2020년 3월 구성품 추가"
-        ],
-        "color_text": "",
-        "price": "125000",
-        "img": "//img.danawa.com/prod_img/500000/274/607/img/10607274_1.jpg?shrink=330:*&_v=20200306085922",
         "Cate": "Case"
     },
     {
@@ -30522,33 +28772,6 @@
         "Cate": "Case"
     },
     {
-        "name": "3RSYS GT50",
-        "brand": "3RSYS",
-        "spec": [
-            "튜닝 케이스",
-            "미니타워",
-            "파워미포함",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총6개",
-            "LED팬: 6개",
-            "측면: 강화유리",
-            "후면: 120mm LED x2",
-            "전면: 120mm LED x2",
-            "상단: 120mm LED x2",
-            "너비(W): 240mm",
-            "높이(H): 502mm",
-            "깊이(D): 564mm",
-            "GPU 장착: 310mm",
-            "CPU쿨러 장착: 170mm",
-            "LED 색상: RGB"
-        ],
-        "color_text": "화이트",
-        "price": "189000",
-        "img": "//img.danawa.com/prod_img/500000/255/551/img/12551255_1.jpg?shrink=330:*&_v=20230525171829",
-        "Cate": "Case"
-    },
-    {
         "name": "마이크로닉스 Master T500 트윙클 에디션",
         "brand": "마이크로닉스",
         "spec": [
@@ -30671,33 +28894,6 @@
         "color_text": "WHITE",
         "price": "150000",
         "img": "//img.danawa.com/prod_img/500000/819/386/img/10386819_1.jpg?shrink=330:*&_v=20200409153748",
-        "Cate": "Case"
-    },
-    {
-        "name": "리안리 PC-O11 Dynamic RAZER",
-        "brand": "리안리",
-        "spec": [
-            "PC케이스(ATX)",
-            "미들타워",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "측면: 강화유리",
-            "너비(W): 274mm",
-            "깊이(D): 446mm",
-            "높이(H): 449mm",
-            "파워 장착: 255mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 420mm",
-            "CPU쿨러 장착: 155mm",
-            "외부 LED",
-            "LED 색상: RGB",
-            "2019년 7월 유통사 변경 (무영테크[리안리게이밍]→서린씨앤아이)"
-        ],
-        "color_text": "",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/914/610/img/7610914_1.jpg?shrink=330:*&_v=20190729174747",
         "Cate": "Case"
     },
     {
@@ -30980,58 +29176,6 @@
         "color_text": "BLACK",
         "price": "209250",
         "img": "//img.danawa.com/prod_img/500000/659/332/img/13332659_1.jpg?shrink=330:*&_v=20230525171631",
-        "Cate": "Case"
-    },
-    {
-        "name": "Phanteks ENTHOO PRO 2 TG",
-        "brand": "Phanteks",
-        "spec": [
-            "PC케이스(ATX)",
-            "빅타워",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "수직 PCI형태: 기본형",
-            "너비(W): 240mm",
-            "깊이(D): 505mm",
-            "높이(H): 510mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 503mm",
-            "CPU쿨러 장착: 195mm"
-        ],
-        "color_text": "",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/311/177/img/12177311_1.jpg?shrink=330:*&_v=20200902130932",
-        "Cate": "Case"
-    },
-    {
-        "name": "앱코 NCORE 라이너 강화유리",
-        "brand": "앱코",
-        "spec": [
-            "PC케이스(M-ATX)",
-            "미니타워",
-            "파워미포함",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총3개",
-            "LED팬: 3개",
-            "측면: 강화유리",
-            "후면: 120mm LED x1",
-            "전면: 140mm LED x2",
-            "너비(W): 205mm",
-            "깊이(D): 350mm",
-            "높이(H): 385mm",
-            "파워 장착: 170mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 290mm",
-            "CPU쿨러 장착: 165mm",
-            "LED 색상: RGB"
-        ],
-        "color_text": "",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/469/937/img/11937469_1.jpg?shrink=330:*&_v=20200814105403",
         "Cate": "Case"
     },
     {
@@ -31467,56 +29611,9 @@
             "GPU 장착: 325mm",
             "CPU쿨러 장착: 165mm"
         ],
-        "color_text": "Matte Black",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/952/233/img/9233952_1.jpg?shrink=330:*&_v=20210510171846",
-        "Cate": "Case"
-    },
-    {
-        "name": "NZXT H210i",
-        "brand": "NZXT",
-        "spec": [
-            "미니ITX",
-            "미니ITX(리틀밸리)",
-            "파워미포함",
-            "Mini-ITX",
-            "쿨링팬: 총2개",
-            "측면: 강화유리",
-            "후면: 120mm x1",
-            "상단: 120mm x1",
-            "너비(W): 210mm",
-            "높이(H): 349mm",
-            "깊이(D): 372mm",
-            "파워 장착: 170mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 325mm",
-            "CPU쿨러 장착: 165mm"
-        ],
         "color_text": "Matte White",
         "price": "365000",
         "img": "//img.danawa.com/prod_img/500000/952/233/img/9233952_1.jpg?shrink=330:*&_v=20210510171846",
-        "Cate": "Case"
-    },
-    {
-        "name": "JONSBO VR3",
-        "brand": "JONSBO",
-        "spec": [
-            "미니ITX",
-            "미니ITX(리틀밸리)",
-            "파워미포함",
-            "Mini-ITX",
-            "너비(W): 204mm",
-            "높이(H): 382mm",
-            "깊이(D): 255mm",
-            "파워 장착: 140mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 325mm",
-            "CPU쿨러 장착: 70mm",
-            "PCI-E 3.0 라이저 케이블 제공"
-        ],
-        "color_text": "WHITE",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/524/329/img/16329524_1.jpg?shrink=330:*&_v=20220310124948",
         "Cate": "Case"
     },
     {
@@ -31733,36 +29830,6 @@
         "Cate": "Case"
     },
     {
-        "name": "마이크로닉스 COOLMAX 가성비 NO.4",
-        "brand": "마이크로닉스",
-        "spec": [
-            "PC케이스(ATX)",
-            "미들타워",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "수직 PCI형태: 기본형",
-            "쿨링팬: 총4개",
-            "LED팬: 4개",
-            "측면: 강화유리",
-            "후면: 140mm LED x1",
-            "전면: 140mm LED x3",
-            "너비(W): 225mm",
-            "깊이(D): 400mm",
-            "높이(H): 475mm",
-            "파워 장착: 190mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 350mm",
-            "CPU쿨러 장착: 175mm",
-            "LED 색상: RGB"
-        ],
-        "color_text": "",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/133/445/img/12445133_1.jpg?shrink=330:*&_v=20210129093803",
-        "Cate": "Case"
-    },
-    {
         "name": "마이크로닉스 GH1-MESH 강화유리",
         "brand": "마이크로닉스",
         "spec": [
@@ -31851,34 +29918,6 @@
         "Cate": "Case"
     },
     {
-        "name": "3RSYS L1000 강화유리",
-        "brand": "3RSYS",
-        "spec": [
-            "PC케이스(ATX)",
-            "미들타워",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총3개",
-            "측면: 강화유리",
-            "후면: 120mm LED x1",
-            "전면: 140mm LED x2",
-            "너비(W): 240mm",
-            "깊이(D): 475mm",
-            "높이(H): 455mm",
-            "파워 장착: 최대 180mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 최대 380mm",
-            "CPU쿨러 장착: 최대 172mm",
-            "2019년 2월 기본 팬 변경 MOON FAN 1 -> MOON FAN 2"
-        ],
-        "color_text": "화이트",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/122/524/img/4524122_1.jpg?shrink=330:*&_v=20230525171757",
-        "Cate": "Case"
-    },
-    {
         "name": "앱코 SUITMASTER AL700 강화유리",
         "brand": "앱코",
         "spec": [
@@ -31938,60 +29977,6 @@
         "color_text": "",
         "price": "118500",
         "img": "//img.danawa.com/prod_img/500000/452/006/img/6006452_1.jpg?shrink=330:*&_v=20190404143720",
-        "Cate": "Case"
-    },
-    {
-        "name": "앱코 NCORE C10 배럭",
-        "brand": "앱코",
-        "spec": [
-            "PC케이스(ATX)",
-            "미들타워",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "쿨링팬: 총1개",
-            "측면: 통풍구",
-            "후면: 80mm",
-            "너비(W): 180mm",
-            "깊이(D): 367mm",
-            "높이(H): 416mm",
-            "파워 위치: 상단",
-            "GPU 장착: 최대 325mm",
-            "CPU쿨러 장착: 최대 150mm"
-        ],
-        "color_text": "",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/713/257/img/5257713_1.jpg?shrink=330:*&_v=20210817125212",
-        "Cate": "Case"
-    },
-    {
-        "name": "마이크로닉스 COOLMAX 해머 메쉬",
-        "brand": "마이크로닉스",
-        "spec": [
-            "PC케이스(ATX)",
-            "미들타워",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "표준-ITX",
-            "쿨링팬: 총4개",
-            "LED팬: 4개",
-            "전면 패널 타입: 메쉬",
-            "측면: 아크릴",
-            "후면: 120mm LED x1",
-            "전면: 120mm LED x3",
-            "너비(W): 200mm",
-            "깊이(D): 369mm",
-            "높이(H): 455mm",
-            "파워 장착: 156mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 270~325mm",
-            "CPU쿨러 장착: 160mm",
-            "LED 색상: RGB"
-        ],
-        "color_text": "",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/093/702/img/17702093_1.jpg?shrink=330:*&_v=20220916151639",
         "Cate": "Case"
     },
     {
@@ -32370,30 +30355,6 @@
         "Cate": "Case"
     },
     {
-        "name": "마이크로닉스 BOHEMIAN CLEO",
-        "brand": "마이크로닉스",
-        "spec": [
-            "PC케이스(M-ATX)",
-            "미니타워",
-            "파워미포함",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총1개",
-            "측면: 통풍구",
-            "후면: 92mm x1",
-            "너비(W): 172mm",
-            "깊이(D): 360mm",
-            "높이(H): 355mm",
-            "파워 위치: 상단후면",
-            "GPU 장착: 315mm",
-            "CPU쿨러 장착: 136mm"
-        ],
-        "color_text": "",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/435/412/img/6412435_1.jpg?shrink=330:*&_v=20190131120600",
-        "Cate": "Case"
-    },
-    {
         "name": "쿨러마스터 MasterBox MB500 강화유리",
         "brand": "쿨러마스터",
         "spec": [
@@ -32421,140 +30382,6 @@
         "color_text": "",
         "price": "93460",
         "img": "//img.danawa.com/prod_img/500000/157/032/img/6032157_1.jpg?shrink=330:*&_v=20190404143506",
-        "Cate": "Case"
-    },
-    {
-        "name": "마이크로닉스 Master M400 아크릴X강화유리",
-        "brand": "마이크로닉스",
-        "spec": [
-            "PC케이스(ATX)",
-            "미들타워",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "수직 PCI형태: 기본형",
-            "쿨링팬: 총3개",
-            "측면: 강화유리",
-            "후면: 120mm 화이트 LED",
-            "전면: 120mm 화이트 LED x2",
-            "너비(W): 203mm",
-            "깊이(D): 470mm",
-            "높이(H): 520mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 최대 390mm",
-            "CPU쿨러 장착: 최대 160mm"
-        ],
-        "color_text": "",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/231/810/img/5810231_1.jpg?shrink=330:*&_v=20190628085842",
-        "Cate": "Case"
-    },
-    {
-        "name": "마이크로닉스 QUANTA HMR-445N1 + 하드랙 패키지",
-        "brand": "마이크로닉스",
-        "spec": [
-            "랙마운트",
-            "랙마운트(4U)",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "전면: 80mm x 2",
-            "너비(W): 482mm",
-            "높이(H): 178mm",
-            "깊이(D): 490mm",
-            "파워 위치: 기타",
-            "2020년 3월 구성품 추가"
-        ],
-        "color_text": "",
-        "price": "146000",
-        "img": "//img.danawa.com/prod_img/500000/085/607/img/10607085_1.jpg?shrink=330:*&_v=20200306085825",
-        "Cate": "Case"
-    },
-    {
-        "name": "앱코 SUITMASTER 910z 강화유리 스펙트럼 Dualight",
-        "brand": "앱코",
-        "spec": [
-            "PC케이스(M-ATX)",
-            "미니타워",
-            "파워미포함",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총3개",
-            "LED팬: 3개",
-            "측면: 강화유리",
-            "후면: 120mm LED x1",
-            "전면: 120mm LED x2",
-            "너비(W): 235mm",
-            "깊이(D): 510mm",
-            "높이(H): 448mm",
-            "파워 장착: 175mm",
-            "파워 위치: 하단전면",
-            "GPU 장착: 360mm",
-            "CPU쿨러 장착: 174mm",
-            "LED 색상: RGB"
-        ],
-        "color_text": "블랙",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/593/486/img/10486593_1.jpg?shrink=330:*&_v=20200317162426",
-        "Cate": "Case"
-    },
-    {
-        "name": "앱코 SUITMASTER 910z 강화유리 스펙트럼 Dualight",
-        "brand": "앱코",
-        "spec": [
-            "PC케이스(M-ATX)",
-            "미니타워",
-            "파워미포함",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총3개",
-            "LED팬: 3개",
-            "측면: 강화유리",
-            "후면: 120mm LED x1",
-            "전면: 120mm LED x2",
-            "너비(W): 235mm",
-            "깊이(D): 510mm",
-            "높이(H): 448mm",
-            "파워 장착: 175mm",
-            "파워 위치: 하단전면",
-            "GPU 장착: 360mm",
-            "CPU쿨러 장착: 174mm",
-            "LED 색상: RGB"
-        ],
-        "color_text": "화이트",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/593/486/img/10486593_1.jpg?shrink=330:*&_v=20200317162426",
-        "Cate": "Case"
-    },
-    {
-        "name": "앱코 SUITMASTER 330S 강화유리 HALO",
-        "brand": "앱코",
-        "spec": [
-            "PC케이스(ATX)",
-            "미들타워",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총3개",
-            "LED팬: 3개",
-            "측면: 강화유리",
-            "후면: 120mm 화이트 LED",
-            "전면: 120mm 화이트 LED x2",
-            "너비(W): 215mm",
-            "깊이(D): 455mm",
-            "높이(H): 500mm",
-            "파워 장착: 최대 205mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 최대 385mm",
-            "CPU쿨러 장착: 최대 165mm",
-            "팬 컨트롤"
-        ],
-        "color_text": "화이트",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/362/219/img/5219362_1.jpg?shrink=330:*&_v=20190919175942",
         "Cate": "Case"
     },
     {
@@ -32774,24 +30601,6 @@
         "Cate": "Case"
     },
     {
-        "name": "투렉스 DOMA T1",
-        "brand": "투렉스",
-        "spec": [
-            "튜닝 케이스",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "너비(W): 280mm",
-            "높이(H): 464mm",
-            "깊이(D): 322mm"
-        ],
-        "color_text": "",
-        "price": "51980",
-        "img": "//img.danawa.com/prod_img/500000/789/321/img/9321789_1.jpg?shrink=330:*&_v=20230313100257",
-        "Cate": "Case"
-    },
-    {
         "name": "피닉스CNS 아르페지오 미니 강화유리",
         "brand": "피닉스CNS",
         "spec": [
@@ -32928,25 +30737,6 @@
         "Cate": "Case"
     },
     {
-        "name": "투렉스 DOMA A5 BASIC",
-        "brand": "투렉스",
-        "spec": [
-            "튜닝 케이스",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "표준-ITX",
-            "너비(W): 458mm",
-            "높이(H): 37mm",
-            "깊이(D): 284mm",
-            "파워 위치: 기타"
-        ],
-        "color_text": "",
-        "price": "42320",
-        "img": "//img.danawa.com/prod_img/500000/080/518/img/13518080_1.jpg?shrink=330:*&_v=20230313095609",
-        "Cate": "Case"
-    },
-    {
         "name": "ANIX LOOK 미들 매쉬",
         "brand": "ANIX",
         "spec": [
@@ -33003,27 +30793,6 @@
         "Cate": "Case"
     },
     {
-        "name": "2MONS 서버 4U PC D450",
-        "brand": "2MONS",
-        "spec": [
-            "랙마운트",
-            "랙마운트(4U)",
-            "파워미포함",
-            "측면: 쿨링팬",
-            "전면: 120mm",
-            "너비(W): 430mm",
-            "높이(H): 175mm",
-            "깊이(D): 450mm",
-            "파워 위치: 우측 후면",
-            "GPU 장착: 기본 290 mm",
-            "최대 380mm"
-        ],
-        "color_text": "",
-        "price": "52000",
-        "img": "//img.danawa.com/prod_img/500000/778/821/img/1821778_1.jpg?shrink=330:*&_v=20190502135430",
-        "Cate": "Case"
-    },
-    {
         "name": "CORSAIR 5000D CORE AIRFLOW",
         "brand": "CORSAIR",
         "spec": [
@@ -33069,48 +30838,6 @@
         "color_text": "White",
         "price": "175730",
         "img": "//img.danawa.com/prod_img/500000/552/265/img/28265552_1.jpg?shrink=330:*&_v=20230915101539",
-        "Cate": "Case"
-    },
-    {
-        "name": "투렉스 DOMA F1 ULTRA",
-        "brand": "투렉스",
-        "spec": [
-            "튜닝 케이스",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "표준-ITX",
-            "너비(W): 470mm",
-            "높이(H): 143mm",
-            "깊이(D): 288mm",
-            "파워 위치: 기타",
-            "15° 각도 조절",
-            "아크릴 덮개 옵션 구매"
-        ],
-        "color_text": "GRAY",
-        "price": "31280",
-        "img": "//img.danawa.com/prod_img/500000/342/846/img/17846342_1.jpg?shrink=330:*&_v=20230313095549",
-        "Cate": "Case"
-    },
-    {
-        "name": "투렉스 DOMA F1 ULTRA",
-        "brand": "투렉스",
-        "spec": [
-            "튜닝 케이스",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "표준-ITX",
-            "너비(W): 470mm",
-            "높이(H): 143mm",
-            "깊이(D): 288mm",
-            "파워 위치: 기타",
-            "15° 각도 조절",
-            "아크릴 덮개 옵션 구매"
-        ],
-        "color_text": "RED",
-        "price": "34000",
-        "img": "//img.danawa.com/prod_img/500000/342/846/img/17846342_1.jpg?shrink=330:*&_v=20230313095549",
         "Cate": "Case"
     },
     {
@@ -33665,27 +31392,6 @@
         "Cate": "Case"
     },
     {
-        "name": "AMAQUEST V2-590 2U 랙마운트",
-        "brand": "AMAQUEST",
-        "spec": [
-            "랙마운트",
-            "랙마운트(2U)",
-            "파워미포함",
-            "Micro-ATX",
-            "표준-ITX",
-            "쿨링팬: 총3개",
-            "너비(W): 440mm",
-            "높이(H): 88mm",
-            "깊이(D): 590mm",
-            "GPU 장착: 260mm",
-            "CPU쿨러 장착: 73mm"
-        ],
-        "color_text": "",
-        "price": "280000",
-        "img": "//img.danawa.com/prod_img/500000/846/427/img/13427846_1.jpg?shrink=330:*&_v=20210222171406",
-        "Cate": "Case"
-    },
-    {
         "name": "DAMONCOM DM-730 USB 3.0",
         "brand": "DAMONCOM",
         "spec": [
@@ -33791,30 +31497,6 @@
         "color_text": "",
         "price": "28700",
         "img": "//img.danawa.com/prod_img/500000/749/043/img/5043749_1.jpg?shrink=330:*&_v=20170707184847",
-        "Cate": "Case"
-    },
-    {
-        "name": "2MONS 4U D450 GPU-3",
-        "brand": "2MONS",
-        "spec": [
-            "랙마운트",
-            "랙마운트(4U)",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총1개",
-            "전면: 120mm x1",
-            "너비(W): 430mm",
-            "높이(H): 178mm",
-            "깊이(D): 450mm",
-            "파워 장착: 150mm",
-            "파워 위치: 후면",
-            "GPU 장착: 340mm"
-        ],
-        "color_text": "",
-        "price": "51500",
-        "img": "//img.danawa.com/prod_img/500000/703/862/img/12862703_1.jpg?shrink=330:*&_v=20201208150138",
         "Cate": "Case"
     },
     {
@@ -34296,73 +31978,6 @@
         "Cate": "Case"
     },
     {
-        "name": "AMAQUEST V3-500 3U 랙마운트",
-        "brand": "AMAQUEST",
-        "spec": [
-            "랙마운트",
-            "랙마운트(3U)",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총3개",
-            "전면: 80mm x1, 120mm x2",
-            "너비(W): 430mm",
-            "높이(H): 130mm",
-            "깊이(D): 500mm",
-            "파워 위치: 기타",
-            "GPU 장착: 300mm",
-            "CPU쿨러 장착: 100mm"
-        ],
-        "color_text": "",
-        "price": "144000",
-        "img": "//img.danawa.com/prod_img/500000/417/482/img/15482417_1.jpg?shrink=330:*&_v=20211021105431",
-        "Cate": "Case"
-    },
-    {
-        "name": "Phanteks PREMIUM VERTICAL GPU BRACKET",
-        "brand": "Phanteks",
-        "spec": [
-            "브라켓/가이드"
-        ],
-        "color_text": "BK",
-        "price": "150500",
-        "img": "//img.danawa.com/prod_img/500000/999/759/img/29759999_1.jpg?shrink=330:*&_v=20231103145833",
-        "Cate": "Case"
-    },
-    {
-        "name": "Phanteks PREMIUM VERTICAL GPU BRACKET",
-        "brand": "Phanteks",
-        "spec": [
-            "브라켓/가이드"
-        ],
-        "color_text": "WT",
-        "price": "150500",
-        "img": "//img.danawa.com/prod_img/500000/999/759/img/29759999_1.jpg?shrink=330:*&_v=20231103145833",
-        "Cate": "Case"
-    },
-    {
-        "name": "2MONS 서버 4U TRAY D450",
-        "brand": "2MONS",
-        "spec": [
-            "랙마운트",
-            "랙마운트(4U)",
-            "파워미포함",
-            "측면: 쿨링팬",
-            "전면: 120mm",
-            "너비(W): 430mm",
-            "높이(H): 175mm",
-            "깊이(D): 450mm",
-            "파워 위치: 우측 후면",
-            "GPU 장착: 기본 290 mm",
-            "최대 380mm"
-        ],
-        "color_text": "",
-        "price": "74000",
-        "img": "//img.danawa.com/prod_img/500000/768/821/img/1821768_1.jpg?shrink=330:*&_v=20190502135527",
-        "Cate": "Case"
-    },
-    {
         "name": "CORSAIR Premium PCIe 4.0x16 Extension Cable",
         "brand": "CORSAIR",
         "spec": [
@@ -34404,28 +32019,6 @@
         "Cate": "Case"
     },
     {
-        "name": "2MONS 서버 4U 멀티 D500",
-        "brand": "2MONS",
-        "spec": [
-            "랙마운트",
-            "랙마운트(4U)",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "후면: 80mm",
-            "전면: 120mm",
-            "너비(W): 428mm",
-            "높이(H): 177mm",
-            "깊이(D): 528mm",
-            "GPU 장착: 330mm"
-        ],
-        "color_text": "",
-        "price": "109000",
-        "img": "//img.danawa.com/prod_img/500000/027/043/img/3043027_1.jpg?shrink=330:*&_v=20221103131338",
-        "Cate": "Case"
-    },
-    {
         "name": "Phanteks SHIFT XT",
         "brand": "Phanteks",
         "spec": [
@@ -34462,57 +32055,6 @@
         "Cate": "Case"
     },
     {
-        "name": "AMAQUEST V4-590 4GPU 4U 랙마운트",
-        "brand": "AMAQUEST",
-        "spec": [
-            "랙마운트",
-            "랙마운트(4U)",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "표준-ITX",
-            "쿨링팬: 총6개",
-            "후면: 80mm x2",
-            "너비(W): 430mm",
-            "높이(H): 180mm",
-            "깊이(D): 590mm",
-            "파워 위치: 기타",
-            "GPU 장착: 340mm",
-            "CPU쿨러 장착: 150mm"
-        ],
-        "color_text": "",
-        "price": "404000",
-        "img": "//img.danawa.com/prod_img/500000/441/440/img/15440441_1.jpg?shrink=330:*&_v=20211019111101",
-        "Cate": "Case"
-    },
-    {
-        "name": "AMAQUEST AM-650N 4U 랙마운트",
-        "brand": "AMAQUEST",
-        "spec": [
-            "랙마운트",
-            "랙마운트(4U) ",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "표준-ITX",
-            "쿨링팬: 총5개",
-            "후면: 120mm x3",
-            "너비(W): 430mm",
-            "높이(H): 176mm",
-            "깊이(D): 650mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 340mm",
-            "CPU쿨러 장착: 150mm",
-            "430x650x176mm"
-        ],
-        "color_text": "",
-        "price": "158000",
-        "img": "//img.danawa.com/prod_img/500000/416/545/img/13545416_1.jpg?shrink=330:*&_v=20210426162234",
-        "Cate": "Case"
-    },
-    {
         "name": "써멀테이크 CTE C750 Air",
         "brand": "써멀테이크",
         "spec": [
@@ -34538,156 +32080,6 @@
         "color_text": "Black",
         "price": "298900",
         "img": "//img.danawa.com/prod_img/500000/697/252/img/25252697_1.jpg?shrink=330:*&_v=20230801143533",
-        "Cate": "Case"
-    },
-    {
-        "name": "써멀테이크 CTE C750 Air",
-        "brand": "써멀테이크",
-        "spec": [
-            "PC케이스(ATX)",
-            "빅타워",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총3개",
-            "측면: 강화유리",
-            "후면: 140mm X1",
-            "전면: 140mm X1",
-            "상단: 140mm X1",
-            "너비(W): 327mm",
-            "깊이(D): 599.2mm",
-            "높이(H): 565.2mm",
-            "파워 장착: 220mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 370~420mm",
-            "CPU쿨러 장착: 190mm"
-        ],
-        "color_text": "Snow",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/697/252/img/25252697_1.jpg?shrink=330:*&_v=20230801143533",
-        "Cate": "Case"
-    },
-    {
-        "name": "컴이지 킹덤 GD-78",
-        "brand": "컴이지",
-        "spec": [
-            "튜닝 케이스",
-            "미들타워",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총7개",
-            "측면: 강화유리",
-            "후면: 120mm LED x1",
-            "전면: 120mm LED x3",
-            "상단: 120mm LED x3",
-            "너비(W): 235mm",
-            "높이(H): 640mm",
-            "깊이(D): 540mm",
-            "파워 장착: 170mm",
-            "파워 위치: 하단전면",
-            "GPU 장착: 320mm",
-            "CPU쿨러 장착: 165mm",
-            "외부 LED",
-            "RGB 컨트롤",
-            "외부LED 컨트롤",
-            "23년 6월 리모컨 컨트롤러 → 컨트롤 및 파워 서플라이단 튜닝용 액세서리 추가 변경"
-        ],
-        "color_text": "",
-        "price": "128630",
-        "img": "//img.danawa.com/prod_img/500000/667/399/img/13399667_1.jpg?shrink=330:*&_v=20230614151712",
-        "Cate": "Case"
-    },
-    {
-        "name": "큐닉스그룹 큐닉스 INFINITY M",
-        "brand": "큐닉스그룹",
-        "spec": [
-            "튜닝 케이스",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "표준-ITX",
-            "쿨링팬: 총5개",
-            "LED팬: 5개",
-            "측면: 강화유리",
-            "후면: 120mm LED x1",
-            "전면: 120mm LED x2",
-            "상단: 120mm LED x2",
-            "너비(W): 230mm",
-            "높이(H): 510mm",
-            "깊이(D): 635mm",
-            "파워 위치: 하단전면",
-            "GPU 장착: 350mm",
-            "CPU쿨러 장착: 160mm",
-            "외부 LED",
-            "리모컨",
-            "LED 색상: RGB"
-        ],
-        "color_text": "화이트",
-        "price": "250270",
-        "img": "//img.danawa.com/prod_img/500000/194/765/img/18765194_1.jpg?shrink=330:*&_v=20230116130423",
-        "Cate": "Case"
-    },
-    {
-        "name": "큐닉스그룹 큐닉스 INFINITY M",
-        "brand": "큐닉스그룹",
-        "spec": [
-            "튜닝 케이스",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "표준-ITX",
-            "쿨링팬: 총5개",
-            "LED팬: 5개",
-            "측면: 강화유리",
-            "후면: 120mm LED x1",
-            "전면: 120mm LED x2",
-            "상단: 120mm LED x2",
-            "너비(W): 230mm",
-            "높이(H): 510mm",
-            "깊이(D): 635mm",
-            "파워 위치: 하단전면",
-            "GPU 장착: 350mm",
-            "CPU쿨러 장착: 160mm",
-            "외부 LED",
-            "리모컨",
-            "LED 색상: RGB"
-        ],
-        "color_text": "블랙",
-        "price": "241380",
-        "img": "//img.danawa.com/prod_img/500000/194/765/img/18765194_1.jpg?shrink=330:*&_v=20230116130423",
-        "Cate": "Case"
-    },
-    {
-        "name": "큐닉스그룹 큐닉스 INFINITY M",
-        "brand": "큐닉스그룹",
-        "spec": [
-            "튜닝 케이스",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "표준-ITX",
-            "쿨링팬: 총5개",
-            "LED팬: 5개",
-            "측면: 강화유리",
-            "후면: 120mm LED x1",
-            "전면: 120mm LED x2",
-            "상단: 120mm LED x2",
-            "너비(W): 230mm",
-            "높이(H): 510mm",
-            "깊이(D): 635mm",
-            "파워 위치: 하단전면",
-            "GPU 장착: 350mm",
-            "CPU쿨러 장착: 160mm",
-            "외부 LED",
-            "리모컨",
-            "LED 색상: RGB"
-        ],
-        "color_text": "핑크",
-        "price": "255000",
-        "img": "//img.danawa.com/prod_img/500000/194/765/img/18765194_1.jpg?shrink=330:*&_v=20230116130423",
         "Cate": "Case"
     },
     {
@@ -34740,28 +32132,6 @@
         "color_text": "White",
         "price": "128390",
         "img": "//img.danawa.com/prod_img/500000/707/696/img/21696707_1.jpg?shrink=330:*&_v=20230725144157",
-        "Cate": "Case"
-    },
-    {
-        "name": "AMAQUEST M250GPU USB3.0",
-        "brand": "AMAQUEST",
-        "spec": [
-            "랙마운트",
-            "랙마운트(2U)",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총3개",
-            "전면: 80mm x3",
-            "너비(W): 428mm",
-            "높이(H): 88mm",
-            "깊이(D): 480mm",
-            "GPU 장착: 410mm"
-        ],
-        "color_text": "",
-        "price": "148000",
-        "img": "//img.danawa.com/prod_img/500000/326/122/img/13122326_1.jpg?shrink=330:*&_v=20210112153934",
         "Cate": "Case"
     },
     {
@@ -35097,27 +32467,6 @@
         "Cate": "Case"
     },
     {
-        "name": "2MONS 3U D300 에코",
-        "brand": "2MONS",
-        "spec": [
-            "랙마운트",
-            "랙마운트(3U)",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "전면: 60mm x2",
-            "너비(W): 430mm",
-            "높이(H): 133mm",
-            "깊이(D): 300mm",
-            "CPU쿨러 장착: 110mm"
-        ],
-        "color_text": "",
-        "price": "68910",
-        "img": "//img.danawa.com/prod_img/500000/173/531/img/12531173_1.jpg?shrink=330:*&_v=20201023165412",
-        "Cate": "Case"
-    },
-    {
         "name": "2MONS L-TOWER",
         "brand": "2MONS",
         "spec": [
@@ -35300,76 +32649,6 @@
         "Cate": "Case"
     },
     {
-        "name": "KRAFT KOREA THANOS RGB 강화유리",
-        "brand": "KRAFT",
-        "spec": [
-            "튜닝 케이스",
-            "미니타워",
-            "파워미포함",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총6개",
-            "LED팬: 6개",
-            "측면: 강화유리",
-            "후면: 120mm LED x1",
-            "전면: 120mm LED x2",
-            "상단: 120mm LED x2",
-            "하단: 120mm LED x1",
-            "너비(W): 222mm",
-            "높이(H): 452mm",
-            "깊이(D): 549mm",
-            "파워 위치: 하단전면",
-            "GPU 장착: 340mm",
-            "CPU쿨러 장착: 175mm",
-            "내부 LED 바",
-            "외부 LED",
-            "RGB 컨트롤",
-            "외부LED 컨트롤",
-            "LED 색상: RGB",
-            "VGA 지지대 기본 제공",
-            "팬 허브 적용"
-        ],
-        "color_text": "BLACK",
-        "price": "96000",
-        "img": "//img.danawa.com/prod_img/500000/325/458/img/17458325_1.jpg?shrink=330:*&_v=20220714105016",
-        "Cate": "Case"
-    },
-    {
-        "name": "KRAFT KOREA THANOS RGB 강화유리",
-        "brand": "KRAFT",
-        "spec": [
-            "튜닝 케이스",
-            "미니타워",
-            "파워미포함",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총6개",
-            "LED팬: 6개",
-            "측면: 강화유리",
-            "후면: 120mm LED x1",
-            "전면: 120mm LED x2",
-            "상단: 120mm LED x2",
-            "하단: 120mm LED x1",
-            "너비(W): 222mm",
-            "높이(H): 452mm",
-            "깊이(D): 549mm",
-            "파워 위치: 하단전면",
-            "GPU 장착: 340mm",
-            "CPU쿨러 장착: 175mm",
-            "내부 LED 바",
-            "외부 LED",
-            "RGB 컨트롤",
-            "외부LED 컨트롤",
-            "LED 색상: RGB",
-            "VGA 지지대 기본 제공",
-            "팬 허브 적용"
-        ],
-        "color_text": "WHITE",
-        "price": "101000",
-        "img": "//img.danawa.com/prod_img/500000/325/458/img/17458325_1.jpg?shrink=330:*&_v=20220714105016",
-        "Cate": "Case"
-    },
-    {
         "name": "DAMONCOM DM-200S",
         "brand": "DAMONCOM",
         "spec": [
@@ -35409,51 +32688,6 @@
         "Cate": "Case"
     },
     {
-        "name": "2MONS SERVER 3U D400",
-        "brand": "2MONS",
-        "spec": [
-            "랙마운트",
-            "랙마운트(3U)",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "후면: 60mm x2",
-            "전면: 80mm x2",
-            "너비(W): 430mm",
-            "높이(H): 132mm",
-            "깊이(D): 400mm",
-            "파워 위치: 좌측 후면",
-            "GPU 장착: 최대 250mm"
-        ],
-        "color_text": "",
-        "price": "76000",
-        "img": "//img.danawa.com/prod_img/500000/148/742/img/1742148_1.jpg?shrink=330:*&_v=20210913173247",
-        "Cate": "Case"
-    },
-    {
-        "name": "2MONS 4U HQ D450 GPU-4",
-        "brand": "2MONS",
-        "spec": [
-            "랙마운트",
-            "랙마운트(4U)",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "표준-ITX",
-            "쿨링팬: 총1개",
-            "전면: 120mm",
-            "너비(W): 430mm",
-            "높이(H): 178mm",
-            "깊이(D): 450mm",
-            "GPU 장착: 270~370mm",
-            "CPU쿨러 장착: 150mm"
-        ],
-        "color_text": "",
-        "price": "75980",
-        "img": "//img.danawa.com/prod_img/500000/990/225/img/20225990_1.jpg?shrink=330:*&_v=20230518140533",
-        "Cate": "Case"
-    },
-    {
         "name": "ANIX M6509 MINI",
         "brand": "ANIX",
         "spec": [
@@ -35474,46 +32708,6 @@
         "color_text": "",
         "price": "30310",
         "img": "//img.danawa.com/prod_img/500000/772/830/img/14830772_1.jpg?shrink=330:*&_v=20220207091527",
-        "Cate": "Case"
-    },
-    {
-        "name": "2MONS 1U ITX D250",
-        "brand": "2MONS",
-        "spec": [
-            "랙마운트",
-            "랙마운트(1U)",
-            "파워미포함",
-            "표준-ITX",
-            "쿨링팬: 총2개",
-            "내부 측면: 40mm x2",
-            "너비(W): 430mm",
-            "높이(H): 44mm",
-            "깊이(D): 250mm",
-            "파워 위치: 후면",
-            "CPU쿨러 장착: 30mm"
-        ],
-        "color_text": "",
-        "price": "101000",
-        "img": "//img.danawa.com/prod_img/500000/194/025/img/7025194_1.jpg?shrink=330:*&_v=20190111160914",
-        "Cate": "Case"
-    },
-    {
-        "name": "2MONS 서버 2U D400 에코",
-        "brand": "2MONS",
-        "spec": [
-            "랙마운트",
-            "랙마운트(2U)",
-            "파워미포함",
-            "Micro-ATX",
-            "전면: 80mm x 2",
-            "너비(W): 430mm",
-            "높이(H): 90mm",
-            "깊이(D): 400mm",
-            "파워 위치: 기타"
-        ],
-        "color_text": "",
-        "price": "68000",
-        "img": "//img.danawa.com/prod_img/500000/665/155/img/3155665_1.jpg?shrink=330:*&_v=20160412162805",
         "Cate": "Case"
     },
     {
@@ -35567,27 +32761,6 @@
         "Cate": "Case"
     },
     {
-        "name": "AMAQUEST K430B",
-        "brand": "AMAQUEST",
-        "spec": [
-            "랙마운트",
-            "랙마운트(4U)",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총2개",
-            "후면: 60mm x2",
-            "너비(W): 430mm",
-            "높이(H): 174mm",
-            "깊이(D): 300mm"
-        ],
-        "color_text": "",
-        "price": "57880",
-        "img": "//img.danawa.com/prod_img/500000/004/325/img/10325004_1.jpg?shrink=330:*&_v=20200110090303",
-        "Cate": "Case"
-    },
-    {
         "name": "AMAQUEST KN4-MT (4bay Hot-swap)",
         "brand": "AMAQUEST",
         "spec": [
@@ -35605,69 +32778,6 @@
         "color_text": "",
         "price": "125000",
         "img": "//img.danawa.com/prod_img/500000/222/852/img/8852222_1.jpg?shrink=330:*&_v=20190726105036",
-        "Cate": "Case"
-    },
-    {
-        "name": "2MONS 서버 3U D400 USB3.0",
-        "brand": "2MONS",
-        "spec": [
-            "랙마운트",
-            "랙마운트(3U)",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "측면: 통풍구",
-            "전면: 80mm x 2",
-            "너비(W): 430mm",
-            "높이(H): 132mm",
-            "깊이(D): 400mm",
-            "파워 위치: 기타",
-            "GPU 장착: 최대 250mm"
-        ],
-        "color_text": "",
-        "price": "88000",
-        "img": "//img.danawa.com/prod_img/500000/782/914/img/2914782_1.jpg?shrink=330:*&_v=20160722141712",
-        "Cate": "Case"
-    },
-    {
-        "name": "AMAQUEST K230RV",
-        "brand": "AMAQUEST",
-        "spec": [
-            "랙마운트",
-            "랙마운트(2U)",
-            "파워미포함",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총3개",
-            "후면: 80mm x3",
-            "너비(W): 425mm",
-            "높이(H): 88mm",
-            "깊이(D): 300mm",
-            "GPU 장착: 150mm",
-            "CPU쿨러 장착: 65mm"
-        ],
-        "color_text": "",
-        "price": "92000",
-        "img": "//img.danawa.com/prod_img/500000/075/317/img/18317075_1.jpg?shrink=330:*&_v=20221117180030",
-        "Cate": "Case"
-    },
-    {
-        "name": "2MONS 1U D550 에코 USB3.0",
-        "brand": "2MONS",
-        "spec": [
-            "랙마운트",
-            "랙마운트(1U)",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "너비(W): 430mm",
-            "높이(H): 45mm",
-            "깊이(D): 560mm",
-            "파워 위치: 기타"
-        ],
-        "color_text": "",
-        "price": "142000",
-        "img": "//img.danawa.com/prod_img/500000/848/330/img/3330848_1.jpg?shrink=330:*&_v=20161104170218",
         "Cate": "Case"
     },
     {
@@ -35694,66 +32804,6 @@
         "Cate": "Case"
     },
     {
-        "name": "KRAFT KOREA RAY 560",
-        "brand": "KRAFT",
-        "spec": [
-            "튜닝 케이스",
-            "미니타워",
-            "파워미포함",
-            "Micro-ATX",
-            "Mini-ITX",
-            "수직 PCI형태: 기본형",
-            "쿨링팬: 총4개",
-            "LED팬: 4개",
-            "측면: 아크릴",
-            "후면: 120mm LED x1",
-            "전면: 200mm LED x1",
-            "상단: 120mm LED x2",
-            "너비(W): 315mm",
-            "높이(H): 350mm",
-            "깊이(D): 450mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 350mm",
-            "CPU쿨러 장착: 140mm",
-            "RGB 컨트롤",
-            "LED 색상: RGB"
-        ],
-        "color_text": "BLACK",
-        "price": "262000",
-        "img": "//img.danawa.com/prod_img/500000/424/481/img/12481424_1.jpg?shrink=330:*&_v=20201019124152",
-        "Cate": "Case"
-    },
-    {
-        "name": "KRAFT KOREA RAY 560",
-        "brand": "KRAFT",
-        "spec": [
-            "튜닝 케이스",
-            "미니타워",
-            "파워미포함",
-            "Micro-ATX",
-            "Mini-ITX",
-            "수직 PCI형태: 기본형",
-            "쿨링팬: 총4개",
-            "LED팬: 4개",
-            "측면: 아크릴",
-            "후면: 120mm LED x1",
-            "전면: 200mm LED x1",
-            "상단: 120mm LED x2",
-            "너비(W): 315mm",
-            "높이(H): 350mm",
-            "깊이(D): 450mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 350mm",
-            "CPU쿨러 장착: 140mm",
-            "RGB 컨트롤",
-            "LED 색상: RGB"
-        ],
-        "color_text": "WHITE",
-        "price": "143000",
-        "img": "//img.danawa.com/prod_img/500000/424/481/img/12481424_1.jpg?shrink=330:*&_v=20201019124152",
-        "Cate": "Case"
-    },
-    {
         "name": "앱코 ABKONCORE C610S",
         "brand": "앱코",
         "spec": [
@@ -35777,47 +32827,6 @@
         "color_text": "",
         "price": "35500",
         "img": "//img.danawa.com/prod_img/500000/585/162/img/20162585_1.jpg?shrink=330:*&_v=20230515134558",
-        "Cate": "Case"
-    },
-    {
-        "name": "2MONS 3U LCD 핫스왑*4 USB 3.0",
-        "brand": "2MONS",
-        "spec": [
-            "랙마운트",
-            "랙마운트(3U)",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "쿨링팬: 총2개",
-            "너비(W): 480mm",
-            "높이(H): 130mm",
-            "깊이(D): 520mm",
-            "파워 위치: 상단",
-            "GPU 장착: 최대 270mm",
-            "CPU쿨러 장착: 최대 100mm"
-        ],
-        "color_text": "",
-        "price": "200830",
-        "img": "//img.danawa.com/prod_img/500000/795/968/img/4968795_1.jpg?shrink=330:*&_v=20180827160132",
-        "Cate": "Case"
-    },
-    {
-        "name": "2MONS SERVER 2U D560",
-        "brand": "2MONS",
-        "spec": [
-            "랙마운트",
-            "랙마운트(2U)",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "측면: 통풍구",
-            "너비(W): 430mm",
-            "높이(H): 90mm",
-            "깊이(D): 560mm"
-        ],
-        "color_text": "",
-        "price": "103000",
-        "img": "//img.danawa.com/prod_img/500000/137/742/img/1742137_1.jpg?shrink=330:*&_v=20160530084324",
         "Cate": "Case"
     },
     {
@@ -35878,31 +32887,6 @@
         "color_text": "White",
         "price": "41500",
         "img": "//img.danawa.com/prod_img/500000/899/421/img/17421899_1.jpg?shrink=330:*&_v=20220708104758",
-        "Cate": "Case"
-    },
-    {
-        "name": "AMAQUEST F4500G 4U",
-        "brand": "AMAQUEST",
-        "spec": [
-            "랙마운트",
-            "랙마운트(4U)",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총1개",
-            "후면: 80mm x2",
-            "전면: 120mm",
-            "너비(W): 420mm",
-            "높이(H): 176mm",
-            "깊이(D): 450mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 270mm"
-        ],
-        "color_text": "",
-        "price": "142000",
-        "img": "//img.danawa.com/prod_img/500000/577/313/img/6313577_1.jpg?shrink=330:*&_v=20180723085800",
         "Cate": "Case"
     },
     {
@@ -35969,229 +32953,6 @@
         "Cate": "Case"
     },
     {
-        "name": "2MONS 서버 2U D560 USB 3.0",
-        "brand": "2MONS",
-        "spec": [
-            "랙마운트",
-            "랙마운트(2U)",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "측면: 통풍구",
-            "너비(W): 430mm",
-            "높이(H): 90mm",
-            "깊이(D): 560mm",
-            "파워 위치: 기타"
-        ],
-        "color_text": "",
-        "price": "117000",
-        "img": "//img.danawa.com/prod_img/500000/987/911/img/2911987_1.jpg?shrink=330:*&_v=20160530084410",
-        "Cate": "Case"
-    },
-    {
-        "name": "2MONS 2U E-ATX D650 USB3.0",
-        "brand": "2MONS",
-        "spec": [
-            "랙마운트",
-            "랙마운트(2U)",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "표준-ITX",
-            "쿨링팬: 총3개",
-            "너비(W): 430mm",
-            "높이(H): 89mm",
-            "깊이(D): 650mm",
-            "파워 위치: 기타",
-            "CPU쿨러 장착: 70mm"
-        ],
-        "color_text": "",
-        "price": "121000",
-        "img": "//img.danawa.com/prod_img/500000/696/071/img/10071696_1.jpg?shrink=330:*&_v=20191204161403",
-        "Cate": "Case"
-    },
-    {
-        "name": "2MONS SERVER 2U D550 Plus",
-        "brand": "2MONS",
-        "spec": [
-            "랙마운트",
-            "랙마운트(2U)",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "전면: 80mm x4",
-            "너비(W): 430mm",
-            "높이(H): 90mm",
-            "깊이(D): 550mm",
-            "파워 위치: 좌측 후면"
-        ],
-        "color_text": "",
-        "price": "82000",
-        "img": "//img.danawa.com/prod_img/500000/703/245/img/2245703_1.jpg?shrink=330:*&_v=20160726134310",
-        "Cate": "Case"
-    },
-    {
-        "name": "2MONS 4U D650 핫스왑-16",
-        "brand": "2MONS",
-        "spec": [
-            "랙마운트",
-            "랙마운트(4U)",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "표준-ITX",
-            "쿨링팬: 총3개",
-            "너비(W): 430mm",
-            "높이(H): 178mm",
-            "깊이(D): 650mm",
-            "GPU 장착: 340mm",
-            "CPU쿨러 장착: 150mm"
-        ],
-        "color_text": "",
-        "price": "365000",
-        "img": "//img.danawa.com/prod_img/500000/292/920/img/14920292_1.jpg?shrink=330:*&_v=20210805112011",
-        "Cate": "Case"
-    },
-    {
-        "name": "2MONS 미니서버 핫스왑*6 USB3.0",
-        "brand": "2MONS",
-        "spec": [
-            "랙마운트",
-            "랙마운트(4U) 이상",
-            "파워미포함",
-            "Mini-ITX",
-            "후면: 120mm 이상",
-            "너비(W): 220mm",
-            "높이(H): 260mm",
-            "깊이(D): 245mm",
-            "파워 위치: 기타",
-            "GPU 장착: 최대 220mm",
-            "CPU쿨러 장착: 최대 40mm"
-        ],
-        "color_text": "",
-        "price": "145600",
-        "img": "//img.danawa.com/prod_img/500000/031/511/img/3511031_1.jpg?shrink=330:*&_v=20200319142539",
-        "Cate": "Case"
-    },
-    {
-        "name": "2MONS 4U D650 핫스왑-12",
-        "brand": "2MONS",
-        "spec": [
-            "랙마운트",
-            "랙마운트(4U)",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총3개",
-            "너비(W): 430mm",
-            "높이(H): 178mm",
-            "깊이(D): 650mm",
-            "GPU 장착: 330mm",
-            "CPU쿨러 장착: 150mm"
-        ],
-        "color_text": "",
-        "price": "315000",
-        "img": "//img.danawa.com/prod_img/500000/834/551/img/12551834_1.jpg?shrink=330:*&_v=20210709141040",
-        "Cate": "Case"
-    },
-    {
-        "name": "2MONS 4U LCD D650 GPU-6",
-        "brand": "2MONS",
-        "spec": [
-            "랙마운트",
-            "랙마운트(4U)",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총2개",
-            "내부 측면: 120mm x2",
-            "너비(W): 430mm",
-            "높이(H): 178mm",
-            "깊이(D): 650mm",
-            "파워 장착: 200mm",
-            "GPU 장착: 330mm",
-            "CPU쿨러 장착: 150mm"
-        ],
-        "color_text": "",
-        "price": "220000",
-        "img": "//img.danawa.com/prod_img/500000/095/531/img/12531095_1.jpg?shrink=330:*&_v=20210915093209",
-        "Cate": "Case"
-    },
-    {
-        "name": "2MONS 서버 4U E-ATX D400 USB3.0",
-        "brand": "2MONS",
-        "spec": [
-            "랙마운트",
-            "랙마운트(4U)",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "전면: 80mm x 2",
-            "너비(W): 425mm",
-            "높이(H): 175mm",
-            "깊이(D): 390mm",
-            "파워 위치: 상단",
-            "GPU 장착: 최대 240mm"
-        ],
-        "color_text": "",
-        "price": "80000",
-        "img": "//img.danawa.com/prod_img/500000/753/231/img/4231753_1.jpg?shrink=330:*&_v=20160725164035",
-        "Cate": "Case"
-    },
-    {
-        "name": "2MONS 4U D470 GPU-4 워터쿨",
-        "brand": "2MONS",
-        "spec": [
-            "랙마운트",
-            "랙마운트(4U)",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "표준-ITX",
-            "쿨링팬: 총2개",
-            "너비(W): 430mm",
-            "높이(H): 177mm",
-            "깊이(D): 470mm",
-            "GPU 장착: 420mm",
-            "CPU쿨러 장착: 150mm"
-        ],
-        "color_text": "",
-        "price": "170000",
-        "img": "//img.danawa.com/prod_img/500000/497/869/img/19869497_1.jpg?shrink=330:*&_v=20230420142838",
-        "Cate": "Case"
-    },
-    {
-        "name": "2MONS 4U LCD D680 GPU-6 워터쿨 2psu",
-        "brand": "2MONS",
-        "spec": [
-            "랙마운트",
-            "랙마운트(4U)",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "표준-ITX",
-            "쿨링팬: 총2개",
-            "너비(W): 430mm",
-            "높이(H): 178mm",
-            "깊이(D): 680mm ",
-            "GPU 장착: 360mm",
-            "CPU쿨러 장착: 150mm"
-        ],
-        "color_text": "",
-        "price": "298000",
-        "img": "//img.danawa.com/prod_img/500000/620/605/img/28605620_1.jpg?shrink=330:*&_v=20231011153052",
-        "Cate": "Case"
-    },
-    {
         "name": "오존컴퍼니 마이크로박스 THIN ITX Tiny",
         "brand": "오존컴퍼니",
         "spec": [
@@ -36209,26 +32970,6 @@
         "color_text": "",
         "price": "37990",
         "img": "//img.danawa.com/prod_img/500000/549/878/img/18878549_1.jpg?shrink=330:*&_v=20230131130530",
-        "Cate": "Case"
-    },
-    {
-        "name": "AMAQUEST K230B",
-        "brand": "AMAQUEST",
-        "spec": [
-            "랙마운트",
-            "랙마운트(2U)",
-            "파워미포함",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총2개",
-            "전면: 80mm x2",
-            "너비(W): 430mm",
-            "높이(H): 88mm",
-            "깊이(D): 300mm"
-        ],
-        "color_text": "",
-        "price": "54000",
-        "img": "//img.danawa.com/prod_img/500000/019/325/img/10325019_1.jpg?shrink=330:*&_v=20200110090513",
         "Cate": "Case"
     },
     {
@@ -36300,31 +33041,6 @@
         "color_text": "",
         "price": "30640",
         "img": "//img.danawa.com/prod_img/500000/488/876/img/11876488_1.jpg?shrink=330:*&_v=20201127130428",
-        "Cate": "Case"
-    },
-    {
-        "name": "AMAQUEST K500-4GPU WC",
-        "brand": "AMAQUEST",
-        "spec": [
-            "랙마운트",
-            "랙마운트(4U)",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총2개",
-            "후면: 60mm x2",
-            "너비(W): 430mm",
-            "높이(H): 176mm",
-            "깊이(D): 500mm",
-            "파워 위치: 우측후면",
-            "GPU 장착: 420mm",
-            "CPU쿨러 장착: 156mm"
-        ],
-        "color_text": "",
-        "price": "133980",
-        "img": "//img.danawa.com/prod_img/500000/997/316/img/18316997_1.jpg?shrink=330:*&_v=20221117175601",
         "Cate": "Case"
     },
     {
@@ -36460,40 +33176,6 @@
         "Cate": "Case"
     },
     {
-        "name": "영재컴퓨터 NUDI BRANCH",
-        "brand": "영재컴퓨터",
-        "spec": [
-            "튜닝 케이스",
-            "미니타워",
-            "파워미포함",
-            "표준-ITX",
-            "너비(W): 178mm",
-            "높이(H): 333mm",
-            "깊이(D): 179mm"
-        ],
-        "color_text": "BLACK",
-        "price": "157550",
-        "img": "//img.danawa.com/prod_img/500000/820/941/img/9941820_1.jpg?shrink=330:*&_v=20230314105146",
-        "Cate": "Case"
-    },
-    {
-        "name": "영재컴퓨터 NUDI BRANCH",
-        "brand": "영재컴퓨터",
-        "spec": [
-            "튜닝 케이스",
-            "미니타워",
-            "파워미포함",
-            "표준-ITX",
-            "너비(W): 178mm",
-            "높이(H): 333mm",
-            "깊이(D): 179mm"
-        ],
-        "color_text": "WHITE",
-        "price": "169000",
-        "img": "//img.danawa.com/prod_img/500000/820/941/img/9941820_1.jpg?shrink=330:*&_v=20230314105146",
-        "Cate": "Case"
-    },
-    {
         "name": "써멀테이크 Versa H17",
         "brand": "써멀테이크",
         "spec": [
@@ -36518,237 +33200,6 @@
         "Cate": "Case"
     },
     {
-        "name": "2MONS 2U E-ATX D650",
-        "brand": "2MONS",
-        "spec": [
-            "랙마운트",
-            "랙마운트(2U)",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "표준-ITX",
-            "쿨링팬: 총3개",
-            "너비(W): 430mm",
-            "높이(H): 89mm",
-            "깊이(D): 650mm",
-            "파워 위치: 기타",
-            "CPU쿨러 장착: 70mm"
-        ],
-        "color_text": "",
-        "price": "108000",
-        "img": "//img.danawa.com/prod_img/500000/663/071/img/10071663_1.jpg?shrink=330:*&_v=20191204161339",
-        "Cate": "Case"
-    },
-    {
-        "name": "2MONS 1.5U D280 핫스왑*2",
-        "brand": "2MONS",
-        "spec": [
-            "랙마운트",
-            "랙마운트(1U)",
-            "파워미포함",
-            "Mini-ITX",
-            "전면: 60mm x 2",
-            "너비(W): 430mm",
-            "높이(H): 68mm",
-            "깊이(D): 285mm",
-            "파워 위치: 기타"
-        ],
-        "color_text": "",
-        "price": "148000",
-        "img": "//img.danawa.com/prod_img/500000/144/753/img/2753144_1.jpg?shrink=330:*&_v=20170601140711",
-        "Cate": "Case"
-    },
-    {
-        "name": "AMAQUEST M250GPU Smart USB3.0",
-        "brand": "AMAQUEST",
-        "spec": [
-            "랙마운트",
-            "랙마운트(2U)",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총3개",
-            "전면: 80mm x3",
-            "너비(W): 428mm",
-            "높이(H): 88mm",
-            "깊이(D): 480mm",
-            "GPU 장착: 410mm"
-        ],
-        "color_text": "",
-        "price": "161000",
-        "img": "//img.danawa.com/prod_img/500000/190/634/img/12634190_1.jpg?shrink=330:*&_v=20210901170746",
-        "Cate": "Case"
-    },
-    {
-        "name": "2MONS 2U D550 PLUS USB3.0",
-        "brand": "2MONS",
-        "spec": [
-            "랙마운트",
-            "랙마운트(2U)",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "측면: 통풍구",
-            "너비(W): 430mm",
-            "높이(H): 90mm",
-            "깊이(D): 550mm",
-            "파워 위치: 기타"
-        ],
-        "color_text": "",
-        "price": "97900",
-        "img": "//img.danawa.com/prod_img/500000/165/910/img/2910165_1.jpg?shrink=330:*&_v=20160726134351",
-        "Cate": "Case"
-    },
-    {
-        "name": "AMAQUEST AM-400H9 4U",
-        "brand": "AMAQUEST",
-        "spec": [
-            "랙마운트",
-            "랙마운트(4U)",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총4개",
-            "측면: 강철",
-            "후면: 80mm x2",
-            "전면: 120mm x2",
-            "너비(W): 430mm",
-            "높이(H): 176mm",
-            "깊이(D): 400mm",
-            "GPU 장착: 200mm",
-            "CPU쿨러 장착: 156mm"
-        ],
-        "color_text": "",
-        "price": "127760",
-        "img": "//img.danawa.com/prod_img/500000/049/074/img/17074049_1.jpg?shrink=330:*&_v=20220518160824",
-        "Cate": "Case"
-    },
-    {
-        "name": "2MONS 4U LCD 핫스왑*8 USB3.0",
-        "brand": "2MONS",
-        "spec": [
-            "랙마운트",
-            "랙마운트(4U)",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "후면: 80mm",
-            "너비(W): 465mm",
-            "높이(H): 175mm",
-            "깊이(D): 490mm",
-            "파워 위치: 상단",
-            "GPU 장착: 최대 220mm",
-            "CPU쿨러 장착: 최대 160mm"
-        ],
-        "color_text": "",
-        "price": "280000",
-        "img": "//img.danawa.com/prod_img/500000/262/391/img/4391262_1.jpg?shrink=330:*&_v=20210914161210",
-        "Cate": "Case"
-    },
-    {
-        "name": "2MONS 2U 핫스왑*6 SATA3 USB3.0",
-        "brand": "2MONS",
-        "spec": [
-            "랙마운트",
-            "랙마운트(2U)",
-            "파워미포함",
-            "표준-ATX",
-            "너비(W): 430mm",
-            "높이(H): 90mm",
-            "깊이(D): 550mm",
-            "파워 위치: 기타"
-        ],
-        "color_text": "",
-        "price": "264000",
-        "img": "//img.danawa.com/prod_img/500000/048/319/img/3319048_1.jpg?shrink=330:*&_v=20220217091035",
-        "Cate": "Case"
-    },
-    {
-        "name": "2MONS 4U D650 핫스왑-8 워터쿨",
-        "brand": "2MONS",
-        "spec": [
-            "랙마운트",
-            "랙마운트(4U)",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "표준-ITX",
-            "쿨링팬: 총3개",
-            "너비(W): 430mm",
-            "높이(H): 178mm",
-            "깊이(D): 650mm",
-            "GPU 장착: 350mm",
-            "CPU쿨러 장착: 150mm"
-        ],
-        "color_text": "",
-        "price": "305000",
-        "img": "//img.danawa.com/prod_img/500000/142/961/img/18961142_1.jpg?shrink=330:*&_v=20230208081133",
-        "Cate": "Case"
-    },
-    {
-        "name": "2MONS 2U D550 핫스왑*6 USB3.0",
-        "brand": "2MONS",
-        "spec": [
-            "랙마운트",
-            "랙마운트(2U)",
-            "파워미포함",
-            "표준-ATX",
-            "너비(W): 430mm",
-            "높이(H): 90mm",
-            "깊이(D): 550mm",
-            "파워 위치: 기타"
-        ],
-        "color_text": "",
-        "price": "250310",
-        "img": "//img.danawa.com/prod_img/500000/397/920/img/2920397_1.jpg?shrink=330:*&_v=20220217091009",
-        "Cate": "Case"
-    },
-    {
-        "name": "2MONS 2U D550 핫스왑*6",
-        "brand": "2MONS",
-        "spec": [
-            "랙마운트",
-            "랙마운트(2U)",
-            "파워미포함",
-            "표준-ATX",
-            "너비(W): 430mm",
-            "높이(H): 90mm",
-            "깊이(D): 550mm",
-            "파워 위치: 기타"
-        ],
-        "color_text": "",
-        "price": "239430",
-        "img": "//img.danawa.com/prod_img/500000/078/753/img/2753078_1.jpg?shrink=330:*&_v=20220217091151",
-        "Cate": "Case"
-    },
-    {
-        "name": "선경씨앤씨 RPC-2550 2U 랙마운트",
-        "brand": "선경씨앤씨",
-        "spec": [
-            "랙마운트",
-            "랙마운트(2U)",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "표준-ITX",
-            "쿨링팬: 총4개",
-            "너비(W): 430mm",
-            "높이(H): 88mm",
-            "깊이(D): 550mm",
-            "파워 장착: 180mm",
-            "파워 위치: 기타"
-        ],
-        "color_text": "",
-        "price": "67340",
-        "img": "//img.danawa.com/prod_img/500000/456/379/img/16379456_1.jpg?shrink=330:*&_v=20220211142424",
-        "Cate": "Case"
-    },
-    {
         "name": "IN WIN B1 PURE",
         "brand": "IN",
         "spec": [
@@ -36766,53 +33217,6 @@
         "color_text": "화이트",
         "price": "169000",
         "img": "//img.danawa.com/prod_img/500000/648/333/img/17333648_1.jpg?shrink=330:*&_v=20220711124114",
-        "Cate": "Case"
-    },
-    {
-        "name": "2MONS 2U D550 PLUS 핫스왑-3",
-        "brand": "2MONS",
-        "spec": [
-            "랙마운트",
-            "랙마운트(2U)",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "표준-ITX",
-            "쿨링팬: 총5개",
-            "너비(W): 430mm",
-            "높이(H): 90mm",
-            "깊이(D): 550mm",
-            "파워 위치: 하단전면",
-            "CPU쿨러 장착: 70mm 이하"
-        ],
-        "color_text": "",
-        "price": "170050",
-        "img": "//img.danawa.com/prod_img/500000/374/983/img/16983374_1.jpg?shrink=330:*&_v=20220504134056",
-        "Cate": "Case"
-    },
-    {
-        "name": "AMAQUEST M350GPU Smart",
-        "brand": "AMAQUEST",
-        "spec": [
-            "랙마운트",
-            "랙마운트(3U)",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총3개",
-            "후면: 80mm x1",
-            "전면: 120mm x2",
-            "너비(W): 425mm",
-            "높이(H): 130mm",
-            "깊이(D): 580mm",
-            "GPU 장착: 550mm",
-            "CPU쿨러 장착: 110mm"
-        ],
-        "color_text": "",
-        "price": "188000",
-        "img": "//img.danawa.com/prod_img/500000/507/607/img/28607507_1.jpg?shrink=330:*&_v=20231011162500",
         "Cate": "Case"
     },
     {
@@ -36838,86 +33242,6 @@
         "color_text": "",
         "price": "35500",
         "img": "//img.danawa.com/prod_img/500000/219/162/img/20162219_1.jpg?shrink=330:*&_v=20230515134534",
-        "Cate": "Case"
-    },
-    {
-        "name": "투렉스 LTC-Pro",
-        "brand": "투렉스",
-        "spec": [
-            "튜닝 케이스",
-            "데스크탑",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "너비(W): 221mm~",
-            "높이(H): 280mm",
-            "깊이(D): 250mm",
-            "듀얼파워",
-            "그래픽카드 최대 6개 장착"
-        ],
-        "color_text": "",
-        "price": "109000",
-        "img": "//img.danawa.com/prod_img/500000/258/455/img/2455258_1.jpg?shrink=330:*&_v=20230313100019",
-        "Cate": "Case"
-    },
-    {
-        "name": "투렉스 HandMade HOME-BOX",
-        "brand": "투렉스",
-        "spec": [
-            "HTPC 케이스",
-            "마이크로타워",
-            "파워미포함",
-            "Micro-ATX",
-            "측면: 쿨링팬",
-            "너비(W): 198mm",
-            "높이(H): 273mm",
-            "깊이(D): 380mm"
-        ],
-        "color_text": "블랙",
-        "price": "98100",
-        "img": "//img.danawa.com/prod_img/large/group_325/162762_1.jpg?shrink=330:*&_v=20190925164038",
-        "Cate": "Case"
-    },
-    {
-        "name": "투렉스 HandMade HOME-BOX",
-        "brand": "투렉스",
-        "spec": [
-            "HTPC 케이스",
-            "마이크로타워",
-            "파워미포함",
-            "Micro-ATX",
-            "측면: 쿨링팬",
-            "너비(W): 198mm",
-            "높이(H): 273mm",
-            "깊이(D): 380mm"
-        ],
-        "color_text": "투명",
-        "price": "98000",
-        "img": "//img.danawa.com/prod_img/large/group_325/162762_1.jpg?shrink=330:*&_v=20190925164038",
-        "Cate": "Case"
-    },
-    {
-        "name": "라벤타 RACKTORY 3.0 SL450",
-        "brand": "라벤타",
-        "spec": [
-            "랙마운트",
-            "랙마운트(4U)",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총1개",
-            "전면: 120mm x1",
-            "너비(W): 176mm",
-            "높이(H): 430mm",
-            "깊이(D): 450mm",
-            "GPU 장착: 300mm",
-            "CPU쿨러 장착: 150mm"
-        ],
-        "color_text": "",
-        "price": "52800",
-        "img": "//img.danawa.com/prod_img/500000/661/533/img/20533661_1.jpg?shrink=330:*&_v=20230614145146",
         "Cate": "Case"
     },
     {
@@ -36976,25 +33300,6 @@
         "color_text": "화이트",
         "price": "45000",
         "img": "//img.danawa.com/prod_img/500000/829/838/img/12838829_1.jpg?shrink=330:*&_v=20210310105220",
-        "Cate": "Case"
-    },
-    {
-        "name": "2MONS 서버 2U D400 에코 USB3.0",
-        "brand": "2MONS",
-        "spec": [
-            "랙마운트",
-            "랙마운트(2U)",
-            "파워미포함",
-            "Micro-ATX",
-            "전면: 80mm x 2",
-            "너비(W): 430mm",
-            "높이(H): 90mm",
-            "깊이(D): 400mm",
-            "파워 위치: 기타"
-        ],
-        "color_text": "",
-        "price": "77000",
-        "img": "//img.danawa.com/prod_img/500000/867/155/img/3155867_1.jpg?shrink=330:*&_v=20160412162828",
         "Cate": "Case"
     },
     {
@@ -37104,69 +33409,6 @@
         "Cate": "Case"
     },
     {
-        "name": "선경씨앤씨 RPC-650 4U 랙마운트",
-        "brand": "선경씨앤씨",
-        "spec": [
-            "랙마운트",
-            "랙마운트(4U)",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "쿨링팬: 총8개",
-            "후면: 80mm x2",
-            "전면: 120mm x2",
-            "너비(W): 430mm",
-            "높이(H): 178mm",
-            "깊이(D): 667mm",
-            "파워 위치: 기타",
-            "GPU 장착: 330mm",
-            "CPU쿨러 장착: 150mm"
-        ],
-        "color_text": "",
-        "price": "124870",
-        "img": "//img.danawa.com/prod_img/500000/634/676/img/15676634_1.jpg?shrink=330:*&_v=20211112133128",
-        "Cate": "Case"
-    },
-    {
-        "name": "2MONS 서버 1U D550 에코",
-        "brand": "2MONS",
-        "spec": [
-            "랙마운트",
-            "랙마운트(1U)",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "너비(W): 430mm",
-            "높이(H): 45mm",
-            "깊이(D): 560mm",
-            "파워 위치: 기타"
-        ],
-        "color_text": "",
-        "price": "130000",
-        "img": "//img.danawa.com/prod_img/500000/372/363/img/3363372_1.jpg?shrink=330:*&_v=20161104170132",
-        "Cate": "Case"
-    },
-    {
-        "name": "투렉스 DOMA F1 AIR PLUS",
-        "brand": "투렉스",
-        "spec": [
-            "튜닝 케이스",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "표준-ITX",
-            "너비(W): 283mm",
-            "높이(H): 225mm",
-            "깊이(D): 470mm",
-            "파워 위치: 기타"
-        ],
-        "color_text": "",
-        "price": "47000",
-        "img": "//img.danawa.com/prod_img/500000/132/124/img/16124132_1.jpg?shrink=330:*&_v=20230313100253",
-        "Cate": "Case"
-    },
-    {
         "name": "리안리 PC-Q35",
         "brand": "리안리",
         "spec": [
@@ -37273,25 +33515,6 @@
         "Cate": "Case"
     },
     {
-        "name": "2MONS 1.5U D280 핫스왑*2 USB3.0",
-        "brand": "2MONS",
-        "spec": [
-            "랙마운트",
-            "랙마운트(1U)",
-            "파워미포함",
-            "Mini-ITX",
-            "전면: 60mm x 2",
-            "너비(W): 430mm",
-            "높이(H): 68mm",
-            "깊이(D): 285mm",
-            "파워 위치: 기타"
-        ],
-        "color_text": "",
-        "price": "160000",
-        "img": "//img.danawa.com/prod_img/500000/264/919/img/2919264_1.jpg?shrink=330:*&_v=20170601140734",
-        "Cate": "Case"
-    },
-    {
         "name": "오존컴퍼니 마이크로박스 COOL GL MINI",
         "brand": "오존컴퍼니",
         "spec": [
@@ -37339,54 +33562,6 @@
         "Cate": "Case"
     },
     {
-        "name": "2MONS 1U LCD D400",
-        "brand": "2MONS",
-        "spec": [
-            "랙마운트",
-            "랙마운트(1U)",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "표준-ITX",
-            "쿨링팬: 총2개",
-            "내부 측면: 40mm x2",
-            "너비(W): 430mm",
-            "높이(H): 44.5mm",
-            "깊이(D): 400mm",
-            "파워 위치: 후면",
-            "CPU쿨러 장착: 30mm"
-        ],
-        "color_text": "",
-        "price": "132000",
-        "img": "//img.danawa.com/prod_img/500000/287/024/img/12024287_1.jpg?shrink=330:*&_v=20200811160822",
-        "Cate": "Case"
-    },
-    {
-        "name": "2MONS 4U 멀티 D500 핫스왑-4",
-        "brand": "2MONS",
-        "spec": [
-            "랙마운트",
-            "랙마운트(4U)",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "표준-ITX",
-            "쿨링팬: 총5개",
-            "전면: 120mm x1",
-            "너비(W): 428mm",
-            "높이(H): 177mm",
-            "깊이(D): 500mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 330mm",
-            "CPU쿨러 장착: 150mm"
-        ],
-        "color_text": "",
-        "price": "205000",
-        "img": "//img.danawa.com/prod_img/500000/740/983/img/16983740_1.jpg?shrink=330:*&_v=20220504135309",
-        "Cate": "Case"
-    },
-    {
         "name": "DAMONCOM DM-200S (SK-II M500S)",
         "brand": "DAMONCOM",
         "spec": [
@@ -37405,31 +33580,6 @@
         "color_text": "",
         "price": "44210",
         "img": "//img.danawa.com/prod_img/500000/460/581/img/3581460_1.jpg?shrink=330:*&_v=20170324140004",
-        "Cate": "Case"
-    },
-    {
-        "name": "AMAQUEST F4514B",
-        "brand": "AMAQUEST",
-        "spec": [
-            "랙마운트",
-            "랙마운트(4U)",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총3개",
-            "후면: 80mm x2",
-            "전면: 120mm x1",
-            "너비(W): 420mm",
-            "높이(H): 176mm",
-            "깊이(D): 450mm",
-            "파워 위치: 후면",
-            "GPU 장착: 270mm"
-        ],
-        "color_text": "",
-        "price": "134000",
-        "img": "//img.danawa.com/prod_img/500000/995/592/img/7592995_1.jpg?shrink=330:*&_v=20190401134207",
         "Cate": "Case"
     },
     {
@@ -37486,54 +33636,6 @@
         "Cate": "Case"
     },
     {
-        "name": "2MONS 4U D650 HD-28 워터쿨",
-        "brand": "2MONS",
-        "spec": [
-            "랙마운트",
-            "랙마운트(4U)",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "표준-ITX",
-            "쿨링팬: 총6개",
-            "전면: 120mm x3",
-            "너비(W): 430mm",
-            "높이(H): 178mm",
-            "깊이(D): 650mm",
-            "GPU 장착: 320mm",
-            "CPU쿨러 장착: 150mm"
-        ],
-        "color_text": "",
-        "price": "160000",
-        "img": "//img.danawa.com/prod_img/500000/844/264/img/25264844_1.jpg?shrink=330:*&_v=20230801145047",
-        "Cate": "Case"
-    },
-    {
-        "name": "AMAQUEST V4-590 4GPU Edition",
-        "brand": "AMAQUEST",
-        "spec": [
-            "튜닝 케이스",
-            "랙마운트(4U)",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "표준-ITX",
-            "쿨링팬: 총6개",
-            "후면: 80mm x2",
-            "너비(W): 430mm",
-            "높이(H): 180mm",
-            "깊이(D): 590mm",
-            "GPU 장착: 340mm",
-            "CPU쿨러 장착: 150mm"
-        ],
-        "color_text": "",
-        "price": "404000",
-        "img": "//img.danawa.com/prod_img/500000/887/605/img/28605887_1.jpg?shrink=330:*&_v=20231011153918",
-        "Cate": "Case"
-    },
-    {
         "name": "COUGAR DUST2",
         "brand": "COUGAR",
         "spec": [
@@ -37580,26 +33682,6 @@
         "color_text": "",
         "price": "170000",
         "img": "//img.danawa.com/prod_img/500000/017/439/img/14439017_1.jpg?shrink=330:*&_v=20220510160620",
-        "Cate": "Case"
-    },
-    {
-        "name": "AMAQUEST K230B Light",
-        "brand": "AMAQUEST",
-        "spec": [
-            "랙마운트",
-            "랙마운트(2U)",
-            "파워미포함",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총2개",
-            "전면: 80mm x2",
-            "너비(W): 430mm",
-            "높이(H): 88mm",
-            "깊이(D): 300mm"
-        ],
-        "color_text": "",
-        "price": "51350",
-        "img": "//img.danawa.com/prod_img/500000/987/755/img/18755987_1.jpg?shrink=330:*&_v=20230113170313",
         "Cate": "Case"
     },
     {
@@ -37677,26 +33759,6 @@
         "Cate": "Case"
     },
     {
-        "name": "AMAQUEST K238F 2U 랙마운트",
-        "brand": "AMAQUEST",
-        "spec": [
-            "랙마운트",
-            "랙마운트(2U)",
-            "파워미포함",
-            "Micro-ATX",
-            "표준-ITX",
-            "전면: 80mm x 2",
-            "너비(W): 430mm",
-            "높이(H): 88mm",
-            "깊이(D): 390mm",
-            "파워 위치: 하단후면"
-        ],
-        "color_text": "",
-        "price": "73000",
-        "img": "//img.danawa.com/prod_img/500000/487/855/img/2855487_1.jpg?shrink=330:*&_v=20191231100449",
-        "Cate": "Case"
-    },
-    {
         "name": "ANIX S616LP",
         "brand": "ANIX",
         "spec": [
@@ -37717,26 +33779,6 @@
         "color_text": "",
         "price": "32200",
         "img": "//img.danawa.com/prod_img/500000/651/437/img/15437651_1.jpg?shrink=330:*&_v=20211014165545",
-        "Cate": "Case"
-    },
-    {
-        "name": "AMAQUEST 2U 랙마운트 AMH2055 Hot-Swap",
-        "brand": "AMAQUEST",
-        "spec": [
-            "랙마운트",
-            "랙마운트(2U)",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "쿨링팬: 총4개",
-            "너비(W): 430mm",
-            "높이(H): 85mm",
-            "깊이(D): 550mm",
-            "파워 위치: 상단전면"
-        ],
-        "color_text": "",
-        "price": "255000",
-        "img": "//img.danawa.com/prod_img/500000/544/622/img/4622544_1.jpg?shrink=330:*&_v=20161104085102",
         "Cate": "Case"
     },
     {
@@ -37826,42 +33868,6 @@
         "Cate": "Case"
     },
     {
-        "name": "투렉스 TESTBER PCI",
-        "brand": "투렉스",
-        "spec": [
-            "튜닝 케이스",
-            "데스크탑",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "너비(W): 221mm~",
-            "높이(H): 270mm",
-            "깊이(D): 250mm"
-        ],
-        "color_text": "블랙",
-        "price": "92650",
-        "img": "//img.danawa.com/prod_img/500000/446/636/img/636446_1.jpg?shrink=330:*&_v=20230313100150",
-        "Cate": "Case"
-    },
-    {
-        "name": "투렉스 TESTBER PCI",
-        "brand": "투렉스",
-        "spec": [
-            "튜닝 케이스",
-            "데스크탑",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "너비(W): 221mm~",
-            "높이(H): 270mm",
-            "깊이(D): 250mm"
-        ],
-        "color_text": "투명",
-        "price": "92650",
-        "img": "//img.danawa.com/prod_img/500000/446/636/img/636446_1.jpg?shrink=330:*&_v=20230313100150",
-        "Cate": "Case"
-    },
-    {
         "name": "피닉스CNS 지니어스 M-707",
         "brand": "피닉스CNS",
         "spec": [
@@ -37882,50 +33888,6 @@
         "color_text": "",
         "price": "19490",
         "img": "//img.danawa.com/prod_img/500000/444/000/img/17000444_1.jpg?shrink=330:*&_v=20220509125548",
-        "Cate": "Case"
-    },
-    {
-        "name": "선경씨앤씨 RPC-480",
-        "brand": "선경씨앤씨",
-        "spec": [
-            "랙마운트",
-            "랙마운트(4U)",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "쿨링팬: 총3개",
-            "후면: 80mm x2",
-            "전면: 120mm x1",
-            "너비(W): 430mm",
-            "높이(H): 177mm",
-            "깊이(D): 535mm",
-            "파워 위치: 하단후면"
-        ],
-        "color_text": "BLACK",
-        "price": "87720",
-        "img": "//img.danawa.com/prod_img/500000/213/354/img/9354213_1.jpg?shrink=330:*&_v=20190919114023",
-        "Cate": "Case"
-    },
-    {
-        "name": "선경씨앤씨 RPC-480",
-        "brand": "선경씨앤씨",
-        "spec": [
-            "랙마운트",
-            "랙마운트(4U)",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "쿨링팬: 총3개",
-            "후면: 80mm x2",
-            "전면: 120mm x1",
-            "너비(W): 430mm",
-            "높이(H): 177mm",
-            "깊이(D): 535mm",
-            "파워 위치: 하단후면"
-        ],
-        "color_text": "WHITE",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/213/354/img/9354213_1.jpg?shrink=330:*&_v=20190919114023",
         "Cate": "Case"
     },
     {
@@ -37952,92 +33914,6 @@
         "color_text": "",
         "price": "21210",
         "img": "//img.danawa.com/prod_img/500000/510/000/img/17000510_1.jpg?shrink=330:*&_v=20220513152442",
-        "Cate": "Case"
-    },
-    {
-        "name": "ALPHACOOL SERVERRACK ES 4U 19형",
-        "brand": "ALPHACOOL",
-        "spec": [
-            "랙마운트",
-            "랙마운트(4U)",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "Flex-ATX",
-            "표준-ITX",
-            "Mini-ITX",
-            "SSI-EEB",
-            "너비(W): 478.5mm",
-            "높이(H): 177.8mm",
-            "깊이(D): 736.95mm"
-        ],
-        "color_text": "",
-        "price": "530710",
-        "img": "//img.danawa.com/prod_img/500000/638/503/img/16503638_1.jpg?shrink=330:*&_v=20220510160627",
-        "Cate": "Case"
-    },
-    {
-        "name": "인네트워크 IN-N3750G 전면 거치 선반",
-        "brand": "인네트워크",
-        "spec": [
-            "H300~H750 허브랙 전용"
-        ],
-        "color_text": "",
-        "price": "14900",
-        "img": "//img.danawa.com/prod_img/500000/805/392/img/29392805_1.jpg?shrink=330:*&_v=20231027093400",
-        "Cate": "Case"
-    },
-    {
-        "name": "COUGAR CONQUER 2",
-        "brand": "COUGAR",
-        "spec": [
-            "튜닝 케이스",
-            "빅타워",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "수직 PCI형태: 기본형",
-            "쿨링팬: 총1개",
-            "LED팬: 1개",
-            "측면: 강화유리",
-            "전면: 120mm LED x1",
-            "너비(W): 368mm",
-            "높이(H): 631mm",
-            "깊이(D): 744mm",
-            "파워 장착: 220mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 400mm",
-            "CPU쿨러 장착: 135mm",
-            "외부 LED",
-            "LED 색상: RGB"
-        ],
-        "color_text": "",
-        "price": "559000",
-        "img": "//img.danawa.com/prod_img/500000/413/354/img/10354413_1.jpg?shrink=330:*&_v=20200911100011",
-        "Cate": "Case"
-    },
-    {
-        "name": "AMAQUEST AM-480H15 4U 랙마운트",
-        "brand": "AMAQUEST",
-        "spec": [
-            "랙마운트",
-            "랙마운트(4U)",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총6개",
-            "후면: 80mm x2",
-            "전면: 80mm x4",
-            "너비(W): 430mm",
-            "높이(H): 177mm",
-            "깊이(D): 480mm"
-        ],
-        "color_text": "",
-        "price": "141480",
-        "img": "//img.danawa.com/prod_img/500000/528/671/img/5671528_1.jpg?shrink=330:*&_v=20171123161203",
         "Cate": "Case"
     },
     {
@@ -38200,32 +34076,6 @@
         "color_text": "SILVER",
         "price": "40110",
         "img": "//img.danawa.com/prod_img/500000/157/091/img/8091157_1.jpg?shrink=330:*&_v=20190919103820",
-        "Cate": "Case"
-    },
-    {
-        "name": "COUGAR CONQUER",
-        "brand": "COUGAR",
-        "spec": [
-            "튜닝 케이스",
-            "미들타워",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총3개",
-            "측면: 강화유리",
-            "상단: 120mm LED x 3",
-            "너비(W): 255mm",
-            "높이(H): 580mm",
-            "깊이(D): 685mm",
-            "파워 장착: 최대 220mm",
-            "파워 위치: 하단전면",
-            "GPU 장착: 최대 350mm",
-            "CPU쿨러 장착: 최대 190mm"
-        ],
-        "color_text": "ORANGE",
-        "price": "454660",
-        "img": "//img.danawa.com/prod_img/500000/789/288/img/5288789_1.jpg?shrink=330:*&_v=20200911094738",
         "Cate": "Case"
     },
     {
@@ -38424,54 +34274,6 @@
         "Cate": "Case"
     },
     {
-        "name": "PB이노베이션 GENIIUM LANPARTY PBC08",
-        "brand": "PB이노베이션",
-        "spec": [
-            "튜닝 케이스",
-            "미들타워",
-            "파워미포함",
-            "Micro-ATX",
-            "Mini-ITX",
-            "측면: 강화유리",
-            "너비(W): 232mm",
-            "높이(H): 500mm",
-            "깊이(D): 532mm",
-            "파워 장착: 180mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 300mm",
-            "CPU쿨러 장착: 170mm"
-        ],
-        "color_text": "BR",
-        "price": "92650",
-        "img": "//img.danawa.com/prod_img/500000/866/477/img/10477866_1.jpg?shrink=330:*&_v=20201013160649",
-        "Cate": "Case"
-    },
-    {
-        "name": "2MONS 5U LCD D500 워터쿨 2psu",
-        "brand": "2MONS",
-        "spec": [
-            "랙마운트",
-            "랙마운트(5U)",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "표준-ITX",
-            "쿨링팬: 총2개",
-            "전면 패널 타입: 메쉬",
-            "전면: 120mm x2",
-            "너비(W): 430mm",
-            "높이(H): 222mm",
-            "깊이(D): 500mm",
-            "GPU 장착: 420mm",
-            "CPU쿨러 장착: 190mm"
-        ],
-        "color_text": "",
-        "price": "365000",
-        "img": "//img.danawa.com/prod_img/500000/268/757/img/27757268_1.jpg?shrink=330:*&_v=20230824111935",
-        "Cate": "Case"
-    },
-    {
         "name": "CHENBRO PC61739",
         "brand": "CHENBRO",
         "spec": [
@@ -38492,52 +34294,6 @@
         "color_text": "",
         "price": "109780",
         "img": "//img.danawa.com/prod_img/500000/621/438/img/14438621_1.jpg?shrink=330:*&_v=20210610170033",
-        "Cate": "Case"
-    },
-    {
-        "name": "AMAQUEST AM 204N 2U 랙마운트",
-        "brand": "AMAQUEST",
-        "spec": [
-            "랙마운트",
-            "랙마운트(2U)",
-            "파워미포함",
-            "Micro-ATX",
-            "Mini-ITX",
-            "전면: 80mm x 2",
-            "너비(W): 482mm",
-            "높이(H): 87mm",
-            "깊이(D): 400mm",
-            "파워 위치: 하단후면"
-        ],
-        "color_text": "",
-        "price": "96000",
-        "img": "//img.danawa.com/prod_img/500000/632/661/img/3661632_1.jpg?shrink=330:*&_v=20160719091319",
-        "Cate": "Case"
-    },
-    {
-        "name": "AMAQUEST AM-650H15 4U 랙마운트",
-        "brand": "AMAQUEST",
-        "spec": [
-            "랙마운트",
-            "랙마운트(4U) ",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총9개",
-            "후면: 80mm x2",
-            "전면: 80mm x4",
-            "너비(W): 430mm",
-            "높이(H): 176mm",
-            "깊이(D): 650mm",
-            "파워 위치: 후면상단",
-            "GPU 장착: 340mm",
-            "CPU쿨러 장착: 150mm"
-        ],
-        "color_text": "",
-        "price": "152000",
-        "img": "//img.danawa.com/prod_img/500000/196/531/img/13531196_1.jpg?shrink=330:*&_v=20210426162309",
         "Cate": "Case"
     },
     {
@@ -38589,75 +34345,6 @@
         "Cate": "Case"
     },
     {
-        "name": "써멀테이크 AH T200 MICRO",
-        "brand": "써멀테이크",
-        "spec": [
-            "튜닝 케이스",
-            "미들타워",
-            "파워미포함",
-            "Micro-ATX",
-            "Mini-ITX",
-            "측면: 강화유리",
-            "너비(W): 282mm",
-            "높이(H): 551.5mm",
-            "깊이(D): 444.2mm",
-            "파워 장착: 150mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 320mm",
-            "CPU쿨러 장착: 150mm"
-        ],
-        "color_text": "Black",
-        "price": "193340",
-        "img": "//img.danawa.com/prod_img/500000/922/243/img/13243922_1.jpg?shrink=330:*&_v=20210129142604",
-        "Cate": "Case"
-    },
-    {
-        "name": "써멀테이크 AH T200 MICRO",
-        "brand": "써멀테이크",
-        "spec": [
-            "튜닝 케이스",
-            "미들타워",
-            "파워미포함",
-            "Micro-ATX",
-            "Mini-ITX",
-            "측면: 강화유리",
-            "너비(W): 282mm",
-            "높이(H): 551.5mm",
-            "깊이(D): 444.2mm",
-            "파워 장착: 150mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 320mm",
-            "CPU쿨러 장착: 150mm"
-        ],
-        "color_text": "Pink",
-        "price": "246000",
-        "img": "//img.danawa.com/prod_img/500000/922/243/img/13243922_1.jpg?shrink=330:*&_v=20210129142604",
-        "Cate": "Case"
-    },
-    {
-        "name": "써멀테이크 AH T200 MICRO",
-        "brand": "써멀테이크",
-        "spec": [
-            "튜닝 케이스",
-            "미들타워",
-            "파워미포함",
-            "Micro-ATX",
-            "Mini-ITX",
-            "측면: 강화유리",
-            "너비(W): 282mm",
-            "높이(H): 551.5mm",
-            "깊이(D): 444.2mm",
-            "파워 장착: 150mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 320mm",
-            "CPU쿨러 장착: 150mm"
-        ],
-        "color_text": "Snow",
-        "price": "198000",
-        "img": "//img.danawa.com/prod_img/500000/922/243/img/13243922_1.jpg?shrink=330:*&_v=20210129142604",
-        "Cate": "Case"
-    },
-    {
         "name": "리안리 PC-O12WX",
         "brand": "리안리",
         "spec": [
@@ -38684,30 +34371,6 @@
         "Cate": "Case"
     },
     {
-        "name": "AMAQUEST K500-4GPU Smart USB3.0",
-        "brand": "AMAQUEST",
-        "spec": [
-            "랙마운트",
-            "랙마운트(4U)",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총5개",
-            "후면: 60mm x2",
-            "전면: 120mm x3",
-            "너비(W): 430mm",
-            "높이(H): 180mm",
-            "깊이(D): 500mm",
-            "GPU 장착: 420mm"
-        ],
-        "color_text": "",
-        "price": "129000",
-        "img": "//img.danawa.com/prod_img/500000/299/597/img/12597299_1.jpg?shrink=330:*&_v=20201103125316",
-        "Cate": "Case"
-    },
-    {
         "name": "DAMONCOM DM-23 USB 3.0 (SK-II M500DM)",
         "brand": "DAMONCOM",
         "spec": [
@@ -38727,25 +34390,6 @@
         "color_text": "",
         "price": "57950",
         "img": "//img.danawa.com/prod_img/500000/809/581/img/3581809_1.jpg?shrink=330:*&_v=20170324134341",
-        "Cate": "Case"
-    },
-    {
-        "name": "투렉스 SEUM v1.0 아크릴",
-        "brand": "투렉스",
-        "spec": [
-            "튜닝 케이스",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "측면: 아크릴",
-            "너비(W): 165mm",
-            "높이(H): 458mm",
-            "깊이(D): 345mm"
-        ],
-        "color_text": "",
-        "price": "34880",
-        "img": "//img.danawa.com/prod_img/500000/747/657/img/7657747_1.jpg?shrink=330:*&_v=20230313100104",
         "Cate": "Case"
     },
     {
@@ -38909,48 +34553,6 @@
         "Cate": "Case"
     },
     {
-        "name": "AMAQUEST K338F 3U 랙마운트",
-        "brand": "AMAQUEST",
-        "spec": [
-            "랙마운트",
-            "랙마운트(3U)",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "후면: 60mm x 2",
-            "전면: 80mm x 2",
-            "너비(W): 427mm",
-            "높이(H): 132mm",
-            "깊이(D): 390mm",
-            "파워 위치: 하단후면"
-        ],
-        "color_text": "",
-        "price": "77000",
-        "img": "//img.danawa.com/prod_img/500000/634/855/img/2855634_1.jpg?shrink=330:*&_v=20200226144628",
-        "Cate": "Case"
-    },
-    {
-        "name": "AMAQUEST F4514 4U 랙마운트",
-        "brand": "AMAQUEST",
-        "spec": [
-            "랙마운트",
-            "랙마운트(4U)",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "전면: 120mm",
-            "너비(W): 221mm~",
-            "높이(H): 175mm",
-            "깊이(D): 470mm",
-            "파워 위치: 기타"
-        ],
-        "color_text": "",
-        "price": "129460",
-        "img": "//img.danawa.com/prod_img/500000/238/141/img/1141238_1.jpg?shrink=330:*&_v=20191231100334",
-        "Cate": "Case"
-    },
-    {
         "name": "오존컴퍼니 마이크로박스 ITX ALU USB3.0 알루미늄 케이스",
         "brand": "오존컴퍼니",
         "spec": [
@@ -38963,51 +34565,6 @@
         "color_text": "",
         "price": "42000",
         "img": "//img.danawa.com/prod_img/500000/757/435/img/16435757_1.jpg?shrink=330:*&_v=20220218160119",
-        "Cate": "Case"
-    },
-    {
-        "name": "COUGAR BLAZER",
-        "brand": "COUGAR",
-        "spec": [
-            "튜닝 케이스",
-            "미들타워",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "측면: 강화유리",
-            "너비(W): 226mm",
-            "높이(H): 535mm",
-            "깊이(D): 560mm",
-            "파워 장착: 180mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 350mm",
-            "CPU쿨러 장착: 160mm"
-        ],
-        "color_text": "",
-        "price": "228000",
-        "img": "//img.danawa.com/prod_img/500000/479/209/img/11209479_1.jpg?shrink=330:*&_v=20200911095859",
-        "Cate": "Case"
-    },
-    {
-        "name": "AMAQUEST WG3812 2U 랙마운트",
-        "brand": "AMAQUEST",
-        "spec": [
-            "랙마운트",
-            "랙마운트(2U)",
-            "파워미포함",
-            "Micro-ATX",
-            "Mini-ITX",
-            "전면: 60mm x 2",
-            "너비(W): 420mm",
-            "높이(H): 88mm",
-            "깊이(D): 400mm",
-            "파워 위치: 기타",
-            "GPU 장착: 최대 240mm"
-        ],
-        "color_text": "",
-        "price": "149000",
-        "img": "//img.danawa.com/prod_img/500000/489/888/img/3888489_1.jpg?shrink=330:*&_v=20200121133717",
         "Cate": "Case"
     },
     {
@@ -39034,25 +34591,6 @@
         "color_text": "",
         "price": "98000",
         "img": "//img.danawa.com/prod_img/500000/930/516/img/6516930_1.jpg?shrink=330:*&_v=20200722173250",
-        "Cate": "Case"
-    },
-    {
-        "name": "AMAQUEST X3813 3U 랙마운트",
-        "brand": "AMAQUEST",
-        "spec": [
-            "랙마운트",
-            "랙마운트(3U)",
-            "파워미포함",
-            "표준-ATX",
-            "전면: 80mm x2",
-            "너비(W): 221mm~",
-            "높이(H): 130mm",
-            "깊이(D): 380mm",
-            "파워 위치: 기타"
-        ],
-        "color_text": "",
-        "price": "121000",
-        "img": "//img.danawa.com/prod_img/500000/575/196/img/2196575_1.jpg?shrink=330:*&_v=20200226145906",
         "Cate": "Case"
     },
     {
@@ -39147,44 +34685,6 @@
         "color_text": "",
         "price": "36000",
         "img": "//img.danawa.com/prod_img/500000/808/785/img/4785808_1.jpg?shrink=330:*&_v=20170425153214",
-        "Cate": "Case"
-    },
-    {
-        "name": "투렉스 DOMA-F1",
-        "brand": "투렉스",
-        "spec": [
-            "튜닝 케이스",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "너비(W): 510mm",
-            "높이(H): 113mm",
-            "깊이(D): 285mm",
-            "파워 위치: 기타"
-        ],
-        "color_text": "",
-        "price": "29000",
-        "img": "//img.danawa.com/prod_img/500000/907/278/img/6278907_1.jpg?shrink=330:*&_v=20230313095958",
-        "Cate": "Case"
-    },
-    {
-        "name": "씨넥스존 ZACR ICS-338B 3U 랙마운트",
-        "brand": "씨넥스존",
-        "spec": [
-            "랙마운트",
-            "랙마운트(3U)",
-            "파워미포함",
-            "표준-ATX",
-            "전면: 80mm x2",
-            "너비(W): 221mm~",
-            "높이(H): 132mm",
-            "깊이(D): 430mm",
-            "파워 위치: 기타"
-        ],
-        "color_text": "",
-        "price": "162650",
-        "img": "//img.danawa.com/prod_img/500000/157/097/img/1097157_1.jpg?shrink=330:*&_v=20191216160401",
         "Cate": "Case"
     },
     {
@@ -39300,50 +34800,6 @@
         "Cate": "Case"
     },
     {
-        "name": "투렉스 DIY PERFECT 1.0",
-        "brand": "투렉스",
-        "spec": [
-            "튜닝 케이스",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "너비(W): 340mm",
-            "높이(H): 188mm",
-            "깊이(D): 272mm",
-            "GPU 장착: 400~mm",
-            "CPU쿨러 장착: 200mm 이상",
-            "전원 스위치 제공",
-            "아크릴 커버 별도 구매"
-        ],
-        "color_text": "투명",
-        "price": "48000",
-        "img": "//img.danawa.com/prod_img/500000/665/744/img/18744665_1.jpg?shrink=330:*&_v=20230313095605",
-        "Cate": "Case"
-    },
-    {
-        "name": "투렉스 DIY PERFECT 1.0",
-        "brand": "투렉스",
-        "spec": [
-            "튜닝 케이스",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "너비(W): 340mm",
-            "높이(H): 188mm",
-            "깊이(D): 272mm",
-            "GPU 장착: 400~mm",
-            "CPU쿨러 장착: 200mm 이상",
-            "전원 스위치 제공",
-            "아크릴 커버 별도 구매"
-        ],
-        "color_text": "블랙",
-        "price": "48000",
-        "img": "//img.danawa.com/prod_img/500000/665/744/img/18744665_1.jpg?shrink=330:*&_v=20230313095605",
-        "Cate": "Case"
-    },
-    {
         "name": "써멀테이크 DIVIDER 170 ARGB TG",
         "brand": "써멀테이크",
         "spec": [
@@ -39397,105 +34853,6 @@
         "color_text": "Snow",
         "price": "103720",
         "img": "//img.danawa.com/prod_img/500000/362/334/img/17334362_1.jpg?shrink=330:*&_v=20220628112021",
-        "Cate": "Case"
-    },
-    {
-        "name": "AMAQUEST AMH-4400 (8bay Hot-swap) 4U 랙마운트",
-        "brand": "AMAQUEST",
-        "spec": [
-            "랙마운트",
-            "랙마운트(4U)",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "후면: 80mm",
-            "너비(W): 434mm",
-            "높이(H): 400mm",
-            "깊이(D): 175mm",
-            "파워 위치: 상단"
-        ],
-        "color_text": "",
-        "price": "196000",
-        "img": "//img.danawa.com/prod_img/500000/046/171/img/4171046_1.jpg?shrink=330:*&_v=20210310091047",
-        "Cate": "Case"
-    },
-    {
-        "name": "이아이인터내셔널 Mechanic Flex RGB 강화유리",
-        "brand": "이아이인터내셔널",
-        "spec": [
-            "튜닝 케이스",
-            "미들타워",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "쿨링팬: 총8개",
-            "LED팬: 8개",
-            "측면: 강화유리",
-            "후면: 120mm LED x2",
-            "전면: 120mm LED x3",
-            "상단: 120mm LED x3",
-            "파워 위치: 하단후면",
-            "GPU 장착: 330mm",
-            "CPU쿨러 장착: 160mm",
-            "외부 LED",
-            "LED 색상: RGB"
-        ],
-        "color_text": "블랙",
-        "price": "220000",
-        "img": "//img.danawa.com/prod_img/500000/420/329/img/12329420_1.jpg?shrink=330:*&_v=20200925142301",
-        "Cate": "Case"
-    },
-    {
-        "name": "이아이인터내셔널 Mechanic Flex RGB 강화유리",
-        "brand": "이아이인터내셔널",
-        "spec": [
-            "튜닝 케이스",
-            "미들타워",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "쿨링팬: 총8개",
-            "LED팬: 8개",
-            "측면: 강화유리",
-            "후면: 120mm LED x2",
-            "전면: 120mm LED x3",
-            "상단: 120mm LED x3",
-            "파워 위치: 하단후면",
-            "GPU 장착: 330mm",
-            "CPU쿨러 장착: 160mm",
-            "외부 LED",
-            "LED 색상: RGB"
-        ],
-        "color_text": "핑크",
-        "price": "220000",
-        "img": "//img.danawa.com/prod_img/500000/420/329/img/12329420_1.jpg?shrink=330:*&_v=20200925142301",
-        "Cate": "Case"
-    },
-    {
-        "name": "이아이인터내셔널 Mechanic Flex RGB 강화유리",
-        "brand": "이아이인터내셔널",
-        "spec": [
-            "튜닝 케이스",
-            "미들타워",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "쿨링팬: 총8개",
-            "LED팬: 8개",
-            "측면: 강화유리",
-            "후면: 120mm LED x2",
-            "전면: 120mm LED x3",
-            "상단: 120mm LED x3",
-            "파워 위치: 하단후면",
-            "GPU 장착: 330mm",
-            "CPU쿨러 장착: 160mm",
-            "외부 LED",
-            "LED 색상: RGB"
-        ],
-        "color_text": "화이트",
-        "price": "251000",
-        "img": "//img.danawa.com/prod_img/500000/420/329/img/12329420_1.jpg?shrink=330:*&_v=20200925142301",
         "Cate": "Case"
     },
     {
@@ -39807,46 +35164,6 @@
         "Cate": "Case"
     },
     {
-        "name": "AMAQUEST K255F 2U 랙마운트",
-        "brand": "AMAQUEST",
-        "spec": [
-            "랙마운트",
-            "랙마운트(2U)",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "너비(W): 426mm",
-            "높이(H): 86mm",
-            "깊이(D): 550mm",
-            "파워 위치: 하단전면"
-        ],
-        "color_text": "",
-        "price": "85000",
-        "img": "//img.danawa.com/prod_img/500000/841/170/img/4170841_1.jpg?shrink=330:*&_v=20160725135520",
-        "Cate": "Case"
-    },
-    {
-        "name": "영재컴퓨터 YJMOD DEVILRAY 6U 서버",
-        "brand": "영재컴퓨터",
-        "spec": [
-            "랙마운트",
-            "랙마운트(6U)",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "표준-ITX",
-            "너비(W): 430mm",
-            "깊이(D): 830mm",
-            "CPU쿨러 장착: 240mm"
-        ],
-        "color_text": "",
-        "price": "가격비교예정",
-        "img": "//img.danawa.com/prod_img/500000/037/764/img/29764037_1.jpg?shrink=330:*&_v=20231106080821",
-        "Cate": "Case"
-    },
-    {
         "name": "써멀테이크 Versa T27 TG ARGB",
         "brand": "써멀테이크",
         "spec": [
@@ -39930,29 +35247,6 @@
         "Cate": "Case"
     },
     {
-        "name": "AMAQUEST AM-4000D (12X13) 4U 랙마운트",
-        "brand": "AMAQUEST",
-        "spec": [
-            "랙마운트",
-            "랙마운트(4U)",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "후면: 80mm",
-            "전면: 120mm x 2",
-            "너비(W): 434mm",
-            "높이(H): 175mm",
-            "깊이(D): 400mm",
-            "파워 위치: 상단"
-        ],
-        "color_text": "",
-        "price": "140000",
-        "img": "//img.danawa.com/prod_img/500000/281/171/img/4171281_1.jpg?shrink=330:*&_v=20200226144839",
-        "Cate": "Case"
-    },
-    {
         "name": "써멀테이크 DIVIDER 370 ARGB TG",
         "brand": "써멀테이크",
         "spec": [
@@ -40017,27 +35311,6 @@
         "Cate": "Case"
     },
     {
-        "name": "AMAQUEST AM 440N 4U 랙마운트",
-        "brand": "AMAQUEST",
-        "spec": [
-            "랙마운트",
-            "랙마운트(4U)",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "후면: 80mm",
-            "너비(W): 482mm",
-            "높이(H): 175mm",
-            "깊이(D): 400mm",
-            "파워 위치: 하단후면"
-        ],
-        "color_text": "",
-        "price": "125000",
-        "img": "//img.danawa.com/prod_img/500000/666/661/img/3661666_1.jpg?shrink=330:*&_v=20191231100050",
-        "Cate": "Case"
-    },
-    {
         "name": "오존컴퍼니 VIPER COOL MESH USB 3.0",
         "brand": "오존컴퍼니",
         "spec": [
@@ -40084,75 +35357,6 @@
         "color_text": "",
         "price": "298000",
         "img": "//img.danawa.com/prod_img/500000/593/527/img/6527593_1.jpg?shrink=330:*&_v=20200722173429",
-        "Cate": "Case"
-    },
-    {
-        "name": "씨넥스존 ZACR ICS-266B 2U 랙마운트",
-        "brand": "씨넥스존",
-        "spec": [
-            "랙마운트",
-            "랙마운트(2U)",
-            "파워미포함",
-            "Extended-ATX",
-            "전면: 80mm x4, 중앙",
-            "너비(W): 480mm",
-            "높이(H): 88.8mm",
-            "깊이(D): 710mm",
-            "파워 위치: 기타"
-        ],
-        "color_text": "",
-        "price": "137980",
-        "img": "//img.danawa.com/prod_img/500000/118/097/img/1097118_1.jpg?shrink=330:*&_v=20191216160454",
-        "Cate": "Case"
-    },
-    {
-        "name": "써멀테이크 Core P3 TG PRO",
-        "brand": "써멀테이크",
-        "spec": [
-            "튜닝 케이스",
-            "빅타워",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "수직 PCI형태: 슬롯변경형",
-            "측면: 강화유리",
-            "너비(W): 268mm",
-            "높이(H): 535mm",
-            "깊이(D): 500mm",
-            "파워 장착: 200mm",
-            "GPU 장착: 330~450mm",
-            "CPU쿨러 장착: 180mm"
-        ],
-        "color_text": "BLACK",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/062/372/img/18372062_1.jpg?shrink=330:*&_v=20230313095302",
-        "Cate": "Case"
-    },
-    {
-        "name": "써멀테이크 Core P3 TG PRO",
-        "brand": "써멀테이크",
-        "spec": [
-            "튜닝 케이스",
-            "빅타워",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "수직 PCI형태: 슬롯변경형",
-            "측면: 강화유리",
-            "너비(W): 268mm",
-            "높이(H): 535mm",
-            "깊이(D): 500mm",
-            "파워 장착: 200mm",
-            "GPU 장착: 330~450mm",
-            "CPU쿨러 장착: 180mm"
-        ],
-        "color_text": "SNOW",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/062/372/img/18372062_1.jpg?shrink=330:*&_v=20230313095302",
         "Cate": "Case"
     },
     {
@@ -40482,32 +35686,6 @@
         "Cate": "Case"
     },
     {
-        "name": "써멀테이크 DistroCase 350P",
-        "brand": "써멀테이크",
-        "spec": [
-            "튜닝 케이스",
-            "빅타워",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "측면: 강화유리",
-            "너비(W): 333mm",
-            "높이(H): 567mm",
-            "깊이(D): 490mm",
-            "파워 장착: 200mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 320mm",
-            "CPU쿨러 장착: 130mm",
-            "외부 LED",
-            "LED 색상: ARGB"
-        ],
-        "color_text": "",
-        "price": "770000",
-        "img": "//img.danawa.com/prod_img/500000/735/151/img/13151735_1.jpg?shrink=330:*&_v=20230313095619",
-        "Cate": "Case"
-    },
-    {
         "name": "RAIDMAX 아구스타AX",
         "brand": "RAIDMAX",
         "spec": [
@@ -40612,62 +35790,6 @@
         "Cate": "Case"
     },
     {
-        "name": "투렉스 DOMA SKILL S RACK",
-        "brand": "투렉스",
-        "spec": [
-            "튜닝 케이스",
-            "표준-ATX",
-            "Micro-ATX",
-            "표준-ITX",
-            "너비(W): 500mm",
-            "높이(H): 200mm",
-            "깊이(D): 395mm"
-        ],
-        "color_text": "",
-        "price": "58500",
-        "img": "//img.danawa.com/prod_img/500000/464/483/img/27483464_1.jpg?shrink=330:*&_v=20230808155658",
-        "Cate": "Case"
-    },
-    {
-        "name": "씨넥스존 ZACR ICS-448B 4U 랙마운트",
-        "brand": "씨넥스존",
-        "spec": [
-            "랙마운트",
-            "랙마운트(4U)",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "전면: 120mm",
-            "너비(W): 221mm~",
-            "높이(H): 177mm",
-            "깊이(D): 450mm",
-            "파워 위치: 기타"
-        ],
-        "color_text": "",
-        "price": "129000",
-        "img": "//img.danawa.com/prod_img/500000/629/755/img/2755629_1.jpg?shrink=330:*&_v=20191216160755",
-        "Cate": "Case"
-    },
-    {
-        "name": "IN WIN IW-R300",
-        "brand": "IN",
-        "spec": [
-            "랙마운트",
-            "랙마운트(3U)",
-            "파워미포함",
-            "표준-ATX",
-            "전면: 80mm",
-            "너비(W): 482.6mm",
-            "높이(H): 133.4mm",
-            "깊이(D): 482.6mm",
-            "파워 위치: 하단후면"
-        ],
-        "color_text": "",
-        "price": "160591",
-        "img": "//img.danawa.com/prod_img/500000/735/186/img/2186735_1.jpg?shrink=330:*&_v=20160421133648",
-        "Cate": "Case"
-    },
-    {
         "name": "유한하이테크 YH-133S",
         "brand": "유한하이테크",
         "spec": [
@@ -40766,121 +35888,6 @@
         "Cate": "Case"
     },
     {
-        "name": "투렉스 DIY4.5CV 몬스터",
-        "brand": "투렉스",
-        "spec": [
-            "튜닝 케이스",
-            "데스크탑",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "너비(W): 221mm~",
-            "높이(H): 365mm",
-            "깊이(D): 270mm"
-        ],
-        "color_text": "블랙",
-        "price": "83930",
-        "img": "//img.danawa.com/prod_img/large/group_832/416018_1.jpg?shrink=330:*&_v=20190925163936",
-        "Cate": "Case"
-    },
-    {
-        "name": "투렉스 DIY4.5CV 몬스터",
-        "brand": "투렉스",
-        "spec": [
-            "튜닝 케이스",
-            "데스크탑",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "너비(W): 221mm~",
-            "높이(H): 365mm",
-            "깊이(D): 270mm"
-        ],
-        "color_text": "투명",
-        "price": "83200",
-        "img": "//img.danawa.com/prod_img/large/group_832/416018_1.jpg?shrink=330:*&_v=20190925163936",
-        "Cate": "Case"
-    },
-    {
-        "name": "투렉스 RIMA K3 STORAGE MONSTER",
-        "brand": "투렉스",
-        "spec": [
-            "튜닝 케이스",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "표준-ITX",
-            "너비(W): 520mm",
-            "높이(H): 205mm",
-            "깊이(D): 205mm",
-            "파워 위치: 기타",
-            "파워서플라이 2개 동시 장착",
-            "120mm FAN 별도 구매",
-            "하단 CPU 쿨러 135mm 이내",
-            "3.5인치, 2.5인치 겸용 브라켓"
-        ],
-        "color_text": "",
-        "price": "61180",
-        "img": "//img.danawa.com/prod_img/500000/498/846/img/17846498_1.jpg?shrink=330:*&_v=20230313100058",
-        "Cate": "Case"
-    },
-    {
-        "name": "투렉스 RIMA K3 DUAL",
-        "brand": "투렉스",
-        "spec": [
-            "튜닝 케이스",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "표준-ITX",
-            "너비(W): 580mm",
-            "높이(H): 205mm",
-            "깊이(D): 205mm",
-            "파워 위치: 기타",
-            "메인보드, 파워서플라이 2개 동시 장착",
-            "하단 CPU 쿨러 높이 135mm 이내"
-        ],
-        "color_text": "",
-        "price": "56760",
-        "img": "//img.danawa.com/prod_img/500000/459/846/img/17846459_1.jpg?shrink=330:*&_v=20230313100053",
-        "Cate": "Case"
-    },
-    {
-        "name": "투렉스 HOMEBOX 투명",
-        "brand": "투렉스",
-        "spec": [
-            "튜닝 케이스",
-            "데스크탑",
-            "파워미포함",
-            "Micro-ATX",
-            "너비(W): 221mm~",
-            "높이(H): 200mm",
-            "깊이(D): 270mm"
-        ],
-        "color_text": "",
-        "price": "98100",
-        "img": "//img.danawa.com/prod_img/500000/992/551/img/2551992_1.jpg?shrink=330:*&_v=20140408110146",
-        "Cate": "Case"
-    },
-    {
-        "name": "투렉스 RIMA K1 ITX",
-        "brand": "투렉스",
-        "spec": [
-            "튜닝 케이스",
-            "파워미포함",
-            "표준-ITX",
-            "너비(W): 250mm",
-            "높이(H): 205mm",
-            "깊이(D): 205mm",
-            "파워 위치: 기타",
-            "CPU쿨러 장착: 135mm"
-        ],
-        "color_text": "",
-        "price": "31000",
-        "img": "//img.danawa.com/prod_img/500000/008/773/img/16773008_1.jpg?shrink=330:*&_v=20230313100026",
-        "Cate": "Case"
-    },
-    {
         "name": "RAIJINTEK OPHION 7L",
         "brand": "RAIJINTEK",
         "spec": [
@@ -40897,23 +35904,6 @@
         "color_text": "BLACK",
         "price": "119000",
         "img": "//img.danawa.com/prod_img/500000/539/068/img/13068539_1.jpg?shrink=330:*&_v=20220426164128",
-        "Cate": "Case"
-    },
-    {
-        "name": "투렉스 DOMA SKILL BASIC",
-        "brand": "투렉스",
-        "spec": [
-            "튜닝 케이스",
-            "표준-ATX",
-            "Micro-ATX",
-            "표준-ITX",
-            "너비(W): 500mm",
-            "높이(H): 159mm",
-            "깊이(D): 284mm"
-        ],
-        "color_text": "",
-        "price": "39800",
-        "img": "//img.danawa.com/prod_img/500000/164/483/img/27483164_1.jpg?shrink=330:*&_v=20230808154826",
         "Cate": "Case"
     },
     {
@@ -40986,42 +35976,6 @@
         "Cate": "Case"
     },
     {
-        "name": "IN WIN IW-RS224-02",
-        "brand": "IN",
-        "spec": [
-            "랙마운트",
-            "랙마운트(2U)",
-            "파워미포함",
-            "표준-ATX",
-            "전면: 80mm x4",
-            "너비(W): 482.6mm",
-            "높이(H): 87mm",
-            "깊이(D): 711mm",
-            "파워 위치: 기타"
-        ],
-        "color_text": "",
-        "price": "481774",
-        "img": "//img.danawa.com/prod_img/500000/370/285/img/2285370_1.jpg?shrink=330:*&_v=20160421133958",
-        "Cate": "Case"
-    },
-    {
-        "name": "투렉스 DOMA SKILL TOP COVER & WATER COOLER",
-        "brand": "투렉스",
-        "spec": [
-            "튜닝 케이스",
-            "표준-ATX",
-            "Micro-ATX",
-            "표준-ITX",
-            "너비(W): 582mm",
-            "높이(H): 199~239mm",
-            "깊이(D): 284mm"
-        ],
-        "color_text": "",
-        "price": "69500",
-        "img": "//img.danawa.com/prod_img/500000/392/483/img/27483392_1.jpg?shrink=330:*&_v=20230808155504",
-        "Cate": "Case"
-    },
-    {
         "name": "DAMONCOM DM-7 LP USB 3.0",
         "brand": "DAMONCOM",
         "spec": [
@@ -41063,48 +36017,6 @@
         "color_text": "",
         "price": "77800",
         "img": "//img.danawa.com/prod_img/500000/842/929/img/2929842_1.jpg?shrink=330:*&_v=20210407091422",
-        "Cate": "Case"
-    },
-    {
-        "name": "투렉스 SEUM Angle V6",
-        "brand": "투렉스",
-        "spec": [
-            "튜닝 케이스",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "너비(W): 222mm",
-            "높이(H): 343mm",
-            "깊이(D): 307mm",
-            "GPU 장착: 400~mm",
-            "CPU쿨러 장착: 200mm 이상",
-            "전원 스위치 제공"
-        ],
-        "color_text": "투명",
-        "price": "66000",
-        "img": "//img.danawa.com/prod_img/500000/761/744/img/18744761_1.jpg?shrink=330:*&_v=20230313100101",
-        "Cate": "Case"
-    },
-    {
-        "name": "투렉스 SEUM Angle V6",
-        "brand": "투렉스",
-        "spec": [
-            "튜닝 케이스",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "너비(W): 222mm",
-            "높이(H): 343mm",
-            "깊이(D): 307mm",
-            "GPU 장착: 400~mm",
-            "CPU쿨러 장착: 200mm 이상",
-            "전원 스위치 제공"
-        ],
-        "color_text": "블랙",
-        "price": "66000",
-        "img": "//img.danawa.com/prod_img/500000/761/744/img/18744761_1.jpg?shrink=330:*&_v=20230313100101",
         "Cate": "Case"
     },
     {
@@ -41162,24 +36074,6 @@
         "color_text": "파워 어댑터 미포함",
         "price": "47430",
         "img": "//img.danawa.com/prod_img/500000/288/350/img/2350288_1.jpg?shrink=330:*&_v=20210302152530",
-        "Cate": "Case"
-    },
-    {
-        "name": "투렉스 RIMA K1 MICRO ATX",
-        "brand": "투렉스",
-        "spec": [
-            "튜닝 케이스",
-            "파워미포함",
-            "Micro-ATX",
-            "너비(W): 280mm",
-            "높이(H): 205mm",
-            "깊이(D): 205mm",
-            "파워 위치: 기타",
-            "CPU쿨러 장착: 135mm"
-        ],
-        "color_text": "",
-        "price": "32500",
-        "img": "//img.danawa.com/prod_img/500000/927/772/img/16772927_1.jpg?shrink=330:*&_v=20230313100031",
         "Cate": "Case"
     },
     {
@@ -41256,34 +36150,6 @@
         "Cate": "Case"
     },
     {
-        "name": "투렉스 DIY 2.2",
-        "brand": "투렉스",
-        "spec": [
-            "튜닝 케이스",
-            "데스크탑",
-            "파워미포함",
-            "표준-ATX"
-        ],
-        "color_text": "블랙",
-        "price": "48480",
-        "img": "//img.danawa.com/prod_img/large/group_252/126406_1.jpg?shrink=330:*&_v=20190925164225",
-        "Cate": "Case"
-    },
-    {
-        "name": "투렉스 DIY 2.2",
-        "brand": "투렉스",
-        "spec": [
-            "튜닝 케이스",
-            "데스크탑",
-            "파워미포함",
-            "표준-ATX"
-        ],
-        "color_text": "투명",
-        "price": "49920",
-        "img": "//img.danawa.com/prod_img/large/group_252/126406_1.jpg?shrink=330:*&_v=20190925164225",
-        "Cate": "Case"
-    },
-    {
         "name": "이메이크 PG1 사울",
         "brand": "이메이크",
         "spec": [
@@ -41323,27 +36189,6 @@
         "Cate": "Case"
     },
     {
-        "name": "투렉스 DOMA-F1 BOX",
-        "brand": "투렉스",
-        "spec": [
-            "튜닝 케이스",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "너비(W): 510mm",
-            "높이(H): 268mm",
-            "깊이(D): 285mm",
-            "파워 위치: 기타",
-            "GPU 장착: 240mm",
-            "CPU쿨러 장착: 150mm"
-        ],
-        "color_text": "",
-        "price": "57040",
-        "img": "//img.danawa.com/prod_img/500000/983/278/img/6278983_1.jpg?shrink=330:*&_v=20230313100005",
-        "Cate": "Case"
-    },
-    {
         "name": "써멀테이크 Divider 200 TG Air Snow Micro",
         "brand": "써멀테이크",
         "spec": [
@@ -41367,30 +36212,6 @@
         "color_text": "",
         "price": "157000",
         "img": "//img.danawa.com/prod_img/500000/760/336/img/16336760_1.jpg?shrink=330:*&_v=20220214110527",
-        "Cate": "Case"
-    },
-    {
-        "name": "COUGAR BLAZER ESSENCE",
-        "brand": "COUGAR",
-        "spec": [
-            "튜닝 케이스",
-            "미들타워",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "측면: 강화유리",
-            "너비(W): 236mm",
-            "높이(H): 472mm",
-            "깊이(D): 528mm",
-            "파워 장착: 140mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 310mm",
-            "CPU쿨러 장착: 170mm"
-        ],
-        "color_text": "",
-        "price": "268000",
-        "img": "//img.danawa.com/prod_img/500000/916/710/img/11710916_1.jpg?shrink=330:*&_v=20210525134459",
         "Cate": "Case"
     },
     {
@@ -41420,48 +36241,6 @@
         "color_text": "",
         "price": "658000",
         "img": "//img.danawa.com/prod_img/500000/160/012/img/6012160_1.jpg?shrink=330:*&_v=20190328143308",
-        "Cate": "Case"
-    },
-    {
-        "name": "PB이노베이션 GENIIUM PBC06",
-        "brand": "PB이노베이션",
-        "spec": [
-            "튜닝 케이스",
-            "미니타워",
-            "파워미포함",
-            "Micro-ATX",
-            "Mini-ITX",
-            "측면: 강화유리",
-            "너비(W): 221mm",
-            "높이(H): 505mm",
-            "깊이(D): 410mm",
-            "GPU 장착: 300mm",
-            "CPU쿨러 장착: 160mm"
-        ],
-        "color_text": "RB",
-        "price": "177150",
-        "img": "//img.danawa.com/prod_img/500000/195/419/img/12419195_1.jpg?shrink=330:*&_v=20201013162912",
-        "Cate": "Case"
-    },
-    {
-        "name": "PB이노베이션 GENIIUM PBC06",
-        "brand": "PB이노베이션",
-        "spec": [
-            "튜닝 케이스",
-            "미니타워",
-            "파워미포함",
-            "Micro-ATX",
-            "Mini-ITX",
-            "측면: 강화유리",
-            "너비(W): 221mm",
-            "높이(H): 505mm",
-            "깊이(D): 410mm",
-            "GPU 장착: 300mm",
-            "CPU쿨러 장착: 160mm"
-        ],
-        "color_text": "RG",
-        "price": "186000",
-        "img": "//img.danawa.com/prod_img/500000/195/419/img/12419195_1.jpg?shrink=330:*&_v=20201013162912",
         "Cate": "Case"
     },
     {
@@ -41524,28 +36303,6 @@
         "Cate": "Case"
     },
     {
-        "name": "2MONS 서버 4U E-ATX D400",
-        "brand": "2MONS",
-        "spec": [
-            "랙마운트",
-            "랙마운트(4U)",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "전면: 80mm x 2",
-            "너비(W): 425mm",
-            "높이(H): 175mm",
-            "깊이(D): 390mm",
-            "파워 위치: 상단",
-            "GPU 장착: 최대 240mm"
-        ],
-        "color_text": "",
-        "price": "68000",
-        "img": "//img.danawa.com/prod_img/500000/812/184/img/4184812_1.jpg?shrink=330:*&_v=20160627134434",
-        "Cate": "Case"
-    },
-    {
         "name": "셀텍 E-K3 Mini-ITX USB 3.0 실버 120W",
         "brand": "셀텍",
         "spec": [
@@ -41585,45 +36342,6 @@
         "color_text": "120W 파워어댑터 포함",
         "price": "108000",
         "img": "//img.danawa.com/prod_img/500000/808/916/img/2916808_1.jpg?shrink=330:*&_v=20201218142010",
-        "Cate": "Case"
-    },
-    {
-        "name": "투렉스 DOMA A5 WATERCOOLER",
-        "brand": "투렉스",
-        "spec": [
-            "튜닝 케이스",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "표준-ITX",
-            "너비(W): 458mm",
-            "높이(H): 37mm",
-            "깊이(D): 284mm",
-            "파워 위치: 기타"
-        ],
-        "color_text": "",
-        "price": "46920",
-        "img": "//img.danawa.com/prod_img/500000/143/518/img/13518143_1.jpg?shrink=330:*&_v=20230313095613",
-        "Cate": "Case"
-    },
-    {
-        "name": "씨넥스존 ZACR ICS-450L 4U 랙마운트",
-        "brand": "씨넥스존",
-        "spec": [
-            "랙마운트",
-            "랙마운트(4U)",
-            "파워미포함",
-            "Extended-ATX",
-            "후면: 80mm",
-            "전면: 120mm",
-            "너비(W): 221mm~",
-            "높이(H): 177mm",
-            "깊이(D): 500mm",
-            "파워 위치: 기타"
-        ],
-        "color_text": "",
-        "price": "142000",
-        "img": "//img.danawa.com/prod_img/500000/172/097/img/1097172_1.jpg?shrink=330:*&_v=20191216160154",
         "Cate": "Case"
     },
     {
@@ -41679,105 +36397,6 @@
         "color_text": "",
         "price": "114000",
         "img": "//img.danawa.com/prod_img/500000/040/656/img/3656040_1.jpg?shrink=330:*&_v=20190404104011",
-        "Cate": "Case"
-    },
-    {
-        "name": "IN WIN IW-RS110-02",
-        "brand": "IN",
-        "spec": [
-            "랙마운트",
-            "랙마운트(1U)",
-            "파워미포함",
-            "표준-ATX",
-            "전면: 40mm x6",
-            "너비(W): 482.6mm",
-            "높이(H): 44.4mm",
-            "깊이(D): 711mm",
-            "파워 위치: 기타"
-        ],
-        "color_text": "",
-        "price": "309890",
-        "img": "//img.danawa.com/prod_img/500000/366/285/img/2285366_1.jpg?shrink=330:*&_v=20160421133906",
-        "Cate": "Case"
-    },
-    {
-        "name": "투렉스 DOMA-PRO",
-        "brand": "투렉스",
-        "spec": [
-            "튜닝 케이스",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "너비(W): 221mm~",
-            "높이(H): 64mm",
-            "깊이(D): 262mm",
-            "아크릴 케이스"
-        ],
-        "color_text": "블랙",
-        "price": "31620",
-        "img": "//img.danawa.com/prod_img/500000/458/839/img/839458_1.jpg?shrink=330:*&_v=20230313100200",
-        "Cate": "Case"
-    },
-    {
-        "name": "투렉스 DOMA-PRO",
-        "brand": "투렉스",
-        "spec": [
-            "튜닝 케이스",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "너비(W): 221mm~",
-            "높이(H): 64mm",
-            "깊이(D): 262mm",
-            "아크릴 케이스"
-        ],
-        "color_text": "투명",
-        "price": "31620",
-        "img": "//img.danawa.com/prod_img/500000/458/839/img/839458_1.jpg?shrink=330:*&_v=20230313100200",
-        "Cate": "Case"
-    },
-    {
-        "name": "투렉스 DOMA SKILL WATER COOLER",
-        "brand": "투렉스",
-        "spec": [
-            "튜닝 케이스",
-            "표준-ATX",
-            "Micro-ATX",
-            "표준-ITX",
-            "너비(W): 582mm",
-            "높이(H): 159mm",
-            "깊이(D): 284mm"
-        ],
-        "color_text": "",
-        "price": "52000",
-        "img": "//img.danawa.com/prod_img/500000/281/483/img/27483281_1.jpg?shrink=330:*&_v=20230808155146",
-        "Cate": "Case"
-    },
-    {
-        "name": "써멀테이크 Core P8 강화유리",
-        "brand": "써멀테이크",
-        "spec": [
-            "튜닝 케이스",
-            "빅타워",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "수직 PCI형태: 슬롯변경형",
-            "측면: 강화유리",
-            "너비(W): 260mm",
-            "높이(H): 660mm",
-            "깊이(D): 626mm",
-            "파워 장착: 200mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 280mm",
-            "CPU쿨러 장착: 180mm",
-            "PCI-E 3.0 라이저 케이블 제공"
-        ],
-        "color_text": "",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/498/683/img/12683498_1.jpg?shrink=330:*&_v=20201113141657",
         "Cate": "Case"
     },
     {
@@ -41863,43 +36482,6 @@
         "Cate": "Case"
     },
     {
-        "name": "투렉스 DIY PRO MINI",
-        "brand": "투렉스",
-        "spec": [
-            "튜닝 케이스",
-            "데스크탑",
-            "파워미포함",
-            "표준-ITX",
-            "너비(W): 250mm",
-            "높이(H): 160mm",
-            "깊이(D): 220mm",
-            "개방형 냉각방식"
-        ],
-        "color_text": "",
-        "price": "45050",
-        "img": "//img.danawa.com/prod_img/500000/719/269/img/16269719_1.jpg?shrink=330:*&_v=20230313100217",
-        "Cate": "Case"
-    },
-    {
-        "name": "투렉스 DOMA F1 AIR",
-        "brand": "투렉스",
-        "spec": [
-            "튜닝 케이스",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "표준-ITX",
-            "너비(W): 283mm",
-            "높이(H): 225mm",
-            "깊이(D): 470mm",
-            "파워 위치: 기타"
-        ],
-        "color_text": "",
-        "price": "38500",
-        "img": "//img.danawa.com/prod_img/500000/057/124/img/16124057_1.jpg?shrink=330:*&_v=20230313100226",
-        "Cate": "Case"
-    },
-    {
         "name": "ORBIS S210 메쉬 강화유리",
         "brand": "ORBIS",
         "spec": [
@@ -41927,35 +36509,6 @@
         "color_text": "블랙",
         "price": "48000",
         "img": "//img.danawa.com/prod_img/500000/265/227/img/14227265_1.jpg?shrink=330:*&_v=20210520112228",
-        "Cate": "Case"
-    },
-    {
-        "name": "DAVEN FT301 강화유리",
-        "brand": "DAVEN",
-        "spec": [
-            "PC케이스(ATX)",
-            "미들타워",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총3개",
-            "LED팬: 1개",
-            "측면: 강화유리",
-            "후면: 120mm LED x1",
-            "전면: 120mm x2",
-            "너비(W): 210mm",
-            "깊이(D): 409mm",
-            "높이(H): 452mm",
-            "파워 장착: 210mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 360mm",
-            "CPU쿨러 장착: 160mm",
-            "LED 색상: 화이트"
-        ],
-        "color_text": "화이트",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/084/918/img/9918084_1.jpg?shrink=330:*&_v=20210316170233",
         "Cate": "Case"
     },
     {
@@ -42061,24 +36614,6 @@
         "Cate": "Case"
     },
     {
-        "name": "투렉스 RIMA K1 ATX COVER",
-        "brand": "투렉스",
-        "spec": [
-            "튜닝 케이스",
-            "파워미포함",
-            "표준-ATX",
-            "너비(W): 340mm",
-            "높이(H): 375mm",
-            "깊이(D): 205mm",
-            "파워 위치: 기타",
-            "CPU쿨러 장착: 135mm"
-        ],
-        "color_text": "",
-        "price": "47500",
-        "img": "//img.danawa.com/prod_img/500000/816/772/img/16772816_1.jpg?shrink=330:*&_v=20230313100237",
-        "Cate": "Case"
-    },
-    {
         "name": "DAVEN FT908 MESH 강화유리",
         "brand": "DAVEN",
         "spec": [
@@ -42105,24 +36640,6 @@
         "color_text": "블랙",
         "price": "100000",
         "img": "//img.danawa.com/prod_img/500000/616/523/img/10523616_1.jpg?shrink=330:*&_v=20210317153847",
-        "Cate": "Case"
-    },
-    {
-        "name": "투렉스 RIMA K1 ATX BASIC",
-        "brand": "투렉스",
-        "spec": [
-            "튜닝 케이스",
-            "파워미포함",
-            "표준-ATX",
-            "너비(W): 340mm",
-            "높이(H): 205mm",
-            "깊이(D): 205mm",
-            "파워 위치: 기타",
-            "CPU쿨러 장착: 135mm"
-        ],
-        "color_text": "",
-        "price": "34500",
-        "img": "//img.danawa.com/prod_img/500000/792/772/img/16772792_1.jpg?shrink=330:*&_v=20230313100022",
         "Cate": "Case"
     },
     {
@@ -42205,24 +36722,6 @@
         "Cate": "Case"
     },
     {
-        "name": "투렉스 DIY PRO MINI BOX",
-        "brand": "투렉스",
-        "spec": [
-            "튜닝 케이스",
-            "데스크탑",
-            "파워미포함",
-            "표준-ITX",
-            "너비(W): 250mm",
-            "높이(H): 324mm",
-            "깊이(D): 220mm",
-            "개방형 냉각방식"
-        ],
-        "color_text": "",
-        "price": "50910",
-        "img": "//img.danawa.com/prod_img/500000/743/269/img/16269743_1.jpg?shrink=330:*&_v=20230313100243",
-        "Cate": "Case"
-    },
-    {
         "name": "갤럭시 GALAX EX BLACK-01 ARGB 메쉬 강화유리",
         "brand": "갤럭시",
         "spec": [
@@ -42256,125 +36755,6 @@
         "Cate": "Case"
     },
     {
-        "name": "2MONS 4U D650 HD-28",
-        "brand": "2MONS",
-        "spec": [
-            "랙마운트",
-            "랙마운트(4U)",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "표준-ITX",
-            "쿨링팬: 총6개",
-            "전면: 120mm x3",
-            "너비(W): 430mm",
-            "높이(H): 178mm",
-            "깊이(D): 650mm",
-            "GPU 장착: 320mm",
-            "CPU쿨러 장착: 150mm"
-        ],
-        "color_text": "",
-        "price": "150000",
-        "img": "//img.danawa.com/prod_img/500000/439/920/img/14920439_1.jpg?shrink=330:*&_v=20210812123711",
-        "Cate": "Case"
-    },
-    {
-        "name": "KRAFT KOREA SPIDER",
-        "brand": "KRAFT",
-        "spec": [
-            "튜닝 케이스",
-            "미들타워",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총7개",
-            "후면: 120mm LED x1",
-            "전면: 120mm LED x2",
-            "상단: 120mm LED x3",
-            "하단: 120mm LED x1",
-            "너비(W): 250mm",
-            "높이(H): 695mm",
-            "깊이(D): 530mm",
-            "파워 위치: 상단전면",
-            "GPU 장착: 365mm",
-            "CPU쿨러 장착: 175mm",
-            "RGB 컨트롤",
-            "LED 색상: RGB"
-        ],
-        "color_text": "화이트",
-        "price": "314820",
-        "img": "//img.danawa.com/prod_img/500000/789/481/img/13481789_1.jpg?shrink=330:*&_v=20210303175418",
-        "Cate": "Case"
-    },
-    {
-        "name": "KRAFT KOREA SPIDER",
-        "brand": "KRAFT",
-        "spec": [
-            "튜닝 케이스",
-            "미들타워",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총7개",
-            "후면: 120mm LED x1",
-            "전면: 120mm LED x2",
-            "상단: 120mm LED x3",
-            "하단: 120mm LED x1",
-            "너비(W): 250mm",
-            "높이(H): 695mm",
-            "깊이(D): 530mm",
-            "파워 위치: 상단전면",
-            "GPU 장착: 365mm",
-            "CPU쿨러 장착: 175mm",
-            "RGB 컨트롤",
-            "LED 색상: RGB"
-        ],
-        "color_text": "블랙",
-        "price": "314820",
-        "img": "//img.danawa.com/prod_img/500000/789/481/img/13481789_1.jpg?shrink=330:*&_v=20210303175418",
-        "Cate": "Case"
-    },
-    {
-        "name": "투렉스 DOMA-F1 RACING",
-        "brand": "투렉스",
-        "spec": [
-            "튜닝 케이스",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "너비(W): 510mm",
-            "높이(H): 264mm",
-            "깊이(D): 280mm",
-            "파워 위치: 기타",
-            "CPU쿨러 장착: 150mm"
-        ],
-        "color_text": "",
-        "price": "34040",
-        "img": "//img.danawa.com/prod_img/500000/945/278/img/6278945_1.jpg?shrink=330:*&_v=20230313100010",
-        "Cate": "Case"
-    },
-    {
-        "name": "투렉스 DOMA PRO MAX",
-        "brand": "투렉스",
-        "spec": [
-            "튜닝 케이스",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "너비(W): 221mm~",
-            "깊이(D): 265mm",
-            "파워 위치: 기타"
-        ],
-        "color_text": "",
-        "price": "40570",
-        "img": "//img.danawa.com/prod_img/500000/558/992/img/1992558_1.jpg?shrink=330:*&_v=20230313100246",
-        "Cate": "Case"
-    },
-    {
         "name": "다오테크 W2 USB 3.0",
         "brand": "다오테크",
         "spec": [
@@ -42397,64 +36777,6 @@
         "color_text": "",
         "price": "90000",
         "img": "//img.danawa.com/prod_img/500000/434/837/img/1837434_1.jpg?shrink=330:*&_v=20170328103452",
-        "Cate": "Case"
-    },
-    {
-        "name": "투렉스 E5",
-        "brand": "투렉스",
-        "spec": [
-            "튜닝 케이스",
-            "미들타워",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "측면: 통풍구",
-            "후면: 에어홀",
-            "너비(W): 181~220mm",
-            "높이(H): 445mm",
-            "깊이(D): 450mm",
-            "파워 위치: 하단후면"
-        ],
-        "color_text": "",
-        "price": "100960",
-        "img": "//img.danawa.com/prod_img/500000/714/633/img/1633714_1.jpg?shrink=330:*&_v=20131021144059",
-        "Cate": "Case"
-    },
-    {
-        "name": "투렉스 DOMA SKILL TOP COVER",
-        "brand": "투렉스",
-        "spec": [
-            "튜닝 케이스",
-            "표준-ATX",
-            "Micro-ATX",
-            "표준-ITX",
-            "너비(W): 500mm",
-            "높이(H): 199~239mm",
-            "깊이(D): 284mm"
-        ],
-        "color_text": "",
-        "price": "54500",
-        "img": "//img.danawa.com/prod_img/500000/332/483/img/27483332_1.jpg?shrink=330:*&_v=20230808155332",
-        "Cate": "Case"
-    },
-    {
-        "name": "투렉스 DOMA F1 TURBO",
-        "brand": "투렉스",
-        "spec": [
-            "튜닝 케이스",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "너비(W): 510mm",
-            "높이(H): 268mm",
-            "깊이(D): 285mm",
-            "CPU쿨러 장착: 160mm"
-        ],
-        "color_text": "",
-        "price": "55660",
-        "img": "//img.danawa.com/prod_img/500000/219/992/img/10992219_1.jpg?shrink=330:*&_v=20230313100240",
         "Cate": "Case"
     },
     {
@@ -42483,27 +36805,6 @@
         "color_text": "",
         "price": "192000",
         "img": "//img.danawa.com/prod_img/500000/587/387/img/5387587_1.jpg?shrink=330:*&_v=20221104103644",
-        "Cate": "Case"
-    },
-    {
-        "name": "1st HANYANG K4U SP 랙마운트 4U Server",
-        "brand": "1st",
-        "spec": [
-            "랙마운트",
-            "랙마운트(4U)",
-            "파워미포함",
-            "표준-ATX",
-            "후면: 80mm",
-            "전면: 120mm",
-            "너비(W): 221mm~",
-            "높이(H): 177mm",
-            "깊이(D): 505mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 최대 260mm"
-        ],
-        "color_text": "",
-        "price": "102000",
-        "img": "//img.danawa.com/prod_img/500000/212/401/img/2401212_1.jpg?shrink=330:*&_v=20140114084643",
         "Cate": "Case"
     },
     {
@@ -42539,48 +36840,6 @@
         "Cate": "Case"
     },
     {
-        "name": "투렉스 DIY PRO BOX",
-        "brand": "투렉스",
-        "spec": [
-            "튜닝 케이스",
-            "데스크탑",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "표준-ITX",
-            "너비(W): 343mm",
-            "높이(H): 324mm",
-            "깊이(D): 284mm",
-            "개방형 냉각방식"
-        ],
-        "color_text": "",
-        "price": "57000",
-        "img": "//img.danawa.com/prod_img/500000/677/269/img/16269677_1.jpg?shrink=330:*&_v=20230313100221",
-        "Cate": "Case"
-    },
-    {
-        "name": "투렉스 DUAL MONSTER",
-        "brand": "투렉스",
-        "spec": [
-            "튜닝 케이스",
-            "미들타워",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총2개",
-            "후면: 120mm x2",
-            "너비(W): 540mm",
-            "높이(H): 534mm",
-            "깊이(D): 295mm",
-            "파워 위치: 하단후면"
-        ],
-        "color_text": "",
-        "price": "122000",
-        "img": "//img.danawa.com/prod_img/500000/051/046/img/6046051_1.jpg?shrink=330:*&_v=20230313100016",
-        "Cate": "Case"
-    },
-    {
         "name": "DAVEN D1 MESH 아크릴",
         "brand": "DAVEN",
         "spec": [
@@ -42607,26 +36866,6 @@
         "color_text": "블랙",
         "price": "68760",
         "img": "//img.danawa.com/prod_img/500000/416/553/img/11553416_1.jpg?shrink=330:*&_v=20220512152808",
-        "Cate": "Case"
-    },
-    {
-        "name": "투렉스 DIY SPRINGBER",
-        "brand": "투렉스",
-        "spec": [
-            "튜닝 케이스",
-            "데스크탑",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "너비(W): 221mm~",
-            "높이(H): 280mm",
-            "깊이(D): 326mm",
-            "개방형 냉각방식"
-        ],
-        "color_text": "",
-        "price": "52900",
-        "img": "//img.danawa.com/prod_img/500000/654/019/img/2019654_1.jpg?shrink=330:*&_v=20130429165330",
         "Cate": "Case"
     },
     {

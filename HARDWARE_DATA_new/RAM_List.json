@@ -722,25 +722,6 @@
         "Cate": "RAM"
     },
     {
-        "name": "SK하이닉스 DDR5-5600",
-        "brand": "SK하이닉스",
-        "spec": [
-            "데스크탑용",
-            "DDR5",
-            "5600MHz (PC5-44800)",
-            "1.10V",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "32",
-            "16",
-            "8"
-        ],
-        "size": "8",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/523/883/img/18883523_1.jpg?shrink=330:*&_v=20230417160117",
-        "Cate": "RAM"
-    },
-    {
         "name": "ESSENCORE KLEVV DDR5-5600 CL46",
         "brand": "ESSENCORE",
         "spec": [
@@ -2083,30 +2064,6 @@
         ],
         "size": "32",
         "price": "148990",
-        "img": "//img.danawa.com/prod_img/500000/911/792/img/15792911_1.jpg?shrink=330:*&_v=20211126151855",
-        "Cate": "RAM"
-    },
-    {
-        "name": "G.SKILL DDR4-4000 CL18 TRIDENT Z RGB 패키지",
-        "brand": "G.SKILL",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "4000MHz (PC4-32000)",
-            "램타이밍: CL18-22-22-42",
-            "1.40V",
-            "램개수: 2개",
-            "LED 라이트",
-            "XMP",
-            "히트싱크: 방열판",
-            "방열판 색상: 블랙",
-            "LED색상: RGB",
-            "LED 시스템: AURA SYNC, MYSTIC LIGHT, RGB FUSION, POLYCHROME",
-            "32",
-            "16"
-        ],
-        "size": "16",
-        "price": "일시품절",
         "img": "//img.danawa.com/prod_img/500000/911/792/img/15792911_1.jpg?shrink=330:*&_v=20211126151855",
         "Cate": "RAM"
     },
@@ -5130,27 +5087,6 @@
         "Cate": "RAM"
     },
     {
-        "name": "ESSENCORE KLEVV DDR4-4000 CL19 BOLT XR 서린",
-        "brand": "ESSENCORE",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "4000MHz (PC4-32000)",
-            "램타이밍: CL19-25-25-45",
-            "1.40V",
-            "램개수: 1개",
-            "XMP",
-            "히트싱크: 방열판",
-            "방열판 색상: 실버/그레이",
-            "16",
-            "8"
-        ],
-        "size": "8",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/703/895/img/27895703_1.jpg?shrink=330:*&_v=20230830164432",
-        "Cate": "RAM"
-    },
-    {
         "name": "G.SKILL DDR5-6000 CL30 TRIDENT Z5 RGB 화이트 패키지",
         "brand": "G.SKILL",
         "spec": [
@@ -5172,30 +5108,6 @@
         "size": "64",
         "price": "338000",
         "img": "//img.danawa.com/prod_img/500000/437/639/img/21639437_1.jpg?shrink=330:*&_v=20230719180847",
-        "Cate": "RAM"
-    },
-    {
-        "name": "에이서 프레데터 DDR4-3600 CL16 APOLLO 패키지",
-        "brand": "에이서",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "3600MHz (PC4-28800)",
-            "램타이밍: CL16-16-16-36",
-            "1.35V",
-            "램개수: 2개",
-            "LED 라이트",
-            "XMP",
-            "히트싱크: 방열판",
-            "방열판 색상: 실버/그레이",
-            "LED색상: RGB",
-            "LED 시스템: AURA SYNC, MYSTIC LIGHT, RGB FUSION, POLYCHROME",
-            "32",
-            "16"
-        ],
-        "size": "32",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/468/207/img/14207468_1.jpg?shrink=330:*&_v=20230710094858",
         "Cate": "RAM"
     },
     {
@@ -5400,29 +5312,6 @@
         ],
         "size": "16",
         "price": "65980",
-        "img": "//img.danawa.com/prod_img/500000/090/609/img/20609090_1.jpg?shrink=330:*&_v=20230620135807",
-        "Cate": "RAM"
-    },
-    {
-        "name": "마이크론 Crucial DDR5-5600 CL46",
-        "brand": "마이크론",
-        "spec": [
-            "데스크탑용",
-            "DDR5",
-            "5600MHz (PC5-44800)",
-            "램타이밍: CL46-45-45",
-            "1.10V",
-            "램개수: 1개",
-            "XMP3.0",
-            "EXPO",
-            "온다이ECC",
-            "히트싱크: 미포함",
-            "32",
-            "16",
-            "8"
-        ],
-        "size": "8",
-        "price": "일시품절",
         "img": "//img.danawa.com/prod_img/500000/090/609/img/20609090_1.jpg?shrink=330:*&_v=20230620135807",
         "Cate": "RAM"
     },
@@ -9699,25 +9588,6 @@
         "size": "16",
         "price": "65530",
         "img": "//img.danawa.com/prod_img/500000/286/717/img/3717286_1.jpg?shrink=330:*&_v=20200821132145",
-        "Cate": "RAM"
-    },
-    {
-        "name": "GeIL DDR5-5200 CL42 PRISTINE V",
-        "brand": "GeIL",
-        "spec": [
-            "데스크탑용",
-            "DDR5",
-            "5200MHz (PC5-41600)",
-            "램타이밍: CL42-42-42-84",
-            "1.10V",
-            "램개수: 1개",
-            "온다이ECC",
-            "히트싱크: 미포함",
-            "16"
-        ],
-        "size": "16",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/117/695/img/21695117_1.jpg?shrink=330:*&_v=20230724093144",
         "Cate": "RAM"
     },
     {
@@ -15476,30 +15346,6 @@
             "64",
             "32"
         ],
-        "size": "64",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/135/947/img/12947135_1.jpg?shrink=330:*&_v=20201217163126",
-        "Cate": "RAM"
-    },
-    {
-        "name": "G.SKILL DDR4-3600 CL14 TRIDENT Z RGB 패키지",
-        "brand": "G.SKILL",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "3600MHz (PC4-28800)",
-            "램타이밍: CL14-15-15-35",
-            "1.45V",
-            "램개수: 4개",
-            "LED 라이트",
-            "XMP",
-            "히트싱크: 방열판",
-            "방열판 색상: 블랙",
-            "LED색상: RGB",
-            "LED 시스템: AURA SYNC, MYSTIC LIGHT, RGB FUSION, POLYCHROME",
-            "64",
-            "32"
-        ],
         "size": "32",
         "price": "329000",
         "img": "//img.danawa.com/prod_img/500000/135/947/img/12947135_1.jpg?shrink=330:*&_v=20201217163126",
@@ -15918,25 +15764,6 @@
         "Cate": "RAM"
     },
     {
-        "name": "타무즈 DDR4-3200 CL16",
-        "brand": "타무즈",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "3200MHz (PC4-25600)",
-            "램타이밍: CL16",
-            "1.35V",
-            "램개수: 1개",
-            "XMP",
-            "히트싱크: 미포함",
-            "8"
-        ],
-        "size": "8",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/266/450/img/10450266_1.jpg?shrink=330:*&_v=20220614135226",
-        "Cate": "RAM"
-    },
-    {
         "name": "G.SKILL DDR4-3600 CL16 TRIDENT Z NEO 패키지",
         "brand": "G.SKILL",
         "spec": [
@@ -16078,54 +15905,6 @@
         "Cate": "RAM"
     },
     {
-        "name": "G.SKILL DDR4-4000 CL14 TRIDENT Z ROYAL ELITE 실버 패키지",
-        "brand": "G.SKILL",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "4000MHz (PC4-32000)",
-            "램타이밍: CL14-15-15-35",
-            "1.55V",
-            "램개수: 2개",
-            "LED 라이트",
-            "XMP",
-            "히트싱크: 방열판",
-            "방열판 색상: 실버/그레이",
-            "LED색상: RGB",
-            "LED 시스템: AURA SYNC, MYSTIC LIGHT, RGB FUSION, POLYCHROME",
-            "32",
-            "16"
-        ],
-        "size": "32",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/899/586/img/14586899_1.jpg?shrink=330:*&_v=20210625143440",
-        "Cate": "RAM"
-    },
-    {
-        "name": "G.SKILL DDR4-4000 CL14 TRIDENT Z ROYAL ELITE 실버 패키지",
-        "brand": "G.SKILL",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "4000MHz (PC4-32000)",
-            "램타이밍: CL14-15-15-35",
-            "1.55V",
-            "램개수: 2개",
-            "LED 라이트",
-            "XMP",
-            "히트싱크: 방열판",
-            "방열판 색상: 실버/그레이",
-            "LED색상: RGB",
-            "LED 시스템: AURA SYNC, MYSTIC LIGHT, RGB FUSION, POLYCHROME",
-            "32",
-            "16"
-        ],
-        "size": "16",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/899/586/img/14586899_1.jpg?shrink=330:*&_v=20210625143440",
-        "Cate": "RAM"
-    },
-    {
         "name": "TeamGroup T-Force DDR4-3600 CL18 DARK Z RED 패키지",
         "brand": "TeamGroup",
         "spec": [
@@ -16212,31 +15991,6 @@
         ],
         "size": "64",
         "price": "646900",
-        "img": "//img.danawa.com/prod_img/500000/377/259/img/6259377_1.jpg?shrink=330:*&_v=20200821132322",
-        "Cate": "RAM"
-    },
-    {
-        "name": "CORSAIR DDR4-3000 CL15 VENGEANCE PRO RGB WHITE 패키지",
-        "brand": "CORSAIR",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "3000MHz (PC4-24000)",
-            "램타이밍: CL15-17-17-35",
-            "1.35V",
-            "램개수: 4개",
-            "LED 라이트",
-            "XMP",
-            "히트싱크: 방열판",
-            "방열판 색상: 화이트",
-            "LED색상: RGB",
-            "LED 시스템: AURA SYNC, MYSTIC LIGHT, RGB FUSION, CORSAIR iCUE",
-            "64",
-            "32",
-            "32"
-        ],
-        "size": "32",
-        "price": "일시품절",
         "img": "//img.danawa.com/prod_img/500000/377/259/img/6259377_1.jpg?shrink=330:*&_v=20200821132322",
         "Cate": "RAM"
     },
@@ -16543,26 +16297,6 @@
         "size": "16",
         "price": "343000",
         "img": "//img.danawa.com/prod_img/500000/493/611/img/5611493_1.jpg?shrink=330:*&_v=20200821132110",
-        "Cate": "RAM"
-    },
-    {
-        "name": "ESSENCORE KLEVV DDR4-4000 CL19 BOLT XR 패키지 서린",
-        "brand": "ESSENCORE",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "4000MHz (PC4-32000)",
-            "램타이밍: CL19-25-25-45",
-            "1.40V",
-            "램개수: 2개",
-            "XMP",
-            "히트싱크: 방열판",
-            "방열판 색상: 실버/그레이",
-            "16"
-        ],
-        "size": "16",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/889/895/img/27895889_1.jpg?shrink=330:*&_v=20230830164117",
         "Cate": "RAM"
     },
     {
@@ -17157,30 +16891,6 @@
             "64",
             "32"
         ],
-        "size": "64",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/276/947/img/12947276_1.jpg?shrink=330:*&_v=20201217163846",
-        "Cate": "RAM"
-    },
-    {
-        "name": "G.SKILL DDR4-3600 CL14 TRIDENT Z ROYAL 실버 패키지",
-        "brand": "G.SKILL",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "3600MHz (PC4-28800)",
-            "램타이밍: CL14-15-15-35",
-            "1.45V",
-            "램개수: 2개",
-            "LED 라이트",
-            "XMP",
-            "히트싱크: 방열판",
-            "방열판 색상: 실버/그레이",
-            "LED색상: RGB",
-            "LED 시스템: AURA SYNC, MYSTIC LIGHT, RGB FUSION, POLYCHROME",
-            "64",
-            "32"
-        ],
         "size": "32",
         "price": "409000",
         "img": "//img.danawa.com/prod_img/500000/276/947/img/12947276_1.jpg?shrink=330:*&_v=20201217163846",
@@ -17250,54 +16960,6 @@
         "size": "32",
         "price": "773540",
         "img": "//img.danawa.com/prod_img/500000/751/938/img/7938751_1.jpg?shrink=330:*&_v=20200821130950",
-        "Cate": "RAM"
-    },
-    {
-        "name": "G.SKILL DDR4-4000 CL16 TRIDENT Z ROYAL 실버 패키지",
-        "brand": "G.SKILL",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "4000MHz (PC4-32000)",
-            "램타이밍: CL16-16-16-36",
-            "1.40V",
-            "램개수: 2개",
-            "LED 라이트",
-            "XMP",
-            "히트싱크: 방열판",
-            "방열판 색상: 실버/그레이",
-            "LED색상: RGB",
-            "LED 시스템: AURA SYNC, MYSTIC LIGHT, RGB FUSION, POLYCHROME",
-            "32"
-        ],
-        "size": "32",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/147/219/img/14219147_1.jpg?shrink=330:*&_v=20210518145500",
-        "Cate": "RAM"
-    },
-    {
-        "name": "V-Color DDR4-3200 CL16 PRISM PRO RGB SCC KIT BLACK 패키지",
-        "brand": "V-Color",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "3200MHz (PC4-25600)",
-            "램타이밍: CL16-20-20-38",
-            "1.35V",
-            "램개수: 2개",
-            "LED 라이트",
-            "XMP",
-            "히트싱크: 방열판",
-            "방열판 색상: 블랙",
-            "LED색상: RGB",
-            "LED 시스템: AURA SYNC, MYSTIC LIGHT, RGB FUSION, POLYCHROME",
-            "데모 모듈 2개 포함",
-            "2021년 8월부로 램타이밍 변경",
-            "16"
-        ],
-        "size": "16",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/182/927/img/11927182_1.jpg?shrink=330:*&_v=20210903141951",
         "Cate": "RAM"
     },
     {
@@ -18001,144 +17663,6 @@
         "Cate": "RAM"
     },
     {
-        "name": "V-Color DDR4-3200 CL16 PRISM PRO RGB WHITE 패키지",
-        "brand": "V-Color",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "3200MHz (PC4-25600)",
-            "램타이밍: CL16-20-20-38",
-            "1.35V",
-            "램개수: 2개",
-            "LED 라이트",
-            "XMP",
-            "히트싱크: 방열판",
-            "방열판 색상: 화이트",
-            "LED색상: RGB",
-            "LED 시스템: AURA SYNC, MYSTIC LIGHT, RGB FUSION, POLYCHROME",
-            "16"
-        ],
-        "size": "16",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/712/151/img/15151712_1.jpg?shrink=330:*&_v=20210902101208",
-        "Cate": "RAM"
-    },
-    {
-        "name": "OCPC DDR5-5200 CL36 PISTA RGB 패키지",
-        "brand": "OCPC",
-        "spec": [
-            "데스크탑용",
-            "DDR5",
-            "5200MHz (PC5-41600)",
-            "램타이밍: CL36-38-38-74",
-            "1.25V",
-            "램개수: 2개",
-            "LED 라이트",
-            "온다이ECC",
-            "히트싱크: 방열판",
-            "방열판 색상: 실버/그레이",
-            "LED색상: RGB",
-            "LED 시스템: AURA SYNC, MYSTIC LIGHT, RGB FUSION, POLYCHROME",
-            "16"
-        ],
-        "size": "16",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/840/442/img/16442840_1.jpg?shrink=330:*&_v=20220221150910",
-        "Cate": "RAM"
-    },
-    {
-        "name": "G.SKILL DDR4-4000 CL16 TRIDENT Z ROYAL ELITE 골드 패키지",
-        "brand": "G.SKILL",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "4000MHz (PC4-32000)",
-            "램타이밍: CL16-19-19-39",
-            "1.40V",
-            "램개수: 2개",
-            "LED 라이트",
-            "XMP",
-            "히트싱크: 방열판",
-            "방열판 색상: 골드",
-            "LED색상: RGB",
-            "LED 시스템: AURA SYNC, MYSTIC LIGHT, RGB FUSION, POLYCHROME",
-            "32"
-        ],
-        "size": "32",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/464/601/img/14601464_1.jpg?shrink=330:*&_v=20210628162243",
-        "Cate": "RAM"
-    },
-    {
-        "name": "PNY XLR8 DDR4-4000 Gaming EPIC-X RGB 패키지",
-        "brand": "PNY",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "4000MHz (PC4-32000)",
-            "램타이밍: CL18-22-22",
-            "1.35V",
-            "램개수: 2개",
-            "LED 라이트",
-            "XMP",
-            "히트싱크: 방열판",
-            "방열판 색상: 블랙",
-            "LED색상: RGB",
-            "LED 시스템: AURA SYNC, MYSTIC LIGHT, RGB FUSION, POLYCHROME",
-            "16"
-        ],
-        "size": "16",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/064/536/img/14536064_1.jpg?shrink=330:*&_v=20210709142222",
-        "Cate": "RAM"
-    },
-    {
-        "name": "HP DDR4-3600 CL18 V8",
-        "brand": "HP",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "3600MHz (PC4-28800)",
-            "램타이밍: CL18-22-22-42",
-            "1.35V",
-            "램개수: 1개",
-            "LED 라이트",
-            "XMP",
-            "히트싱크: 방열판",
-            "방열판 색상: 블랙",
-            "LED색상: RGB",
-            "LED 시스템: AURA SYNC, MYSTIC LIGHT, RGB FUSION, POLYCHROME",
-            "16"
-        ],
-        "size": "16",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/327/163/img/13163327_1.jpg?shrink=330:*&_v=20210125130855",
-        "Cate": "RAM"
-    },
-    {
-        "name": "Antec DDR4-3600 CL18 KATANA Series 7 RGB 패키지",
-        "brand": "Antec",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "3600MHz (PC4-28800)",
-            "램타이밍: CL18-20-20-44",
-            "1.35V",
-            "램개수: 2개",
-            "LED 라이트",
-            "XMP",
-            "히트싱크: 방열판",
-            "방열판 색상: 블랙",
-            "LED색상: RGB",
-            "LED 시스템: AURA SYNC, MYSTIC LIGHT, RGB FUSION, POLYCHROME",
-            "16"
-        ],
-        "size": "16",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/825/942/img/11942825_1.jpg?shrink=330:*&_v=20200821131336",
-        "Cate": "RAM"
-    },
-    {
         "name": "SOUTH BRIDGE DDR3-1600",
         "brand": "SOUTH",
         "spec": [
@@ -18289,30 +17813,6 @@
         ],
         "size": "16",
         "price": "43890",
-        "img": "//img.danawa.com/prod_img/500000/429/968/img/15968429_1.jpg?shrink=330:*&_v=20220824094509",
-        "Cate": "RAM"
-    },
-    {
-        "name": "ESSENCORE KLEVV DDR4-4000 CL19 CRAS XR RGB",
-        "brand": "ESSENCORE",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "4000MHz (PC4-32000)",
-            "램타이밍: CL19-25-25-45",
-            "1.40V",
-            "램개수: 1개",
-            "LED 라이트",
-            "XMP",
-            "히트싱크: 방열판",
-            "방열판 색상: 실버/그레이",
-            "LED색상: RGB",
-            "LED 시스템: AURA SYNC, MYSTIC LIGHT, RGB FUSION, POLYCHROME, RAZER CHROMA",
-            "16",
-            "8"
-        ],
-        "size": "8",
-        "price": "일시품절",
         "img": "//img.danawa.com/prod_img/500000/429/968/img/15968429_1.jpg?shrink=330:*&_v=20220824094509",
         "Cate": "RAM"
     },
@@ -23009,24 +22509,6 @@
             "16",
             "8"
         ],
-        "size": "16",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/936/321/img/17321936_1.jpg?shrink=330:*&_v=20220623171751",
-        "Cate": "RAM"
-    },
-    {
-        "name": "HIKVISION DDR4-3200 CL18 U1",
-        "brand": "HIKVISION",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "3200MHz (PC4-25600)",
-            "램타이밍: CL18",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "16",
-            "8"
-        ],
         "size": "8",
         "price": "20800",
         "img": "//img.danawa.com/prod_img/500000/936/321/img/17321936_1.jpg?shrink=330:*&_v=20220623171751",
@@ -23364,25 +22846,6 @@
         "Cate": "RAM"
     },
     {
-        "name": "HIKVISION DDR4-3000 U10 Grey",
-        "brand": "HIKVISION",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "3000MHz (PC4-24000)",
-            "램개수: 1개",
-            "XMP",
-            "히트싱크: 방열판",
-            "방열판 색상: 실버/그레이",
-            "16",
-            "8"
-        ],
-        "size": "8",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/400/462/img/16462400_1.jpg?shrink=330:*&_v=20220224143218",
-        "Cate": "RAM"
-    },
-    {
         "name": "TeamGroup T-Force DDR5-6000 CL38 Delta RGB 패키지",
         "brand": "TeamGroup",
         "spec": [
@@ -23486,25 +22949,6 @@
         "size": "4",
         "price": "33000",
         "img": "//img.danawa.com/prod_img/500000/045/699/img/1699045_1.jpg?shrink=330:*&_v=20210325145808",
-        "Cate": "RAM"
-    },
-    {
-        "name": "실리콘파워 DDR4-2666 CL19",
-        "brand": "실리콘파워",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "2666MHz (PC4-21300)",
-            "램타이밍: CL19",
-            "1.20V",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "8",
-            "4"
-        ],
-        "size": "8",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/453/304/img/13304453_1.jpg?shrink=330:*&_v=20210521091738",
         "Cate": "RAM"
     },
     {
@@ -23928,29 +23372,6 @@
         "size": "2",
         "price": "17900",
         "img": "//img.danawa.com/prod_img/500000/795/947/img/5947795_1.jpg?shrink=330:*&_v=20200821134822",
-        "Cate": "RAM"
-    },
-    {
-        "name": "ESSENCORE KLEVV DDR4-4266 CL19 CRAS XR RGB 패키지",
-        "brand": "ESSENCORE",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "4266MHz (PC4-34100)",
-            "램타이밍: CL19-26-26-46",
-            "1.40V",
-            "램개수: 2개",
-            "LED 라이트",
-            "XMP",
-            "히트싱크: 방열판",
-            "방열판 색상: 실버/그레이",
-            "LED색상: RGB",
-            "LED 시스템: AURA SYNC, MYSTIC LIGHT, RGB FUSION, POLYCHROME, RAZER CHROMA",
-            "16"
-        ],
-        "size": "16",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/516/803/img/15803516_1.jpg?shrink=330:*&_v=20211129142033",
         "Cate": "RAM"
     },
     {
@@ -24399,25 +23820,6 @@
         "Cate": "RAM"
     },
     {
-        "name": "Terabyte Ramonster DDR3-1600 CL11",
-        "brand": "Terabyte",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1600MHz (PC3-12800)",
-            "램타이밍: CL11",
-            "1.35V",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "8",
-            "4"
-        ],
-        "size": "4",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/981/141/img/7141981_1.jpg?shrink=330:*&_v=20221118155215",
-        "Cate": "RAM"
-    },
-    {
         "name": "마이크론 Crucial DDR5-4800 CL40 패키지",
         "brand": "마이크론",
         "spec": [
@@ -24738,53 +24140,9 @@
             "32",
             "16"
         ],
-        "size": "32",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/796/121/img/12121796_1.jpg?shrink=330:*&_v=20200826103531",
-        "Cate": "RAM"
-    },
-    {
-        "name": "ESSENCORE KLEVV DDR4-3600 CL18 CRAS XR RGB 패키지",
-        "brand": "ESSENCORE",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "3600MHz (PC4-28800)",
-            "램타이밍: CL18-22-22-42",
-            "1.35V",
-            "램개수: 2개",
-            "LED 라이트",
-            "XMP",
-            "히트싱크: 방열판",
-            "방열판 색상: 실버/그레이",
-            "LED색상: RGB",
-            "LED 시스템: AURA SYNC, MYSTIC LIGHT, RGB FUSION, POLYCHROME, RAZER CHROMA",
-            "32",
-            "16"
-        ],
         "size": "16",
         "price": "76900",
         "img": "//img.danawa.com/prod_img/500000/796/121/img/12121796_1.jpg?shrink=330:*&_v=20200826103531",
-        "Cate": "RAM"
-    },
-    {
-        "name": "ESSENCORE KLEVV DDR4-3600 CL18 BOLT X 패키지",
-        "brand": "ESSENCORE",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "3600MHz (PC4-28800)",
-            "램타이밍: CL18-22-22-42",
-            "1.35V",
-            "램개수: 2개",
-            "XMP",
-            "히트싱크: 방열판",
-            "방열판 색상: 블랙",
-            "16"
-        ],
-        "size": "16",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/416/113/img/11113416_1.jpg?shrink=330:*&_v=20200821131607",
         "Cate": "RAM"
     },
     {
@@ -24811,23 +24169,6 @@
         "Cate": "RAM"
     },
     {
-        "name": "SK하이닉스 DDR4-2933",
-        "brand": "SK하이닉스",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "2933MHz (PC4-23400)",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "벌크, 노트북 탈거 등 세부스펙 판매처 확인요망",
-            "4"
-        ],
-        "size": "4",
-        "price": "16490",
-        "img": "//img.danawa.com/prod_img/500000/699/697/img/16697699_1.jpg?shrink=330:*&_v=20220329102442",
-        "Cate": "RAM"
-    },
-    {
         "name": "KINGMAX DDR5-5200 CL42 패키지",
         "brand": "KINGMAX",
         "spec": [
@@ -24844,26 +24185,6 @@
         "size": "32",
         "price": "193310",
         "img": "//img.danawa.com/prod_img/500000/985/444/img/16444985_1.jpg?shrink=330:*&_v=20220221155243",
-        "Cate": "RAM"
-    },
-    {
-        "name": "써멀테이크 DDR4-3600 CL18 TOUGHRAM 화이트 패키지",
-        "brand": "써멀테이크",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "3600MHz (PC4-28800)",
-            "램타이밍: CL18",
-            "1.35V",
-            "램개수: 2개",
-            "XMP",
-            "히트싱크: 방열판",
-            "방열판 색상: 화이트",
-            "16"
-        ],
-        "size": "16",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/458/500/img/13500458_1.jpg?shrink=330:*&_v=20210303153957",
         "Cate": "RAM"
     },
     {
@@ -24987,29 +24308,6 @@
         "Cate": "RAM"
     },
     {
-        "name": "CORSAIR DDR5-6200 CL36 Dominator Platinum RGB WHITE 패키지",
-        "brand": "CORSAIR",
-        "spec": [
-            "데스크탑용",
-            "DDR5",
-            "6200MHz (PC5-49600)",
-            "램타이밍: CL36-39-39-76",
-            "1.30V",
-            "램개수: 2개",
-            "LED 라이트",
-            "XMP3.0",
-            "히트싱크: 방열판",
-            "방열판 색상: 화이트",
-            "LED색상: RGB",
-            "LED 시스템: AURA SYNC, MYSTIC LIGHT, RGB FUSION, CORSAIR iCUE",
-            "32"
-        ],
-        "size": "32",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/100/307/img/18307100_1.jpg?shrink=330:*&_v=20221117102142",
-        "Cate": "RAM"
-    },
-    {
         "name": "킹스톤 FURY DDR5-5200 CL40 Beast 벌크",
         "brand": "킹스톤",
         "spec": [
@@ -25051,29 +24349,6 @@
         ],
         "size": "32",
         "price": "104900",
-        "img": "//img.danawa.com/prod_img/500000/395/047/img/16047395_1.jpg?shrink=330:*&_v=20221129080826",
-        "Cate": "RAM"
-    },
-    {
-        "name": "실리콘파워 DDR4-3200 CL16 Xpower Zenith RGB 패키지",
-        "brand": "실리콘파워",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "3200MHz (PC4-25600)",
-            "램타이밍: CL16-18-18-38",
-            "1.35V",
-            "램개수: 2개",
-            "LED 라이트",
-            "히트싱크: 방열판",
-            "방열판 색상: 블랙",
-            "LED색상: RGB",
-            "LED 시스템: AURA SYNC, MYSTIC LIGHT, RGB FUSION, POLYCHROME",
-            "32",
-            "16"
-        ],
-        "size": "16",
-        "price": "일시품절",
         "img": "//img.danawa.com/prod_img/500000/395/047/img/16047395_1.jpg?shrink=330:*&_v=20221129080826",
         "Cate": "RAM"
     },
@@ -25308,31 +24583,6 @@
         "Cate": "RAM"
     },
     {
-        "name": "ESSENCORE KLEVV DDR5-6000 CL40 CRAS XR5 RGB 패키지",
-        "brand": "ESSENCORE",
-        "spec": [
-            "데스크탑용",
-            "DDR5",
-            "6000MHz (PC5-48000)",
-            "램타이밍: CL40-40-40-76",
-            "1.30V",
-            "램개수: 2개",
-            "LED 라이트",
-            "XMP3.0",
-            "온다이ECC",
-            "온도센서",
-            "히트싱크: 방열판",
-            "방열판 색상: 화이트",
-            "LED색상: RGB",
-            "LED 시스템: AURA SYNC, MYSTIC LIGHT, RGB FUSION, POLYCHROME, RAZER CHROMA",
-            "32"
-        ],
-        "size": "32",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/929/018/img/18018929_1.jpg?shrink=330:*&_v=20221018105129",
-        "Cate": "RAM"
-    },
-    {
         "name": "TeamGroup T-Force DDR4-2666 CL16 Delta RGB 패키지 가넷",
         "brand": "TeamGroup",
         "spec": [
@@ -25509,46 +24759,6 @@
         "size": "2",
         "price": "24680",
         "img": "//img.danawa.com/prod_img/500000/712/220/img/1220712_1.jpg?shrink=330:*&_v=20200821135240",
-        "Cate": "RAM"
-    },
-    {
-        "name": "HIKVISION DDR4-3200 U10 Black",
-        "brand": "HIKVISION",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "3200MHz (PC4-25600)",
-            "램개수: 1개",
-            "XMP",
-            "히트싱크: 방열판",
-            "방열판 색상: 블랙",
-            "제품 실물의 색상이 이미지와 다를 수 있으므로 주의 바랍니다.",
-            "16",
-            "8"
-        ],
-        "size": "16",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/466/462/img/16462466_1.jpg?shrink=330:*&_v=20230920091656",
-        "Cate": "RAM"
-    },
-    {
-        "name": "HIKVISION DDR4-3200 U10 Black",
-        "brand": "HIKVISION",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "3200MHz (PC4-25600)",
-            "램개수: 1개",
-            "XMP",
-            "히트싱크: 방열판",
-            "방열판 색상: 블랙",
-            "제품 실물의 색상이 이미지와 다를 수 있으므로 주의 바랍니다.",
-            "16",
-            "8"
-        ],
-        "size": "8",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/466/462/img/16462466_1.jpg?shrink=330:*&_v=20230920091656",
         "Cate": "RAM"
     },
     {
@@ -25772,64 +24982,6 @@
         "Cate": "RAM"
     },
     {
-        "name": "써멀테이크 DDR4-3600 CL18 TOUGHRAM 블랙 패키지",
-        "brand": "써멀테이크",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "3600MHz (PC4-28800)",
-            "램타이밍: CL18",
-            "1.35V",
-            "램개수: 2개",
-            "XMP",
-            "히트싱크: 방열판",
-            "방열판 색상: 블랙",
-            "16"
-        ],
-        "size": "16",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/103/498/img/13498103_1.jpg?shrink=330:*&_v=20210303143021",
-        "Cate": "RAM"
-    },
-    {
-        "name": "실리콘파워 노트북 DDR4-2133 CL15",
-        "brand": "실리콘파워",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "2133MHz (PC4-17000)",
-            "램타이밍: CL15",
-            "1.20V",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "16",
-            "8"
-        ],
-        "size": "16",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/131/789/img/27789131_1.jpg?shrink=330:*&_v=20230825160314",
-        "Cate": "RAM"
-    },
-    {
-        "name": "실리콘파워 노트북 DDR4-2133 CL15",
-        "brand": "실리콘파워",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "2133MHz (PC4-17000)",
-            "램타이밍: CL15",
-            "1.20V",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "16",
-            "8"
-        ],
-        "size": "8",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/131/789/img/27789131_1.jpg?shrink=330:*&_v=20230825160314",
-        "Cate": "RAM"
-    },
-    {
         "name": "CORSAIR DDR4-3600 CL18-22-22 Dominator Platinum RGB 패키지",
         "brand": "CORSAIR",
         "spec": [
@@ -25850,23 +25002,6 @@
         "size": "32",
         "price": "380000",
         "img": "//img.danawa.com/prod_img/500000/204/811/img/16811204_1.jpg?shrink=330:*&_v=20220802151854",
-        "Cate": "RAM"
-    },
-    {
-        "name": "HIKVISION DDR4-2666 CL19 U1",
-        "brand": "HIKVISION",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "2666MHz (PC4-21300)",
-            "램타이밍: CL19",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "16"
-        ],
-        "size": "16",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/265/462/img/16462265_1.jpg?shrink=330:*&_v=20220224143157",
         "Cate": "RAM"
     },
     {
@@ -26000,26 +25135,6 @@
         "Cate": "RAM"
     },
     {
-        "name": "ESSENCORE KLEVV DDR4-3600 CL18 BOLT X",
-        "brand": "ESSENCORE",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "3600MHz (PC4-28800)",
-            "램타이밍: CL18-22-22-42",
-            "1.35V",
-            "램개수: 1개",
-            "XMP",
-            "히트싱크: 방열판",
-            "방열판 색상: 블랙",
-            "8"
-        ],
-        "size": "8",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/323/113/img/11113323_1.jpg?shrink=330:*&_v=20200821131608",
-        "Cate": "RAM"
-    },
-    {
         "name": "TeamGroup T-Force DDR4-2666 CL16 Delta RGB 화이트 패키지 가넷",
         "brand": "TeamGroup",
         "spec": [
@@ -26040,29 +25155,6 @@
         "size": "16",
         "price": "96070",
         "img": "//img.danawa.com/prod_img/500000/269/711/img/10711269_1.jpg?shrink=330:*&_v=20200821132736",
-        "Cate": "RAM"
-    },
-    {
-        "name": "써멀테이크 DDR4-3600 CL18 TOUGHRAM Z-ONE RGB 패키지",
-        "brand": "써멀테이크",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "3600MHz (PC4-28800)",
-            "램타이밍: CL18",
-            "1.35V",
-            "램개수: 2개",
-            "LED 라이트",
-            "XMP",
-            "히트싱크: 방열판",
-            "방열판 색상: 블랙",
-            "LED색상: RGB",
-            "LED 시스템: AURA SYNC, MYSTIC LIGHT, RGB FUSION, POLYCHROME, RAZER CHROMA, TT RGB PLUS",
-            "16"
-        ],
-        "size": "16",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/069/641/img/10641069_1.jpg?shrink=330:*&_v=20200821131608",
         "Cate": "RAM"
     },
     {
@@ -26265,27 +25357,6 @@
         "size": "16",
         "price": "225750",
         "img": "//img.danawa.com/prod_img/500000/144/143/img/5143144_1.jpg?shrink=330:*&_v=20200821132851",
-        "Cate": "RAM"
-    },
-    {
-        "name": "G.SKILL DDR4-3200 CL16 TRIDENT ZKO 패키지",
-        "brand": "G.SKILL",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "3200MHz (PC4-25600)",
-            "램타이밍: CL16-18-18-38",
-            "1.35V",
-            "램개수: 2개",
-            "XMP",
-            "히트싱크: 방열판",
-            "방열판 색상: 블랙",
-            "2016년 10월 부로 이노베이션티뮤 → 서린씨앤아이 로 유통사가 변경되었습니다.",
-            "16"
-        ],
-        "size": "16",
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/250/244/img/4244250_1.jpg?shrink=330:*&_v=20220825180022",
         "Cate": "RAM"
     },
     {

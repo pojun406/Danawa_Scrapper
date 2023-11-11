@@ -1126,30 +1126,6 @@
         "Cate": "HDD"
     },
     {
-        "name": "Seagate FireCuda 7200/256M",
-        "brand": "Seagate",
-        "spec": [
-            "HDD (PC용)",
-            "8.9cm(3.5인치)",
-            "8TB",
-            "SATA3 (6Gb/s)",
-            "7,200RPM",
-            "메모리 256MB",
-            "260MB/s",
-            "기록방식: CMR(PMR)",
-            "두께: 26.1mm",
-            "소음(유휴/탐색): 28/32dB",
-            "A/S 정보: 5년, 데이터 복구 3년"
-        ],
-        "size": [
-            "4",
-            "TB"
-        ],
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/848/482/img/16482848_1.jpg?shrink=330:*&_v=20220629150119",
-        "Cate": "HDD"
-    },
-    {
         "name": "Seagate BarraCuda Pro 7200/256M",
         "brand": "Seagate",
         "spec": [
@@ -2253,27 +2229,6 @@
         ],
         "price": "50000",
         "img": "//img.danawa.com/prod_img/large/group_315/157686_1.jpg?shrink=330:*&_v=20200528091104",
-        "Cate": "HDD"
-    },
-    {
-        "name": "Seagate BarraCuda LP SATA2/5900/32M",
-        "brand": "Seagate",
-        "spec": [
-            "HDD (PC용)",
-            "8.9cm(3.5인치)",
-            "1TB",
-            "SATA2(3Gb/s)",
-            "5,900RPM",
-            "32MB",
-            "두께: 26.1mm",
-            "저전력"
-        ],
-        "size": [
-            "1",
-            "TB"
-        ],
-        "price": "일시품절",
-        "img": "//img.danawa.com/prod_img/500000/230/937/img/937230_1.jpg?shrink=330:*&_v=20200528093640",
         "Cate": "HDD"
     },
     {
