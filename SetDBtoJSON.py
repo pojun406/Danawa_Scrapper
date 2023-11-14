@@ -86,18 +86,32 @@ for pc_case in case_data:
         product_salePrice = int(product_price) * 0.95
 
     product_description = ';'.join(pc_case.get('spec'))
-
-    matches = re.search(r'\(([^)]+)\)', product_description)
+    Size = pc_case.get('spec')[0]
+    matches = re.search(r'\(([^)]+)\)', Size)
     if matches:
-        Size = matches.group(1)
+        C_Size = matches.group(1)
+    else:
+        C_Size = Size
+
+    match_gpu1 = re.search(r'GPU 장착: (?:최대 )?(\d+)mm', product_description)
+    match_gpu2 = re.search(r'GPU 장착: (\d+)~(\d+)mm', product_description)
+    if match_gpu1:
+        gpu_size = match_gpu1.group(1)
+    elif match_gpu2:
+        gpu_size = match_gpu2.group(2)
+    else:
+        gpu_size = 0
+
+
+
     #start_index = Case_Size.find("(") + 1
     #end_index = Case_Size.find(")")
     #Size = Case_Size[start_index:end_index]
     product_img = pc_case.get('img')
-
-    insert_query = "INSERT INTO pc_case(manufacturer_name, product_name, product_salePrice, product_originalPrice, Case_Size, product_description, product_IMG) VALUES (%s, %s, %s, %s, %s, %s, %s)"
-    insert_value = (manufacturer_name, product_name, product_salePrice, product_originalPrice, Size, product_description, product_img)
-    cursor.execute(insert_query, insert_value)
+    if gpu_size != 0:
+        insert_query = "INSERT INTO pc_case(manufacturer_name, product_name, product_salePrice, product_originalPrice, Board_Size, GPU_Size, product_description, product_IMG) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)"
+        insert_value = (manufacturer_name, product_name, product_salePrice, product_originalPrice, C_Size, gpu_size, product_description, product_img)
+        cursor.execute(insert_query, insert_value)
 
 for pc_cooler in cooler_data:
     manufacturer_name = pc_cooler.get('brand')
@@ -207,8 +221,12 @@ for pc_cpu in cpu_data:
             formatted_socket_info = f"{socket_number}"
     product_img = pc_cpu.get('img')
 
-    insert_query = "INSERT INTO pc_cpu(manufacturer_name, product_name, product_salePrice, product_originalPrice, InterGrated_graphics, TDP, Socket_Type, Memory_Type, product_description, product_IMG)  VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
-    insert_value = (manufacturer_name, product_name, product_salePrice, product_originalPrice, integrated_graphics, tdp_value, formatted_socket_info, memory_type, product_description, product_img)
+    def_cooler = re.search(r'쿨러: (.+?);', product_description)
+    if def_cooler:
+        cooler_stat = def_cooler.group(1)
+
+    insert_query = "INSERT INTO pc_cpu(manufacturer_name, product_name, product_salePrice, product_originalPrice, InterGrated_graphics, TDP, Socket_Type, Memory_Type, Stock_Cooler, product_description, product_IMG)  VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
+    insert_value = (manufacturer_name, product_name, product_salePrice, product_originalPrice, integrated_graphics, tdp_value, formatted_socket_info, memory_type, cooler_stat, product_description, product_img)
     cursor.execute(insert_query, insert_value)
 
 for pc_hdd in hdd_data:
@@ -259,7 +277,6 @@ for pc_mboard in mboard_data:
     Socket = pc_mboard.get('spec')[0]
     WhatSocket = list(Socket)
     formatted_socket_info = ""
-    print("소켓 인포 : " + Socket)
 
     if WhatSocket[0] == "인":
         matches1 = re.search(r'인텔\(소켓(\d+)\)', Socket)
@@ -272,12 +289,22 @@ for pc_mboard in mboard_data:
             socket_number = matches2.group(1)
             formatted_socket_info = f"{socket_number}"
 
+    get_Memory = r'\b메모리\s+(DDR[0-9]+)\b'
+    Memory_match = re.search(get_Memory, product_description)
+    if Memory_match:
+        memory_type = Memory_match.group(1)
+        print(memory_type)
+
+    MHzType = product_description
+    getMHz = r'(\d{1,4}(?:,\d{3})*MHz)'
+    MHz = ''.join(re.findall(getMHz, MHzType)).replace(',', '')
+
 
     product_img = pc_mboard.get('img')
-
-    insert_query = "INSERT INTO pc_mboard(manufacturer_name, product_name, product_salePrice, product_originalPrice, Socket, MBoard_Size, product_description, product_IMG) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)"
-    insert_value = (manufacturer_name, product_name, product_salePrice, product_originalPrice, formatted_socket_info, M_Size, product_description, product_img)
-    cursor.execute(insert_query, insert_value)
+    if MHz != "":
+        insert_query = "INSERT INTO pc_mboard(manufacturer_name, product_name, product_salePrice, product_originalPrice, Socket, Memory_Type, MHz, MBoard_Size, product_description, product_IMG) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
+        insert_value = (manufacturer_name, product_name, product_salePrice, product_originalPrice, formatted_socket_info, memory_type, MHz, M_Size, product_description, product_img)
+        cursor.execute(insert_query, insert_value)
 
 for pc_power in power_data:
     manufacturer_name = pc_power.get('brand')
@@ -326,15 +353,19 @@ for pc_ram in ram_data:
 
     product_description = ';'.join(pc_ram.get('spec'))
 
-    split_tmp = product_description.split(";")
     size = pc_ram.get('size')
-    print("ram size : " + size)
-    Version = split_tmp[1]
+    Version = pc_ram.get('spec')[1]
+    ram_type = pc_ram.get('spec')[2]
+    getMHz = r'(\d+MHz)'
+    matchs = re.search(getMHz, ram_type)
+
+    if matchs:
+        MHz = matchs.group(1)
 
     product_img = pc_ram.get('img')
 
-    insert_query = "INSERT INTO pc_ram(manufacturer_name, product_name, product_salePrice, product_originalPrice, R_Size, Version, product_description, product_IMG) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)"
-    insert_value = (manufacturer_name, product_name, product_salePrice, product_originalPrice, size, Version, product_description, product_img)
+    insert_query = "INSERT INTO pc_ram(manufacturer_name, product_name, product_salePrice, product_originalPrice, R_Size, Version, MHz, product_description, product_IMG) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)"
+    insert_value = (manufacturer_name, product_name, product_salePrice, product_originalPrice, size, Version, MHz, product_description, product_img)
     cursor.execute(insert_query, insert_value)
 
 for pc_ssd in ssd_data:
@@ -396,11 +427,18 @@ for pc_vga in vga_data:
         print("최대 사용 와트 : " + Max_Used)
     else:
         Max_Used = 0
+
+    match_length = re.search(r'가로\(길이\): (\d+(\.\d+)?)mm', product_description)
+    if match_length:
+        VGA_size = match_length.group(1)
+    else:
+        VGA_size = 0
+
     VGA_Name = pc_vga.get('spec')[0]
     product_img = pc_vga.get('img')
     if TDP != 0 or Max_Used != 0:
-        insert_query = "INSERT INTO pc_vga(manufacturer_name, product_name, product_salePrice, product_originalPrice, VGA_Name, TDP, Max_Used_W, product_description, product_IMG) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)"
-        insert_value = (manufacturer_name, product_name, product_salePrice, product_originalPrice, VGA_Name, TDP, Max_Used, product_description, product_img)
+        insert_query = "INSERT INTO pc_vga(manufacturer_name, product_name, product_salePrice, product_originalPrice, VGA_Name, VGA_Size, TDP, Max_Used_W, product_description, product_IMG) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
+        insert_value = (manufacturer_name, product_name, product_salePrice, product_originalPrice, VGA_Name, VGA_size, TDP, Max_Used, product_description, product_img)
         cursor.execute(insert_query, insert_value)
 
 connection.commit()

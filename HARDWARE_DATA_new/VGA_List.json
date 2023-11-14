@@ -1910,26 +1910,6 @@
         "Cate": "VGA"
     },
     {
-        "name": "갤럭시 BOY 지포스 GT710 D3 1GB LP 무소음",
-        "brand": "갤럭시",
-        "spec": [
-            "GT710",
-            "28nm",
-            "베이스클럭: 954MHz",
-            "스트림 프로세서: 192개",
-            "PCIe2.0x8",
-            "GDDR3(DDR3)",
-            "출력단자: HDMI, DVI, D-SUB",
-            "부가기능: 4K 지원",
-            "정격파워 300W 이상",
-            "가로(길이): 165mm",
-            "두께: 34mm"
-        ],
-        "price": "45200",
-        "img": "//img.danawa.com/prod_img/500000/081/480/img/7480081_1.jpg?shrink=330:*&_v=20200825133709",
-        "Cate": "VGA"
-    },
-    {
         "name": "갤럭시 갤라즈 GALAX 지포스 GTX 1630 EX BLACK OC D6 4GB",
         "brand": "갤럭시",
         "spec": [
@@ -2593,29 +2573,6 @@
         "Cate": "VGA"
     },
     {
-        "name": "갤럭시 갤라즈 GALAX 지포스 GT610 D3 2GB LP",
-        "brand": "갤럭시",
-        "spec": [
-            "GT610",
-            "40nm",
-            "베이스클럭: 600MHz",
-            "스트림 프로세서: 48개",
-            "PCIe2.0x16",
-            "GDDR3(DDR3)",
-            "출력단자: HDMI, DVI(듀얼링크), D-SUB",
-            "사용전력: 최대 29W",
-            "정격파워 300W 이상",
-            "1개 팬",
-            "가로(길이): 142mm",
-            "두께: 15mm",
-            "A/S 3년",
-            "LP브라켓 포함"
-        ],
-        "price": "39060",
-        "img": "//img.danawa.com/prod_img/500000/853/568/img/15568853_1.jpg?shrink=330:*&_v=20211201111804",
-        "Cate": "VGA"
-    },
-    {
         "name": "ZOTAC GAMING 지포스 RTX 4090 AMP EXTREME AIRO D6X 24GB White",
         "brand": "ZOTAC",
         "spec": [
@@ -2914,25 +2871,6 @@
         "Cate": "VGA"
     },
     {
-        "name": "AFOX 지포스 GT730 D3 2GB LP 무소음 디앤디컴",
-        "brand": "AFOX",
-        "spec": [
-            "GT730",
-            "28nm",
-            "베이스클럭: 902MHz",
-            "스트림 프로세서: 384개",
-            "PCIe2.0x16",
-            "GDDR3(DDR3)",
-            "출력단자: HDMI, DVI(듀얼링크), D-SUB",
-            "부가기능: 4K 지원",
-            "가로(길이): 145mm",
-            "두께: 35mm"
-        ],
-        "price": "58950",
-        "img": "//img.danawa.com/prod_img/500000/574/077/img/14077574_1.jpg?shrink=330:*&_v=20210503144705",
-        "Cate": "VGA"
-    },
-    {
         "name": "XFX 라데온 RX 550 D5 4GB",
         "brand": "XFX",
         "spec": [
@@ -3188,28 +3126,6 @@
         ],
         "price": "831590",
         "img": "//img.danawa.com/prod_img/500000/703/714/img/19714703_1.jpg?shrink=330:*&_v=20230413215944",
-        "Cate": "VGA"
-    },
-    {
-        "name": "액슬 지포스 GT730 클래식 D3 2GB 에즈윈",
-        "brand": "액슬",
-        "spec": [
-            "GT730",
-            "28nm",
-            "부스트클럭: 700MHz",
-            "스트림 프로세서: 96개",
-            "PCIe2.0x16",
-            "GDDR3(DDR3)",
-            "출력단자: HDMI, DVI(듀얼링크), D-SUB",
-            "정격파워 300W 이상",
-            "1개 팬",
-            "가로(길이): 156mm",
-            "두께: 20mm",
-            "구성품: 일반브라켓, LP브라켓",
-            "A/S 3년"
-        ],
-        "price": "46550",
-        "img": "//img.danawa.com/prod_img/500000/677/809/img/28809677_1.jpg?shrink=330:*&_v=20231031165823",
         "Cate": "VGA"
     },
     {
@@ -3833,26 +3749,6 @@
         ],
         "price": "575000",
         "img": "//img.danawa.com/prod_img/500000/422/301/img/20301422_1.jpg?shrink=330:*&_v=20230524215959",
-        "Cate": "VGA"
-    },
-    {
-        "name": "갤럭시 GALAX 지포스 GT710 D3 1GB LP 무소음",
-        "brand": "갤럭시",
-        "spec": [
-            "GT710",
-            "베이스클럭: 954MHz",
-            "스트림 프로세서: 192개",
-            "PCIe2.0x8",
-            "GDDR3(DDR3)",
-            "출력단자: HDMI, DVI(듀얼링크)",
-            "부가기능: 4K 지원",
-            "정격파워 300W 이상",
-            "가로(길이): 148mm",
-            "두께: 28mm",
-            "2019년 2월 1일부터 쿨러 변경"
-        ],
-        "price": "48080",
-        "img": "//img.danawa.com/prod_img/500000/234/758/img/3758234_1.jpg?shrink=330:*&_v=20210407142412",
         "Cate": "VGA"
     },
     {
@@ -5082,24 +4978,6 @@
         "Cate": "VGA"
     },
     {
-        "name": "ASUS 지포스 GT710 SL EVO D3 2GB",
-        "brand": "ASUS",
-        "spec": [
-            "GT710",
-            "스트림 프로세서: 192개",
-            "PCIe2.0x8",
-            "GDDR3(DDR3)",
-            "출력단자: HDMI, DVI(듀얼링크), D-SUB",
-            "정격파워 300W 이상",
-            "무팬",
-            "가로(길이): 170mm",
-            "두께: 39mm"
-        ],
-        "price": "47450",
-        "img": "//img.danawa.com/prod_img/500000/770/432/img/18432770_1.jpg?shrink=330:*&_v=20221206135201",
-        "Cate": "VGA"
-    },
-    {
         "name": "STCOM 지포스 RTX 3060 Ti D6 8GB",
         "brand": "STCOM",
         "spec": [
@@ -5455,27 +5333,6 @@
         ],
         "price": "1219050",
         "img": "//img.danawa.com/prod_img/500000/851/675/img/18675851_1.jpg?shrink=330:*&_v=20230105230006",
-        "Cate": "VGA"
-    },
-    {
-        "name": "STCOM 지포스 G210 D3 1GB LP",
-        "brand": "STCOM",
-        "spec": [
-            "G210",
-            "베이스클럭: 589MHz",
-            "스트림 프로세서: 16개",
-            "PCIe2.0x16",
-            "GDDR3(DDR3)",
-            "출력단자: HDMI, DVI(듀얼링크), D-SUB",
-            "정격파워 300W 이상",
-            "전원 포트: 없음",
-            "1개 팬",
-            "가로(길이): 150mm",
-            "두께: 16.5mm",
-            "구성품: 일반브라켓, LP브라켓"
-        ],
-        "price": "24600",
-        "img": "//img.danawa.com/prod_img/500000/200/392/img/28392200_1.jpg?shrink=330:*&_v=20230921105600",
         "Cate": "VGA"
     },
     {
@@ -6830,28 +6687,6 @@
         ],
         "price": "367300",
         "img": "//img.danawa.com/prod_img/500000/520/642/img/19642520_1.jpg?shrink=330:*&_v=20230405163011",
-        "Cate": "VGA"
-    },
-    {
-        "name": "MSI 지포스 GT710 D3 1GB LP 무소음 V2",
-        "brand": "MSI",
-        "spec": [
-            "GT710",
-            "28nm",
-            "베이스클럭: 954MHz",
-            "스트림 프로세서: 192개",
-            "PCIe2.0x8",
-            "GDDR3(DDR3)",
-            "출력단자: HDMI, DVI(듀얼링크), D-SUB",
-            "부가기능: 4K 지원, HDCP 지원",
-            "사용전력: 최대 19W",
-            "정격파워 300W 이상",
-            "무팬",
-            "가로(길이): 146mm",
-            "두께: 19mm"
-        ],
-        "price": "48000",
-        "img": "//img.danawa.com/prod_img/500000/426/776/img/18776426_1.jpg?shrink=330:*&_v=20230117102505",
         "Cate": "VGA"
     },
     {
@@ -8551,27 +8386,6 @@
         "Cate": "VGA"
     },
     {
-        "name": "갤럭시 GALAX 지포스 GT730 D3 4GB LP",
-        "brand": "갤럭시",
-        "spec": [
-            "GT730",
-            "베이스클럭: 700MHz",
-            "스트림 프로세서: 96개",
-            "PCIe2.0x8",
-            "GDDR3(DDR3)",
-            "출력단자: HDMI, DVI(듀얼링크), D-SUB",
-            "사용전력: 최대 50W",
-            "정격파워 300W 이상",
-            "1개 팬",
-            "가로(길이): 148mm",
-            "두께: 15mm",
-            "A/S 3년"
-        ],
-        "price": "69160",
-        "img": "//img.danawa.com/prod_img/500000/332/225/img/18225332_1.jpg?shrink=330:*&_v=20221109131006",
-        "Cate": "VGA"
-    },
-    {
         "name": "GIGABYTE 지포스 RTX 4070 AERO OC D6X 12GB 피씨디렉트",
         "brand": "GIGABYTE",
         "spec": [
@@ -8804,27 +8618,6 @@
         ],
         "price": "1948900",
         "img": "//img.danawa.com/prod_img/500000/969/841/img/19841969_1.jpg?shrink=330:*&_v=20230419103021",
-        "Cate": "VGA"
-    },
-    {
-        "name": "갤럭시 갤라즈 GALAX 지포스 GT710 D3 2GB LP 무소음",
-        "brand": "갤럭시",
-        "spec": [
-            "GT710",
-            "베이스클럭: 954MHz",
-            "스트림 프로세서: 192개",
-            "PCIe2.0x8",
-            "GDDR3(DDR3)",
-            "출력단자: HDMI, DVI(듀얼링크), D-SUB",
-            "부가기능: 4K 지원",
-            "사용전력: 최대 19W",
-            "정격파워 300W 이상",
-            "가로(길이): 148mm",
-            "두께: 28mm",
-            "A/S 3년"
-        ],
-        "price": "50270",
-        "img": "//img.danawa.com/prod_img/500000/706/963/img/16963706_1.jpg?shrink=330:*&_v=20220502160716",
         "Cate": "VGA"
     },
     {
@@ -9315,27 +9108,6 @@
         "Cate": "VGA"
     },
     {
-        "name": "갤럭시 갤라즈 BOY 지포스 GT730 D3 4GB LP",
-        "brand": "갤럭시",
-        "spec": [
-            "GT730",
-            "베이스클럭: 700MHz",
-            "스트림 프로세서: 96개",
-            "PCIe2.0x8",
-            "GDDR3(DDR3)",
-            "출력단자: HDMI, DVI(듀얼링크), D-SUB",
-            "사용전력: 최대 50W",
-            "정격파워 300W 이상",
-            "1개 팬",
-            "가로(길이): 148mm",
-            "두께: 15mm",
-            "A/S 3년"
-        ],
-        "price": "67960",
-        "img": "//img.danawa.com/prod_img/500000/317/240/img/18240317_1.jpg?shrink=330:*&_v=20221110132641",
-        "Cate": "VGA"
-    },
-    {
         "name": "GIGABYTE AORUS 지포스 RTX 4080 Xtreme 워터블럭 D6X 16GB 피씨디렉트",
         "brand": "GIGABYTE",
         "spec": [
@@ -9360,28 +9132,6 @@
         ],
         "price": "2031180",
         "img": "//img.danawa.com/prod_img/500000/978/365/img/18365978_1.jpg?shrink=330:*&_v=20230831170516",
-        "Cate": "VGA"
-    },
-    {
-        "name": "COLORFUL 지포스 GT710 REVENGE D3 1GB",
-        "brand": "COLORFUL",
-        "spec": [
-            "GT710",
-            "28nm",
-            "베이스클럭: 954MHz",
-            "스트림 프로세서: 192개",
-            "PCIe2.0x8",
-            "GDDR3(DDR3)",
-            "출력단자: HDMI, DVI, D-SUB",
-            "부가기능: 4K 지원",
-            "사용전력: 최대 19W",
-            "전원부: 1+1페이즈",
-            "가로(길이): 170mm",
-            "두께: 18mm",
-            "A/S 3년"
-        ],
-        "price": "46230",
-        "img": "//img.danawa.com/prod_img/500000/441/441/img/7441441_1.jpg?shrink=330:*&_v=20220802132519",
         "Cate": "VGA"
     },
     {
@@ -9621,28 +9371,6 @@
         ],
         "price": "748780",
         "img": "//img.danawa.com/prod_img/500000/725/059/img/25059725_1.jpg?shrink=330:*&_v=20230801095101",
-        "Cate": "VGA"
-    },
-    {
-        "name": "COLORFUL 지포스 GT710 REVENGE D3 2GB LP",
-        "brand": "COLORFUL",
-        "spec": [
-            "GT710",
-            "28nm",
-            "베이스클럭: 954MHz",
-            "스트림 프로세서: 192개",
-            "GDDR3(DDR3)",
-            "출력단자: HDMI, DVI, D-SUB",
-            "부가기능: 4K 지원",
-            "사용전력: 최대 19W",
-            "전원부: 1+1페이즈",
-            "1개 팬",
-            "가로(길이): 158mm",
-            "두께: 22mm",
-            "A/S 3년"
-        ],
-        "price": "46340",
-        "img": "//img.danawa.com/prod_img/500000/296/372/img/18372296_1.jpg?shrink=330:*&_v=20221128123713",
         "Cate": "VGA"
     },
     {
@@ -10007,27 +9735,6 @@
         "Cate": "VGA"
     },
     {
-        "name": "MSI 지포스 GT730 V1 D3 2GB LP 무소음",
-        "brand": "MSI",
-        "spec": [
-            "GT730",
-            "28nm",
-            "부스트클럭: 902MHz",
-            "스트림 프로세서: 384개",
-            "PCIe2.0x8",
-            "GDDR3(DDR3)",
-            "출력단자: HDMI, DVI(듀얼링크), D-SUB",
-            "부가기능: 4K 지원, HDCP 지원",
-            "사용전력: 최대 23W ",
-            "정격파워 300W 이상",
-            "가로(길이): 146mm",
-            "두께: 39mm"
-        ],
-        "price": "69000",
-        "img": "//img.danawa.com/prod_img/500000/512/508/img/14508512_1.jpg?shrink=330:*&_v=20210617150052",
-        "Cate": "VGA"
-    },
-    {
         "name": "GIGABYTE 지포스 RTX 4060 Ti Gaming OC D6 16GB 제이씨현",
         "brand": "GIGABYTE",
         "spec": [
@@ -10051,30 +9758,6 @@
         ],
         "price": "785000",
         "img": "//img.danawa.com/prod_img/500000/950/273/img/27273950_1.jpg?shrink=330:*&_v=20230807150428",
-        "Cate": "VGA"
-    },
-    {
-        "name": "갤럭시 갤라즈 BOY 지포스 GT610 D3 2GB LP",
-        "brand": "갤럭시",
-        "spec": [
-            "GT610",
-            "40nm",
-            "베이스클럭: 600MHz",
-            "스트림 프로세서: 48개",
-            "PCIe2.0x16",
-            "GDDR3(DDR3)",
-            "출력단자: HDMI, DVI(듀얼링크), D-SUB",
-            "사용전력: 최대 29W",
-            "정격파워 300W 이상",
-            "1개 팬",
-            "가로(길이): 142mm",
-            "두께: 15mm",
-            "A/S 3년",
-            "LP브라켓 포함",
-            "2022년 1월 패키지 변경"
-        ],
-        "price": "39470",
-        "img": "//img.danawa.com/prod_img/500000/996/626/img/15626996_1.jpg?shrink=330:*&_v=20220105134827",
         "Cate": "VGA"
     },
     {
@@ -10179,25 +9862,6 @@
         ],
         "price": "1170790",
         "img": "//img.danawa.com/prod_img/500000/795/520/img/19520795_1.jpg?shrink=330:*&_v=20231030163139",
-        "Cate": "VGA"
-    },
-    {
-        "name": "액슬 지포스 G210 D3 1GB 에즈윈",
-        "brand": "액슬",
-        "spec": [
-            "G210",
-            "베이스클럭: 589MHz",
-            "PCIe2.0x16",
-            "GDDR3(DDR3)",
-            "출력단자: HDMI, DVI, D-SUB",
-            "1개 팬",
-            "가로(길이): 150mm",
-            "두께: 18mm",
-            "구성품: 일반브라켓, LP브라켓",
-            "A/S 3년"
-        ],
-        "price": "23690",
-        "img": "//img.danawa.com/prod_img/500000/323/809/img/28809323_1.jpg?shrink=330:*&_v=20231017163404",
         "Cate": "VGA"
     },
     {
@@ -10742,26 +10406,6 @@
         ],
         "price": "426220",
         "img": "//img.danawa.com/prod_img/500000/782/745/img/20745782_1.jpg?shrink=330:*&_v=20230630161621",
-        "Cate": "VGA"
-    },
-    {
-        "name": "AFOX 지포스 G210 D3 512MB LP 디앤디컴",
-        "brand": "AFOX",
-        "spec": [
-            "G210",
-            "베이스클럭: 589MHz",
-            "스트림 프로세서: 16개",
-            "PCIe2.0x16",
-            "DDR3(DDR3)",
-            "출력단자: HDMI, DVI(듀얼링크), D-SUB",
-            "사용전력: 최대 30.5W",
-            "정격파워 300W 이상",
-            "1개 팬",
-            "가로(길이): 150mm",
-            "두께: 30mm"
-        ],
-        "price": "26000",
-        "img": "//img.danawa.com/prod_img/500000/739/077/img/14077739_1.jpg?shrink=330:*&_v=20210510142720",
         "Cate": "VGA"
     },
     {
@@ -11554,26 +11198,6 @@
         "Cate": "VGA"
     },
     {
-        "name": "MSI 지포스 GT710 D3 2GB LP 무소음",
-        "brand": "MSI",
-        "spec": [
-            "GT710",
-            "28nm",
-            "베이스클럭: 954MHz",
-            "스트림 프로세서: 192개",
-            "PCIe2.0x8",
-            "GDDR3(DDR3)",
-            "출력단자: HDMI, DVI(듀얼링크)",
-            "사용전력: 최대 19W",
-            "정격파워 300W 이상",
-            "가로(길이): 146mm",
-            "두께: 19mm"
-        ],
-        "price": "47980",
-        "img": "//img.danawa.com/prod_img/500000/562/734/img/3734562_1.jpg?shrink=330:*&_v=20230901110703",
-        "Cate": "VGA"
-    },
-    {
         "name": "AFOX 지포스 GTX1050 Ti H5 D5 4GB DUAL 디앤디컴",
         "brand": "AFOX",
         "spec": [
@@ -11880,25 +11504,6 @@
         ],
         "price": "194400",
         "img": "//img.danawa.com/prod_img/500000/076/231/img/16231076_1.jpg?shrink=330:*&_v=20220610100923",
-        "Cate": "VGA"
-    },
-    {
-        "name": "ASUS 지포스 GT730 SL EVO D3 2GB",
-        "brand": "ASUS",
-        "spec": [
-            "GT730",
-            "스트림 프로세서: 384개",
-            "PCIe2.0x8",
-            "GDDR3(DDR3)",
-            "출력단자: HDMI, DVI(듀얼링크), D-SUB",
-            "부가기능: 4K 지원, HDCP 지원",
-            "정격파워 300W 이상",
-            "무팬",
-            "가로(길이): 170mm",
-            "두께: 39mm"
-        ],
-        "price": "66330",
-        "img": "//img.danawa.com/prod_img/500000/013/433/img/18433013_1.jpg?shrink=330:*&_v=20221206141348",
         "Cate": "VGA"
     },
     {
@@ -14675,26 +14280,6 @@
         "Cate": "VGA"
     },
     {
-        "name": "AFOX 지포스 GT730 D3 1GB LP 무소음 디앤디컴",
-        "brand": "AFOX",
-        "spec": [
-            "GT730",
-            "28nm",
-            "베이스클럭: 902MHz",
-            "스트림 프로세서: 384개",
-            "PCIe2.0x16",
-            "GDDR3(DDR3)",
-            "출력단자: HDMI, DVI, D-SUB",
-            "부가기능: 4K 지원",
-            "정격파워 300W 이상",
-            "가로(길이): 145mm",
-            "두께: 35mm"
-        ],
-        "price": "52360",
-        "img": "//img.danawa.com/prod_img/500000/078/429/img/14429078_1.jpg?shrink=330:*&_v=20230220160631",
-        "Cate": "VGA"
-    },
-    {
         "name": "GIGABYTE 라데온 RX 6800 XT Gaming OC D6 16GB 피씨디렉트",
         "brand": "GIGABYTE",
         "spec": [
@@ -15927,25 +15512,6 @@
         ],
         "price": "1200970",
         "img": "//img.danawa.com/prod_img/500000/862/670/img/18670862_1.jpg?shrink=330:*&_v=20230203123914",
-        "Cate": "VGA"
-    },
-    {
-        "name": "갤럭시 지포스 GT610 D3 2GB LP",
-        "brand": "갤럭시",
-        "spec": [
-            "GT610",
-            "40nm",
-            "베이스클럭: 810MHz",
-            "스트림 프로세서: 48개",
-            "PCIe2.0x16",
-            "GDDR3(DDR3)",
-            "출력단자: HDMI, DVI(듀얼링크), D-SUB",
-            "사용전력: 최대 29W",
-            "정격파워 300W 이상",
-            "가로(길이): 152mm"
-        ],
-        "price": "40000",
-        "img": "//img.danawa.com/prod_img/500000/462/695/img/1695462_1.jpg?shrink=330:*&_v=20211101155413",
         "Cate": "VGA"
     },
     {
@@ -19052,25 +18618,6 @@
         "Cate": "VGA"
     },
     {
-        "name": "MAXSUN 지포스 GT710 파워해머 D3 1GB",
-        "brand": "MAXSUN",
-        "spec": [
-            "GT710",
-            "28nm",
-            "베이스클럭: 954MHz",
-            "스트림 프로세서: 192개",
-            "PCIe2.0x8",
-            "GDDR3(DDR3)",
-            "출력단자: HDMI, DVI, D-SUB",
-            "1개 팬",
-            "가로(길이): 145mm",
-            "두께: 23mm"
-        ],
-        "price": "50820",
-        "img": "//img.danawa.com/prod_img/500000/492/518/img/12518492_1.jpg?shrink=330:*&_v=20230113103107",
-        "Cate": "VGA"
-    },
-    {
         "name": "PNY 지포스 GTX 1650 D6 4GB Dual 제이씨현",
         "brand": "PNY",
         "spec": [
@@ -19484,27 +19031,6 @@
         "Cate": "VGA"
     },
     {
-        "name": "리드텍 WinFast 지포스 GT730 D3 1GB LP",
-        "brand": "리드텍",
-        "spec": [
-            "GT730",
-            "28nm",
-            "베이스클럭: 902MHz",
-            "스트림 프로세서: 384개",
-            "PCIe2.0x16",
-            "SDDR3(DDR3)",
-            "출력단자: HDMI, DVI(듀얼링크), D-SUB",
-            "사용전력: 최대 23W ",
-            "정격파워 300W 이상",
-            "1개 팬",
-            "가로(길이): 145mm",
-            "두께: 21mm"
-        ],
-        "price": "76180",
-        "img": "//img.danawa.com/prod_img/500000/244/745/img/15745244_1.jpg?shrink=330:*&_v=20211123131401",
-        "Cate": "VGA"
-    },
-    {
         "name": "GIGABYTE AORUS 지포스 RTX 3070 Master V2 D6 8GB 제이씨현",
         "brand": "GIGABYTE",
         "spec": [
@@ -19601,25 +19127,6 @@
         ],
         "price": "146000",
         "img": "//img.danawa.com/prod_img/500000/032/187/img/6187032_1.jpg?shrink=330:*&_v=20220714091646",
-        "Cate": "VGA"
-    },
-    {
-        "name": "갤럭시 GALAX 지포스 GT710 D3 1GB LP",
-        "brand": "갤럭시",
-        "spec": [
-            "GT710",
-            "베이스클럭: 954MHz",
-            "스트림 프로세서: 192개",
-            "PCIe2.0x8",
-            "GDDR3(DDR3)",
-            "출력단자: HDMI, DVI(듀얼링크)",
-            "정격파워 300W 이상",
-            "1개 팬",
-            "가로(길이): 158mm",
-            "두께: 18mm"
-        ],
-        "price": "49000",
-        "img": "//img.danawa.com/prod_img/500000/148/745/img/3745148_1.jpg?shrink=330:*&_v=20220307143300",
         "Cate": "VGA"
     },
     {
@@ -21570,27 +21077,6 @@
         "Cate": "VGA"
     },
     {
-        "name": "AFOX 지포스 G210 D3 512MB LP",
-        "brand": "AFOX",
-        "spec": [
-            "G210",
-            "베이스클럭: 589MHz",
-            "스트림 프로세서: 16개",
-            "PCIe2.0x16",
-            "DDR3(DDR3)",
-            "출력단자: HDMI, DVI(듀얼링크), D-SUB",
-            "사용전력: 최대 30.5W",
-            "정격파워 300W 이상",
-            "1개 팬",
-            "가로(길이): 150mm",
-            "두께: 30mm",
-            "2021년 3월부로 엑슬비젼→트리플제이로 변경되었습니다"
-        ],
-        "price": "24700",
-        "img": "//img.danawa.com/prod_img/500000/550/317/img/9317550_1.jpg?shrink=330:*&_v=20210316092741",
-        "Cate": "VGA"
-    },
-    {
         "name": "INNO3D 지포스 RTX 4070 OC D6X 12GB X3",
         "brand": "INNO3D",
         "spec": [
@@ -21953,30 +21439,6 @@
         ],
         "price": "924000",
         "img": "//img.danawa.com/prod_img/500000/707/022/img/17022707_1.jpg?shrink=330:*&_v=20230705152506",
-        "Cate": "VGA"
-    },
-    {
-        "name": "TAGER 지포스 GT730 D3 1GB LP V2",
-        "brand": "TAGER",
-        "spec": [
-            "GT730",
-            "16nm",
-            "베이스클럭: 901MHz",
-            "부스트클럭: 993MHz",
-            "스트림 프로세서: 384개",
-            "PCIe3.0x16",
-            "GDDR3(DDR3)",
-            "출력단자: HDMI2.0, DVI, D-SUB",
-            "부가기능: HDCP 지원",
-            "사용전력: 최대 35W",
-            "정격파워 300W 이상",
-            "전원 포트: 6핀 x1",
-            "1개 팬",
-            "가로(길이): 168mm",
-            "두께: 28mm"
-        ],
-        "price": "48360",
-        "img": "//img.danawa.com/prod_img/500000/574/265/img/18265574_1.jpg?shrink=330:*&_v=20221114143333",
         "Cate": "VGA"
     },
     {
@@ -22382,27 +21844,6 @@
         "Cate": "VGA"
     },
     {
-        "name": "TAGER 지포스 G210 D3 512MB LP",
-        "brand": "TAGER",
-        "spec": [
-            "G210",
-            "40nm",
-            "베이스클럭: 589MHz",
-            "스트림 프로세서: 16개",
-            "PCIe2.0x16",
-            "DDR3(DDR3)",
-            "출력단자: HDMI, DVI, D-SUB",
-            "사용전력: 최대 31W",
-            "정격파워 300W 이상",
-            "1개 팬",
-            "가로(길이): 150mm",
-            "두께: 17mm"
-        ],
-        "price": "23500",
-        "img": "//img.danawa.com/prod_img/500000/526/602/img/11602526_1.jpg?shrink=330:*&_v=20200618150344",
-        "Cate": "VGA"
-    },
-    {
         "name": "INNO3D 지포스 RTX 4060 Ti OC D6 8GB Twin X2",
         "brand": "INNO3D",
         "spec": [
@@ -22522,27 +21963,6 @@
         ],
         "price": "559360",
         "img": "//img.danawa.com/prod_img/500000/224/316/img/20316224_1.jpg?shrink=330:*&_v=20231030170058",
-        "Cate": "VGA"
-    },
-    {
-        "name": "ARKTEK 지포스 GT730 D3 2GB LP",
-        "brand": "ARKTEK",
-        "spec": [
-            "GT730",
-            "28nm",
-            "부스트클럭: 700MHz",
-            "스트림 프로세서: 96개",
-            "PCIe2.0x16",
-            "GDDR3(DDR3)",
-            "출력단자: HDMI, DVI, D-SUB",
-            "부가기능: HDCP 지원",
-            "사용전력: 최대 23W",
-            "1개 팬",
-            "가로(길이): 150mm",
-            "A/S 3년"
-        ],
-        "price": "52060",
-        "img": "//img.danawa.com/prod_img/500000/369/827/img/18827369_1.jpg?shrink=330:*&_v=20230623092208",
         "Cate": "VGA"
     },
     {
@@ -23039,27 +22459,6 @@
         "Cate": "VGA"
     },
     {
-        "name": "FORSA 지포스 GT710 D3 2GB LP",
-        "brand": "FORSA",
-        "spec": [
-            "GT710",
-            "28nm",
-            "베이스클럭: 954MHz",
-            "스트림 프로세서: 192개",
-            "PCIe2.0x8",
-            "GDDR3(DDR3)",
-            "출력단자: HDMI, DVI, D-SUB",
-            "사용전력: 최대 35W",
-            "정격파워 300W 이상",
-            "1개 팬",
-            "가로(길이): 150mm",
-            "두께: 15mm"
-        ],
-        "price": "45610",
-        "img": "//img.danawa.com/prod_img/500000/381/687/img/20687381_1.jpg?shrink=330:*&_v=20230627130126",
-        "Cate": "VGA"
-    },
-    {
         "name": "AMD 라데온 PRO W7800 D6 32GB",
         "brand": "AMD",
         "spec": [
@@ -23351,47 +22750,6 @@
         ],
         "price": "2914000",
         "img": "//img.danawa.com/prod_img/500000/716/490/img/20490716_1.jpg?shrink=330:*&_v=20230609175003",
-        "Cate": "VGA"
-    },
-    {
-        "name": "FORSA 지포스 GT730 D3 1GB LP",
-        "brand": "FORSA",
-        "spec": [
-            "GT730",
-            "베이스클럭: 902MHz",
-            "스트림 프로세서: 384개",
-            "PCIe3.0x16",
-            "GDDR3(DDR3)",
-            "출력단자: HDMI, DVI(듀얼링크)",
-            "사용전력: 최대 40W",
-            "정격파워 300W 이상",
-            "1개 팬",
-            "가로(길이): 168mm",
-            "두께: 19mm"
-        ],
-        "price": "48950",
-        "img": "//img.danawa.com/prod_img/500000/594/028/img/3028594_1.jpg?shrink=330:*&_v=20221107154757",
-        "Cate": "VGA"
-    },
-    {
-        "name": "FORSA 지포스 G210 D3 512MB",
-        "brand": "FORSA",
-        "spec": [
-            "G210",
-            "40nm",
-            "베이스클럭: 589MHz",
-            "스트림 프로세서: 16개",
-            "PCIe2.0x16",
-            "SDDR3(DDR3)",
-            "출력단자: HDMI, DVI(듀얼링크), D-SUB",
-            "사용전력: 최대 30.5W",
-            "정격파워 300W 이상",
-            "1개 팬",
-            "가로(길이): 148mm",
-            "두께: 18mm"
-        ],
-        "price": "27810",
-        "img": "//img.danawa.com/prod_img/500000/552/878/img/1878552_1.jpg?shrink=330:*&_v=20180410154115",
         "Cate": "VGA"
     },
     {
@@ -23713,25 +23071,6 @@
         "Cate": "VGA"
     },
     {
-        "name": "ARKTEK 지포스 G210 D3 1GB LP",
-        "brand": "ARKTEK",
-        "spec": [
-            "G210",
-            "베이스클럭: 589MHz",
-            "스트림 프로세서: 16개",
-            "PCIe2.0x16",
-            "GDDR3(DDR3)",
-            "출력단자: HDMI, DVI, D-SUB",
-            "부가기능: HDCP 지원",
-            "사용전력: 최대 30.5W",
-            "1개 팬",
-            "가로(길이): 150mm"
-        ],
-        "price": "28310",
-        "img": "//img.danawa.com/prod_img/500000/113/131/img/11131113_1.jpg?shrink=330:*&_v=20230302175144",
-        "Cate": "VGA"
-    },
-    {
         "name": "TAGER 지포스 GTX 1660 SUPER D6 6GB",
         "brand": "TAGER",
         "spec": [
@@ -23800,28 +23139,6 @@
         ],
         "price": "172570",
         "img": "//img.danawa.com/prod_img/500000/904/419/img/6419904_1.jpg?shrink=330:*&_v=20211122180857",
-        "Cate": "VGA"
-    },
-    {
-        "name": "FORSA 지포스 GT730 128bit D3 1GB",
-        "brand": "FORSA",
-        "spec": [
-            "GT730",
-            "16nm",
-            "베이스클럭: 901MHz",
-            "부스트클럭: 993MHz",
-            "스트림 프로세서: 384개",
-            "PCIe3.0x16",
-            "SDDR3(DDR3)",
-            "출력단자: HDMI2.0, DVI, D-SUB",
-            "부가기능: HDCP 지원",
-            "정격파워 300W 이상",
-            "1개 팬",
-            "가로(길이): 168mm",
-            "두께: 28mm"
-        ],
-        "price": "49440",
-        "img": "//img.danawa.com/prod_img/500000/060/844/img/6844060_1.jpg?shrink=330:*&_v=20201021141056",
         "Cate": "VGA"
     },
     {
@@ -24251,27 +23568,6 @@
         "Cate": "VGA"
     },
     {
-        "name": "AFOX 지포스 GT730 D3 2GB LP 무소음",
-        "brand": "AFOX",
-        "spec": [
-            "GT730",
-            "28nm",
-            "베이스클럭: 901MHz",
-            "스트림 프로세서: 384개",
-            "PCIe2.0x8",
-            "GDDR3(DDR3)",
-            "출력단자: HDMI, DVI(듀얼링크), D-SUB",
-            "부가기능: 4K 지원",
-            "사용전력: 최대 38W ",
-            "정격파워 300W 이상",
-            "가로(길이): 145mm",
-            "두께: 35mm"
-        ],
-        "price": "60000",
-        "img": "//img.danawa.com/prod_img/500000/992/815/img/13815992_1.jpg?shrink=330:*&_v=20210406144033",
-        "Cate": "VGA"
-    },
-    {
         "name": "APPLE 라데온 PRO W6900X MPX 모듈 MJ103KH/A",
         "brand": "APPLE",
         "spec": [
@@ -24433,27 +23729,6 @@
         "Cate": "VGA"
     },
     {
-        "name": "TAGER 지포스 GT730 D3 1GB LP",
-        "brand": "TAGER",
-        "spec": [
-            "GT730",
-            "베이스클럭: 901MHz",
-            "부스트클럭: 993MHz",
-            "스트림 프로세서: 384개",
-            "PCIe3.0x16",
-            "GDDR3(DDR3)",
-            "출력단자: HDMI2.0, DVI, D-SUB",
-            "부가기능: HDCP 지원",
-            "정격파워 300W 이상",
-            "1개 팬",
-            "가로(길이): 168mm",
-            "두께: 28mm"
-        ],
-        "price": "50360",
-        "img": "//img.danawa.com/prod_img/500000/727/602/img/11602727_1.jpg?shrink=330:*&_v=20201021141049",
-        "Cate": "VGA"
-    },
-    {
         "name": "PALIT 지포스 RTX 4080 GAMINGPRO D6X 16GB",
         "brand": "PALIT",
         "spec": [
@@ -24578,28 +23853,6 @@
         ],
         "price": "3939000",
         "img": "//img.danawa.com/prod_img/500000/656/213/img/12213656_1.jpg?shrink=330:*&_v=20201204102137",
-        "Cate": "VGA"
-    },
-    {
-        "name": "액슬 지포스 GT730 클래식 D3 2GB",
-        "brand": "액슬",
-        "spec": [
-            "GT730",
-            "28nm",
-            "베이스클럭: 600MHz",
-            "부스트클럭: 700MHz",
-            "스트림 프로세서: 96개",
-            "GDDR3(DDR3)",
-            "출력단자: HDMI, DVI(듀얼링크), D-SUB",
-            "부가기능: 4K 지원",
-            "사용전력: 최대 23W ",
-            "정격파워 300W 이상",
-            "1개 팬",
-            "가로(길이): 162mm",
-            "두께: 15mm"
-        ],
-        "price": "81025",
-        "img": "//img.danawa.com/prod_img/500000/891/093/img/14093891_1.jpg?shrink=330:*&_v=20210520181803",
         "Cate": "VGA"
     },
     {

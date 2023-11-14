@@ -24357,29 +24357,6 @@
         "img": "//img.danawa.com/prod_img/500000/559/169/img/18169559_1.jpg?shrink=330:*&_v=20221102145332"
     },
     {
-        "name": "ASUS P9D-MH/10G-DUAL STCOM",
-        "brand": "ASUS",
-        "spec": [
-            "인텔(소켓1150)",
-            "인텔 C224",
-            "Micro-ATX (24.4 x 24.4cm)",
-            "메모리 DDR3",
-            "1600MHz (PC3-12800)",
-            "4개",
-            "메모리 용량: 최대 32GB",
-            "PCIe버전: PCIe",
-            "PCIex8: 2개",
-            "PCIex1: 1개",
-            "저장장치 SATA3: 4개",
-            "후면단자 D-SUB",
-            "USB 3.0",
-            "PS/2",
-            "기가비트"
-        ],
-        "price": "524980",
-        "img": "//img.danawa.com/prod_img/500000/637/226/img/3226637_1.jpg?shrink=330:*&_v=20170410145807"
-    },
-    {
         "name": "ASRock B650 Pro RS + WiFi6E 모듈 패키지 디앤디컴",
         "brand": "ASRock",
         "spec": [
@@ -25581,33 +25558,6 @@
         ],
         "price": "231000",
         "img": "//img.danawa.com/prod_img/500000/291/015/img/7015291_1.jpg?shrink=330:*&_v=20210831172934"
-    },
-    {
-        "name": "ASUS H81M-K STCOM",
-        "brand": "ASUS",
-        "spec": [
-            "인텔(소켓1150)",
-            "인텔 H81",
-            "Micro-ATX (24.4 x 24.4cm)",
-            "메모리 DDR3",
-            "1600MHz (PC3-12800)",
-            "2개",
-            "메모리 용량: 최대 16GB",
-            "VGA 연결: PCIe x16",
-            "PCIe버전: PCIe",
-            "PCIex16: 1개",
-            "PCIex1: 2개",
-            "저장장치 SATA3: 2개",
-            "후면단자 D-SUB",
-            "DVI",
-            "USB 3.0",
-            "PS/2",
-            "랜/오디오 기가비트",
-            "오디오 칩셋: Realtek ALC887",
-            "7.1채널(8ch)"
-        ],
-        "price": "125660",
-        "img": "//img.danawa.com/prod_img/500000/395/494/img/2494395_1.jpg?shrink=330:*&_v=20230404170948"
     },
     {
         "name": "ASRock H610M-HDV/M.2 R2.0 D4 에즈윈 (벌크)",
@@ -31300,41 +31250,6 @@
         ],
         "price": "529000",
         "img": "//img.danawa.com/prod_img/500000/614/422/img/13422614_1.jpg?shrink=330:*&_v=20210813112513"
-    },
-    {
-        "name": "BIOSTAR RACING X370GT5 이엠텍",
-        "brand": "BIOSTAR",
-        "spec": [
-            "AMD(소켓AM4)",
-            "AMD X370",
-            "일반-ATX (30.5 x 22.5cm)",
-            "전원부: 7페이즈",
-            "메모리 DDR4",
-            "3200MHz (PC4-25600)",
-            "4개",
-            "메모리 용량: 최대 64GB",
-            "확장슬롯 VGA 연결: PCIe3.0 x16",
-            "PCIe버전: PCIe",
-            "PCIex16: 1개",
-            "PCIex1: 2개",
-            "PCI: 2개",
-            "저장장치 M.2: 1개",
-            "SATA3: 6개",
-            "M.2 연결: PCIe, SATA",
-            "후면단자 DVI",
-            "HDMI",
-            "USB 3.1",
-            "USB 3.0",
-            "오디오잭",
-            "PS/2",
-            "랜/오디오 기가비트",
-            "오디오 칩셋: Realtek ALC892",
-            "7.1채널(8ch)",
-            "특징 LED 라이트",
-            "UEFI"
-        ],
-        "price": "170000",
-        "img": "//img.danawa.com/prod_img/500000/644/946/img/4946644_1.jpg?shrink=330:*&_v=20210819133018"
     },
     {
         "name": "GIGABYTE B660M D3H D4 듀러블에디션 피씨디렉트",
@@ -38635,35 +38550,6 @@
         "img": "//img.danawa.com/prod_img/500000/610/067/img/12067610_1.jpg?shrink=330:*&_v=20220429165333"
     },
     {
-        "name": "에너지옵티머스 B75USB BTC-8P (벌크)",
-        "brand": "에너지옵티머스",
-        "spec": [
-            "인텔(소켓1155)",
-            "인텔 B75",
-            "ATX (23x18.5cm)",
-            "전원부: 4페이즈",
-            "메모리 DDR3",
-            "2개",
-            "메모리 용량: 최대 16GB",
-            "확장슬롯 VGA 연결: PCIe 호환",
-            "PCIe버전: PCIe",
-            "PCIex1: USB 8개",
-            "저장장치 SATA3: 4개",
-            "후면단자 D-SUB",
-            "HDMI",
-            "USB 3.0",
-            "USB 2.0",
-            "RJ-45",
-            "랜/오디오 기가비트",
-            "RJ-45: 1개",
-            "내부I/O I/O 헤더: USB 3.0 헤더, USB 2.0 헤더",
-            "USB2.0 헤더: 1개",
-            "USB3.0 헤더: 1개"
-        ],
-        "price": "71300",
-        "img": "//img.danawa.com/prod_img/500000/656/670/img/17670656_1.jpg?shrink=330:*&_v=20220817131551"
-    },
-    {
         "name": "ASUS TUF Gaming B550-PLUS 아이보라",
         "brand": "ASUS",
         "spec": [
@@ -39501,33 +39387,6 @@
         "img": "//img.danawa.com/prod_img/500000/290/971/img/16971290_1.jpg?shrink=330:*&_v=20220503130339"
     },
     {
-        "name": "ASUS H81M-K (벌크)",
-        "brand": "ASUS",
-        "spec": [
-            "인텔(소켓1150)",
-            "인텔 H81",
-            "Micro-ATX (24.4 x 24.4cm)",
-            "메모리 DDR3",
-            "1600MHz (PC3-12800)",
-            "2개",
-            "메모리 용량: 최대 16GB",
-            "VGA 연결: PCIe x16",
-            "PCIe버전: PCIe",
-            "PCIex16: 1개",
-            "PCIex1: 2개",
-            "저장장치 SATA3: 2개",
-            "후면단자 D-SUB",
-            "DVI",
-            "USB 3.0",
-            "PS/2",
-            "랜/오디오 기가비트",
-            "오디오 칩셋: Realtek ALC887",
-            "7.1채널(8ch)"
-        ],
-        "price": "124750",
-        "img": "//img.danawa.com/prod_img/500000/921/266/img/3266921_1.jpg?shrink=330:*&_v=20230620101254"
-    },
-    {
         "name": "ASUS ROG STRIX B660-G GAMING WIFI 아이보라",
         "brand": "ASUS",
         "spec": [
@@ -39772,50 +39631,6 @@
         "img": "//img.danawa.com/prod_img/500000/970/865/img/18865970_1.jpg?shrink=330:*&_v=20230130123407"
     },
     {
-        "name": "ASUS ROG CROSSHAIR VIII IMPACT 아이보라",
-        "brand": "ASUS",
-        "spec": [
-            "AMD(소켓AM4)",
-            "AMD X570",
-            "M-DTX (20.3x17.0cm)",
-            "전원부: 8+2페이즈",
-            "페이즈당70A",
-            "Vcore출력합계: 560A",
-            "메모리 DDR4",
-            "4800MHz (PC4-38400)",
-            "2개",
-            "메모리 용량: 최대 64GB",
-            "확장슬롯 VGA 연결: PCIe4.0 x16",
-            "PCIe버전: PCIe4.0",
-            "PCIex16: 1개",
-            "저장장치 M.2: 2개",
-            "SATA3: 4개",
-            "M.2 연결: PCIe, SATA",
-            "후면단자 USB 3.1",
-            "USB 3.0",
-            "RJ-45",
-            "S/PDIF",
-            "오디오잭",
-            "랜/오디오 유선랜 칩셋: Intel I211-AT",
-            "기가비트",
-            "RJ-45: 1개",
-            "무선랜(Wi-Fi)",
-            "블루투스",
-            "오디오 칩셋: SupremeFX",
-            "7.1채널(8ch)",
-            "내부I/O I/O 헤더: USB 3.0 헤더, USB 2.0 헤더, USB3.1 Type C 헤더, RGB 12V 4핀 헤더, ARGB 5V 3핀 헤더",
-            "시스템팬 4핀: 1개",
-            "USB2.0 헤더: 1개",
-            "USB3.0 헤더: 1개",
-            "특징 M.2 히트싱크",
-            "LED 라이트",
-            "UEFI",
-            "AMD APU 지원"
-        ],
-        "price": "555930",
-        "img": "//img.danawa.com/prod_img/500000/197/739/img/9739197_1.jpg?shrink=330:*&_v=20220517174802"
-    },
-    {
         "name": "ASUS TUF Gaming B550-PRO 아이보라",
         "brand": "ASUS",
         "spec": [
@@ -40047,34 +39862,6 @@
         ],
         "price": "216000",
         "img": "//img.danawa.com/prod_img/500000/318/103/img/16103318_1.jpg?shrink=330:*&_v=20230710085812"
-    },
-    {
-        "name": "에너지옵티머스 B75USB BTC (벌크)",
-        "brand": "에너지옵티머스",
-        "spec": [
-            "인텔(소켓1155)",
-            "인텔 B75",
-            "ATX (23x18.5cm)",
-            "전원부: 4페이즈",
-            "메모리 DDR3",
-            "2개",
-            "메모리 용량: 최대 16GB",
-            "확장슬롯 VGA 연결: PCIe 호환",
-            "PCIe버전: PCIe",
-            "PCIex1: USB 12개",
-            "저장장치 SATA3: 4개",
-            "후면단자 D-SUB",
-            "HDMI",
-            "USB 3.0",
-            "USB 2.0",
-            "RJ-45",
-            "랜/오디오 기가비트",
-            "RJ-45: 1개",
-            "내부I/O I/O 헤더: USB 3.0 헤더",
-            "USB3.0 헤더: 1개"
-        ],
-        "price": "102000",
-        "img": "//img.danawa.com/prod_img/500000/345/991/img/16991345_1.jpg?shrink=330:*&_v=20220513170426"
     },
     {
         "name": "ASUS ROG STRIX B660-I GAMING WIFI 아이보라",

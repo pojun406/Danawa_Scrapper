@@ -3356,36 +3356,6 @@
         "Cate": "Cooler"
     },
     {
-        "name": "be quiet PURE ROCK SLIM 2",
-        "brand": "be",
-        "spec": [
-            "CPU 쿨러",
-            "싱글타워형",
-            "공랭",
-            "팬 쿨러",
-            "TDP: 130W",
-            "[호환/크기] 인텔 소켓: LGA1200, LGA115x",
-            "AMD 소켓: AM5, AM4",
-            "가로: 97mm",
-            "세로: 82mm",
-            "높이: 135mm",
-            "무게: 380g",
-            "[쿨링팬] 팬 크기: 92mm",
-            "팬 개수: 1개",
-            "25T",
-            "4핀",
-            "베어링: Rifle",
-            "2000 RPM",
-            "최대 팬소음: 25.4dBA",
-            "PWM 지원",
-            "[구성품/기타] 2022년 12월부로 소켓 호환 변경"
-        ],
-        "color_text": "",
-        "price": "36900",
-        "img": "//img.danawa.com/prod_img/500000/494/345/img/15345494_1.jpg?shrink=330:*&_v=20221201082001",
-        "Cate": "Cooler"
-    },
-    {
         "name": "CORSAIR iCUE H150 RGB",
         "brand": "CORSAIR",
         "spec": [
@@ -3701,33 +3671,6 @@
         "color_text": "WHITE",
         "price": "23600",
         "img": "//img.danawa.com/prod_img/500000/749/361/img/20361749_1.jpg?shrink=330:*&_v=20230531123432",
-        "Cate": "Cooler"
-    },
-    {
-        "name": "be quiet DARK ROCK Pro TR4 서린",
-        "brand": "be",
-        "spec": [
-            "CPU 쿨러",
-            "듀얼타워형",
-            "공랭",
-            "팬 쿨러",
-            "TDP: 250W",
-            "[호환/크기] AMD 소켓: sTRX4, TR4",
-            "가로: 136mm",
-            "세로: 145.7mm",
-            "높이: 162.8mm",
-            "무게: 1180g",
-            "[쿨링팬] 팬 크기: 135mm, 120mm",
-            "팬 개수: 2개",
-            "4핀",
-            "베어링: FDB",
-            "1500 RPM",
-            "최대 팬소음: 24.3dBA",
-            "PWM 지원"
-        ],
-        "color_text": "",
-        "price": "119000",
-        "img": "//img.danawa.com/prod_img/500000/231/588/img/14588231_1.jpg?shrink=330:*&_v=20210625152448",
         "Cate": "Cooler"
     },
     {
@@ -7836,26 +7779,6 @@
         "color_text": "",
         "price": "51950",
         "img": "//img.danawa.com/prod_img/500000/882/363/img/1363882_1.jpg?shrink=330:*&_v=20191022160102",
-        "Cate": "Cooler"
-    },
-    {
-        "name": "인텔 인텔 115X 정품 중고",
-        "brand": "인텔",
-        "spec": [
-            "CPU 쿨러",
-            "일반형",
-            "공랭",
-            "팬 쿨러",
-            "[호환/크기] 인텔 소켓: LGA1200, LGA115x",
-            "[쿨링팬] 팬 크기: 80mm",
-            "팬 개수: 1개",
-            "25T",
-            "4핀",
-            "베어링: Hydro"
-        ],
-        "color_text": "",
-        "price": "1890",
-        "img": "//img.danawa.com/prod_img/500000/653/365/img/13365653_1.jpg?shrink=330:*&_v=20210215145252",
         "Cate": "Cooler"
     },
     {

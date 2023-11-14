@@ -2822,58 +2822,6 @@
         "Cate": "Case"
     },
     {
-        "name": "be quiet Silent Base 802",
-        "brand": "be",
-        "spec": [
-            "미들타워",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "수직 PCI형태: 기본형",
-            "쿨링팬: 총3개",
-            "후면: 140mm x1",
-            "전면: 140mm x2",
-            "너비(W): 281mm",
-            "깊이(D): 539mm",
-            "높이(H): 507mm",
-            "파워 장착: 288mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 287mm",
-            "CPU쿨러 장착: 185mm"
-        ],
-        "color_text": "블랙",
-        "price": "247980",
-        "img": "//img.danawa.com/prod_img/500000/658/644/img/14644658_1.jpg?shrink=330:*&_v=20220419114237",
-        "Cate": "Case"
-    },
-    {
-        "name": "be quiet Silent Base 802",
-        "brand": "be",
-        "spec": [
-            "미들타워",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "수직 PCI형태: 기본형",
-            "쿨링팬: 총3개",
-            "후면: 140mm x1",
-            "전면: 140mm x2",
-            "너비(W): 281mm",
-            "깊이(D): 539mm",
-            "높이(H): 507mm",
-            "파워 장착: 288mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 287mm",
-            "CPU쿨러 장착: 185mm"
-        ],
-        "color_text": "화이트",
-        "price": "240930",
-        "img": "//img.danawa.com/prod_img/500000/658/644/img/14644658_1.jpg?shrink=330:*&_v=20220419114237",
-        "Cate": "Case"
-    },
-    {
         "name": "마이크로닉스 GL1 모타",
         "brand": "마이크로닉스",
         "spec": [
@@ -4889,60 +4837,6 @@
         "color_text": "Matte White",
         "price": "267490",
         "img": "//img.danawa.com/prod_img/500000/231/637/img/19637231_1.jpg?shrink=330:*&_v=20230419080313",
-        "Cate": "Case"
-    },
-    {
-        "name": "be quiet Silent Base 802 WINDOW",
-        "brand": "be",
-        "spec": [
-            "미들타워",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "수직 PCI형태: 기본형",
-            "쿨링팬: 총3개",
-            "측면: 강화유리",
-            "후면: 140mm x1",
-            "전면: 140mm x2",
-            "너비(W): 281mm",
-            "깊이(D): 539mm",
-            "높이(H): 507mm",
-            "파워 장착: 288mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 287mm",
-            "CPU쿨러 장착: 185mm"
-        ],
-        "color_text": "블랙",
-        "price": "257450",
-        "img": "//img.danawa.com/prod_img/500000/919/644/img/14644919_1.jpg?shrink=330:*&_v=20220419114307",
-        "Cate": "Case"
-    },
-    {
-        "name": "be quiet Silent Base 802 WINDOW",
-        "brand": "be",
-        "spec": [
-            "미들타워",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "수직 PCI형태: 기본형",
-            "쿨링팬: 총3개",
-            "측면: 강화유리",
-            "후면: 140mm x1",
-            "전면: 140mm x2",
-            "너비(W): 281mm",
-            "깊이(D): 539mm",
-            "높이(H): 507mm",
-            "파워 장착: 288mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 287mm",
-            "CPU쿨러 장착: 185mm"
-        ],
-        "color_text": "화이트",
-        "price": "257450",
-        "img": "//img.danawa.com/prod_img/500000/919/644/img/14644919_1.jpg?shrink=330:*&_v=20220419114307",
         "Cate": "Case"
     },
     {
@@ -7466,37 +7360,6 @@
         "Cate": "Case"
     },
     {
-        "name": "be quiet SHADOW BASE 800",
-        "brand": "be",
-        "spec": [
-            "PC케이스(ATX)",
-            "미들타워",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "수직 PCI형태: 슬롯변경형",
-            "쿨링팬: 총3개",
-            "전면 패널 타입: 메쉬",
-            "측면: 강화유리",
-            "후면: 140mm x1",
-            "전면: 140mm x1",
-            "상단: 140mm x1",
-            "너비(W): 247mm",
-            "깊이(D): 503mm",
-            "높이(H): 550mm",
-            "파워 장착: 260~305mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 430mm",
-            "CPU쿨러 장착: 180mm"
-        ],
-        "color_text": "Black",
-        "price": "252000",
-        "img": "//img.danawa.com/prod_img/500000/916/804/img/28804916_1.jpg?shrink=330:*&_v=20231017134403",
-        "Cate": "Case"
-    },
-    {
         "name": "컴이지 킹덤 라이트",
         "brand": "컴이지",
         "spec": [
@@ -8118,72 +7981,6 @@
         "color_text": "화이트",
         "price": "71740",
         "img": "//img.danawa.com/prod_img/500000/483/973/img/13973483_1.jpg?shrink=330:*&_v=20210714165556",
-        "Cate": "Case"
-    },
-    {
-        "name": "be quiet SHADOW BASE 800 DX",
-        "brand": "be",
-        "spec": [
-            "PC케이스(ATX)",
-            "미들타워",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "수직 PCI형태: 슬롯변경형",
-            "쿨링팬: 총3개",
-            "전면 패널 타입: 메쉬",
-            "측면: 강화유리",
-            "후면: 140mm x1",
-            "전면: 140mm x1",
-            "상단: 140mm x1",
-            "너비(W): 247mm",
-            "깊이(D): 503mm",
-            "높이(H): 550mm",
-            "파워 장착: 260~305mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 430mm",
-            "CPU쿨러 장착: 180mm",
-            "외부 LED",
-            "LED 색상: ARGB"
-        ],
-        "color_text": "Black",
-        "price": "278000",
-        "img": "//img.danawa.com/prod_img/500000/850/804/img/28804850_1.jpg?shrink=330:*&_v=20231017134119",
-        "Cate": "Case"
-    },
-    {
-        "name": "be quiet SHADOW BASE 800 DX",
-        "brand": "be",
-        "spec": [
-            "PC케이스(ATX)",
-            "미들타워",
-            "파워미포함",
-            "Extended-ATX",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "수직 PCI형태: 슬롯변경형",
-            "쿨링팬: 총3개",
-            "전면 패널 타입: 메쉬",
-            "측면: 강화유리",
-            "후면: 140mm x1",
-            "전면: 140mm x1",
-            "상단: 140mm x1",
-            "너비(W): 247mm",
-            "깊이(D): 503mm",
-            "높이(H): 550mm",
-            "파워 장착: 260~305mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 430mm",
-            "CPU쿨러 장착: 180mm",
-            "외부 LED",
-            "LED 색상: ARGB"
-        ],
-        "color_text": "White",
-        "price": "278000",
-        "img": "//img.danawa.com/prod_img/500000/850/804/img/28804850_1.jpg?shrink=330:*&_v=20231017134119",
         "Cate": "Case"
     },
     {
@@ -15302,36 +15099,6 @@
         "Cate": "Case"
     },
     {
-        "name": "be quiet PURE BASE 500 FX",
-        "brand": "be",
-        "spec": [
-            "PC케이스(ATX)",
-            "미들타워",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총4개",
-            "LED팬: 4개",
-            "측면: 강화유리",
-            "후면: 140mm LED x1",
-            "전면: 120mm LED x3",
-            "너비(W): 232mm",
-            "깊이(D): 450mm",
-            "높이(H): 443mm",
-            "파워 장착: 258mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 369mm",
-            "CPU쿨러 장착: 190mm",
-            "외부LED 컨트롤",
-            "LED 색상: ARGB"
-        ],
-        "color_text": "",
-        "price": "173000",
-        "img": "//img.danawa.com/prod_img/500000/295/560/img/17560295_1.jpg?shrink=330:*&_v=20221129163839",
-        "Cate": "Case"
-    },
-    {
         "name": "1stPlayer SP6 MUSIC BAR",
         "brand": "1stPlayer",
         "spec": [
@@ -16269,37 +16036,6 @@
         "Cate": "Case"
     },
     {
-        "name": "darkFlash DLV22 RGB 강화유리",
-        "brand": "darkFlash",
-        "spec": [
-            "PC케이스(RTX)",
-            "미들타워",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총2개",
-            "LED팬: 2개",
-            "전면 패널 타입: 일반(솔리드)",
-            "측면 개폐 방식: 스윙도어",
-            "측면: 강화유리",
-            "후면: 120mm LED x2",
-            "너비(W): 215mm",
-            "깊이(D): 443mm",
-            "높이(H): 440mm",
-            "파워 장착: 230mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 320mm",
-            "CPU쿨러 장착: 165mm",
-            "RGB 컨트롤",
-            "LED 색상: RGB"
-        ],
-        "color_text": "네오민트",
-        "price": "66000",
-        "img": "//img.danawa.com/prod_img/500000/158/742/img/11742158_1.jpg?shrink=330:*&_v=20221005105525",
-        "Cate": "Case"
-    },
-    {
         "name": "DAVEN THE KING ARGB 강화유리",
         "brand": "DAVEN",
         "spec": [
@@ -16894,42 +16630,6 @@
         "color_text": "화이트",
         "price": "80850",
         "img": "//img.danawa.com/prod_img/500000/111/796/img/13796111_1.jpg?shrink=330:*&_v=20230525171631",
-        "Cate": "Case"
-    },
-    {
-        "name": "SSUPD PCI-E 4.0 RISER CABLE",
-        "brand": "SSUPD",
-        "spec": [
-            "라이저 케이블",
-            "Female Reverse"
-        ],
-        "color_text": "270mm",
-        "price": "109440",
-        "img": "//img.danawa.com/prod_img/500000/109/090/img/28090109_1.jpg?shrink=330:*&_v=20230907155154",
-        "Cate": "Case"
-    },
-    {
-        "name": "SSUPD PCI-E 4.0 RISER CABLE",
-        "brand": "SSUPD",
-        "spec": [
-            "라이저 케이블",
-            "Female Reverse"
-        ],
-        "color_text": "380mm",
-        "price": "124970",
-        "img": "//img.danawa.com/prod_img/500000/109/090/img/28090109_1.jpg?shrink=330:*&_v=20230907155154",
-        "Cate": "Case"
-    },
-    {
-        "name": "SSUPD PCI-E 4.0 RISER CABLE",
-        "brand": "SSUPD",
-        "spec": [
-            "라이저 케이블",
-            "Female Reverse"
-        ],
-        "color_text": "440mm",
-        "price": "113000",
-        "img": "//img.danawa.com/prod_img/500000/109/090/img/28090109_1.jpg?shrink=330:*&_v=20230907155154",
         "Cate": "Case"
     },
     {
@@ -17725,60 +17425,6 @@
         "color_text": "White",
         "price": "189000",
         "img": "//img.danawa.com/prod_img/500000/427/641/img/17641427_1.jpg?shrink=330:*&_v=20221006083808",
-        "Cate": "Case"
-    },
-    {
-        "name": "be quiet PURE BASE 500 WINDOW",
-        "brand": "be",
-        "spec": [
-            "PC케이스(ATX)",
-            "미들타워",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총2개",
-            "측면: 강화유리",
-            "후면: 140mm x1",
-            "전면: 140mm x1",
-            "너비(W): 231mm",
-            "깊이(D): 450mm",
-            "높이(H): 463mm",
-            "파워 장착: 225mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 369mm",
-            "CPU쿨러 장착: 190mm"
-        ],
-        "color_text": "METALLIC GRAY",
-        "price": "132000",
-        "img": "//img.danawa.com/prod_img/500000/904/647/img/9647904_1.jpg?shrink=330:*&_v=20191010094005",
-        "Cate": "Case"
-    },
-    {
-        "name": "be quiet PURE BASE 500 WINDOW",
-        "brand": "be",
-        "spec": [
-            "PC케이스(ATX)",
-            "미들타워",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총2개",
-            "측면: 강화유리",
-            "후면: 140mm x1",
-            "전면: 140mm x1",
-            "너비(W): 231mm",
-            "깊이(D): 450mm",
-            "높이(H): 463mm",
-            "파워 장착: 225mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 369mm",
-            "CPU쿨러 장착: 190mm"
-        ],
-        "color_text": "WHITE",
-        "price": "132000",
-        "img": "//img.danawa.com/prod_img/500000/904/647/img/9647904_1.jpg?shrink=330:*&_v=20191010094005",
         "Cate": "Case"
     },
     {
@@ -20013,60 +19659,6 @@
         "Cate": "Case"
     },
     {
-        "name": "be quiet PURE BASE 500 WINDOW 서린",
-        "brand": "be",
-        "spec": [
-            "PC케이스(ATX)",
-            "미들타워",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총2개",
-            "측면: 강화유리",
-            "후면: 140mm x1",
-            "전면: 140mm x1",
-            "너비(W): 231mm",
-            "깊이(D): 450mm",
-            "높이(H): 463mm",
-            "파워 장착: 225mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 369mm",
-            "CPU쿨러 장착: 190mm"
-        ],
-        "color_text": "WHITE",
-        "price": "126520",
-        "img": "//img.danawa.com/prod_img/500000/622/581/img/14581622_1.jpg?shrink=330:*&_v=20210701121357",
-        "Cate": "Case"
-    },
-    {
-        "name": "be quiet PURE BASE 500 WINDOW 서린",
-        "brand": "be",
-        "spec": [
-            "PC케이스(ATX)",
-            "미들타워",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총2개",
-            "측면: 강화유리",
-            "후면: 140mm x1",
-            "전면: 140mm x1",
-            "너비(W): 231mm",
-            "깊이(D): 450mm",
-            "높이(H): 463mm",
-            "파워 장착: 225mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 369mm",
-            "CPU쿨러 장착: 190mm"
-        ],
-        "color_text": "METALLIC GRAY",
-        "price": "175900",
-        "img": "//img.danawa.com/prod_img/500000/622/581/img/14581622_1.jpg?shrink=330:*&_v=20210701121357",
-        "Cate": "Case"
-    },
-    {
         "name": "Fractal Design Pop Air Clear 강화유리",
         "brand": "Fractal",
         "spec": [
@@ -22061,30 +21653,6 @@
         "color_text": "화이트",
         "price": "70000",
         "img": "//img.danawa.com/prod_img/500000/249/534/img/9534249_1.jpg?shrink=330:*&_v=20210115180206",
-        "Cate": "Case"
-    },
-    {
-        "name": "GEO메트릭퓨처 Model6 달리",
-        "brand": "GEO메트릭퓨처",
-        "spec": [
-            "PC케이스(RTX)",
-            "미들타워",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "표준-ITX",
-            "측면: 강화유리",
-            "너비(W): 215mm",
-            "깊이(D): 450mm",
-            "높이(H): 450mm",
-            "파워 장착: 180mm",
-            "파워 위치: 상단",
-            "GPU 장착: 320mm",
-            "CPU쿨러 장착: 162mm"
-        ],
-        "color_text": "",
-        "price": "92020",
-        "img": "//img.danawa.com/prod_img/500000/982/555/img/16555982_1.jpg?shrink=330:*&_v=20230816082120",
         "Cate": "Case"
     },
     {
@@ -26519,33 +26087,6 @@
         "Cate": "Case"
     },
     {
-        "name": "be quiet SILENT BASE 800",
-        "brand": "be",
-        "spec": [
-            "PC케이스(ATX)",
-            "미들타워",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총3개",
-            "측면: 통풍구",
-            "후면: 120mm 이상",
-            "전면: 120mm x2",
-            "너비(W): 266mm",
-            "깊이(D): 495mm",
-            "높이(H): 542mm",
-            "파워 장착: 최대 290mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 최대 400mm",
-            "CPU쿨러 장착: 최대 170mm"
-        ],
-        "color_text": "Silver",
-        "price": "233000",
-        "img": "//img.danawa.com/prod_img/500000/083/163/img/3163083_1.jpg?shrink=330:*&_v=20190920104555",
-        "Cate": "Case"
-    },
-    {
         "name": "아이구주 M1 타이푼 RING LED & 강화유리",
         "brand": "아이구주",
         "spec": [
@@ -29505,32 +29046,6 @@
         "Cate": "Case"
     },
     {
-        "name": "be quiet PURE BASE 500",
-        "brand": "be",
-        "spec": [
-            "PC케이스(ATX)",
-            "미들타워",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총2개",
-            "후면: 140mm x1",
-            "전면: 140mm x1",
-            "너비(W): 231mm",
-            "깊이(D): 450mm",
-            "높이(H): 463mm",
-            "파워 장착: 225mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 369mm",
-            "CPU쿨러 장착: 190mm"
-        ],
-        "color_text": "WHITE",
-        "price": "145000",
-        "img": "//img.danawa.com/prod_img/500000/889/283/img/10283889_1.jpg?shrink=330:*&_v=20200106090542",
-        "Cate": "Case"
-    },
-    {
         "name": "COX A6 울트라 메쉬 강화유리 Duplex",
         "brand": "COX",
         "spec": [
@@ -29558,37 +29073,6 @@
         "color_text": "",
         "price": "56180",
         "img": "//img.danawa.com/prod_img/500000/670/208/img/10208670_1.jpg?shrink=330:*&_v=20200617091740",
-        "Cate": "Case"
-    },
-    {
-        "name": "be quiet PURE BASE 500DX",
-        "brand": "be",
-        "spec": [
-            "PC케이스(ATX)",
-            "미들타워",
-            "파워미포함",
-            "표준-ATX",
-            "Micro-ATX",
-            "Mini-ITX",
-            "쿨링팬: 총3개",
-            "측면: 강화유리",
-            "후면: 140mm x1",
-            "전면: 140mm x1",
-            "상단: 140mm x1",
-            "너비(W): 232mm",
-            "깊이(D): 450mm",
-            "높이(H): 463mm",
-            "파워 장착: 225mm",
-            "파워 위치: 하단후면",
-            "GPU 장착: 369mm",
-            "CPU쿨러 장착: 190mm",
-            "외부 LED",
-            "외부LED 컨트롤",
-            "LED 색상: 오렌지"
-        ],
-        "color_text": "BLACK",
-        "price": "213460",
-        "img": "//img.danawa.com/prod_img/500000/097/339/img/11339097_1.jpg?shrink=330:*&_v=20200714165226",
         "Cate": "Case"
     },
     {
@@ -31978,20 +31462,6 @@
         "Cate": "Case"
     },
     {
-        "name": "CORSAIR Premium PCIe 4.0x16 Extension Cable",
-        "brand": "CORSAIR",
-        "spec": [
-            "모니터 일체형",
-            "라이저 케이블",
-            "PCIe 4.0x16",
-            "EMI Shielded"
-        ],
-        "color_text": "300mm",
-        "price": "91390",
-        "img": "//img.danawa.com/prod_img/500000/154/125/img/20125154_1.jpg?shrink=330:*&_v=20230511134913",
-        "Cate": "Case"
-    },
-    {
         "name": "라벤타 LV MINI PLUS",
         "brand": "라벤타",
         "spec": [
@@ -33801,24 +33271,6 @@
         "color_text": "",
         "price": "32000",
         "img": "//img.danawa.com/prod_img/500000/370/826/img/2826370_1.jpg?shrink=330:*&_v=20170324134323",
-        "Cate": "Case"
-    },
-    {
-        "name": "모드컴 FEEL 102",
-        "brand": "모드컴",
-        "spec": [
-            "미니ITX(리틀밸리)",
-            "미니ITX(리틀밸리)",
-            "파워미포함",
-            "Mini-ITX",
-            "너비(W): 60mm",
-            "높이(H): 220mm",
-            "깊이(D): 321mm",
-            "파워 위치: 기타"
-        ],
-        "color_text": "",
-        "price": "23750",
-        "img": "//img.danawa.com/prod_img/500000/092/552/img/552092_1.jpg?shrink=330:*&_v=20170328172904",
         "Cate": "Case"
     },
     {
@@ -36020,63 +35472,6 @@
         "Cate": "Case"
     },
     {
-        "name": "셀텍 E-2015 ITX 120W",
-        "brand": "셀텍",
-        "spec": [
-            "미니ITX",
-            "미니ITX(리틀밸리)",
-            "파워미포함",
-            "Mini-ITX",
-            "측면: 통풍구",
-            "너비(W): ~100mm",
-            "높이(H): 190mm",
-            "깊이(D): 255mm",
-            "파워 위치: 하단전면"
-        ],
-        "color_text": "12V/8.5A 102W 파워어댑터 포함",
-        "price": "71103",
-        "img": "//img.danawa.com/prod_img/500000/288/350/img/2350288_1.jpg?shrink=330:*&_v=20210302152530",
-        "Cate": "Case"
-    },
-    {
-        "name": "셀텍 E-2015 ITX 120W",
-        "brand": "셀텍",
-        "spec": [
-            "미니ITX",
-            "미니ITX(리틀밸리)",
-            "파워미포함",
-            "Mini-ITX",
-            "측면: 통풍구",
-            "너비(W): ~100mm",
-            "높이(H): 190mm",
-            "깊이(D): 255mm",
-            "파워 위치: 하단전면"
-        ],
-        "color_text": "12V/10A 120W 파워어댑터 포함",
-        "price": "88000",
-        "img": "//img.danawa.com/prod_img/500000/288/350/img/2350288_1.jpg?shrink=330:*&_v=20210302152530",
-        "Cate": "Case"
-    },
-    {
-        "name": "셀텍 E-2015 ITX 120W",
-        "brand": "셀텍",
-        "spec": [
-            "미니ITX",
-            "미니ITX(리틀밸리)",
-            "파워미포함",
-            "Mini-ITX",
-            "측면: 통풍구",
-            "너비(W): ~100mm",
-            "높이(H): 190mm",
-            "깊이(D): 255mm",
-            "파워 위치: 하단전면"
-        ],
-        "color_text": "파워 어댑터 미포함",
-        "price": "47430",
-        "img": "//img.danawa.com/prod_img/500000/288/350/img/2350288_1.jpg?shrink=330:*&_v=20210302152530",
-        "Cate": "Case"
-    },
-    {
         "name": "포게임 OMG-M-ATX 강화유리",
         "brand": "포게임",
         "spec": [
@@ -36176,19 +35571,6 @@
         "Cate": "Case"
     },
     {
-        "name": "HP 5.25 베이 필러",
-        "brand": "HP",
-        "spec": [
-            "PC케이스(ATX)",
-            "커버/먼지필터",
-            "HP Z4, Z6, Z8용 ODD 베이 필러"
-        ],
-        "color_text": "",
-        "price": "14900",
-        "img": "//img.danawa.com/prod_img/500000/293/336/img/18336293_1.jpg?shrink=330:*&_v=20221121163107",
-        "Cate": "Case"
-    },
-    {
         "name": "써멀테이크 Divider 200 TG Air Snow Micro",
         "brand": "써멀테이크",
         "spec": [
@@ -36264,23 +35646,6 @@
         "Cate": "Case"
     },
     {
-        "name": "셀텍 E-U3 실버",
-        "brand": "셀텍",
-        "spec": [
-            "미니ITX",
-            "미니ITX(리틀밸리)",
-            "Mini-ITX",
-            "너비(W): 45mm이하",
-            "높이(H): 190mm",
-            "깊이(D): 190mm",
-            "파워 어댑터 미포함"
-        ],
-        "color_text": "기본",
-        "price": "37990",
-        "img": "//img.danawa.com/prod_img/500000/247/458/img/9458247_1.jpg?shrink=330:*&_v=20190916091045",
-        "Cate": "Case"
-    },
-    {
         "name": "써멀테이크 Core P1 강화유리",
         "brand": "써멀테이크",
         "spec": [
@@ -36300,48 +35665,6 @@
         "color_text": "",
         "price": "164000",
         "img": "//img.danawa.com/prod_img/500000/508/344/img/5344508_1.jpg?shrink=330:*&_v=20190404151448",
-        "Cate": "Case"
-    },
-    {
-        "name": "셀텍 E-K3 Mini-ITX USB 3.0 실버 120W",
-        "brand": "셀텍",
-        "spec": [
-            "미니ITX",
-            "미니ITX(리틀밸리)",
-            "파워미포함",
-            "Mini-ITX",
-            "측면: 통풍구",
-            "너비(W): 235mm",
-            "높이(H): 72mm",
-            "깊이(D): 240mm",
-            "파워 위치: 기타",
-            "DC보드",
-            "파워어댑터 미포함"
-        ],
-        "color_text": "기본",
-        "price": "57990",
-        "img": "//img.danawa.com/prod_img/500000/808/916/img/2916808_1.jpg?shrink=330:*&_v=20201218142010",
-        "Cate": "Case"
-    },
-    {
-        "name": "셀텍 E-K3 Mini-ITX USB 3.0 실버 120W",
-        "brand": "셀텍",
-        "spec": [
-            "미니ITX",
-            "미니ITX(리틀밸리)",
-            "파워미포함",
-            "Mini-ITX",
-            "측면: 통풍구",
-            "너비(W): 235mm",
-            "높이(H): 72mm",
-            "깊이(D): 240mm",
-            "파워 위치: 기타",
-            "DC보드",
-            "파워어댑터 미포함"
-        ],
-        "color_text": "120W 파워어댑터 포함",
-        "price": "108000",
-        "img": "//img.danawa.com/prod_img/500000/808/916/img/2916808_1.jpg?shrink=330:*&_v=20201218142010",
         "Cate": "Case"
     },
     {
@@ -36444,44 +35767,6 @@
         "Cate": "Case"
     },
     {
-        "name": "셀텍 E-T4 Thin Mini-ITX 실버",
-        "brand": "셀텍",
-        "spec": [
-            "미니ITX",
-            "미니ITX(리틀밸리)",
-            "파워미포함",
-            "Mini-ITX",
-            "측면: 통풍구",
-            "하단: 통풍구",
-            "너비(W): 44mm",
-            "높이(H): 197mm",
-            "깊이(D): 185mm"
-        ],
-        "color_text": "기본",
-        "price": "37990",
-        "img": "//img.danawa.com/prod_img/500000/439/525/img/4525439_1.jpg?shrink=330:*&_v=20180430101346",
-        "Cate": "Case"
-    },
-    {
-        "name": "셀텍 E-T4 Thin Mini-ITX 실버",
-        "brand": "셀텍",
-        "spec": [
-            "미니ITX",
-            "미니ITX(리틀밸리)",
-            "파워미포함",
-            "Mini-ITX",
-            "측면: 통풍구",
-            "하단: 통풍구",
-            "너비(W): 44mm",
-            "높이(H): 197mm",
-            "깊이(D): 185mm"
-        ],
-        "color_text": "쿨러 포함",
-        "price": "43990",
-        "img": "//img.danawa.com/prod_img/500000/439/525/img/4525439_1.jpg?shrink=330:*&_v=20180430101346",
-        "Cate": "Case"
-    },
-    {
         "name": "ORBIS S210 메쉬 강화유리",
         "brand": "ORBIS",
         "spec": [
@@ -36538,44 +35823,6 @@
         "color_text": "",
         "price": "169000",
         "img": "//img.danawa.com/prod_img/500000/204/134/img/8134204_1.jpg?shrink=330:*&_v=20190612133139",
-        "Cate": "Case"
-    },
-    {
-        "name": "셀텍 E-T4 Thin Mini-ITX 블랙",
-        "brand": "셀텍",
-        "spec": [
-            "미니ITX",
-            "미니ITX(리틀밸리)",
-            "파워미포함",
-            "Mini-ITX",
-            "측면: 통풍구",
-            "하단: 통풍구",
-            "너비(W): 44mm",
-            "높이(H): 197mm",
-            "깊이(D): 185mm"
-        ],
-        "color_text": "기본",
-        "price": "37990",
-        "img": "//img.danawa.com/prod_img/500000/357/525/img/4525357_1.jpg?shrink=330:*&_v=20180430101443",
-        "Cate": "Case"
-    },
-    {
-        "name": "셀텍 E-T4 Thin Mini-ITX 블랙",
-        "brand": "셀텍",
-        "spec": [
-            "미니ITX",
-            "미니ITX(리틀밸리)",
-            "파워미포함",
-            "Mini-ITX",
-            "측면: 통풍구",
-            "하단: 통풍구",
-            "너비(W): 44mm",
-            "높이(H): 197mm",
-            "깊이(D): 185mm"
-        ],
-        "color_text": "180W 어댑터 포함",
-        "price": "103950",
-        "img": "//img.danawa.com/prod_img/500000/357/525/img/4525357_1.jpg?shrink=330:*&_v=20180430101443",
         "Cate": "Case"
     },
     {

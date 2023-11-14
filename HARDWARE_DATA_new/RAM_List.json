@@ -762,60 +762,6 @@
         "Cate": "RAM"
     },
     {
-        "name": "삼성전자 DDR3-1600 중고",
-        "brand": "삼성전자",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1600MHz (PC3-12800)",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "8",
-            "4",
-            "2"
-        ],
-        "size": "8",
-        "price": "18580",
-        "img": "//img.danawa.com/prod_img/500000/101/549/img/5549101_1.jpg?shrink=330:*&_v=20210409101246",
-        "Cate": "RAM"
-    },
-    {
-        "name": "삼성전자 DDR3-1600 중고",
-        "brand": "삼성전자",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1600MHz (PC3-12800)",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "8",
-            "4",
-            "2"
-        ],
-        "size": "4",
-        "price": "3200",
-        "img": "//img.danawa.com/prod_img/500000/101/549/img/5549101_1.jpg?shrink=330:*&_v=20210409101246",
-        "Cate": "RAM"
-    },
-    {
-        "name": "삼성전자 DDR3-1600 중고",
-        "brand": "삼성전자",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1600MHz (PC3-12800)",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "8",
-            "4",
-            "2"
-        ],
-        "size": "2",
-        "price": "2100",
-        "img": "//img.danawa.com/prod_img/500000/101/549/img/5549101_1.jpg?shrink=330:*&_v=20210409101246",
-        "Cate": "RAM"
-    },
-    {
         "name": "ESSENCORE KLEVV DDR5-6400 CL32 BOLT V 패키지 서린",
         "brand": "ESSENCORE",
         "spec": [
@@ -5851,44 +5797,6 @@
         "size": "32",
         "price": "411207",
         "img": "//img.danawa.com/prod_img/500000/287/547/img/20547287_1.jpg?shrink=330:*&_v=20230614175742",
-        "Cate": "RAM"
-    },
-    {
-        "name": "타무즈 DDR3-1600 CL11",
-        "brand": "타무즈",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1600MHz (PC3-12800)",
-            "램타이밍: CL11",
-            "1.50V",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "8",
-            "4"
-        ],
-        "size": "8",
-        "price": "18990",
-        "img": "//img.danawa.com/prod_img/500000/666/838/img/4838666_1.jpg?shrink=330:*&_v=20210702151234",
-        "Cate": "RAM"
-    },
-    {
-        "name": "타무즈 DDR3-1600 CL11",
-        "brand": "타무즈",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1600MHz (PC3-12800)",
-            "램타이밍: CL11",
-            "1.50V",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "8",
-            "4"
-        ],
-        "size": "4",
-        "price": "15540",
-        "img": "//img.danawa.com/prod_img/500000/666/838/img/4838666_1.jpg?shrink=330:*&_v=20210702151234",
         "Cate": "RAM"
     },
     {
@@ -12953,82 +12861,6 @@
         "Cate": "RAM"
     },
     {
-        "name": "삼성전자 DDR4-2666 중고",
-        "brand": "삼성전자",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "2666MHz (PC4-21300)",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "32",
-            "16",
-            "8",
-            "4"
-        ],
-        "size": "32",
-        "price": "134610",
-        "img": "//img.danawa.com/prod_img/500000/972/158/img/8158972_1.jpg?shrink=330:*&_v=20220228092211",
-        "Cate": "RAM"
-    },
-    {
-        "name": "삼성전자 DDR4-2666 중고",
-        "brand": "삼성전자",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "2666MHz (PC4-21300)",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "32",
-            "16",
-            "8",
-            "4"
-        ],
-        "size": "16",
-        "price": "43660",
-        "img": "//img.danawa.com/prod_img/500000/972/158/img/8158972_1.jpg?shrink=330:*&_v=20220228092211",
-        "Cate": "RAM"
-    },
-    {
-        "name": "삼성전자 DDR4-2666 중고",
-        "brand": "삼성전자",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "2666MHz (PC4-21300)",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "32",
-            "16",
-            "8",
-            "4"
-        ],
-        "size": "8",
-        "price": "20910",
-        "img": "//img.danawa.com/prod_img/500000/972/158/img/8158972_1.jpg?shrink=330:*&_v=20220228092211",
-        "Cate": "RAM"
-    },
-    {
-        "name": "삼성전자 DDR4-2666 중고",
-        "brand": "삼성전자",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "2666MHz (PC4-21300)",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "32",
-            "16",
-            "8",
-            "4"
-        ],
-        "size": "4",
-        "price": "6900",
-        "img": "//img.danawa.com/prod_img/500000/972/158/img/8158972_1.jpg?shrink=330:*&_v=20220228092211",
-        "Cate": "RAM"
-    },
-    {
         "name": "G.SKILL DDR4-4266 CL19 TRIDENT ZSW 패키지",
         "brand": "G.SKILL",
         "spec": [
@@ -13409,60 +13241,6 @@
         "size": "16",
         "price": "220410",
         "img": "//img.danawa.com/prod_img/500000/189/012/img/17012189_1.jpg?shrink=330:*&_v=20220512145420",
-        "Cate": "RAM"
-    },
-    {
-        "name": "삼성전자 DDR4-2133 중고",
-        "brand": "삼성전자",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "2133MHz (PC4-17000)",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "16",
-            "8",
-            "4"
-        ],
-        "size": "16",
-        "price": "50990",
-        "img": "//img.danawa.com/prod_img/500000/841/676/img/5676841_1.jpg?shrink=330:*&_v=20210812161438",
-        "Cate": "RAM"
-    },
-    {
-        "name": "삼성전자 DDR4-2133 중고",
-        "brand": "삼성전자",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "2133MHz (PC4-17000)",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "16",
-            "8",
-            "4"
-        ],
-        "size": "8",
-        "price": "17670",
-        "img": "//img.danawa.com/prod_img/500000/841/676/img/5676841_1.jpg?shrink=330:*&_v=20210812161438",
-        "Cate": "RAM"
-    },
-    {
-        "name": "삼성전자 DDR4-2133 중고",
-        "brand": "삼성전자",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "2133MHz (PC4-17000)",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "16",
-            "8",
-            "4"
-        ],
-        "size": "4",
-        "price": "4960",
-        "img": "//img.danawa.com/prod_img/500000/841/676/img/5676841_1.jpg?shrink=330:*&_v=20210812161438",
         "Cate": "RAM"
     },
     {
@@ -14262,60 +14040,6 @@
         "Cate": "RAM"
     },
     {
-        "name": "삼성전자 DDR4-2400 중고",
-        "brand": "삼성전자",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "2400MHz (PC4-19200)",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "16",
-            "8",
-            "4"
-        ],
-        "size": "16",
-        "price": "42290",
-        "img": "//img.danawa.com/prod_img/500000/449/236/img/11236449_1.jpg?shrink=330:*&_v=20220217124540",
-        "Cate": "RAM"
-    },
-    {
-        "name": "삼성전자 DDR4-2400 중고",
-        "brand": "삼성전자",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "2400MHz (PC4-19200)",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "16",
-            "8",
-            "4"
-        ],
-        "size": "8",
-        "price": "18990",
-        "img": "//img.danawa.com/prod_img/500000/449/236/img/11236449_1.jpg?shrink=330:*&_v=20220217124540",
-        "Cate": "RAM"
-    },
-    {
-        "name": "삼성전자 DDR4-2400 중고",
-        "brand": "삼성전자",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "2400MHz (PC4-19200)",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "16",
-            "8",
-            "4"
-        ],
-        "size": "4",
-        "price": "5630",
-        "img": "//img.danawa.com/prod_img/500000/449/236/img/11236449_1.jpg?shrink=330:*&_v=20220217124540",
-        "Cate": "RAM"
-    },
-    {
         "name": "CORSAIR DDR4-3600 CL18 VENGEANCE PRO RGB WHITE 패키지",
         "brand": "CORSAIR",
         "spec": [
@@ -14979,24 +14703,6 @@
         "size": "8",
         "price": "48000",
         "img": "//img.danawa.com/prod_img/500000/616/667/img/10667616_1.jpg?shrink=330:*&_v=20200821132736",
-        "Cate": "RAM"
-    },
-    {
-        "name": "V-Color 컬러풀 DDR3-1600",
-        "brand": "V-Color",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1600MHz (PC3-12800)",
-            "램타이밍: CL11-11-11-28",
-            "1.50V",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "8"
-        ],
-        "size": "8",
-        "price": "40000",
-        "img": "//img.danawa.com/prod_img/500000/214/514/img/5514214_1.jpg?shrink=330:*&_v=20200821134822",
         "Cate": "RAM"
     },
     {
@@ -17663,98 +17369,6 @@
         "Cate": "RAM"
     },
     {
-        "name": "SOUTH BRIDGE DDR3-1600",
-        "brand": "SOUTH",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1600MHz (PC3-12800)",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "8"
-        ],
-        "size": "8",
-        "price": "10800",
-        "img": "//img.danawa.com/prod_img/500000/805/603/img/13603805_1.jpg?shrink=330:*&_v=20210417155319",
-        "Cate": "RAM"
-    },
-    {
-        "name": "삼성전자 DDR3-1333 중고",
-        "brand": "삼성전자",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1333MHz (PC3-10600)",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "8",
-            "4",
-            "2",
-            "1"
-        ],
-        "size": "8",
-        "price": "28590",
-        "img": "//img.danawa.com/prod_img/500000/273/441/img/5441273_1.jpg?shrink=330:*&_v=20230303175814",
-        "Cate": "RAM"
-    },
-    {
-        "name": "삼성전자 DDR3-1333 중고",
-        "brand": "삼성전자",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1333MHz (PC3-10600)",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "8",
-            "4",
-            "2",
-            "1"
-        ],
-        "size": "4",
-        "price": "3490",
-        "img": "//img.danawa.com/prod_img/500000/273/441/img/5441273_1.jpg?shrink=330:*&_v=20230303175814",
-        "Cate": "RAM"
-    },
-    {
-        "name": "삼성전자 DDR3-1333 중고",
-        "brand": "삼성전자",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1333MHz (PC3-10600)",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "8",
-            "4",
-            "2",
-            "1"
-        ],
-        "size": "2",
-        "price": "2000",
-        "img": "//img.danawa.com/prod_img/500000/273/441/img/5441273_1.jpg?shrink=330:*&_v=20230303175814",
-        "Cate": "RAM"
-    },
-    {
-        "name": "삼성전자 DDR3-1333 중고",
-        "brand": "삼성전자",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1333MHz (PC3-10600)",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "8",
-            "4",
-            "2",
-            "1"
-        ],
-        "size": "1",
-        "price": "1830",
-        "img": "//img.danawa.com/prod_img/500000/273/441/img/5441273_1.jpg?shrink=330:*&_v=20230303175814",
-        "Cate": "RAM"
-    },
-    {
         "name": "HIKSEMI DDR4-3200 CL18 HIKER",
         "brand": "HIKSEMI",
         "spec": [
@@ -17881,22 +17495,6 @@
         "size": "16",
         "price": "81530",
         "img": "//img.danawa.com/prod_img/500000/430/864/img/16864430_1.jpg?shrink=330:*&_v=20220727104546",
-        "Cate": "RAM"
-    },
-    {
-        "name": "SK하이닉스 DDR3-1333 중고",
-        "brand": "SK하이닉스",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1333MHz (PC3-10600)",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "4"
-        ],
-        "size": "4",
-        "price": "3390",
-        "img": "//img.danawa.com/prod_img/500000/455/728/img/5728455_1.jpg?shrink=330:*&_v=20200827102706",
         "Cate": "RAM"
     },
     {
@@ -18940,24 +18538,6 @@
         "Cate": "RAM"
     },
     {
-        "name": "컴이지 DDR3-1600 CL11",
-        "brand": "컴이지",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1600MHz (PC3-12800)",
-            "램타이밍: CL11",
-            "1.50V",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "8"
-        ],
-        "size": "8",
-        "price": "16554",
-        "img": "//img.danawa.com/prod_img/500000/910/375/img/13375910_1.jpg?shrink=330:*&_v=20210216141233",
-        "Cate": "RAM"
-    },
-    {
         "name": "킹스톤 DDR5-5600 CL46",
         "brand": "킹스톤",
         "spec": [
@@ -19092,22 +18672,6 @@
         "size": "64",
         "price": "365920",
         "img": "//img.danawa.com/prod_img/500000/151/404/img/20404151_1.jpg?shrink=330:*&_v=20230602144708",
-        "Cate": "RAM"
-    },
-    {
-        "name": "골든메모리 DDR3-1600",
-        "brand": "골든메모리",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1600MHz (PC3-12800)",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "8"
-        ],
-        "size": "8",
-        "price": "10800",
-        "img": "//img.danawa.com/prod_img/500000/300/176/img/15176300_1.jpg?shrink=330:*&_v=20210906131147",
         "Cate": "RAM"
     },
     {
@@ -19596,82 +19160,6 @@
         "Cate": "RAM"
     },
     {
-        "name": "삼성전자 DDR4-3200 중고",
-        "brand": "삼성전자",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "3200MHz (PC4-25600)",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "32",
-            "16",
-            "8",
-            "4"
-        ],
-        "size": "32",
-        "price": "83700",
-        "img": "//img.danawa.com/prod_img/500000/766/126/img/16126766_1.jpg?shrink=330:*&_v=20220829160123",
-        "Cate": "RAM"
-    },
-    {
-        "name": "삼성전자 DDR4-3200 중고",
-        "brand": "삼성전자",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "3200MHz (PC4-25600)",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "32",
-            "16",
-            "8",
-            "4"
-        ],
-        "size": "16",
-        "price": "43310",
-        "img": "//img.danawa.com/prod_img/500000/766/126/img/16126766_1.jpg?shrink=330:*&_v=20220829160123",
-        "Cate": "RAM"
-    },
-    {
-        "name": "삼성전자 DDR4-3200 중고",
-        "brand": "삼성전자",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "3200MHz (PC4-25600)",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "32",
-            "16",
-            "8",
-            "4"
-        ],
-        "size": "8",
-        "price": "19680",
-        "img": "//img.danawa.com/prod_img/500000/766/126/img/16126766_1.jpg?shrink=330:*&_v=20220829160123",
-        "Cate": "RAM"
-    },
-    {
-        "name": "삼성전자 DDR4-3200 중고",
-        "brand": "삼성전자",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "3200MHz (PC4-25600)",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "32",
-            "16",
-            "8",
-            "4"
-        ],
-        "size": "4",
-        "price": "13060",
-        "img": "//img.danawa.com/prod_img/500000/766/126/img/16126766_1.jpg?shrink=330:*&_v=20220829160123",
-        "Cate": "RAM"
-    },
-    {
         "name": "TeamGroup T-Force DDR5-5600 CL36 Delta RGB 패키지",
         "brand": "TeamGroup",
         "spec": [
@@ -19717,22 +19205,6 @@
         "size": "32",
         "price": "235000",
         "img": "//img.danawa.com/prod_img/500000/323/933/img/15933323_1.jpg?shrink=330:*&_v=20220722135345",
-        "Cate": "RAM"
-    },
-    {
-        "name": "SK하이닉스 DDR5-4800 중고",
-        "brand": "SK하이닉스",
-        "spec": [
-            "데스크탑용",
-            "DDR5",
-            "4800MHz (PC5-38400)",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "8"
-        ],
-        "size": "8",
-        "price": "21390",
-        "img": "//img.danawa.com/prod_img/500000/918/421/img/28421918_1.jpg?shrink=330:*&_v=20230921144409",
         "Cate": "RAM"
     },
     {
@@ -19861,26 +19333,6 @@
         "Cate": "RAM"
     },
     {
-        "name": "ESSENCORE KLEVV DDR3-1866 CL9 NEO 패키지",
-        "brand": "ESSENCORE",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1866MHz (PC3-14900)",
-            "램타이밍: CL9-10-9",
-            "1.50V",
-            "램개수: 2개",
-            "XMP",
-            "히트싱크: 방열판",
-            "방열판 색상: 실버/그레이",
-            "8"
-        ],
-        "size": "8",
-        "price": "51890",
-        "img": "//img.danawa.com/prod_img/500000/497/151/img/4151497_1.jpg?shrink=330:*&_v=20200821134708",
-        "Cate": "RAM"
-    },
-    {
         "name": "ADATA XPG DDR4-3600 CL18 GAMMIX D35 블랙 패키지",
         "brand": "ADATA",
         "spec": [
@@ -20006,44 +19458,6 @@
         "size": "32",
         "price": "158220",
         "img": "//img.danawa.com/prod_img/500000/159/497/img/18497159_1.jpg?shrink=330:*&_v=20221214090432",
-        "Cate": "RAM"
-    },
-    {
-        "name": "이메이션 DDR3-1600 CL11",
-        "brand": "이메이션",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1600MHz (PC3-12800)",
-            "램타이밍: CL11-11-11",
-            "1.50V",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "8",
-            "4"
-        ],
-        "size": "8",
-        "price": "33800",
-        "img": "//img.danawa.com/prod_img/500000/480/540/img/8540480_1.jpg?shrink=330:*&_v=20200821134821",
-        "Cate": "RAM"
-    },
-    {
-        "name": "이메이션 DDR3-1600 CL11",
-        "brand": "이메이션",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1600MHz (PC3-12800)",
-            "램타이밍: CL11-11-11",
-            "1.50V",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "8",
-            "4"
-        ],
-        "size": "4",
-        "price": "19390",
-        "img": "//img.danawa.com/prod_img/500000/480/540/img/8540480_1.jpg?shrink=330:*&_v=20200821134821",
         "Cate": "RAM"
     },
     {
@@ -20380,26 +19794,6 @@
         "Cate": "RAM"
     },
     {
-        "name": "ESSENCORE KLEVV DDR3-1866 CL9 NEO",
-        "brand": "ESSENCORE",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1866MHz (PC3-14900)",
-            "램타이밍: CL9-10-9",
-            "1.50V",
-            "램개수: 1개",
-            "XMP",
-            "히트싱크: 방열판",
-            "방열판 색상: 실버/그레이",
-            "4"
-        ],
-        "size": "4",
-        "price": "25910",
-        "img": "//img.danawa.com/prod_img/500000/487/547/img/5547487_1.jpg?shrink=330:*&_v=20211126113055",
-        "Cate": "RAM"
-    },
-    {
         "name": "TeamGroup T-Force DDR4-4000 CL18 XTREEM ARGB 화이트 패키지",
         "brand": "TeamGroup",
         "spec": [
@@ -20619,60 +20013,6 @@
         "size": "16",
         "price": "141000",
         "img": "//img.danawa.com/prod_img/500000/268/462/img/11462268_1.jpg?shrink=330:*&_v=20210413130404",
-        "Cate": "RAM"
-    },
-    {
-        "name": "삼성전자 DDR3-1066 중고",
-        "brand": "삼성전자",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1066MHz (PC3-8500)",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "4",
-            "2",
-            "1"
-        ],
-        "size": "4",
-        "price": "9300",
-        "img": "//img.danawa.com/prod_img/500000/844/579/img/5579844_1.jpg?shrink=330:*&_v=20200827103031",
-        "Cate": "RAM"
-    },
-    {
-        "name": "삼성전자 DDR3-1066 중고",
-        "brand": "삼성전자",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1066MHz (PC3-8500)",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "4",
-            "2",
-            "1"
-        ],
-        "size": "2",
-        "price": "1930",
-        "img": "//img.danawa.com/prod_img/500000/844/579/img/5579844_1.jpg?shrink=330:*&_v=20200827103031",
-        "Cate": "RAM"
-    },
-    {
-        "name": "삼성전자 DDR3-1066 중고",
-        "brand": "삼성전자",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1066MHz (PC3-8500)",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "4",
-            "2",
-            "1"
-        ],
-        "size": "1",
-        "price": "1500",
-        "img": "//img.danawa.com/prod_img/500000/844/579/img/5579844_1.jpg?shrink=330:*&_v=20200827103031",
         "Cate": "RAM"
     },
     {
@@ -20994,42 +20334,6 @@
         "Cate": "RAM"
     },
     {
-        "name": "SK하이닉스 DDR3-1600 중고",
-        "brand": "SK하이닉스",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1600MHz (PC3-12800)",
-            "램타이밍: CL11",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "8",
-            "4"
-        ],
-        "size": "8",
-        "price": "16280",
-        "img": "//img.danawa.com/prod_img/500000/675/547/img/5547675_1.jpg?shrink=330:*&_v=20220627164517",
-        "Cate": "RAM"
-    },
-    {
-        "name": "SK하이닉스 DDR3-1600 중고",
-        "brand": "SK하이닉스",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1600MHz (PC3-12800)",
-            "램타이밍: CL11",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "8",
-            "4"
-        ],
-        "size": "4",
-        "price": "3680",
-        "img": "//img.danawa.com/prod_img/500000/675/547/img/5547675_1.jpg?shrink=330:*&_v=20220627164517",
-        "Cate": "RAM"
-    },
-    {
         "name": "CORSAIR DDR5-5200 CL40 Dominator Platinum RGB 패키지",
         "brand": "CORSAIR",
         "spec": [
@@ -21219,44 +20523,6 @@
         "size": "128",
         "price": "869600",
         "img": "//img.danawa.com/prod_img/500000/437/169/img/6169437_1.jpg?shrink=330:*&_v=20200821131641",
-        "Cate": "RAM"
-    },
-    {
-        "name": "PATRIOT DDR3-1600 CL11 SIGNATURE",
-        "brand": "PATRIOT",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1600MHz (PC3-12800)",
-            "램타이밍: CL11",
-            "1.50V",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "8",
-            "4"
-        ],
-        "size": "8",
-        "price": "19150",
-        "img": "//img.danawa.com/prod_img/500000/129/452/img/18452129_1.jpg?shrink=330:*&_v=20221208125236",
-        "Cate": "RAM"
-    },
-    {
-        "name": "PATRIOT DDR3-1600 CL11 SIGNATURE",
-        "brand": "PATRIOT",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1600MHz (PC3-12800)",
-            "램타이밍: CL11",
-            "1.50V",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "8",
-            "4"
-        ],
-        "size": "4",
-        "price": "14230",
-        "img": "//img.danawa.com/prod_img/500000/129/452/img/18452129_1.jpg?shrink=330:*&_v=20221208125236",
         "Cate": "RAM"
     },
     {
@@ -22121,40 +21387,6 @@
         "Cate": "RAM"
     },
     {
-        "name": "마이크론 Crucial DDR3-1600 중고",
-        "brand": "마이크론",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1600MHz (PC3-12800)",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "8",
-            "4"
-        ],
-        "size": "8",
-        "price": "15160",
-        "img": "//img.danawa.com/prod_img/500000/669/850/img/5850669_1.jpg?shrink=330:*&_v=20200827101210",
-        "Cate": "RAM"
-    },
-    {
-        "name": "마이크론 Crucial DDR3-1600 중고",
-        "brand": "마이크론",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1600MHz (PC3-12800)",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "8",
-            "4"
-        ],
-        "size": "4",
-        "price": "10000",
-        "img": "//img.danawa.com/prod_img/500000/669/850/img/5850669_1.jpg?shrink=330:*&_v=20200827101210",
-        "Cate": "RAM"
-    },
-    {
         "name": "CORSAIR DDR5-7000 CL40 VENGEANCE RGB 패키지",
         "brand": "CORSAIR",
         "spec": [
@@ -22235,22 +21467,6 @@
         "size": "8",
         "price": "23400",
         "img": "//img.danawa.com/prod_img/500000/231/304/img/13304231_1.jpg?shrink=330:*&_v=20210521092102",
-        "Cate": "RAM"
-    },
-    {
-        "name": "SK하이닉스 DDR4-2400 중고",
-        "brand": "SK하이닉스",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "2400MHz (PC4-19200)",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "4"
-        ],
-        "size": "4",
-        "price": "5690",
-        "img": "//img.danawa.com/prod_img/500000/986/266/img/19266986_1.jpg?shrink=330:*&_v=20230308171408",
         "Cate": "RAM"
     },
     {
@@ -22726,26 +21942,6 @@
         "Cate": "RAM"
     },
     {
-        "name": "실리콘파워 DDR3-1600 중고",
-        "brand": "실리콘파워",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1600MHz (PC3-12800)",
-            "램타이밍: CL11",
-            "1.50V",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "2016년 12월부로 라온티앤아이 A",
-            "S 종료",
-            "8"
-        ],
-        "size": "8",
-        "price": "13950",
-        "img": "//img.danawa.com/prod_img/500000/131/747/img/5747131_1.jpg?shrink=330:*&_v=20200827101210",
-        "Cate": "RAM"
-    },
-    {
         "name": "ESSENCORE KLEVV DDR4-4000 CL19 BOLT XR",
         "brand": "ESSENCORE",
         "spec": [
@@ -22808,22 +22004,6 @@
         "size": "32",
         "price": "214510",
         "img": "//img.danawa.com/prod_img/500000/278/544/img/17544278_1.jpg?shrink=330:*&_v=20220727111126",
-        "Cate": "RAM"
-    },
-    {
-        "name": "SK하이닉스 DDR4-2133 중고",
-        "brand": "SK하이닉스",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "2133MHz (PC4-17000)",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "4"
-        ],
-        "size": "4",
-        "price": "5690",
-        "img": "//img.danawa.com/prod_img/500000/941/266/img/19266941_1.jpg?shrink=330:*&_v=20230308171237",
         "Cate": "RAM"
     },
     {
@@ -22893,62 +22073,6 @@
         "size": "32",
         "price": "146400",
         "img": "//img.danawa.com/prod_img/500000/883/482/img/29482883_1.jpg?shrink=330:*&_v=20231030131413",
-        "Cate": "RAM"
-    },
-    {
-        "name": "삼성전자 DDR3-1333U 중고",
-        "brand": "삼성전자",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1333MHz (PC3-10600)",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "4"
-        ],
-        "size": "4",
-        "price": "4390",
-        "img": "//img.danawa.com/prod_img/500000/692/144/img/1144692_1.jpg?shrink=330:*&_v=20200827102706",
-        "Cate": "RAM"
-    },
-    {
-        "name": "TeamGroup DDR3-1600 Elite",
-        "brand": "TeamGroup",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1600MHz (PC3-12800)",
-            "램타이밍: CL11-11-11-28",
-            "1.50V",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "2021년 3월 부로 가넷씨앤아이→아인스시스템 으로 유통사가 변경되었습니다",
-            "8",
-            "4"
-        ],
-        "size": "8",
-        "price": "37300",
-        "img": "//img.danawa.com/prod_img/500000/045/699/img/1699045_1.jpg?shrink=330:*&_v=20210325145808",
-        "Cate": "RAM"
-    },
-    {
-        "name": "TeamGroup DDR3-1600 Elite",
-        "brand": "TeamGroup",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1600MHz (PC3-12800)",
-            "램타이밍: CL11-11-11-28",
-            "1.50V",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "2021년 3월 부로 가넷씨앤아이→아인스시스템 으로 유통사가 변경되었습니다",
-            "8",
-            "4"
-        ],
-        "size": "4",
-        "price": "33000",
-        "img": "//img.danawa.com/prod_img/500000/045/699/img/1699045_1.jpg?shrink=330:*&_v=20210325145808",
         "Cate": "RAM"
     },
     {
@@ -23029,24 +22153,6 @@
         "size": "16",
         "price": "126000",
         "img": "//img.danawa.com/prod_img/500000/670/121/img/12121670_1.jpg?shrink=330:*&_v=20220824094514",
-        "Cate": "RAM"
-    },
-    {
-        "name": "킹스톤 DDR3-1600",
-        "brand": "킹스톤",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1600MHz (PC3-12800)",
-            "1.50V",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "동작전압 : 1.5V",
-            "8"
-        ],
-        "size": "8",
-        "price": "58080",
-        "img": "//img.danawa.com/prod_img/500000/179/375/img/2375179_1.jpg?shrink=330:*&_v=20200821134822",
         "Cate": "RAM"
     },
     {
@@ -23145,40 +22251,6 @@
         "Cate": "RAM"
     },
     {
-        "name": "SK하이닉스 DDR4-3200 중고",
-        "brand": "SK하이닉스",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "3200MHz (PC4-25600)",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "8",
-            "4"
-        ],
-        "size": "8",
-        "price": "25000",
-        "img": "//img.danawa.com/prod_img/500000/976/577/img/15577976_1.jpg?shrink=330:*&_v=20220512101813",
-        "Cate": "RAM"
-    },
-    {
-        "name": "SK하이닉스 DDR4-3200 중고",
-        "brand": "SK하이닉스",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "3200MHz (PC4-25600)",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "8",
-            "4"
-        ],
-        "size": "4",
-        "price": "15520",
-        "img": "//img.danawa.com/prod_img/500000/976/577/img/15577976_1.jpg?shrink=330:*&_v=20220512101813",
-        "Cate": "RAM"
-    },
-    {
         "name": "PNY DDR4-3200 Performance 제이씨현",
         "brand": "PNY",
         "spec": [
@@ -23262,40 +22334,6 @@
         "Cate": "RAM"
     },
     {
-        "name": "SK하이닉스 DDR4-2666 중고",
-        "brand": "SK하이닉스",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "2666MHz (PC4-21300)",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "16",
-            "8"
-        ],
-        "size": "16",
-        "price": "58680",
-        "img": "//img.danawa.com/prod_img/500000/604/376/img/10376604_1.jpg?shrink=330:*&_v=20200826171617",
-        "Cate": "RAM"
-    },
-    {
-        "name": "SK하이닉스 DDR4-2666 중고",
-        "brand": "SK하이닉스",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "2666MHz (PC4-21300)",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "16",
-            "8"
-        ],
-        "size": "8",
-        "price": "25000",
-        "img": "//img.danawa.com/prod_img/500000/604/376/img/10376604_1.jpg?shrink=330:*&_v=20200826171617",
-        "Cate": "RAM"
-    },
-    {
         "name": "V-Color Manta DDR5-6200 CL40 RGB 골든아미스 패키지",
         "brand": "V-Color",
         "spec": [
@@ -23343,76 +22381,6 @@
         "Cate": "RAM"
     },
     {
-        "name": "Ramaxel DDR4-3200 중고",
-        "brand": "Ramaxel",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "3200MHz (PC4-25600)",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "4"
-        ],
-        "size": "4",
-        "price": "8000",
-        "img": "//img.danawa.com/prod_img/500000/754/276/img/25276754_1.jpg?shrink=330:*&_v=20230801151444",
-        "Cate": "RAM"
-    },
-    {
-        "name": "SK하이닉스 DDR3-1600",
-        "brand": "SK하이닉스",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1600MHz (PC3-12800)",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "2"
-        ],
-        "size": "2",
-        "price": "17900",
-        "img": "//img.danawa.com/prod_img/500000/795/947/img/5947795_1.jpg?shrink=330:*&_v=20200821134822",
-        "Cate": "RAM"
-    },
-    {
-        "name": "EKMEMORY DDR3-1600",
-        "brand": "EKMEMORY",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1600MHz (PC3-12800)",
-            "램타이밍: CL11-11-11",
-            "1.50V",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "8",
-            "4"
-        ],
-        "size": "8",
-        "price": "50420",
-        "img": "//img.danawa.com/prod_img/500000/748/885/img/1885748_1.jpg?shrink=330:*&_v=20200821134957",
-        "Cate": "RAM"
-    },
-    {
-        "name": "EKMEMORY DDR3-1600",
-        "brand": "EKMEMORY",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1600MHz (PC3-12800)",
-            "램타이밍: CL11-11-11",
-            "1.50V",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "8",
-            "4"
-        ],
-        "size": "4",
-        "price": "41680",
-        "img": "//img.danawa.com/prod_img/500000/748/885/img/1885748_1.jpg?shrink=330:*&_v=20200821134957",
-        "Cate": "RAM"
-    },
-    {
         "name": "ESSENCORE KLEVV DDR4-3200 CL16 BOLT X",
         "brand": "ESSENCORE",
         "spec": [
@@ -23430,152 +22398,6 @@
         "size": "16",
         "price": "83220",
         "img": "//img.danawa.com/prod_img/500000/266/113/img/11113266_1.jpg?shrink=330:*&_v=20200821131934",
-        "Cate": "RAM"
-    },
-    {
-        "name": "ACPI DDR3-1600",
-        "brand": "ACPI",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1600MHz (PC3-12800)",
-            "1.35V",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "8"
-        ],
-        "size": "8",
-        "price": "40000",
-        "img": "//img.danawa.com/prod_img/500000/848/363/img/10363848_1.jpg?shrink=330:*&_v=20200821134821",
-        "Cate": "RAM"
-    },
-    {
-        "name": "트랜센드 DDR3-1600",
-        "brand": "트랜센드",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1600MHz (PC3-12800)",
-            "램타이밍: CL11",
-            "1.50V",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "4"
-        ],
-        "size": "4",
-        "price": "20000",
-        "img": "//img.danawa.com/prod_img/500000/455/111/img/8111455_1.jpg?shrink=330:*&_v=20200821134821",
-        "Cate": "RAM"
-    },
-    {
-        "name": "LANSON DDR3-1600",
-        "brand": "LANSON",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1600MHz (PC3-12800)",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "8"
-        ],
-        "size": "8",
-        "price": "37000",
-        "img": "//img.danawa.com/prod_img/500000/867/691/img/5691867_1.jpg?shrink=330:*&_v=20200821134822",
-        "Cate": "RAM"
-    },
-    {
-        "name": "CYNEX DDR3-1600",
-        "brand": "CYNEX",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1600MHz (PC3-12800)",
-            "램타이밍: CL11",
-            "1.50V",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "8",
-            "4"
-        ],
-        "size": "8",
-        "price": "41010",
-        "img": "//img.danawa.com/prod_img/500000/360/030/img/2030360_1.jpg?shrink=330:*&_v=20200821134957",
-        "Cate": "RAM"
-    },
-    {
-        "name": "CYNEX DDR3-1600",
-        "brand": "CYNEX",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1600MHz (PC3-12800)",
-            "램타이밍: CL11",
-            "1.50V",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "8",
-            "4"
-        ],
-        "size": "4",
-        "price": "34750",
-        "img": "//img.danawa.com/prod_img/500000/360/030/img/2030360_1.jpg?shrink=330:*&_v=20200821134957",
-        "Cate": "RAM"
-    },
-    {
-        "name": "삼성전자 DDR3-1600 방열판",
-        "brand": "삼성전자",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1600MHz (PC3-12800)",
-            "램개수: 1개",
-            "히트싱크: 방열판",
-            "방열판 색상: 핑크",
-            "8",
-            "4",
-            "2"
-        ],
-        "size": "8",
-        "price": "120430",
-        "img": "//img.danawa.com/prod_img/500000/613/772/img/1772613_1.jpg?shrink=330:*&_v=20200821134957",
-        "Cate": "RAM"
-    },
-    {
-        "name": "삼성전자 DDR3-1600 방열판",
-        "brand": "삼성전자",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1600MHz (PC3-12800)",
-            "램개수: 1개",
-            "히트싱크: 방열판",
-            "방열판 색상: 핑크",
-            "8",
-            "4",
-            "2"
-        ],
-        "size": "4",
-        "price": "43000",
-        "img": "//img.danawa.com/prod_img/500000/613/772/img/1772613_1.jpg?shrink=330:*&_v=20200821134957",
-        "Cate": "RAM"
-    },
-    {
-        "name": "삼성전자 DDR3-1600 방열판",
-        "brand": "삼성전자",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1600MHz (PC3-12800)",
-            "램개수: 1개",
-            "히트싱크: 방열판",
-            "방열판 색상: 핑크",
-            "8",
-            "4",
-            "2"
-        ],
-        "size": "2",
-        "price": "24700",
-        "img": "//img.danawa.com/prod_img/500000/613/772/img/1772613_1.jpg?shrink=330:*&_v=20200821134957",
         "Cate": "RAM"
     },
     {
@@ -23647,24 +22469,6 @@
         "Cate": "RAM"
     },
     {
-        "name": "오존컴퍼니 OZ DDR3-1600 CL11",
-        "brand": "오존컴퍼니",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1600MHz (PC3-12800)",
-            "램타이밍: CL11",
-            "1.50V",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "4"
-        ],
-        "size": "4",
-        "price": "20000",
-        "img": "//img.danawa.com/prod_img/500000/610/746/img/5746610_1.jpg?shrink=330:*&_v=20200821134822",
-        "Cate": "RAM"
-    },
-    {
         "name": "ESSENCORE KLEVV DDR4-4000 CL19 BOLT XR 패키지",
         "brand": "ESSENCORE",
         "spec": [
@@ -23698,61 +22502,6 @@
         "size": "4",
         "price": "58900",
         "img": "//img.danawa.com/prod_img/500000/385/340/img/4340385_1.jpg?shrink=330:*&_v=20200821133403",
-        "Cate": "RAM"
-    },
-    {
-        "name": "마이크론 DDR4-2400 중고",
-        "brand": "마이크론",
-        "spec": [
-            "데스크탑용",
-            "DDR4",
-            "2400MHz (PC4-19200)",
-            "1.20V",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "8"
-        ],
-        "size": "8",
-        "price": "20000",
-        "img": "//img.danawa.com/prod_img/500000/334/443/img/17443334_1.jpg?shrink=330:*&_v=20220712144216",
-        "Cate": "RAM"
-    },
-    {
-        "name": "CYNEX DDR2-800 중고",
-        "brand": "CYNEX",
-        "spec": [
-            "데스크탑용",
-            "DDR2 ",
-            "800MHz (PC2-6400)",
-            "1.80V",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "2"
-        ],
-        "size": "2",
-        "price": "29360",
-        "img": "//img.danawa.com/prod_img/500000/464/800/img/5800464_1.jpg?shrink=330:*&_v=20200826170229",
-        "Cate": "RAM"
-    },
-    {
-        "name": "AVEXIR DDR3-1600 CL10 Blitz 1.1 Original 패키지 대양케이스",
-        "brand": "AVEXIR",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1600MHz (PC3-12800)",
-            "램타이밍: CL10-10-10-24",
-            "1.50V",
-            "램개수: 2개",
-            "LED 라이트",
-            "히트싱크: 방열판",
-            "방열판 색상: 블랙",
-            "LED색상: 화이트",
-            "16"
-        ],
-        "size": "16",
-        "price": "200000",
-        "img": "//img.danawa.com/prod_img/500000/601/430/img/2430601_1.jpg?shrink=330:*&_v=20200821134822",
         "Cate": "RAM"
     },
     {
@@ -23798,25 +22547,6 @@
         "size": "16",
         "price": "123000",
         "img": "//img.danawa.com/prod_img/500000/261/794/img/15794261_1.jpg?shrink=330:*&_v=20211126150323",
-        "Cate": "RAM"
-    },
-    {
-        "name": "Terabyte Ramonster DDR3-1600 CL11",
-        "brand": "Terabyte",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1600MHz (PC3-12800)",
-            "램타이밍: CL11",
-            "1.35V",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "8",
-            "4"
-        ],
-        "size": "8",
-        "price": "40000",
-        "img": "//img.danawa.com/prod_img/500000/981/141/img/7141981_1.jpg?shrink=330:*&_v=20221118155215",
         "Cate": "RAM"
     },
     {
@@ -23900,80 +22630,6 @@
         "size": "16",
         "price": "96400",
         "img": "//img.danawa.com/prod_img/500000/480/009/img/4009480_1.jpg?shrink=330:*&_v=20200821131735",
-        "Cate": "RAM"
-    },
-    {
-        "name": "EKMEMORY DDR3-1333 인디핑크",
-        "brand": "EKMEMORY",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1333MHz (PC3-10600)",
-            "램개수: 1개",
-            "히트싱크: 방열판",
-            "방열판 색상: 핑크",
-            "4",
-            "2"
-        ],
-        "size": "4",
-        "price": "39300",
-        "img": "//img.danawa.com/prod_img/500000/678/183/img/1183678_1.jpg?shrink=330:*&_v=20200821135240",
-        "Cate": "RAM"
-    },
-    {
-        "name": "EKMEMORY DDR3-1333 인디핑크",
-        "brand": "EKMEMORY",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1333MHz (PC3-10600)",
-            "램개수: 1개",
-            "히트싱크: 방열판",
-            "방열판 색상: 핑크",
-            "4",
-            "2"
-        ],
-        "size": "2",
-        "price": "24670",
-        "img": "//img.danawa.com/prod_img/500000/678/183/img/1183678_1.jpg?shrink=330:*&_v=20200821135240",
-        "Cate": "RAM"
-    },
-    {
-        "name": "CYNEX DDR3-1333",
-        "brand": "CYNEX",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1333MHz (PC3-10600)",
-            "램타이밍: CL9",
-            "1.50V",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "4",
-            "2"
-        ],
-        "size": "4",
-        "price": "36660",
-        "img": "//img.danawa.com/prod_img/500000/439/794/img/794439_1.jpg?shrink=330:*&_v=20200821135240",
-        "Cate": "RAM"
-    },
-    {
-        "name": "CYNEX DDR3-1333",
-        "brand": "CYNEX",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1333MHz (PC3-10600)",
-            "램타이밍: CL9",
-            "1.50V",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "4",
-            "2"
-        ],
-        "size": "2",
-        "price": "25720",
-        "img": "//img.danawa.com/prod_img/500000/439/794/img/794439_1.jpg?shrink=330:*&_v=20200821135240",
         "Cate": "RAM"
     },
     {
@@ -24274,40 +22930,6 @@
         "Cate": "RAM"
     },
     {
-        "name": "EKMEMORY DDR3-1333",
-        "brand": "EKMEMORY",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1333MHz (PC3-10600)",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "4",
-            "2"
-        ],
-        "size": "4",
-        "price": "37220",
-        "img": "//img.danawa.com/prod_img/500000/219/129/img/1129219_1.jpg?shrink=330:*&_v=20200821135240",
-        "Cate": "RAM"
-    },
-    {
-        "name": "EKMEMORY DDR3-1333",
-        "brand": "EKMEMORY",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1333MHz (PC3-10600)",
-            "램개수: 1개",
-            "히트싱크: 미포함",
-            "4",
-            "2"
-        ],
-        "size": "2",
-        "price": "20000",
-        "img": "//img.danawa.com/prod_img/500000/219/129/img/1129219_1.jpg?shrink=330:*&_v=20200821135240",
-        "Cate": "RAM"
-    },
-    {
         "name": "킹스톤 FURY DDR5-5200 CL40 Beast 벌크",
         "brand": "킹스톤",
         "spec": [
@@ -24394,27 +23016,6 @@
         "Cate": "RAM"
     },
     {
-        "name": "AVEXIR DDR3-2400 CL10 Blitz 1.1 Original 패키지 대양케이스",
-        "brand": "AVEXIR",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "2400MHz (PC3-19200)",
-            "램타이밍: CL10-12-12-31",
-            "1.50V",
-            "램개수: 2개",
-            "LED 라이트",
-            "히트싱크: 방열판",
-            "방열판 색상: 블랙",
-            "LED색상: 화이트",
-            "8"
-        ],
-        "size": "8",
-        "price": "190000",
-        "img": "//img.danawa.com/prod_img/500000/606/430/img/2430606_1.jpg?shrink=330:*&_v=20200821134517",
-        "Cate": "RAM"
-    },
-    {
         "name": "CORSAIR DDR5-6000 CL36 VENGEANCE RGB WHITE 패키지",
         "brand": "CORSAIR",
         "spec": [
@@ -24435,26 +23036,6 @@
         "size": "32",
         "price": "458330",
         "img": "//img.danawa.com/prod_img/500000/368/544/img/17544368_1.jpg?shrink=330:*&_v=20220727111515",
-        "Cate": "RAM"
-    },
-    {
-        "name": "ESSENCORE KLEVV DDR3-1600 CL9 NEO 중고",
-        "brand": "ESSENCORE",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1600MHz (PC3-12800)",
-            "램타이밍: CL9-9-9",
-            "1.50V",
-            "램개수: 1개",
-            "XMP",
-            "히트싱크: 방열판",
-            "방열판 색상: 실버/그레이",
-            "4"
-        ],
-        "size": "4",
-        "price": "35000",
-        "img": "//img.danawa.com/prod_img/500000/845/455/img/8455845_1.jpg?shrink=330:*&_v=20200827101210",
         "Cate": "RAM"
     },
     {
@@ -24500,89 +23081,6 @@
         "Cate": "RAM"
     },
     {
-        "name": "ESSENCORE KLEVV DDR3-1866 CL9 URBANE 패키지",
-        "brand": "ESSENCORE",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1866MHz (PC3-14900)",
-            "램타이밍: CL9-10-9",
-            "1.50V",
-            "램개수: 2개",
-            "XMP",
-            "히트싱크: 방열판",
-            "방열판 색상: 실버/그레이",
-            "16"
-        ],
-        "size": "16",
-        "price": "250000",
-        "img": "//img.danawa.com/prod_img/500000/056/152/img/4152056_1.jpg?shrink=330:*&_v=20200821134708",
-        "Cate": "RAM"
-    },
-    {
-        "name": "ESSENCORE KLEVV DDR3-1600 CL9 URBANE 패키지",
-        "brand": "ESSENCORE",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1600MHz (PC3-12800)",
-            "램타이밍: CL9-9-9",
-            "1.50V",
-            "램개수: 2개",
-            "XMP",
-            "히트싱크: 방열판",
-            "방열판 색상: 실버/그레이",
-            "16",
-            "8"
-        ],
-        "size": "16",
-        "price": "200000",
-        "img": "//img.danawa.com/prod_img/500000/022/152/img/4152022_1.jpg?shrink=330:*&_v=20200821134822",
-        "Cate": "RAM"
-    },
-    {
-        "name": "ESSENCORE KLEVV DDR3-1600 CL9 URBANE 패키지",
-        "brand": "ESSENCORE",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1600MHz (PC3-12800)",
-            "램타이밍: CL9-9-9",
-            "1.50V",
-            "램개수: 2개",
-            "XMP",
-            "히트싱크: 방열판",
-            "방열판 색상: 실버/그레이",
-            "16",
-            "8"
-        ],
-        "size": "8",
-        "price": "70000",
-        "img": "//img.danawa.com/prod_img/500000/022/152/img/4152022_1.jpg?shrink=330:*&_v=20200821134822",
-        "Cate": "RAM"
-    },
-    {
-        "name": "AVEXIR DDR3-2800 CL12 CORE Series 블루 패키지 대양케이스",
-        "brand": "AVEXIR",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "2800MHz (PC3-22400)",
-            "램타이밍: CL12-14-14-35",
-            "1.65V",
-            "램개수: 2개",
-            "LED 라이트",
-            "히트싱크: 방열판",
-            "방열판 색상: 블랙",
-            "LED색상: 블루",
-            "8"
-        ],
-        "size": "8",
-        "price": "330000",
-        "img": "//img.danawa.com/prod_img/500000/809/243/img/2243809_1.jpg?shrink=330:*&_v=20200821134353",
-        "Cate": "RAM"
-    },
-    {
         "name": "TeamGroup T-Force DDR4-2666 CL16 Delta RGB 패키지 가넷",
         "brand": "TeamGroup",
         "spec": [
@@ -24603,162 +23101,6 @@
         "size": "16",
         "price": "96070",
         "img": "//img.danawa.com/prod_img/500000/143/711/img/10711143_1.jpg?shrink=330:*&_v=20200821132736",
-        "Cate": "RAM"
-    },
-    {
-        "name": "CYNEX DDR3-1600 멜론",
-        "brand": "CYNEX",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1600MHz (PC3-12800)",
-            "램타이밍: CL11",
-            "1.50V",
-            "램개수: 1개",
-            "히트싱크: 방열판",
-            "방열판 색상: 옐로우",
-            "8",
-            "4"
-        ],
-        "size": "8",
-        "price": "45000",
-        "img": "//img.danawa.com/prod_img/500000/389/030/img/2030389_1.jpg?shrink=330:*&_v=20200821134957",
-        "Cate": "RAM"
-    },
-    {
-        "name": "CYNEX DDR3-1600 멜론",
-        "brand": "CYNEX",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1600MHz (PC3-12800)",
-            "램타이밍: CL11",
-            "1.50V",
-            "램개수: 1개",
-            "히트싱크: 방열판",
-            "방열판 색상: 옐로우",
-            "8",
-            "4"
-        ],
-        "size": "4",
-        "price": "46000",
-        "img": "//img.danawa.com/prod_img/500000/389/030/img/2030389_1.jpg?shrink=330:*&_v=20200821134957",
-        "Cate": "RAM"
-    },
-    {
-        "name": "CYNEX DDR3-1600 엠트란 매직",
-        "brand": "CYNEX",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1600MHz (PC3-12800)",
-            "램타이밍: CL11",
-            "1.50V",
-            "램개수: 1개",
-            "히트싱크: 방열판",
-            "방열판 색상: 블루",
-            "8",
-            "4"
-        ],
-        "size": "8",
-        "price": "43680",
-        "img": "//img.danawa.com/prod_img/500000/384/030/img/2030384_1.jpg?shrink=330:*&_v=20200821134957",
-        "Cate": "RAM"
-    },
-    {
-        "name": "CYNEX DDR3-1600 엠트란 매직",
-        "brand": "CYNEX",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1600MHz (PC3-12800)",
-            "램타이밍: CL11",
-            "1.50V",
-            "램개수: 1개",
-            "히트싱크: 방열판",
-            "방열판 색상: 블루",
-            "8",
-            "4"
-        ],
-        "size": "4",
-        "price": "43560",
-        "img": "//img.danawa.com/prod_img/500000/384/030/img/2030384_1.jpg?shrink=330:*&_v=20200821134957",
-        "Cate": "RAM"
-    },
-    {
-        "name": "EKMEMORY DDR3-1600 인디핑크",
-        "brand": "EKMEMORY",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1600MHz (PC3-12800)",
-            "램타이밍: CL11-11-11",
-            "1.50V",
-            "램개수: 1개",
-            "히트싱크: 방열판",
-            "방열판 색상: 핑크",
-            "8",
-            "4"
-        ],
-        "size": "8",
-        "price": "70000",
-        "img": "//img.danawa.com/prod_img/500000/750/885/img/1885750_1.jpg?shrink=330:*&_v=20200821134957",
-        "Cate": "RAM"
-    },
-    {
-        "name": "EKMEMORY DDR3-1600 인디핑크",
-        "brand": "EKMEMORY",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1600MHz (PC3-12800)",
-            "램타이밍: CL11-11-11",
-            "1.50V",
-            "램개수: 1개",
-            "히트싱크: 방열판",
-            "방열판 색상: 핑크",
-            "8",
-            "4"
-        ],
-        "size": "4",
-        "price": "46000",
-        "img": "//img.danawa.com/prod_img/500000/750/885/img/1885750_1.jpg?shrink=330:*&_v=20200821134957",
-        "Cate": "RAM"
-    },
-    {
-        "name": "CYNEX DDR3-1333 멜론",
-        "brand": "CYNEX",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1333MHz (PC3-10600)",
-            "램개수: 1개",
-            "히트싱크: 방열판",
-            "방열판 색상: 옐로우",
-            "4",
-            "2"
-        ],
-        "size": "4",
-        "price": "41210",
-        "img": "//img.danawa.com/prod_img/500000/712/220/img/1220712_1.jpg?shrink=330:*&_v=20200821135240",
-        "Cate": "RAM"
-    },
-    {
-        "name": "CYNEX DDR3-1333 멜론",
-        "brand": "CYNEX",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1333MHz (PC3-10600)",
-            "램개수: 1개",
-            "히트싱크: 방열판",
-            "방열판 색상: 옐로우",
-            "4",
-            "2"
-        ],
-        "size": "2",
-        "price": "24680",
-        "img": "//img.danawa.com/prod_img/500000/712/220/img/1220712_1.jpg?shrink=330:*&_v=20200821135240",
         "Cate": "RAM"
     },
     {
@@ -25398,78 +23740,6 @@
         "size": "8",
         "price": "91130",
         "img": "//img.danawa.com/prod_img/500000/640/852/img/2852640_1.jpg?shrink=330:*&_v=20200821133403",
-        "Cate": "RAM"
-    },
-    {
-        "name": "CYNEX DDR3-1333 엠트란 매직",
-        "brand": "CYNEX",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1333MHz (PC3-10600)",
-            "램타이밍: CL9",
-            "1.50V",
-            "램개수: 1개",
-            "히트싱크: 방열판",
-            "방열판 색상: 블루",
-            "4"
-        ],
-        "size": "4",
-        "price": "42950",
-        "img": "//img.danawa.com/prod_img/500000/713/220/img/1220713_1.jpg?shrink=330:*&_v=20200821135240",
-        "Cate": "RAM"
-    },
-    {
-        "name": "EKMEMORY DDR3-1066 인디핑크",
-        "brand": "EKMEMORY",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1066MHz (PC3-8500)",
-            "램개수: 1개",
-            "히트싱크: 방열판",
-            "방열판 색상: 핑크",
-            "2"
-        ],
-        "size": "2",
-        "price": "25000",
-        "img": "//img.danawa.com/prod_img/500000/683/183/img/1183683_1.jpg?shrink=330:*&_v=20200821135414",
-        "Cate": "RAM"
-    },
-    {
-        "name": "CYNEX DDR3-1333 엠트란",
-        "brand": "CYNEX",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1333MHz (PC3-10600)",
-            "램타이밍: CL9",
-            "램개수: 1개",
-            "히트싱크: 방열판",
-            "방열판 색상: 블루",
-            "2"
-        ],
-        "size": "2",
-        "price": "26150",
-        "img": "//img.danawa.com/prod_img/500000/443/794/img/794443_1.jpg?shrink=330:*&_v=20200821135240",
-        "Cate": "RAM"
-    },
-    {
-        "name": "CYNEX DDR3-1066 멜론",
-        "brand": "CYNEX",
-        "spec": [
-            "데스크탑용",
-            "DDR3",
-            "1066MHz (PC3-8500)",
-            "램타이밍: CL7",
-            "램개수: 1개",
-            "히트싱크: 방열판",
-            "방열판 색상: 옐로우",
-            "2"
-        ],
-        "size": "2",
-        "price": "24000",
-        "img": "//img.danawa.com/prod_img/500000/964/793/img/793964_1.jpg?shrink=330:*&_v=20200821135414",
         "Cate": "RAM"
     }
 ]

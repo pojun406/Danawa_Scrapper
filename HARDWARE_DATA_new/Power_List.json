@@ -2562,34 +2562,6 @@
         "img": "//img.danawa.com/prod_img/500000/095/779/img/19779095_1.jpg?shrink=330:*&_v=20230519102751"
     },
     {
-        "name": "be quiet DARK POWER 12 750W 80PLUS TITANIUM",
-        "brand": "be",
-        "spec": [
-            "ATX 파워",
-            "정격출력: 750W",
-            "80 PLUS 티타늄",
-            "ETA인증: TITANIUM",
-            "LAMBDA인증: A+",
-            "+12V 싱글/다중",
-            "액티브PFC",
-            "PF(역률): 97%",
-            "135mm 팬",
-            "깊이: 175mm",
-            "무상 10년",
-            "[커넥터] 풀모듈러",
-            "메인전원: 24핀(20+4)",
-            "보조전원: 8+4+4핀 1개",
-            "PCIe 8핀(6+2): 6개",
-            "SATA: 12개",
-            "IDE 4핀: 5개",
-            "FDD: 1개",
-            "[부가기능] 대기전력 1W 미만",
-            "프리볼트"
-        ],
-        "price": "202050",
-        "img": "//img.danawa.com/prod_img/500000/103/282/img/16282103_1.jpg?shrink=330:*&_v=20220426154804"
-    },
-    {
         "name": "잘만 Tager GAMING 500W 벌크",
         "brand": "잘만",
         "spec": [
@@ -5480,29 +5452,6 @@
         "img": "//img.danawa.com/prod_img/500000/941/087/img/18087941_1.jpg?shrink=330:*&_v=20221025085034"
     },
     {
-        "name": "be quiet DARK POWER PRO 13 1600W 80PLUS TITANIUM",
-        "brand": "be",
-        "spec": [
-            "ATX 파워",
-            "정격출력: 1600W",
-            "80 PLUS 티타늄",
-            "+12V 싱글/다중",
-            "액티브PFC",
-            "135mm 팬",
-            "깊이: 200mm",
-            "무상 10년",
-            "[커넥터] 풀모듈러",
-            "메인전원: 24핀(20+4)",
-            "보조전원: 8+4+4핀 1개",
-            "PCIe 16핀(12+4): 12VHPWR 2개",
-            "PCIe 8핀(6+2): 6개",
-            "SATA: 16개",
-            "[부가기능] 대기전력 1W 미만"
-        ],
-        "price": "837000",
-        "img": "//img.danawa.com/prod_img/500000/080/803/img/28803080_1.jpg?shrink=330:*&_v=20231017125927"
-    },
-    {
         "name": "시소닉 VERTEX GX-850 GOLD Full Modular ATX 3.0",
         "brand": "시소닉",
         "spec": [
@@ -5837,29 +5786,6 @@
         ],
         "price": "769450",
         "img": "//img.danawa.com/prod_img/500000/782/047/img/6047782_1.jpg?shrink=330:*&_v=20210114135216"
-    },
-    {
-        "name": "be quiet DARK POWER PRO 13 1300W 80PLUS TITANIUM",
-        "brand": "be",
-        "spec": [
-            "ATX 파워",
-            "정격출력: 1300W",
-            "80 PLUS 티타늄",
-            "+12V 싱글/다중",
-            "액티브PFC",
-            "135mm 팬",
-            "깊이: 200mm",
-            "무상 10년",
-            "[커넥터] 풀모듈러",
-            "메인전원: 24핀(20+4)",
-            "보조전원: 8+4+4핀 1개",
-            "PCIe 16핀(12+4): 12VHPWR 2개",
-            "PCIe 8핀(6+2): 6개",
-            "SATA: 16개",
-            "[부가기능] 대기전력 1W 미만"
-        ],
-        "price": "750000",
-        "img": "//img.danawa.com/prod_img/500000/945/802/img/28802945_1.jpg?shrink=330:*&_v=20231017125942"
     },
     {
         "name": "MSI MPG A750GF 화이트 80PLUS GOLD",
@@ -6881,34 +6807,6 @@
         "img": "//img.danawa.com/prod_img/500000/530/651/img/21651530_1.jpg?shrink=330:*&_v=20230821131909"
     },
     {
-        "name": "be quiet DARK POWER 12 850W 80PLUS TITANIUM",
-        "brand": "be",
-        "spec": [
-            "ATX 파워",
-            "정격출력: 850W",
-            "80 PLUS 티타늄",
-            "ETA인증: TITANIUM",
-            "LAMBDA인증: A+",
-            "+12V 싱글/다중",
-            "액티브PFC",
-            "PF(역률): 97%",
-            "135mm 팬",
-            "깊이: 175mm",
-            "무상 10년",
-            "[커넥터] 풀모듈러",
-            "메인전원: 24핀(20+4)",
-            "보조전원: 8+4+4핀 1개",
-            "PCIe 8핀(6+2): 6개",
-            "SATA: 12개",
-            "IDE 4핀: 5개",
-            "FDD: 1개",
-            "[부가기능] 대기전력 1W 미만",
-            "프리볼트"
-        ],
-        "price": "270060",
-        "img": "//img.danawa.com/prod_img/500000/301/282/img/16282301_1.jpg?shrink=330:*&_v=20220426154808"
-    },
-    {
         "name": "에너지옵티머스 EXCEL II 600W 80PLUS STANDARD 230V EU 벌크",
         "brand": "에너지옵티머스",
         "spec": [
@@ -7588,56 +7486,6 @@
         ],
         "price": "183990",
         "img": "//img.danawa.com/prod_img/500000/677/573/img/12573677_1.jpg?shrink=330:*&_v=20201126150221"
-    },
-    {
-        "name": "be quiet STRAIGHT POWER 11 750W 80PLUS PLATINUM",
-        "brand": "be",
-        "spec": [
-            "ATX 파워",
-            "정격출력: 750W",
-            "80 PLUS 플레티넘",
-            "+12V 다중레일",
-            "액티브PFC",
-            "PF(역률): 99%",
-            "135mm 팬",
-            "깊이: 160mm",
-            "무상 5년",
-            "[커넥터] 풀모듈러",
-            "메인전원: 24핀(20+4)",
-            "보조전원: 8+4+4+4+4핀 1개",
-            "PCIe 8핀(6+2): 4개",
-            "SATA: 11개",
-            "IDE 4핀: 4개",
-            "FDD: 1개",
-            "[부가기능] 대기전력 1W 미만",
-            "프리볼트"
-        ],
-        "price": "225150",
-        "img": "//img.danawa.com/prod_img/500000/773/290/img/16290773_1.jpg?shrink=330:*&_v=20220426154915"
-    },
-    {
-        "name": "be quiet STRAIGHT POWER 12 1200W 80PLUS PLATINUM",
-        "brand": "be",
-        "spec": [
-            "ATX 파워",
-            "정격출력: 1200W",
-            "80 PLUS 플레티넘",
-            "+12V 싱글레일",
-            "액티브PFC",
-            "135mm 팬",
-            "깊이: 180mm",
-            "무상 10년",
-            "[커넥터] 풀모듈러",
-            "메인전원: 24핀(20+4)",
-            "보조전원: 8+4+4핀 1개",
-            "PCIe 16핀(12+4): 12VHPWR 2개",
-            "PCIe 8핀(6+2): 4개",
-            "SATA: 9개",
-            "[부가기능] 대기전력 1W 미만",
-            "프리볼트"
-        ],
-        "price": "429000",
-        "img": "//img.danawa.com/prod_img/500000/602/803/img/28803602_1.jpg?shrink=330:*&_v=20231017130624"
     },
     {
         "name": "쿨러마스터 GX III Gold 850 ATX 3.0 (PCIE5)",
@@ -8384,54 +8232,6 @@
         "img": "//img.danawa.com/prod_img/500000/265/209/img/14209265_1.jpg?shrink=330:*&_v=20210520095658"
     },
     {
-        "name": "be quiet STRAIGHT POWER 12 1000W 80PLUS PLATINUM",
-        "brand": "be",
-        "spec": [
-            "ATX 파워",
-            "정격출력: 1000W",
-            "80 PLUS 플레티넘",
-            "+12V 싱글레일",
-            "액티브PFC",
-            "135mm 팬",
-            "깊이: 180mm",
-            "무상 10년",
-            "[커넥터] 풀모듈러",
-            "메인전원: 24핀(20+4)",
-            "보조전원: 8+4+4핀 1개",
-            "PCIe 16핀(12+4): 12VHPWR 1개",
-            "PCIe 8핀(6+2): 4개",
-            "SATA: 9개",
-            "[부가기능] 대기전력 1W 미만",
-            "프리볼트"
-        ],
-        "price": "356000",
-        "img": "//img.danawa.com/prod_img/500000/386/803/img/28803386_1.jpg?shrink=330:*&_v=20231017130357"
-    },
-    {
-        "name": "be quiet STRAIGHT POWER 12 1500W 80PLUS PLATINUM",
-        "brand": "be",
-        "spec": [
-            "ATX 파워",
-            "정격출력: 1500W",
-            "80 PLUS 플레티넘",
-            "+12V 싱글레일",
-            "액티브PFC",
-            "135mm 팬",
-            "깊이: 180mm",
-            "무상 10년",
-            "[커넥터] 풀모듈러",
-            "메인전원: 24핀(20+4)",
-            "보조전원: 8+4+4핀 1개",
-            "PCIe 16핀(12+4): 12VHPWR 2개",
-            "PCIe 8핀(6+2): 4개",
-            "SATA: 9개",
-            "[부가기능] 대기전력 1W 미만",
-            "프리볼트"
-        ],
-        "price": "599000",
-        "img": "//img.danawa.com/prod_img/500000/701/803/img/28803701_1.jpg?shrink=330:*&_v=20231017130741"
-    },
-    {
         "name": "쿨러마스터 Elite V3 P600",
         "brand": "쿨러마스터",
         "spec": [
@@ -8567,32 +8367,6 @@
         ],
         "price": "128341",
         "img": "//img.danawa.com/prod_img/500000/925/844/img/11844925_1.jpg?shrink=330:*&_v=20220119132145"
-    },
-    {
-        "name": "be quiet STRAIGHT POWER 11 850W 80PLUS PLATINUM",
-        "brand": "be",
-        "spec": [
-            "ATX 파워",
-            "정격출력: 850W",
-            "80 PLUS 플레티넘",
-            "+12V 다중레일",
-            "액티브PFC",
-            "PF(역률): 99%",
-            "135mm 팬",
-            "깊이: 170mm",
-            "무상 5년",
-            "[커넥터] 풀모듈러",
-            "메인전원: 24핀(20+4)",
-            "보조전원: 8+4+4핀 1개",
-            "PCIe 8핀(6+2): 4개",
-            "SATA: 11개",
-            "IDE 4핀: 4개",
-            "FDD: 1개",
-            "[부가기능] 대기전력 1W 미만",
-            "프리볼트"
-        ],
-        "price": "275760",
-        "img": "//img.danawa.com/prod_img/500000/845/290/img/16290845_1.jpg?shrink=330:*&_v=20220426154924"
     },
     {
         "name": "EVGA SUPERNOVA 850G+ 80PLUS GOLD",
@@ -9063,34 +8837,6 @@
         "img": "//img.danawa.com/prod_img/500000/316/991/img/12991316_1.jpg?shrink=330:*&_v=20220119132617"
     },
     {
-        "name": "be quiet DARK POWER PRO 12 1200W 80PLUS TITANIUM",
-        "brand": "be",
-        "spec": [
-            "ATX 파워",
-            "정격출력: 1200W",
-            "80 PLUS 티타늄",
-            "ETA인증: TITANIUM",
-            "LAMBDA인증: A+",
-            "+12V 싱글/다중",
-            "액티브PFC",
-            "PF(역률): 99%",
-            "135mm 팬",
-            "깊이: 200mm",
-            "무상 10년",
-            "[커넥터] 풀모듈러",
-            "메인전원: 24핀(20+4)",
-            "보조전원: 8+4+4핀 1개",
-            "PCIe 8핀(6+2): 10개",
-            "SATA: 16개",
-            "IDE 4핀: 8개",
-            "FDD: 2개",
-            "[부가기능] 대기전력 1W 미만",
-            "프리볼트"
-        ],
-        "price": "631700",
-        "img": "//img.danawa.com/prod_img/500000/510/265/img/16265510_1.jpg?shrink=330:*&_v=20220126163517"
-    },
-    {
         "name": "마이크로닉스 Classic II 550W 80PLUS Bronze 230V EU HDB",
         "brand": "마이크로닉스",
         "spec": [
@@ -9496,32 +9242,6 @@
         "img": "//img.danawa.com/prod_img/500000/866/691/img/11691866_1.jpg?shrink=330:*&_v=20210108163408"
     },
     {
-        "name": "be quiet STRAIGHT POWER 11 1000W 80PLUS PLATINUM",
-        "brand": "be",
-        "spec": [
-            "ATX 파워",
-            "정격출력: 1000W",
-            "80 PLUS 플레티넘",
-            "+12V 다중레일",
-            "액티브PFC",
-            "PF(역률): 99%",
-            "135mm 팬",
-            "깊이: 170mm",
-            "무상 5년",
-            "[커넥터] 풀모듈러",
-            "메인전원: 24핀(20+4)",
-            "보조전원: 8+4+4핀 1개",
-            "PCIe 8핀(6+2): 4개",
-            "SATA: 11개",
-            "IDE 4핀: 4개",
-            "FDD: 1개",
-            "[부가기능] 대기전력 1W 미만",
-            "프리볼트"
-        ],
-        "price": "345170",
-        "img": "//img.danawa.com/prod_img/500000/887/290/img/16290887_1.jpg?shrink=330:*&_v=20220426154921"
-    },
-    {
         "name": "시소닉 FOCUS PLATINUM PX-850 Full Modular",
         "brand": "시소닉",
         "spec": [
@@ -9744,34 +9464,6 @@
         ],
         "price": "122990",
         "img": "//img.danawa.com/prod_img/500000/810/359/img/10359810_1.jpg?shrink=330:*&_v=20201224110508"
-    },
-    {
-        "name": "be quiet DARK POWER PRO 12 1500W 80PLUS TITANIUM",
-        "brand": "be",
-        "spec": [
-            "ATX 파워",
-            "정격출력: 1500W",
-            "80 PLUS 티타늄",
-            "ETA인증: TITANIUM",
-            "LAMBDA인증: A-",
-            "+12V 싱글/다중",
-            "액티브PFC",
-            "PF(역률): 99%",
-            "135mm 팬",
-            "깊이: 200mm",
-            "무상 10년",
-            "[커넥터] 풀모듈러",
-            "메인전원: 24핀(20+4)",
-            "보조전원: 8+4+4핀 1개",
-            "PCIe 8핀(6+2): 10개",
-            "SATA: 16개",
-            "IDE 4핀: 8개",
-            "FDD: 2개",
-            "[부가기능] 대기전력 1W 미만",
-            "프리볼트"
-        ],
-        "price": "699450",
-        "img": "//img.danawa.com/prod_img/500000/594/265/img/16265594_1.jpg?shrink=330:*&_v=20220126163402"
     },
     {
         "name": "Fractal Design Ion+ 2 860W Platinum",
@@ -13564,32 +13256,6 @@
         ],
         "price": "165000",
         "img": "//img.danawa.com/prod_img/500000/830/389/img/6389830_1.jpg?shrink=330:*&_v=20201223144834"
-    },
-    {
-        "name": "be quiet DARK POWER 12 1000W 80PLUS TITANIUM",
-        "brand": "be",
-        "spec": [
-            "ATX 파워",
-            "정격출력: 1000W",
-            "80 PLUS 티타늄",
-            "+12V 싱글/다중",
-            "액티브PFC",
-            "PF(역률): 97%",
-            "135mm 팬",
-            "깊이: 175mm",
-            "무상 10년",
-            "[커넥터] 풀모듈러",
-            "메인전원: 24핀(20+4)",
-            "보조전원: 8+4+4핀 1개",
-            "PCIe 8핀(6+2): 6개",
-            "SATA: 12개",
-            "IDE 4핀: 5개",
-            "FDD: 1개",
-            "[부가기능] 대기전력 1W 미만",
-            "프리볼트"
-        ],
-        "price": "522700",
-        "img": "//img.danawa.com/prod_img/500000/421/282/img/16282421_1.jpg?shrink=330:*&_v=20220426154811"
     },
     {
         "name": "마이크로닉스 CASLON M 500W 80PLUS 230V EU",
@@ -17844,31 +17510,6 @@
         "img": "//img.danawa.com/prod_img/500000/130/070/img/10070130_1.jpg?shrink=330:*&_v=20210202171047"
     },
     {
-        "name": "FSP HYPER K 600W 80PLUS Standard 230V EU 중고",
-        "brand": "FSP",
-        "spec": [
-            "ATX 파워",
-            "정격출력: 600W",
-            "80 PLUS 스탠다드",
-            "+12V 싱글레일",
-            "+12V 가용률: 90%",
-            "액티브PFC",
-            "PF(역률): 99%",
-            "120mm 팬",
-            "깊이: 140mm",
-            "[커넥터] 케이블일체형",
-            "메인전원: 24핀(20+4)",
-            "보조전원: 8핀(4+4) 1개",
-            "PCIe 8핀(6+2): 2개",
-            "SATA: 6개",
-            "IDE 4핀: 3개",
-            "FDD: 1개",
-            "[부가기능] 대기전력 1W 미만"
-        ],
-        "price": "33480",
-        "img": "//img.danawa.com/prod_img/500000/879/735/img/14735879_1.jpg?shrink=330:*&_v=20220111100507"
-    },
-    {
         "name": "써멀테이크 터프파워 GF3 1200W GOLD 풀모듈러 ATX 3.0 (PCIE5)",
         "brand": "써멀테이크",
         "spec": [
@@ -18810,31 +18451,6 @@
         ],
         "price": "57100",
         "img": "//img.danawa.com/prod_img/500000/821/523/img/17523821_1.jpg?shrink=330:*&_v=20220725103738"
-    },
-    {
-        "name": "마이크로닉스 Classic II 600W 80PLUS 230V EU 중고",
-        "brand": "마이크로닉스",
-        "spec": [
-            "ATX 파워",
-            "정격출력: 600W",
-            "80 PLUS 스탠다드",
-            "+12V 싱글레일",
-            "+12V 가용률: 90%",
-            "액티브PFC",
-            "PF(역률): 99%",
-            "120mm 팬",
-            "깊이: 140mm",
-            "[커넥터] 케이블일체형",
-            "메인전원: 24핀(20+4)",
-            "보조전원: 8+4핀 1개",
-            "PCIe 8핀(6+2): 2개",
-            "SATA: 6개",
-            "IDE 4핀: 4개",
-            "FDD: 1개",
-            "[부가기능] 대기전력 1W 미만"
-        ],
-        "price": "34880",
-        "img": "//img.danawa.com/prod_img/500000/013/380/img/14380013_1.jpg?shrink=330:*&_v=20220111110554"
     },
     {
         "name": "큐닉스그룹 큐닉스 RS-600WF",
@@ -20456,28 +20072,6 @@
         ],
         "price": "45000",
         "img": "//img.danawa.com/prod_img/500000/847/123/img/5123847_1.jpg?shrink=330:*&_v=20180719143658"
-    },
-    {
-        "name": "마이크로닉스 Cyclone III 600W After Cooling 중고",
-        "brand": "마이크로닉스",
-        "spec": [
-            "ATX 파워",
-            "정격출력: 600W",
-            "+12V 싱글레일",
-            "+12V 가용률: 99%",
-            "120mm 팬",
-            "깊이: 140mm",
-            "[커넥터] 케이블일체형",
-            "메인전원: 24핀",
-            "보조전원: 8핀(4+4) 1개",
-            "PCIe 8핀(6+2): 2개",
-            "SATA: 5개",
-            "IDE 4핀: 3개",
-            "FDD: 1개",
-            "[부가기능] 대기전력 1W 미만"
-        ],
-        "price": "36000",
-        "img": "//img.danawa.com/prod_img/500000/549/911/img/15911549_1.jpg?shrink=330:*&_v=20211210164913"
     },
     {
         "name": "GreatWall B650H 80PLUS BRONZE 230V EU",
