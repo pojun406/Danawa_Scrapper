@@ -87,6 +87,7 @@ for pc_case in case_data:
 
     product_description = ';'.join(pc_case.get('spec'))
     Size = pc_case.get('spec')[0]
+    Color = pc_case.get('color_text')
     matches = re.search(r'\(([^)]+)\)', Size)
     if matches:
         C_Size = matches.group(1)
@@ -104,13 +105,15 @@ for pc_case in case_data:
 
 
 
+
+
     #start_index = Case_Size.find("(") + 1
     #end_index = Case_Size.find(")")
     #Size = Case_Size[start_index:end_index]
     product_img = pc_case.get('img')
     if gpu_size != 0:
-        insert_query = "INSERT INTO pc_case(manufacturer_name, product_name, product_salePrice, product_originalPrice, Board_Size, GPU_Size, product_description, product_IMG) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)"
-        insert_value = (manufacturer_name, product_name, product_salePrice, product_originalPrice, C_Size, gpu_size, product_description, product_img)
+        insert_query = "INSERT INTO pc_case(manufacturer_name, product_name, product_salePrice, product_originalPrice, Board_Size, GPU_Size, Color, product_description, product_IMG) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)"
+        insert_value = (manufacturer_name, product_name, product_salePrice, product_originalPrice, C_Size, gpu_size, Color, product_description, product_img)
         cursor.execute(insert_query, insert_value)
 
 for pc_cooler in cooler_data:
