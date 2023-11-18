@@ -152,7 +152,7 @@ for pc_cooler in cooler_data:
         if amd_sockets:
             Socket_info.extend(amd_sockets.group(1).split(', '))
 
-    Socket = ';'.join(Socket_info)
+    Socket = ','.join(Socket_info)
 
     print("소켓타입 : " + Socket)
 

@@ -16,8 +16,6 @@ O
 R
 "HARDWARE_DATA_old/Cooler_List.json,1\8\184a2cba08826af1123611d23614614fb5512c2f
 ;
-HDD_test.py,6\d\6ddbeed5d48c9730e2a1f84a4df4bd53fa2b33ac
-;
 RAM_test.py,7\5\7596342d9eaf0532d4a52782eaeb581512356b81
 O
 HARDWARE_DATA_old/VGA_List.json,9\9\9949fc5e8450c76937af644dfe2d305921a9ead1
@@ -41,10 +39,6 @@ O
 HARDWARE_DATA_new/CPU_List.json,7\f\7fa3c67b115c12289f9b39f816d80f626248f97a
 O
 HARDWARE_DATA_new/VGA_List.json,3\b\3b70dd0587a508c9be6706d8640542dfee2ba85b
-9
-	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
-A
-Filtering_Data.py,4\d\4dfc312005d38d6cc460e9b35d9c539e98e5e54b
 >
 Cooler_test.py,3\2\32d3d0b395d9a145db70ac8e3f22ce9d9e98df6a
 <
@@ -55,5 +49,11 @@ P
  HARDWARE_DATA_new/Case_List.json,9\e\9eb66fda8f39a5816db868a2b0cea2a1dc5ee0e8
 ;
 SSD_test.py,8\e\8e64e0f2a9f36ac877ad1ea422cb88173e9d1162
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+;
+HDD_test.py,6\d\6ddbeed5d48c9730e2a1f84a4df4bd53fa2b33ac
+A
+Filtering_Data.py,4\d\4dfc312005d38d6cc460e9b35d9c539e98e5e54b
 >
 SetDBtoJSON.py,d\9\d9f019965a514d730bbb34b6a6d6a79e94681056
