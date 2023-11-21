@@ -69,6 +69,8 @@ alter_query = "ALTER TABLE pc_ssd AUTO_INCREMENT = 1"
 cursor.execute(alter_query)
 alter_query = "ALTER TABLE pc_vga AUTO_INCREMENT = 1"
 cursor.execute(alter_query)
+insert_default_cooler = "INSERT INTO pc_cooler (product_num, manufacturer_name, product_name, product_salePrice, product_originalPrice, Socket_Type, Color, product_description, product_IMG) VALUES (0, '기본쿨러', '기본쿨러', '0', '0', NULL, NULL, NULL, NULL)"
+cursor.execute(insert_default_cooler)
 
 for pc_case in case_data:
     manufacturer_name = pc_case.get('brand')
@@ -104,9 +106,6 @@ for pc_case in case_data:
         gpu_size = 0
 
 
-
-
-
     #start_index = Case_Size.find("(") + 1
     #end_index = Case_Size.find(")")
     #Size = Case_Size[start_index:end_index]
@@ -116,51 +115,6 @@ for pc_case in case_data:
         insert_value = (manufacturer_name, product_name, product_salePrice, product_originalPrice, C_Size, gpu_size, Color, product_description, product_img)
         cursor.execute(insert_query, insert_value)
 
-for pc_cooler in cooler_data:
-    manufacturer_name = pc_cooler.get('brand')
-    product_name = pc_cooler.get('name')
-    product_price = pc_cooler.get('price')
-
-    if product_price == '일시품절':
-        product_originalPrice = '일시품절'
-        product_salePrice = 0  # '일시품절'인 경우 0으로 할당
-    elif product_price == '가격비교예정':
-        product_originalPrice = '가격비교예정'
-        product_salePrice = 0  # '가격비교예정'인 경우 0으로 할당
-    else:
-        product_originalPrice = product_price
-        product_salePrice = int(product_price) * 0.95
-
-    product_description = ';'.join(pc_cooler.get('spec'))
-    Color = pc_cooler.get("color_text")
-    product_img = pc_cooler.get('img')
-
-    Socket_Type = []
-    for keyword in pc_cooler.get('spec'):
-        if '소켓:' in keyword:
-            Socket_Type.append(keyword)
-
-    Socket_info = []
-    for item in Socket_Type:
-    # "인텔 소켓:" 뒤에 있는 정보 추출
-        intel_sockets = re.search(r'인텔 소켓: (.+)', item)
-        if intel_sockets:
-            Socket_info.extend(intel_sockets.group(1).split(', '))
-
-        # "AMD 소켓:" 뒤에 있는 정보 추출
-        amd_sockets = re.search(r'AMD 소켓: (.+)', item)
-        if amd_sockets:
-            Socket_info.extend(amd_sockets.group(1).split(', '))
-
-    Socket = ','.join(Socket_info)
-
-    print("소켓타입 : " + Socket)
-
-
-
-    insert_query = "INSERT INTO pc_cooler(manufacturer_name, product_name, product_salePrice, product_originalPrice, Socket_Type, Color, product_description, product_IMG) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)"
-    insert_value = (manufacturer_name, product_name, product_salePrice, product_originalPrice, Socket, Color, product_description, product_img)
-    cursor.execute(insert_query, insert_value)
 
 for pc_cpu in cpu_data:
     manufacturer_name = pc_cpu.get('brand')
@@ -232,6 +186,52 @@ for pc_cpu in cpu_data:
     insert_value = (manufacturer_name, product_name, product_salePrice, product_originalPrice, integrated_graphics, tdp_value, formatted_socket_info, memory_type, cooler_stat, product_description, product_img)
     cursor.execute(insert_query, insert_value)
 
+for pc_cooler in cooler_data:
+    manufacturer_name = pc_cooler.get('brand')
+    product_name = pc_cooler.get('name')
+    product_price = pc_cooler.get('price')
+
+    if product_price == '일시품절':
+        product_originalPrice = '일시품절'
+        product_salePrice = 0  # '일시품절'인 경우 0으로 할당
+    elif product_price == '가격비교예정':
+        product_originalPrice = '가격비교예정'
+        product_salePrice = 0  # '가격비교예정'인 경우 0으로 할당
+    else:
+        product_originalPrice = product_price
+        product_salePrice = int(product_price) * 0.95
+
+    product_description = ';'.join(pc_cooler.get('spec'))
+    Color = pc_cooler.get("color_text")
+    product_img = pc_cooler.get('img')
+
+    Socket_Type = []
+    for keyword in pc_cooler.get('spec'):
+        if '소켓:' in keyword:
+            Socket_Type.append(keyword)
+
+    Socket_info = []
+    for item in Socket_Type:
+    # "인텔 소켓:" 뒤에 있는 정보 추출
+        intel_sockets = re.search(r'인텔 소켓: (.+)', item)
+        if intel_sockets:
+            Socket_info.extend(intel_sockets.group(1).split(', '))
+
+        # "AMD 소켓:" 뒤에 있는 정보 추출
+        amd_sockets = re.search(r'AMD 소켓: (.+)', item)
+        if amd_sockets:
+            Socket_info.extend(amd_sockets.group(1).split(', '))
+
+    Socket = ','.join(Socket_info)
+
+    print("소켓타입 : " + Socket)
+
+
+
+    insert_query = "INSERT INTO pc_cooler(manufacturer_name, product_name, product_salePrice, product_originalPrice, Socket_Type, Color, product_description, product_IMG) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)"
+    insert_value = (manufacturer_name, product_name, product_salePrice, product_originalPrice, Socket, Color, product_description, product_img)
+    cursor.execute(insert_query, insert_value)
+
 for pc_hdd in hdd_data:
     manufacturer_name = pc_hdd.get('brand')
     product_name = pc_hdd.get('name')
@@ -299,11 +299,15 @@ for pc_mboard in mboard_data:
         print(memory_type)
 
     MHzType = product_description
-    getMHz = r'(\d{1,4}(?:,\d{3})*MHz)'
-    MHz = ''.join(re.findall(getMHz, MHzType)).replace(',', '')
-
+    getMHz = r'(;\d{1,4}(?:,\d{3})*MHz)'
+    MHz_match = re.search(getMHz, MHzType)
 
     product_img = pc_mboard.get('img')
+    MHz = 0
+    if MHz_match:
+        MHz_raw = ''.join(re.findall(r'\d', MHz_match.group())).replace(',', '')  # "3200MHz"에서 "3200"을 가져옴
+        MHz = int(MHz_raw)
+
     if MHz != "":
         insert_query = "INSERT INTO pc_mboard(manufacturer_name, product_name, product_salePrice, product_originalPrice, Socket, Memory_Type, MHz, MBoard_Size, product_description, product_IMG) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
         insert_value = (manufacturer_name, product_name, product_salePrice, product_originalPrice, formatted_socket_info, memory_type, MHz, M_Size, product_description, product_img)
@@ -361,9 +365,9 @@ for pc_ram in ram_data:
     ram_type = pc_ram.get('spec')[2]
     getMHz = r'(\d+MHz)'
     matchs = re.search(getMHz, ram_type)
-
     if matchs:
-        MHz = matchs.group(1)
+        MHz_raw = matchs.group(1)
+        MHz = int(re.search(r'\d+', MHz_raw).group())
 
     product_img = pc_ram.get('img')
 
