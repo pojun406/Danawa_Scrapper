@@ -40,6 +40,7 @@ delete_query6 = "DELETE FROM pc_power"
 delete_query7 = "DELETE FROM pc_ram"
 delete_query8 = "DELETE FROM pc_ssd"
 delete_query9 = "DELETE FROM pc_vga"
+delete_query10 = "DELETE FROM pc_default"
 
 cursor.execute(delete_query1)
 cursor.execute(delete_query2)
@@ -50,6 +51,7 @@ cursor.execute(delete_query6)
 cursor.execute(delete_query7)
 cursor.execute(delete_query8)
 cursor.execute(delete_query9)
+cursor.execute(delete_query10)
 
 alter_query = "ALTER TABLE pc_case AUTO_INCREMENT = 1"
 cursor.execute(alter_query)
@@ -69,7 +71,7 @@ alter_query = "ALTER TABLE pc_ssd AUTO_INCREMENT = 1"
 cursor.execute(alter_query)
 alter_query = "ALTER TABLE pc_vga AUTO_INCREMENT = 1"
 cursor.execute(alter_query)
-insert_default_cooler = "INSERT INTO pc_cooler (product_num, manufacturer_name, product_name, product_salePrice, product_originalPrice, Socket_Type, Color, product_description, product_IMG) VALUES (0, '기본쿨러', '기본쿨러', '0', '0', NULL, NULL, NULL, NULL)"
+insert_default_cooler = "INSERT INTO pc_cooler (product_num, manufacturer_name, product_name, product_salePrice, product_originalPrice, Socket_Type, Color, product_description, product_IMG) VALUES (0, '기본쿨러', '기본쿨러', '0', '0', '기본', NULL, NULL, NULL)"
 cursor.execute(insert_default_cooler)
 
 for pc_case in case_data:
@@ -114,7 +116,6 @@ for pc_case in case_data:
         insert_query = "INSERT INTO pc_case(manufacturer_name, product_name, product_salePrice, product_originalPrice, Board_Size, GPU_Size, Color, product_description, product_IMG) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)"
         insert_value = (manufacturer_name, product_name, product_salePrice, product_originalPrice, C_Size, gpu_size, Color, product_description, product_img)
         cursor.execute(insert_query, insert_value)
-
 
 for pc_cpu in cpu_data:
     manufacturer_name = pc_cpu.get('brand')
@@ -447,6 +448,33 @@ for pc_vga in vga_data:
         insert_query = "INSERT INTO pc_vga(manufacturer_name, product_name, product_salePrice, product_originalPrice, VGA_Name, VGA_Size, TDP, Max_Used_W, product_description, product_IMG) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
         insert_value = (manufacturer_name, product_name, product_salePrice, product_originalPrice, VGA_Name, VGA_size, TDP, Max_Used, product_description, product_img)
         cursor.execute(insert_query, insert_value)
+
+made_default_query = """INSERT INTO pc_default(
+    cpu_product_num, cpu_product_name, cpu_product_originalPrice, 
+    cpu_InterGrated_graphics, cpu_TDP, cpu_Stock_Cooler, cpu_Socket_Type,
+    mboard_product_num, mboard_product_name, mboard_product_originalPrice, 
+    mboard_MBoard_Size, ram_product_num, ram_product_name, ram_product_originalPrice, ram_R_Size
+)
+SELECT
+    cpu.product_num, cpu.product_name, cpu.product_originalPrice, 
+    cpu.InterGrated_graphics, cpu.TDP, cpu.Stock_Cooler, cpu.Socket_Type,
+    mboard.product_num, mboard.product_name, mboard.product_originalPrice, 
+    mboard.MBoard_Size, ram.product_num, ram.product_name, ram.product_originalPrice, ram.R_Size
+FROM (
+    SELECT *
+    FROM pc_ram
+    WHERE pc_ram.R_Size < 32
+    ORDER BY product_num ASC
+) AS ram
+JOIN pc_cpu AS cpu ON FIND_IN_SET(ram.Version, cpu.Memory_Type) > 0
+JOIN (
+    SELECT *
+    FROM pc_mboard
+    ORDER BY product_num ASC
+    LIMIT 500
+) AS mboard ON cpu.Socket_Type = mboard.Socket
+WHERE ABS(CAST(REGEXP_REPLACE(ram.MHz, '[^0-9]', '') AS SIGNED) - mboard.MHz) <= 500;"""
+cursor.execute(made_default_query)
 
 connection.commit()
 connection.close()

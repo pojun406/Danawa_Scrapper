@@ -1,5 +1,5 @@
 
-qpython:S1192S"TDefine a constant instead of duplicating this literal 'ê°€ê²©ë¹„êµì˜ˆì •' 18 times.(û„ıÿÿÿÿ
-6python:S125m"Remove this commented out code.(ÔÎ‰ü
-Tpython:S6353¥";Use concise character class syntax '\d' instead of '[0-9]'.(Ûã…¼
-Tpython:S6353§";Use concise character class syntax '\d' instead of '[0-9]'.(“³øğ
+xpython:S1192U"TDefine a constant instead of duplicating this literal 'ê°€ê²©ë¹„êµì˜ˆì •' 18 times.(û„ıÿÿÿÿ8œÔ‘Ï¿1
+=python:S125o"Remove this commented out code.(ÔÎ‰ü8œÔ‘Ï¿1
+[python:S6353¦";Use concise character class syntax '\d' instead of '[0-9]'.(Ûã…¼8œÔ‘Ï¿1
+[python:S6353¨";Use concise character class syntax '\d' instead of '[0-9]'.(“³øğ8œÔ‘Ï¿1
