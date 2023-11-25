@@ -1,5 +1,16 @@
 import codecs
 import json
+import subprocess
+
+subprocess.run(["python", "Case.py"])
+subprocess.run(["python", "Cooler.py"])
+subprocess.run(["python", "CPU.py"])
+subprocess.run(["python", "HDD.py"])
+subprocess.run(["python", "MBoard.py"])
+subprocess.run(["python", "Power.py"])
+subprocess.run(["python", "RAM.py"])
+subprocess.run(["python", "SSD.py"])
+subprocess.run(["python", "VGA.py"])
 
 # 제외할 항목
 excluded_items = ["HDD (NAS용)", "쿼드로", "고정핀/나사", "VGA 지지대", "써멀패드", "SSD/HDD 주변기기", "임베디드 보드", "방열판", "제온", "중고",

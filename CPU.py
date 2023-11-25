@@ -7,7 +7,10 @@ from selenium.webdriver.support import expected_conditions as EC
 
 import json
 
-driver = webdriver.Chrome()
+options = webdriver.ChromeOptions()
+options.add_argument('headless')
+
+driver = webdriver.Chrome('chromedriver', options=options)
 url = 'https://prod.danawa.com/list/?cate=112747'
 driver.get(url)
 data = []

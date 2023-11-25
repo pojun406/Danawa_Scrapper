@@ -6,11 +6,14 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-driver = webdriver.Chrome()
+options = webdriver.ChromeOptions()
+options.add_argument('headless')
+
+driver = webdriver.Chrome('chromedriver', options=options)
 
 HDD_url = 'http://prod.danawa.com/list/?cate=112763'
 driver.get(HDD_url)
-HDD_range = 18
+HDD_range = 10
 
 data = []
 for page in range(2, HDD_range):

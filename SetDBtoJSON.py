@@ -80,13 +80,16 @@ for pc_case in case_data:
     product_price = pc_case.get('price')
 
     if product_price == '일시품절':
-        product_originalPrice = '일시품절'
+        product_originalPrice = 0
         product_salePrice = 0  # '일시품절'인 경우 0으로 할당
     elif product_price == '가격비교예정':
-        product_originalPrice = '가격비교예정'
+        product_originalPrice = 0
+        product_salePrice = 0  # '가격비교예정'인 경우 0으로 할당
+    elif product_price == '가격비교중지':
+        product_originalPrice = 0
         product_salePrice = 0  # '가격비교예정'인 경우 0으로 할당
     else:
-        product_originalPrice = product_price
+        product_originalPrice = int(product_price)
         product_salePrice = int(product_price) * 0.95
 
     product_description = ';'.join(pc_case.get('spec'))
@@ -123,13 +126,16 @@ for pc_cpu in cpu_data:
     product_price = pc_cpu.get('price')
 
     if product_price == '일시품절':
-        product_originalPrice = '일시품절'
+        product_originalPrice = 0
         product_salePrice = 0  # '일시품절'인 경우 0으로 할당
     elif product_price == '가격비교예정':
-        product_originalPrice = '가격비교예정'
+        product_originalPrice = 0
+        product_salePrice = 0  # '가격비교예정'인 경우 0으로 할당
+    elif product_price == '가격비교중지':
+        product_originalPrice = 0
         product_salePrice = 0  # '가격비교예정'인 경우 0으로 할당
     else:
-        product_originalPrice = product_price
+        product_originalPrice = int(product_price)
         product_salePrice = int(product_price) * 0.95
 
     product_description = ';'.join(pc_cpu.get('spec'))
@@ -193,13 +199,16 @@ for pc_cooler in cooler_data:
     product_price = pc_cooler.get('price')
 
     if product_price == '일시품절':
-        product_originalPrice = '일시품절'
+        product_originalPrice = 0
         product_salePrice = 0  # '일시품절'인 경우 0으로 할당
     elif product_price == '가격비교예정':
-        product_originalPrice = '가격비교예정'
+        product_originalPrice = 0
+        product_salePrice = 0  # '가격비교예정'인 경우 0으로 할당
+    elif product_price == '가격비교중지':
+        product_originalPrice = 0
         product_salePrice = 0  # '가격비교예정'인 경우 0으로 할당
     else:
-        product_originalPrice = product_price
+        product_originalPrice = int(product_price)
         product_salePrice = int(product_price) * 0.95
 
     product_description = ';'.join(pc_cooler.get('spec'))
@@ -239,13 +248,16 @@ for pc_hdd in hdd_data:
     product_price = pc_hdd.get('price')
 
     if product_price == '일시품절':
-        product_originalPrice = '일시품절'
+        product_originalPrice = 0
         product_salePrice = 0  # '일시품절'인 경우 0으로 할당
     elif product_price == '가격비교예정':
-        product_originalPrice = '가격비교예정'
+        product_originalPrice = 0
+        product_salePrice = 0  # '가격비교예정'인 경우 0으로 할당
+    elif product_price == '가격비교중지':
+        product_originalPrice = 0
         product_salePrice = 0  # '가격비교예정'인 경우 0으로 할당
     else:
-        product_originalPrice = product_price
+        product_originalPrice = int(product_price)
         product_salePrice = int(product_price) * 0.95
 
     product_description = ';'.join(pc_hdd.get('spec'))
@@ -263,13 +275,16 @@ for pc_mboard in mboard_data:
     product_price = pc_mboard.get('price')
 
     if product_price == '일시품절':
-        product_originalPrice = '일시품절'
+        product_originalPrice = 0
         product_salePrice = 0  # '일시품절'인 경우 0으로 할당
     elif product_price == '가격비교예정':
-        product_originalPrice = '가격비교예정'
+        product_originalPrice = 0
+        product_salePrice = 0  # '가격비교예정'인 경우 0으로 할당
+    elif product_price == '가격비교중지':
+        product_originalPrice = 0
         product_salePrice = 0  # '가격비교예정'인 경우 0으로 할당
     else:
-        product_originalPrice = product_price
+        product_originalPrice = int(product_price)
         product_salePrice = int(product_price) * 0.95
 
     product_description = ';'.join(pc_mboard.get('spec'))
@@ -320,13 +335,16 @@ for pc_power in power_data:
     product_price = pc_power.get('price')
 
     if product_price == '일시품절':
-        product_originalPrice = '일시품절'
+        product_originalPrice = 0
         product_salePrice = 0  # '일시품절'인 경우 0으로 할당
     elif product_price == '가격비교예정':
-        product_originalPrice = '가격비교예정'
+        product_originalPrice = 0
+        product_salePrice = 0  # '가격비교예정'인 경우 0으로 할당
+    elif product_price == '가격비교중지':
+        product_originalPrice = 0
         product_salePrice = 0  # '가격비교예정'인 경우 0으로 할당
     else:
-        product_originalPrice = product_price
+        product_originalPrice = int(product_price)
         product_salePrice = int(product_price) * 0.95
 
     product_description = ';'.join(pc_power.get('spec'))
@@ -349,13 +367,16 @@ for pc_ram in ram_data:
     product_price = pc_ram.get('price')
 
     if product_price == '일시품절':
-        product_originalPrice = '일시품절'
+        product_originalPrice = 0
         product_salePrice = 0  # '일시품절'인 경우 0으로 할당
     elif product_price == '가격비교예정':
-        product_originalPrice = '가격비교예정'
+        product_originalPrice = 0
+        product_salePrice = 0  # '가격비교예정'인 경우 0으로 할당
+    elif product_price == '가격비교중지':
+        product_originalPrice = 0
         product_salePrice = 0  # '가격비교예정'인 경우 0으로 할당
     else:
-        product_originalPrice = product_price
+        product_originalPrice = int(product_price)
         product_salePrice = int(product_price) * 0.95
 
 
@@ -382,13 +403,16 @@ for pc_ssd in ssd_data:
     product_price = pc_ssd.get('price')
 
     if product_price == '일시품절':
-        product_originalPrice = '일시품절'
+        product_originalPrice = 0
         product_salePrice = 0  # '일시품절'인 경우 0으로 할당
     elif product_price == '가격비교예정':
-        product_originalPrice = '가격비교예정'
+        product_originalPrice = 0
+        product_salePrice = 0  # '가격비교예정'인 경우 0으로 할당
+    elif product_price == '가격비교중지':
+        product_originalPrice = 0
         product_salePrice = 0  # '가격비교예정'인 경우 0으로 할당
     else:
-        product_originalPrice = product_price
+        product_originalPrice = int(product_price)
         product_salePrice = int(product_price) * 0.95
 
     product_description = ';'.join(pc_ssd.get('spec'))
@@ -406,13 +430,16 @@ for pc_vga in vga_data:
     product_price = pc_vga.get('price')
 
     if product_price == '일시품절':
-        product_originalPrice = '일시품절'
+        product_originalPrice = 0
         product_salePrice = 0  # '일시품절'인 경우 0으로 할당
     elif product_price == '가격비교예정':
-        product_originalPrice = '가격비교예정'
+        product_originalPrice = 0
+        product_salePrice = 0  # '가격비교예정'인 경우 0으로 할당
+    elif product_price == '가격비교중지':
+        product_originalPrice = 0
         product_salePrice = 0  # '가격비교예정'인 경우 0으로 할당
     else:
-        product_originalPrice = product_price
+        product_originalPrice = int(product_price)
         product_salePrice = int(product_price) * 0.95
 
     product_description = ';'.join(pc_vga.get('spec'))
@@ -444,9 +471,14 @@ for pc_vga in vga_data:
 
     VGA_Name = pc_vga.get('spec')[0]
     product_img = pc_vga.get('img')
+
+    boost_clock_match = re.search(r'부스트클럭: (\d+)MHz', product_description)
+    if boost_clock_match:
+        boost_clock = boost_clock_match.group(1)
+
     if TDP != 0 or Max_Used != 0:
-        insert_query = "INSERT INTO pc_vga(manufacturer_name, product_name, product_salePrice, product_originalPrice, VGA_Name, VGA_Size, TDP, Max_Used_W, product_description, product_IMG) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
-        insert_value = (manufacturer_name, product_name, product_salePrice, product_originalPrice, VGA_Name, VGA_size, TDP, Max_Used, product_description, product_img)
+        insert_query = "INSERT INTO pc_vga(manufacturer_name, product_name, product_salePrice, product_originalPrice, VGA_Name, VGA_Size, TDP, Max_Used_W, Boost_Clock, product_description, product_IMG) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
+        insert_value = (manufacturer_name, product_name, product_salePrice, product_originalPrice, VGA_Name, VGA_size, TDP, Max_Used, boost_clock, product_description, product_img)
         cursor.execute(insert_query, insert_value)
 
 made_default_query = """INSERT INTO pc_default(

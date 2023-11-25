@@ -8,10 +8,14 @@ import json
 
 data = []
 
-driver = webdriver.Chrome()
+options = webdriver.ChromeOptions()
+options.add_argument('headless')
+
+driver = webdriver.Chrome('chromedriver', options=options)
+
 url = 'http://prod.danawa.com/list/?cate=112753'
 driver.get(url)
-VGA_range = 41
+VGA_range = 40
 
 for page in range(2, VGA_range):
     # 현재 페이지 출력

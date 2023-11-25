@@ -1,5 +1,24 @@
 
-xpython:S1192U"TDefine a constant instead of duplicating this literal 'ê°€ê²©ë¹„êµì˜ˆì •' 18 times.(û„ıÿÿÿÿ8œÔ‘Ï¿1
-=python:S125o"Remove this commented out code.(ÔÎ‰ü8œÔ‘Ï¿1
-[python:S6353¦";Use concise character class syntax '\d' instead of '[0-9]'.(Ûã…¼8œÔ‘Ï¿1
-[python:S6353¨";Use concise character class syntax '\d' instead of '[0-9]'.(“³øğ8œÔ‘Ï¿1
+rpython:S1192X"SDefine a constant instead of duplicating this literal 'ê°€ê²©ë¹„êµì¤‘ì§€' 9 times.(‡Å­Å8¶§ÈºÀ1
+ppython:S1192U"SDefine a constant instead of duplicating this literal 'ê°€ê²©ë¹„êµì˜ˆì •' 9 times.(û„ıÿÿÿÿ
+†python:S1871V"bEither merge this branch with the identical one on line "83" or change one of the implementations.(¬½²Ïûÿÿÿÿ8•¤ò¹À1
+†python:S1871Y"bEither merge this branch with the identical one on line "83" or change one of the implementations.(¬½²Ïûÿÿÿÿ8•¤ò¹À1
+6python:S125r"Remove this commented out code.(ÔÎ‰ü
+ˆpython:S1871„"cEither merge this branch with the identical one on line "129" or change one of the implementations.(¬½²Ïûÿÿÿÿ8ıÇºÀ1
+ˆpython:S1871‡"cEither merge this branch with the identical one on line "129" or change one of the implementations.(¬½²Ïûÿÿÿÿ8ıÇºÀ1
+Tpython:S6353¬";Use concise character class syntax '\d' instead of '[0-9]'.(Ûã…¼
+ˆpython:S1871Í"cEither merge this branch with the identical one on line "202" or change one of the implementations.(¬½²Ïûÿÿÿÿ8¶§ÈºÀ1
+ˆpython:S1871Ğ"cEither merge this branch with the identical one on line "202" or change one of the implementations.(¬½²Ïûÿÿÿÿ8¶§ÈºÀ1
+ˆpython:S1871ş"cEither merge this branch with the identical one on line "251" or change one of the implementations.(¬½²Ïûÿÿÿÿ8ÈÎÈºÀ1
+ˆpython:S1871"cEither merge this branch with the identical one on line "251" or change one of the implementations.(¬½²Ïûÿÿÿÿ8ÈÎÈºÀ1
+ˆpython:S1871™"cEither merge this branch with the identical one on line "278" or change one of the implementations.(¬½²Ïûÿÿÿÿ8¿äÈºÀ1
+ˆpython:S1871œ"cEither merge this branch with the identical one on line "278" or change one of the implementations.(¬½²Ïûÿÿÿÿ8¿äÈºÀ1
+Tpython:S6353·";Use concise character class syntax '\d' instead of '[0-9]'.(“³øğ
+ˆpython:S1871Õ"cEither merge this branch with the identical one on line "338" or change one of the implementations.(¬½²Ïûÿÿÿÿ8ÜÉºÀ1
+ˆpython:S1871Ø"cEither merge this branch with the identical one on line "338" or change one of the implementations.(¬½²Ïûÿÿÿÿ8ÜÉºÀ1
+ˆpython:S1871õ"cEither merge this branch with the identical one on line "370" or change one of the implementations.(¬½²Ïûÿÿÿÿ8òªÉºÀ1
+ˆpython:S1871ø"cEither merge this branch with the identical one on line "370" or change one of the implementations.(¬½²Ïûÿÿÿÿ8òªÉºÀ1
+ˆpython:S1871™"cEither merge this branch with the identical one on line "406" or change one of the implementations.(¬½²Ïûÿÿÿÿ8ìËÉºÀ1
+ˆpython:S1871œ"cEither merge this branch with the identical one on line "406" or change one of the implementations.(¬½²Ïûÿÿÿÿ8ìËÉºÀ1
+ˆpython:S1871´"cEither merge this branch with the identical one on line "433" or change one of the implementations.(¬½²Ïûÿÿÿÿ8·æÉºÀ1
+ˆpython:S1871·"cEither merge this branch with the identical one on line "433" or change one of the implementations.(¬½²Ïûÿÿÿÿ8·æÉºÀ1

@@ -7,21 +7,23 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import json
 
-driver = webdriver.Chrome()
+options = webdriver.ChromeOptions()
+options.add_argument('headless')
 
-Power_url = 'http://prod.danawa.com/list/?cate=112777'
-driver.get(Power_url)
-Power_range = 35
-
+driver = webdriver.Chrome('chromedriver', options=options)
+url = 'https://prod.danawa.com/list/?cate=112751'
+driver.get(url)
+MBoard_range = 30
 data = []
 
-for page in range(2, Power_range):
+for page in range(2, MBoard_range):
     # 현재 페이지 출력
     print(f"Current Page: {page - 1}")
     time.sleep(3)
 
     # 스크롤 내리기
     driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+
 
     # 페이지 로딩을 기다림
     WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, "ul.product_list")))
@@ -46,5 +48,6 @@ for page in range(2, Power_range):
 
 # 페이지 버튼 클릭
     driver.execute_script("movePage(%d)" %page)
-with open('HARDWARE_DATA_old/Power_List.json', 'w', encoding='utf-8') as f:
+
+with open('HARDWARE_DATA_old/MBoard_List.json', 'w', encoding='utf-8') as f:
     json.dump(data, f, ensure_ascii=False, indent=4)

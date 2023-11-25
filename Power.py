@@ -7,15 +7,18 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import json
 
-driver = webdriver.Chrome()
+options = webdriver.ChromeOptions()
+options.add_argument('headless')
 
-Cooler_url = 'http://prod.danawa.com/list/?cate=11236855'
-driver.get(Cooler_url)
-Cooler_range = 101
+driver = webdriver.Chrome('chromedriver', options=options)
+
+Power_url = 'http://prod.danawa.com/list/?cate=112777'
+driver.get(Power_url)
+Power_range = 20
 
 data = []
 
-for page in range(2, Cooler_range):
+for page in range(2, Power_range):
     # 현재 페이지 출력
     print(f"Current Page: {page - 1}")
     time.sleep(3)
@@ -40,19 +43,11 @@ for page in range(2, Cooler_range):
         Brand = Brand_tmp[0]
         name = li.select_one('p.prod_name > a').text.strip()
         spec_list = li.select_one('div.spec_list').text.strip().split(' / ')
-        price_list = li.select('div.prod_pricelist')
-
-        for price_item in price_list:
-            prices = price_item.select('p.price_sect')
-            colors = price_item.select('p.memory_sect')
-            for color, price_sect in zip(colors, prices):
-                color_text = color.get_text(strip=True).strip()
-                color_text = re.sub(r'^\d+위', '', color_text)
-                price_text = price_sect.select_one('a > strong').get_text(strip=True).replace(',', "")
-                print(name, Brand, spec_list, color_text, price_text)
-                data.append({"name":name, "brand":Brand, "spec":spec_list,"color_text" : color_text, "price": price_text, "img":img_link, "Cate":"Cooler"})
+        price = li.select_one('p.price_sect > a > strong').text.strip().replace(',',"")
+        print(name, Brand, spec_list, price)
+        data.append({"name":name, "brand":Brand, "spec":spec_list, "price": price, "img":img_link})
 
 # 페이지 버튼 클릭
     driver.execute_script("movePage(%d)" %page)
-with open('HARDWARE_DATA_old/Cooler_List.json', 'w', encoding='utf-8') as f:
+with open('HARDWARE_DATA_old/Power_List.json', 'w', encoding='utf-8') as f:
     json.dump(data, f, ensure_ascii=False, indent=4)
