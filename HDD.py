@@ -1,3 +1,6 @@
+import os
+import sys
+
 from selenium import webdriver
 from bs4 import BeautifulSoup
 import time
@@ -9,7 +12,7 @@ from selenium.webdriver.support import expected_conditions as EC
 options = webdriver.ChromeOptions()
 options.add_argument('headless')
 
-driver = webdriver.Chrome('chromedriver', options=options)
+driver = webdriver.Chrome(executable_path="C:/Users/byung/Documents/GitHub/Danawa_Scrapper/chromedriver.exe", options=options)
 
 HDD_url = 'http://prod.danawa.com/list/?cate=112763'
 driver.get(HDD_url)
@@ -87,8 +90,19 @@ for page in range(2, HDD_range):
                 print(name, Brand, spec_list, size_TorG, price_text)
                 data.append({"name":name, "brand":Brand, "spec":spec_list,"size" : size_TorG, "price": price_text, "img":img_link, "Cate":"HDD"})
 
-# 페이지 버튼 클릭
-    driver.execute_script("movePage(%d)" %page)
+# 결과 파일 경로 설정
+file_path = os.path.abspath('HARDWARE_DATA_old/HDD_List.json')
 
-with open('HARDWARE_DATA_old/HDD_List.json', 'w', encoding='utf-8') as f:
-    json.dump(data, f, ensure_ascii=False, indent=4)
+# 결과 파일 저장
+try:
+    with open(file_path, 'w', encoding='utf-8') as f:
+        json.dump(data, f, ensure_ascii=False, indent=4)
+    print(f"Data saved to {file_path}")
+except Exception as e:
+    print(f"An error occurred: {e}")
+finally:
+    # WebDriver 종료
+    driver.quit()
+
+    # 스크립트 강제 종료
+    sys.exit()

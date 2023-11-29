@@ -17,8 +17,6 @@ S
 #HARDWARE_DATA_old/Moniter_List.json,2\c\2c44dd8dbe007f0ceaba065f2a09af03e90f388d
 R
 "HARDWARE_DATA_old/MBoard_List.json,d\5\d508121c11fa7ae091ac57394ab35eb4b6632f5f
-9
-	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 O
 HARDWARE_DATA_new/SSD_List.json,b\5\b5a5d5f44668fc4ed969428454a8674036b8287d
 O
@@ -31,31 +29,41 @@ R
 "HARDWARE_DATA_new/MBoard_List.json,7\4\74a24e515356449c6b3c5a996161fcb458ba576f
 O
 HARDWARE_DATA_new/HDD_List.json,e\b\ebd19d90b3e06d0a12f1d5068f7bb1ec946d5e92
-6
-VGA.py,d\4\d4ea9a83385738eb5f4804ea7dc6d498aa9c2879
-6
-SSD.py,f\6\f64a0d6803b95a66132dc601c9cf15ffc5e3ba16
-6
-RAM.py,e\5\e54b4e92c1ee8c6b08f073273981165f03307092
-8
-Power.py,a\b\ab0ac65be9dd80c694864f9f4da214957b81bdf9
-9
-	MBoard.py,5\5\55f82a90eff7dea54fccd6d8603ed8a4fa599126
-6
-CPU.py,3\e\3eb9d68bba7e0e0e5c93dea3cab4d76c60d6a79b
-9
-	Cooler.py,5\0\506b0d1da79b9d2fc3b056f733957bec680f6f2e
-7
-Case.py,8\c\8cb286d56a212047f0651fe9983295c26cac15be
-O
-HARDWARE_DATA_new/CPU_List.json,7\f\7fa3c67b115c12289f9b39f816d80f626248f97a
-6
-HDD.py,c\a\cac2c3c35304d465dd7277844d2114b01be7f4cd
 P
  HARDWARE_DATA_new/Case_List.json,9\e\9eb66fda8f39a5816db868a2b0cea2a1dc5ee0e8
 R
 "HARDWARE_DATA_new/Cooler_List.json,7\5\757412c33ed7e3dc74b1347138ada04cadccdc22
-A
-Filtering_Data.py,4\d\4dfc312005d38d6cc460e9b35d9c539e98e5e54b
 >
 SetDBtoJSON.py,d\9\d9f019965a514d730bbb34b6a6d6a79e94681056
+O
+HARDWARE_DATA_new/CPU_List.json,7\f\7fa3c67b115c12289f9b39f816d80f626248f97a
+9
+	Case.spec,c\1\c12fbf790575831591f527ad2f1aad2d0f6a78e6
+@
+chromedriver.exe,d\0\d0b49ae29587435df3e9988b34c286a37d9a89d9
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+A
+Filtering_Data.py,4\d\4dfc312005d38d6cc460e9b35d9c539e98e5e54b
+8
+CPU.spec,6\1\61643565f370ad939e21a3b6437527ff33a51a88
+7
+Case.py,8\c\8cb286d56a212047f0651fe9983295c26cac15be
+6
+HDD.py,c\a\cac2c3c35304d465dd7277844d2114b01be7f4cd
+9
+	MBoard.py,5\5\55f82a90eff7dea54fccd6d8603ed8a4fa599126
+8
+Power.py,a\b\ab0ac65be9dd80c694864f9f4da214957b81bdf9
+6
+RAM.py,e\5\e54b4e92c1ee8c6b08f073273981165f03307092
+6
+SSD.py,f\6\f64a0d6803b95a66132dc601c9cf15ffc5e3ba16
+8
+RAM.spec,4\7\4777788539925d5b384c7f5144724e660121e525
+9
+	Cooler.py,5\0\506b0d1da79b9d2fc3b056f733957bec680f6f2e
+6
+VGA.py,d\4\d4ea9a83385738eb5f4804ea7dc6d498aa9c2879
+6
+CPU.py,3\e\3eb9d68bba7e0e0e5c93dea3cab4d76c60d6a79b

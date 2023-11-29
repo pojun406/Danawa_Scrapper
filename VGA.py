@@ -1,3 +1,5 @@
+import os
+
 from selenium import webdriver
 from bs4 import BeautifulSoup
 from selenium.webdriver.common.by import By
@@ -11,7 +13,7 @@ data = []
 options = webdriver.ChromeOptions()
 options.add_argument('headless')
 
-driver = webdriver.Chrome('chromedriver', options=options)
+driver = webdriver.Chrome(executable_path="C:/Users/byung/Documents/GitHub/Danawa_Scrapper/chromedriver.exe", options=options)
 
 url = 'http://prod.danawa.com/list/?cate=112753'
 driver.get(url)
@@ -49,5 +51,18 @@ for page in range(2, VGA_range):
     # 페이지 버튼 클릭
     driver.execute_script("movePage(%d)" %page)
 
-with open('HARDWARE_DATA_old/VGA_List.json', 'w', encoding='utf-8') as f:
-    json.dump(data, f, ensure_ascii=False, indent=4)
+file_path = os.path.abspath('HARDWARE_DATA_old/VGA_List.json')
+
+# 결과 파일 저장
+try:
+    with open(file_path, 'w', encoding='utf-8') as f:
+        json.dump(data, f, ensure_ascii=False, indent=4)
+    print(f"Data saved to {file_path}")
+except Exception as e:
+    print(f"An error occurred: {e}")
+finally:
+    # WebDriver 종료
+    driver.quit()
+
+    # 스크립트 강제 종료
+    sys.exit()

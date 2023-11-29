@@ -1,3 +1,5 @@
+import os
+
 from selenium import webdriver
 from bs4 import BeautifulSoup
 import time
@@ -10,7 +12,7 @@ import json
 options = webdriver.ChromeOptions()
 options.add_argument('headless')
 
-driver = webdriver.Chrome('chromedriver', options=options)
+driver = webdriver.Chrome(executable_path="C:/Users/byung/Documents/GitHub/Danawa_Scrapper/chromedriver.exe", options=options)
 
 Cooler_url = 'http://prod.danawa.com/list/?cate=11236855'
 driver.get(Cooler_url)
@@ -55,7 +57,19 @@ for page in range(2, Cooler_range):
                 print(name, Brand, spec_list, color_text, price_text)
                 data.append({"name":name, "brand":Brand, "spec":spec_list,"color_text" : color_text, "price": price_text, "img":img_link, "Cate":"Cooler"})
 
-# 페이지 버튼 클릭
-    driver.execute_script("movePage(%d)" %page)
-with open('HARDWARE_DATA_old/Cooler_List.json', 'w', encoding='utf-8') as f:
-    json.dump(data, f, ensure_ascii=False, indent=4)
+# 결과 파일 경로 설정
+file_path = os.path.abspath('HARDWARE_DATA_old/Cooler_List.json')
+
+# 결과 파일 저장
+try:
+    with open(file_path, 'w', encoding='utf-8') as f:
+        json.dump(data, f, ensure_ascii=False, indent=4)
+    print(f"Data saved to {file_path}")
+except Exception as e:
+    print(f"An error occurred: {e}")
+finally:
+    # WebDriver 종료
+    driver.quit()
+
+    # 스크립트 강제 종료
+    sys.exit()
