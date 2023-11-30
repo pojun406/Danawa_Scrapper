@@ -4,7 +4,7 @@
 a = Analysis(
     ['Power.py'],
     pathex=[],
-    binaries=[],
+    binaries=[('chromedriver.exe', '.')],
     datas=[],
     hiddenimports=[],
     hookspath=[],

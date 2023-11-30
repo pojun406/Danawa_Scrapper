@@ -4,7 +4,7 @@
 a = Analysis(
     ['VGA.py'],
     pathex=[],
-    binaries=[],
+    binaries=[('chromedriver.exe', '.')],
     datas=[],
     hiddenimports=[],
     hookspath=[],

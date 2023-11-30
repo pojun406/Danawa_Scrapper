@@ -33,22 +33,14 @@ P
  HARDWARE_DATA_new/Case_List.json,9\e\9eb66fda8f39a5816db868a2b0cea2a1dc5ee0e8
 R
 "HARDWARE_DATA_new/Cooler_List.json,7\5\757412c33ed7e3dc74b1347138ada04cadccdc22
->
-SetDBtoJSON.py,d\9\d9f019965a514d730bbb34b6a6d6a79e94681056
 O
 HARDWARE_DATA_new/CPU_List.json,7\f\7fa3c67b115c12289f9b39f816d80f626248f97a
-9
-	Case.spec,c\1\c12fbf790575831591f527ad2f1aad2d0f6a78e6
 @
 chromedriver.exe,d\0\d0b49ae29587435df3e9988b34c286a37d9a89d9
-9
-	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 A
 Filtering_Data.py,4\d\4dfc312005d38d6cc460e9b35d9c539e98e5e54b
 8
 CPU.spec,6\1\61643565f370ad939e21a3b6437527ff33a51a88
-7
-Case.py,8\c\8cb286d56a212047f0651fe9983295c26cac15be
 6
 HDD.py,c\a\cac2c3c35304d465dd7277844d2114b01be7f4cd
 9
@@ -61,9 +53,17 @@ A
 SSD.py,f\6\f64a0d6803b95a66132dc601c9cf15ffc5e3ba16
 8
 RAM.spec,4\7\4777788539925d5b384c7f5144724e660121e525
-9
-	Cooler.py,5\0\506b0d1da79b9d2fc3b056f733957bec680f6f2e
 6
 VGA.py,d\4\d4ea9a83385738eb5f4804ea7dc6d498aa9c2879
 6
 CPU.py,3\e\3eb9d68bba7e0e0e5c93dea3cab4d76c60d6a79b
+9
+	Cooler.py,5\0\506b0d1da79b9d2fc3b056f733957bec680f6f2e
+7
+Case.py,8\c\8cb286d56a212047f0651fe9983295c26cac15be
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+>
+SetDBtoJSON.py,d\9\d9f019965a514d730bbb34b6a6d6a79e94681056
+9
+	Case.spec,c\1\c12fbf790575831591f527ad2f1aad2d0f6a78e6
